@@ -1,6 +1,16 @@
 # Aldric Theron
 
-## CUMPLEAÑOS — 5 DE LLUVIA, AÑO 3
+> **Estado narrativo:** 5 de Floris, Año 3. Rey de Aldoria; mantiene una alianza legal y condicionada con House Gutiérrez sin controlar a Max ni apropiarse de la investigación de la Torre.
+
+## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+
+- Gobierna el equilibrio entre corte, gremio, rutas, innovación y casas nobles.
+- La alianza con Max permanece sujeta a límites frente a guerra, gobierno y conocimiento privado.
+- Cualquier nuevo decreto sobre nodos, Vaelor o Ravenwood requiere escena o fuente posterior.
+
+## CRONOLOGÍA CANÓNICA
+
+### Año 3 — cumpleaños y gobierno
 
 - Aldric pidió una jornada privada y sobria, sin desfile ni espectáculo público.
 - Compartió mesa con su familia y revisó compromisos de la Corona que prefería tratar sin protocolo; aceptó un regalo útil y una conversación franca sobre qué tradiciones debía conservar el palacio.
@@ -16,7 +26,7 @@ No aplica; aparece mediante carta y luego en escena.
 
 ## APARIENCIA
 
-Hombre de mediana edad, cabello plateado, ojos grises, barba cuidada y físico con pasado guerrero sugerido. La estimación de poder S cercana a SS no es medición oficial (PDF, pp. 918-920).
+Hombre de mediana edad, cabello plateado, ojos grises, barba cuidada y físico con pasado guerrero sugerido. La estimación de poder S cercana a SS no es medición oficial (fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
 ## PERSONALIDAD
 
@@ -54,9 +64,9 @@ Conoce rango, reputación, incidente de la fiesta, postura política y aceptaci�
 
 Propósito completo de la invitación y archivos de inteligencia: `DESCONOCIDO`.
 
-## EVOLUCIÓN
+### Año 1 — audiencia y reconocimiento condicionado
 
-Pasa de evaluar confianza/arrogancia a aceptar límites de Max, reconocer House Gutiérrez y otorgar writ, medallón y Letter of Marque (pp. 921-942).
+Pasa de evaluar confianza/arrogancia a aceptar límites de Max, reconocer House Gutiérrez y otorgar writ, medallón y Letter of Marque (fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
 ## ESTADO ACTUAL
 
@@ -64,7 +74,7 @@ En el Palacio Real de Aldoria. Concluyó formalmente la audiencia, autorizó la 
 
 ## REFERENCIAS
 
-PDF, pp. 849-852, 918-942; [[CURRENT_STATE]].
+Fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`; [[CURRENT_STATE_5_FLORIS_AÑO3]].
 
 ## EVOLUCIÓN CAUSAL — AUTORIDAD QUE NEGOCIA LÍMITES
 

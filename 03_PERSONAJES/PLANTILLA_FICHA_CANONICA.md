@@ -54,4 +54,4 @@ Hechos e interacciones confirmados hasta el 5 de Floris.
 
 - Citar exclusivamente archivos Markdown de `00_FUENTES/historia_original/` y expedientes internos derivados.
 - Etiquetar contradicciones con su corrección autoral prevalente.
-- No usar referencias heredadas `PDF`, `p.` o `pp.`.
+- No usar localizadores heredados de paginación; enlazar el archivo Markdown de la matriz y, cuando esté confirmado, su tramo de líneas.

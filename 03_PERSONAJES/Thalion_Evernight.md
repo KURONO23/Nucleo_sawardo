@@ -1,12 +1,20 @@
 # Thalion Evernight
 
+> **Estado narrativo:** 5 de Floris, Año 3. Archmage de Corte y aliado científico con autonomía académica; Vaelor, nodos y G1 son investigación con límites, no propiedad de Max.
+
+## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+
+- Continúa como Archmage de la Corte y dirige investigación y preservación de conocimiento con vida académica propia.
+- El Proyecto Vaelor ya fue reactivado como regalo de cumpleaños; no vuelve a figurar como evento pendiente.
+- Su siguiente cumpleaños será el 12 de Noctalia, Año 3.
+
 ## CANON FUNDACIONAL
 
 No aplica; personaje introducido en el palacio de Aldoria.
 
 ## APARIENCIA
 
-Varón de apariencia mayor, cabello y barba blancos, ojos violetas, ropas con sigilos y bastón cristalino; se sitúa a la izquierda del trono (PDF, pp. 919-920).
+Varón de apariencia mayor, cabello y barba blancos, ojos violetas, ropas con sigilos y bastón cristalino; se sitúa a la izquierda del trono (fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
 ## PERSONALIDAD
 
@@ -45,7 +53,9 @@ Presenció la audiencia y conoce la reputación temporal pública. No consta que
 
 Teorías previas, agenda de investigación y conocimiento sobre Aria: `DESCONOCIDO`.
 
-## EVOLUCIÓN
+## CRONOLOGÍA CANÓNICA
+
+### Año 1 — audiencia y alianza de investigación
 
 Solo una escena disponible; no convertir curiosidad en alianza automática.
 
@@ -55,23 +65,23 @@ En el Palacio Real. Su conversación de teoría temporal se completó con éxito
 
 ## REFERENCIAS
 
-PDF, pp. 919-942; [[CURRENT_STATE]].
+Fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`; [[CURRENT_STATE_5_FLORIS_AÑO3]].
 
 
 ---
 
-# EVOLUCIÓN CANÓNICA — ALIANZA Y CUMPLEAÑOS INMINENTE (AÑO 2)
+### Año 2 — Vaelor, Festival y cumpleaños resuelto
 
 ## Relación con House Gutiérrez
 - Mantiene una relación de respeto mutuo, cordialidad y cooperación estratégica con Max Gutiérrez.
 - Participó como juez técnico en la cata ciega de la Cervecería Esmeralda; aprecia la gastronomía refinada y las artes escénicas de calidad.
 
-## CUMPLEAÑOS INMINENTE: 12 DE NOCTALIA, AÑO 2 (DÍA 636)
+## Cumpleaños — 12 de Noctalia, Año 2
 - **Situación histórica del Día 634:** Natalia advirtió que su cumpleaños se celebraría en **48 horas** y Max preparó una sorpresa personal.
 - **Resolución:** el cumpleaños del 12 de Noctalia ya ocurrió. Max le entregó la reactivación del **Proyecto Vaelor** como regalo; no debe volver a tratarse como acontecimiento pendiente.
 - **Estado al 4 de Floris, Año 3:** continúa como Archmage de la Corte y aliado científico con vida académica propia. Su siguiente cumpleaños será el 12 de Noctalia del Año 3.
 
-## ADENDA DE MICROINTERACCIONES Y CRECIMIENTO — AUDITORÍA S–Z
+## MICROINTERACCIONES CONFIRMADAS
 
 - Recuerda que de joven quería ver un astrolabio de Vaelor y comparte ese conocimiento con Max; la nostalgia se convierte en investigación. `00_FUENTES/historia_original/AÑO_2/08_11_Noctalia_a_30_Noctalia_Año_2.md:L157-L327`.
 - Como juez crea control arcano de bebidas: declaración, revisión previa y descalificación de sustancias peligrosas. `00_FUENTES/historia_original/AÑO_1/04_09_Solalto_Año_1_a_25_Solalto_Año_2.md:L162810-L162900`, `L165360-L165410`.
