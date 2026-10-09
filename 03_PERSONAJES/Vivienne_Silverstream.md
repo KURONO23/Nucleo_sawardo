@@ -1,6 +1,16 @@
 # Vivienne Silverstream
 
-## ADENDA — 26 DE BRUMA, AÑO 3
+> **Estado narrativo:** 5 de Floris, Año 3. Responsable de comercio exterior y redes de Casa Gutiérrez; prepara una gala noble-cultural benéfica como `SEMILLA`, no como evento confirmado.
+
+## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+
+- Mantiene rutas, contratos y distribución post-Festival con criterio propio.
+- Su salario es de 800 oro mensuales desde el 26 de Bruma, sin retroactividad.
+- La recepción de «Somos Pobres» y su gala benéfica aún no tienen fecha, invitados, presupuesto ni aprobación final.
+
+## CRONOLOGÍA CANÓNICA
+
+### Año 3 — 26 de Bruma
 
 - Sus notas permitieron a Natalia confirmar que Esmeralda paga dividendos variables ligados a lotes, distribución, festivales, ventas y reinversión.
 - Max elevó su sueldo a 800 oro/mes desde ese día como reconocimiento al funcionamiento autónomo de la Casa.
@@ -9,7 +19,7 @@
 - Quedó encargada de localizar la siguiente recepción formal; todavía no la encontró dentro de la fuente.
 - Fuente: `00_FUENTES/historia_original/AÑO_3/11_26_Bruma_Año_3.md`, líneas 379–1539.
 
-## ADENDA — 1 DE FLORIS, AÑO 3
+### Año 3 — 1 de Floris
 
 - Descubrió formalmente en el cierre mensual que su remuneración había aumentado a 800 oro desde el 26 de Bruma.
 - Agradeció el reconocimiento sin abandonar su lectura crítica de rutas, capital y margen de maniobra.
@@ -21,7 +31,7 @@ No aplica; personaje introducido en Velvet Rose.
 
 ## APARIENCIA
 
-Aproximadamente 1,68 m, cabello rubio, ojos azules, joyería costosa y vestido esmeralda. El apellido Aldros y apariencias posteriores son `NO_CANON` aquí (PDF, pp. 508-510).
+Aproximadamente 1,68 m, cabello rubio, ojos azules, joyería costosa y vestido esmeralda. El apellido Aldros y apariencias posteriores son `NO_CANON` aquí (fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
 ## PERSONALIDAD
 
@@ -55,7 +65,7 @@ Conoce rumores temporales, la fiesta, finca y reconocimiento real. No consta con
 
 Presiones y planes de su familia: `DESCONOCIDO`.
 
-## EVOLUCIÓN
+### Año 1 — llegada a Velvet Rose y red social
 
 Acepta la disculpa de Max con cautela, entra en su círculo social, guía a Biro en etiqueta sin ridiculizarlo y viaja a Aldoria. Un baile con Max quedó pospuesto, no prometido como compromiso.
 
@@ -65,12 +75,12 @@ Salón privado de una taberna del distrito alto de Aldoria, después de 13:36. C
 
 ## REFERENCIAS
 
-PDF, pp. 508-537, 616-639, 806-819, 889-942; [[RELATIONSHIPS]].
+Fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`; [[RELATIONSHIPS]].
 
 
 ---
 
-# EVOLUCIÓN CANÓNICA — DÍAS 156 A 634 (NOCTALIA, AÑO 2)
+### Año 2 — comercio exterior, teatro y Luminarias
 
 ## Alianza Consolidada y Rol Oficial
 - Administra el comercio exterior, alianzas navieras e importaciones/exportaciones de House Gutiérrez.
@@ -79,14 +89,14 @@ PDF, pp. 508-537, 616-639, 806-819, 889-942; [[RELATIONSHIPS]].
 - **Rol en el Teatro y Austin Powers:** Coordinó la estrategia de distribución y recepción de solicitudes internacionales para la Compañía Goran (Solaria, Marevia, Valdoria, Elaris, Zhong-Kyo y Dravenn).
 - **Luminarias:** Apoyó en la localización de suministros especiales de especias para las pruebas de Panettone y chocolate caliente.
 
-## ADENDA DE MICROINTERACCIONES Y CRECIMIENTO — AUDITORÍA S–Z
+## MICROINTERACCIONES CONFIRMADAS
 
 - Administra comercio exterior y explica que la ventaja es construir algo que funcione cuando Max no está presente. `00_FUENTES/historia_original/AÑO_2/07_25_Ambar_a_10_Noctalia_Año_2.md:L1215-L1506`.
 - Confirma que su salario de 400 oro/mes ya está descontado de los 8970 oro netos; corrige la contabilidad cuando Max intenta descontarlo otra vez. `00_FUENTES/historia_original/AÑO_2/07_25_Ambar_a_10_Noctalia_Año_2.md:L2002-L2098`.
 - Coordina distribución internacional, contratos y suministros para teatro, Austin Powers y festivales; convierte cultura en red comercial sin vaciarla.
 - Persiste como administradora profesional junto a Natalia y Elise, no como ayudante episódica.
 
-## ADDENDUM — 4–5 DE FLORIS, AÑO 3
+## RUTA AUTÓNOMA — `SEMILLA`: gala noble-cultural
 
 Vivienne concibió por iniciativa propia una gala noble-cultural benéfica auténtica. No hay fecha, invitados, presupuesto ni aprobación final; la broma futura de “señor pobre” no debe tratarse como insolvencia real.
 

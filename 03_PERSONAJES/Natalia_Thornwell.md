@@ -1,6 +1,17 @@
 # Natalia Thornwell
 
-## ADENDA — CIERRE EXTRAORDINARIO DEL 26 DE BRUMA
+> **Estado narrativo:** 5 de Floris, Año 3. Administradora General de Casa Gutiérrez; custodia caja, nómina, conciliaciones y el impacto laboral del Festival. Su interés mutuo con Kael sigue sin formalizar.
+
+## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+
+- Liquidez canónica conciliada: 905.905 oro; no reutilizar la cifra histórica 827.695 como presente.
+- Administra salarios de 800 oro mensuales para ella, Elise y Vivienne desde el 26 de Bruma, sin retroactividad.
+- Esmeralda tiene dividendos variables; importe mensual exacto y cierre posterior al Festival siguen abiertos.
+- Su vínculo con Kael requiere escenas recíprocas, no bromas del grupo.
+
+## CRONOLOGÍA CANÓNICA
+
+### Año 3 — cierre extraordinario del 26 de Bruma
 
 - Preparó una sola carpeta priorizada y mantuvo las demás guardadas, demostrando que aprendió a dosificar información para Max.
 - Reconcilió en escena la tesorería hasta **905.905 oro líquidos** y prohibió reutilizar 827.695 como presente.
@@ -11,7 +22,7 @@
 - Su autoridad financiera se vuelve además materia de la broma social «Natalia no me deja gastar porque somos pobres»; Natalia todavía no participó ni consintió esa campaña.
 - Fuente: `00_FUENTES/historia_original/AÑO_3/11_26_Bruma_Año_3.md`, líneas 1–470.
 
-## ADENDA — 1 A 3 DE FLORIS, AÑO 3
+### Año 3 — 1 a 3 de Floris
 
 - Comunicó formalmente a Elise y Vivienne la nueva nómina y explicó que el aumento no era retroactivo.
 - Se negó a aplicar 7.270 como si la nómina completa hubiera regido durante todo Bruma; el cierre debe prorratear el cambio iniciado el día 26.
@@ -25,7 +36,7 @@ No aplica; personaje introducido en Velvet Rose.
 
 ## APARIENCIA
 
-Aproximadamente 1,70 m, cabello marrón oscuro, ojos grises y vestido negro con plata. Las descripciones posteriores contradictorias no sustituyen esta presentación (PDF, pp. 508-510).
+Aproximadamente 1,70 m, cabello marrón oscuro, ojos grises y vestido negro con plata. Las descripciones posteriores contradictorias no sustituyen esta presentación (fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
 ## PERSONALIDAD
 
@@ -63,7 +74,7 @@ Conoce rumores de “Temporal Authority”, la demostración pública, la fiesta
 
 Expectativas concretas de su familia y fuentes del rumor temporal: `DESCONOCIDO`.
 
-## EVOLUCIÓN
+### Año 1 — llegada a Velvet Rose y confianza con condiciones
 
 Tras rechazar un juicio injusto de Max acepta una reparación; participa en reuniones, identifica potencial comercial de la cocina, baila con Max y viaja a Aldoria.
 
@@ -73,12 +84,12 @@ Salón privado de una taberna del distrito alto de Aldoria, después de 13:36. A
 
 ## REFERENCIAS
 
-PDF, pp. 508-537, 621-639, 806-819, 889-942; [[RELATIONSHIPS]].
+Fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`; [[RELATIONSHIPS]].
 
 
 ---
 
-# EVOLUCIÓN CANÓNICA — ADMINISTRACIÓN PATRIMONIAL Y LUMINARIAS (AÑO 2)
+### Año 2 — administración patrimonial y Luminarias
 
 ## Función Oficial
 - **Administradora General de la Casa Gutiérrez:** Salario fijo de **400 oro/mes** deducido de los costes operativos ordinarios.
@@ -92,7 +103,7 @@ PDF, pp. 508-537, 621-639, 806-819, 889-942; [[RELATIONSHIPS]].
 
 ---
 
-## ESTADO ADMINISTRATIVO — MAÑANA DEL 26 DE BRUMA, AÑO 3
+### Año 3 — estado administrativo al 26 de Bruma
 
 - Durante las seis semanas de ausencia exterior de Max, la administración ordinaria de Casa Gutiérrez y sus operaciones siguió funcionando bajo su dirección.
 - Cerró balances y mantuvo separadas las operaciones corrientes de las inversiones extraordinarias, para evitar confundir caja disponible con patrimonio o compromisos.
@@ -100,7 +111,7 @@ PDF, pp. 508-537, 621-639, 806-819, 889-942; [[RELATIONSHIPS]].
 - El estado económico reconstruido y sus incertidumbres están en [[FINANZAS_CANON_VIGENTE]].
 - Su presencia en la escena del 26 de Bruma quedó confirmada. Para el presente del 4 de Floris, cualquier cifra posterior debe proceder de un cierre jugado o actualización canónica explícita; no inventar dividendos ni balance del Festival.
 
-## ADDENDUM — CIERRE DE MICROINTERACCIONES
+## MICROINTERACCIONES CONFIRMADAS
 
 - Durante teatro y Festival firma, organiza y trabaja sin buscar a Max; su administración es autonomía verificable (`Historia isekai 577-587...`, 10258–10266; `FESTIVAL DE LA CERVEZA.md`, 4929–5983).
 
