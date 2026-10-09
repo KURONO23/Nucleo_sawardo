@@ -1,22 +1,27 @@
 # Daichi — Ficha Canónica
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Daichi es un llegado de otro mundo, el más veterano del trío formado con Mika y Ren, e investigador senior de la Corona para la Torre y los nodos antiguos. Es prudente, escéptico, protector y metódico; su habilidad personal sigue desconocida y no se le asigna una por analogía.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Dirige método y seguridad de la investigación Vaelor/ACF-3: separa observación, hipótesis y prueba. El G1/G2 continúa sujeto a pruebas repetibles, límites escritos y retirada segura.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- Llegada a Altea: con Mika y Ren aprende a mantenerse discreto ante desapariciones de otros llegados.
+- Año 3: acepta investigación formal con recursos de Corona sin abandonar independencia crítica.
+- Bruma–Floris: participa en Torre, ruinas y revisión adversarial de G1; no autoriza acceso al objeto de Mika sin consentimiento.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Mika y Ren: compañeros llegados y núcleo de confianza.
+- Galwin y Thalion: colaboradores técnicos del proyecto.
+- Haruto y Leo: observados y acompañados en reconocimientos bajo criterios de procedimiento.
+- Max, Aria y Serath: recursos y aliados que no anulan su juicio.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Convertir su prudencia en enseñanza: conservar registro de incidentes y habilitar exploraciones pequeñas y seguras cuando la evidencia lo permita. No hay activación de G2 ni expedición resuelta.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+Fuente final: `00_FUENTES/historia_original/`, con [[MICROINTERACCIONES_PERSONAJES_A_I]] como índice de escenas.
 
 ## ADDENDUM — MICROINTERACCIONES Y MÉTODO
 

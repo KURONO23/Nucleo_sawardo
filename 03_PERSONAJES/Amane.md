@@ -1,16 +1,19 @@
 # Amane
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Amane es maga de fuego de rango S de Los Ventura, de cabello carmesí, ojos azules y voz rápida, expansiva y provocadora. Es caótica sin ser incompetente: su entusiasmo incluye planificación, cuidado del grupo y curiosidad técnica. Es la maestra principal de Ren y no tiene romance con Kael Ironheart.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Sigue siendo maga S, maestra de Ren y parte de Los Ventura. La ficha no fija una escena individual posterior al 5 de Floris.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Ren: aprendiz al que enseña magia sin impedirle aventurarse con Haruto y Leo.
+- Los Ventura y Max: familia de misión y colaboración, sin revelar el origen terrestre de Max.
+- Kael Ironheart: compañerismo profesional durante la Prueba de Afrodita; no romance.
+- Aria: ambas detectan que sus palabras extrañas son una anomalía a tratar con cuidado, no un defecto de Amane.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+`00_FUENTES/historia_original/` y [[MICROINTERACCIONES_PERSONAJES_A_I]] prevalecen. La anomalía lingüística sigue `DESCONOCIDA` y no autoriza revelar Tierra, Perú o reencarnación.
 
 > **Estado narrativo:** 5 de Floris, Año 3. Maga S de Los Ventura, maestra principal de Ren y participante profesional de la Prueba de Afrodita junto a Kael Ironheart; no existe romance entre ellos.
 

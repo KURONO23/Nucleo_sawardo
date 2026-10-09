@@ -1,22 +1,28 @@
 # Maestro Galwin Gearwright — Ficha Canónica Completa
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Galwin Gearwright es maestro mayor artífice, herrero rúnico e inventor enano de la Corona y House Gutiérrez. Es apasionado, explosivo y preciso; su oficio abarca infraestructura, fonocristales, Esmeralda y nodos. Mantiene un contrato vigente de 500 oro mensuales por mantenimiento de nodos y puede desplazarse entre nodos habilitados y su taller, sin gobernar ni conceder acceso a la red.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Su prioridad vigente es G1 funcional limitado: piezas auditables, permisos de destino, historial limitado y clasificación prudente de infraestructura antigua. G2 no está activado ni terminado. Celebró su cumpleaños del 27 de Albor según su deseo de una jornada pequeña de taller.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- Día 32: es contratado para transformar la propiedad y construir sistemas hidráulicos y cerveceros.
+- Año 2: desarrolla fonocristales híbridos con Max y Aria, dando alcance nuevo al teatro aldoriano.
+- Bruma–Floris, Año 3: traduce G1-A a piezas reparables, exige contención, registro y presencia técnica antes de pruebas; prueba dos terminales regionales limitados.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Max: mecenas y colaborador de ideas, no sustituto de su criterio técnico.
+- Aria: colaboradora elemental y de seguridad.
+- Sayaka: trabajo de calderas y mantenimiento de Esmeralda.
+- Daichi, Mika, Ren, Kazuki y Thalion: red de revisión de Torre/G1.
+- Aprendices: responsables del horno, pruebas y registro de fallos; sus identidades aún no están fijadas.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Delegar el horno para formar aprendices, estabilizar G1 antes de G2 y estudiar ruinas mediante observación/recolección controlada. Son líneas de crecimiento, no avance concluido.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+Fuente final: `00_FUENTES/historia_original/`; consultar [[PROYECTO_G1_TERMINAL_REGIONAL]] y [[MICROINTERACCIONES_PERSONAJES_A_I]].
 
 ## CUMPLEAÑOS — 27 DE ALBOR, AÑO 3
 

@@ -1,22 +1,28 @@
 # Haruto Kazagami — Ficha Canónica Completa
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Haruto Kazagami es reencarnado japonés de 19 años, aventurero A y portador de 《Adaptación》, katana de rayo y la interfaz Siri. Es compañero de Los Cinco del Barril y pareja formal de Liora; su identidad no se reduce a haber sido utilizado por Mizuki ni a ser protegido de Max.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Mantiene pareja formal con Liora, participa en Torre/Vaelor y ha aceptado las disculpas de Mizuki sin conceder perdón total. Cumplió 19 años y se celebró como deseó; los detalles no narrados no se inventan.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- Año 2: consolida hogar y pareja con Liora; se integra a Los Cinco del Barril.
+- Año 3: aporta combate y lectura de anomalías a Torre/Vaelor.
+- 4 de Floris: escucha a Mizuki, define el límite de no perdón automático y acepta que ella no vuelva a manipular a otros para definirse.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Liora: pareja formal y espacio de estabilidad cotidiana.
+- Siri: interfaz que ordena datos sin reemplazar su criterio.
+- Ren y Leo: compañeros jóvenes de reconocimiento; Haruto protege sin quitarles decisiones acotadas.
+- Max, Amane y Aria: vínculos de grupo e investigación, no sustitutos de su voz.
+- Mizuki: reparación inicial con límites vigentes.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Aprender a liderar salidas con Ren y Leo: enseñar retirada, registrar señales y permitir errores reversibles. No hay misión completada fuera de escena.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+La fuente primaria en `00_FUENTES/historia_original/` prevalece, junto con [[MICROINTERACCIONES_PERSONAJES_A_I]] y [[REGISTRO_DE_EDADES_Y_CUMPLEANOS]].
 
 ## ADDENDUM — MICROINTERACCIONES Y APRENDIZAJE
 

@@ -1,22 +1,28 @@
 # Kazuki
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Kazuki es reencarnado japonés, líder de Minas Quebradas y estratega técnico. Su capacidad, comprensión estructural o *Intuitive Aptitude*, analiza componentes, relaciones y fallos; no copia poderes ni roba habilidades. Su modelo inicial de centralización contrasta con el trabajo en red de Max, sin volverlo antagonista violento.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Tras colaborar con Aldoria en Torre/G1, está en su último día de visita y debe decidir qué información puede llevar a Minas Quebradas. No hay decisión posterior fijada.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- Año 2: identifica a Max por la logística de Esmeralda y la cultura material; lo observa de incógnito antes del contacto directo.
+- Después: confirma con Max su origen terrestre y construye respeto intelectual, no alianza formal.
+- Año 3: entrena sobre Referencia Temporal, contribuye a un ancla limitada y colabora en G1 bajo acceso controlado.
+- Festival: Minas Quebradas logra segundo lugar con Hessa en Afrodita, segundo en Juegos y tercero en Copa.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Max: par reencarnado y contrapunto intelectual; relación de respeto cauteloso.
+- Hessa y Minas Quebradas: deber de liderazgo y construcción regional.
+- Mika, Daichi y Ren: colaboradores de Torre/G1 dentro de acceso limitado.
+- Goran y el elenco: el teatro le muestra que una producción tiene coste humano y motiva el límite de funciones.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Llevar aprendizajes técnicos y sociales a Minas Quebradas sin convertirlos en copia de Aldoria ni revelar información restringida. La decisión concreta sigue pendiente.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+Autoridad final: `00_FUENTES/historia_original/` y las microinteracciones con rutas de fuente preservadas más abajo.
 
 > **«Kazuki concentra poder. Max construye redes.»**  
 > — Reflexión de Kazuki tras observar a Max en Aldoria (Día 500)
