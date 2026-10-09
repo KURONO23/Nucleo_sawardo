@@ -81,6 +81,15 @@ En Velvet Rose responde con honestidad a Natalia, aprende de Vivienne sin vergü
 
 Forma de hablar en intimidad: reduce volumen, elimina fanfarronería y formula sentimientos con frases cortas, a veces repitiendo una palabra para procesarla. Usa humor para volver a regularse después de vulnerabilidad.
 
+## EVOLUCIÓN CAUSAL — INFLUENCIAS Y CRECIMIENTO
+
+- **De tanque a autor:** su pertenencia a Los Cinco del Barril y la convivencia con Max, Goran, Darian y Haruto le enseñaron que su manera directa de observar también podía convertirse en material dramático. Ya no se limita a actuar historias ajenas: está escribiendo *La tragedia del último barril*.
+- **Autoría protegida:** Max reconoció que la obra debía ser de Biro y Goran aceptó corregir estructura, ritmo y exceso de discursos sin apropiarse del texto. Biro aprende edición sin perder voz propia.
+- **Humor con propósito:** conserva el patrón de decir lo que piensa y provocar el “¿qué?” de los demás, pero ahora usa esa franqueza para hablar de pérdida, memoria compartida y responsabilidad, no solo para rematar una broma.
+- **Influencia recibida:** Goran le transmite oficio teatral; Darian y Haruto le muestran cómo una idea puede funcionar ante públicos distintos; Max le da espacio y confianza sin escribir por él.
+- **Influencia ejercida:** su obra obliga a Goran a tratar a los actores como autores, da a Los Cinco un conflicto creativo propio y ofrece a Aldoria una comedia con mensaje nacido de experiencias locales.
+- **Persistencia autónoma:** continúa reescribiendo aunque Max no esté presente. El estreno sigue sin confirmarse; no se convierte el proceso en éxito anticipado.
+
 ## ÚLTIMO ESTADO CONOCIDO
 
 En el salón privado de una taberna del distrito alto con Max y sus amigos; participa en la comida, el brindis y las bromas posteriores a la audiencia. Rango oficial A (DELTA-RP-001).
