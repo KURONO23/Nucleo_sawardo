@@ -1,16 +1,19 @@
 # Jasmine
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Jasmine es combatiente táctica S de Los Ventura: ágil, pragmática, protectora y de humor seco. Su lealtad a Max nació de evaluar límites y decisiones en Blackpeak, no de obediencia automática. También es lectora crítica, docente y oyente fundamental de las obras que Aldoria volvió propias.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Investiga en campo la pista V. Sable junto al marco gremial de Kira. La red y la identidad responsable siguen abiertas; no hay resolución posterior que atribuirle.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Los Ventura: familia y equipo táctico.
+- Goran y Cinco del Barril: comparte la docencia «Del mito al MacGuffin».
+- Kira: investigación de V. Sable bajo cadena de custodia gremial.
+- Misa: seguridad médica de supervivientes dentro de tareas diferenciadas.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+`00_FUENTES/historia_original/` prevalece; las fuentes de la investigación, cultura y crecimiento causal se preservan debajo.
 
 > **Estado narrativo:** 5 de Floris, Año 3. Combatiente táctica S de Los Ventura e investigadora de campo de la pista V. Sable; la investigación sigue abierta.
 

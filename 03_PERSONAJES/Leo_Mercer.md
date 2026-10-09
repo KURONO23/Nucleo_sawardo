@@ -1,22 +1,27 @@
 # Leo Mercer — Ficha Canónica Completa
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Leo Mercer es reencarnado contemporáneo y portador de 《Quest Log》. Meticuloso y estructurado, trabaja como coordinador de rutas en Natalia Logistics y documentalista del Proyecto Vaelor. Su crecimiento consiste en usar la interfaz como información, no como autoridad sobre su deseo ni sobre los riesgos de otros.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Organiza fases, responsables, riesgos y documentación de G1-A sin autoridad arcana ni permiso para activarlo. La salida con Ren y Haruto está planteada como aprendizaje de campo, no consumada.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- Día 3 de Otoño: cancela deliberadamente la misión de Quest Log para comer ceviche por voluntad propia; primer acto de independencia frente a la interfaz.
+- Noctalia: resuelve suministros y contratos de invierno en Natalia Logistics con autonomía creciente.
+- Año 3: ordena la documentación de Torre/G1 y recibe correspondencia musical extranjera como señal de apertura cultural propia.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Natalia y Vivienne: formación profesional en logística.
+- Daichi, Mika y Galwin: coordinación documental, no subordinación científica.
+- Ren y Haruto: equipo de reconocimiento propuesto; sus discrepancias deben quedar registradas.
+- Liora: impulso a vida social fuera de almacenes, sin decidir su romance.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Aprender a declarar una misión incompleta, rechazar una tarea lateral y volver con evidencia. Quest Log puede sugerir, nunca decidir por él ni por el equipo.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+La fuente de `00_FUENTES/historia_original/` y [[MICROINTERACCIONES_PERSONAJES_J_R]] prevalecen.
 
 > **«—Si quieres ceviche... en La Bruma Azul te lo preparan. —Voy porque quiero, no por una misión. —Eso, empieza por ahí.»**  
 > — Max dándole a Leo el mejor consejo de su vida (Día 3 de Otoño, Año 2)

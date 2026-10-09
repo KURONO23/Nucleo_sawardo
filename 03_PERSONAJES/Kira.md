@@ -1,22 +1,27 @@
 # Kira
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Kira, de 59 años, es Guildmaster de Thornhaven y exaventurera de rango S; perdió el ojo izquierdo ante un jefe de mazmorra antes de retirarse del campo. Es práctica, incisiva y poco impresionable. Su autoridad nace de experiencia de riesgo real y no puede deformarse en una simple burócrata.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Dirige contratos y clasificación formal de misiones de F a S. El Gremio desarrolla tutorías, enfermería y fondo de veteranos tras aportes de Max, sin que esos aportes sustituyan su autoridad. V. Sable continúa como expediente abierto.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- Año 1: evalúa oficialmente a Max y protege información sensible sobre su crecimiento anómalo.
+- Año 2: actúa como enlace gremial y valida legalmente salarios, fiesta y origen gremial de la riqueza sin imponer una tutela sobre Max.
+- Año 3: encauza V. Sable y administra reformas del Gremio y del fondo de veteranos.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Jasmine: investigadora de campo vinculada a V. Sable.
+- Max: aventurero S al que encuadra institucionalmente sin apropiarse de sus recursos.
+- Veteranos, novatos e interrogadores: responsabilidad gremial de formación, cuidado y cadena de custodia.
+- Aldric: acepta que solicitudes futuras dirigidas a Max puedan pasar por el gremio.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Cruzar rutas, manifiestos, pagos y testimonios de V. Sable con grados de confianza y decidir qué puede elevarse a Corona. No hay culpable, red ni reforma posterior que esté ya resuelta.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+Fuente final: `00_FUENTES/historia_original/`, [[AUDITORIA_GREMIO_FONDO_VETERANOS_AÑO3]] y las escenas citadas en esta ficha.
 
 ## ADDENDUM DE EDAD — AÑO 3
 

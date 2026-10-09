@@ -1,22 +1,27 @@
 # Liora — Ficha Canónica
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Liora tiene 22 años, es exaventurera y encargada de La Rosa de Medianoche. Gestiona sala, inventario, espectáculos, proveedores y noches difíciles con independencia y humor afilado. Es novia oficial de Haruto desde el Día 418, no su apéndice ni una promesa de compromiso futuro.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Mantiene La Rosa, su red laboral y su pareja con Haruto. Su cumpleaños del 17 de Floris todavía no ocurre. No existe compromiso ni boda confirmados.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- Días 258–263: conoce a Haruto y sostiene citas humanas fuera de sistemas y heroísmos.
+- Día 418: consolidan pareja oficial con convivencia independiente y horarios propios.
+- Año 2–3: abre espacios sociales para Ren y Leo y aporta lectura de rumores, club y vida civil en tiempos de crisis.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Haruto: pareja formal, complicidad y ancla de cotidianeidad.
+- Siri: aliada humorística que ayuda a Haruto sin dirigir la relación.
+- Ren y Leo: apoyo social de hermana mayor no oficial, sin elegir parejas por ellos.
+- La Rosa, Taren y Mira: red laboral, artística y veterana propia.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Proteger el espacio civil de La Rosa y mantener abiertos vínculos sociales para jóvenes absorbidos por la Torre. La iniciativa no crea citas, romance ni resultados no narrados.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+La fuente primaria en `00_FUENTES/historia_original/` y [[MICROINTERACCIONES_PERSONAJES_J_R]] prevalecen.
 
 ## ADDENDUM DE EDAD — 26 DE BRUMA, AÑO 3
 

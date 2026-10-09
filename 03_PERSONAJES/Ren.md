@@ -1,19 +1,24 @@
 # Ren — Ficha Canónica
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Ren es un llegado con Continuidad Compuesta: conserva memoria externa y vínculos auténticos de la vida aldoriana del cuerpo en el que despertó. Es observador, reservado, colaborador y de buen corazón; los Ecos de Hábito pueden aflorar, pero no le dan omnisciencia ni dominio garantizado.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Es investigador técnico de Torre y combatiente en formación. Amane es su maestra actual; conserva un cuaderno propio para separar práctica reproducible, Eco de Hábito y dudas que deben regresar al equipo.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- Vida llegada: descubre que sus dos memorias coexisten sin que una invalide a la otra.
+- Año 3: conoce a Kazuki y confirma que los llegados no comparten un mecanismo único.
+- Desde 4 de Floris: acuerda con Haruto y Leo reconocimientos de baja exposición aún no resueltos en escena.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Amane: maestra actual de magia y combate; no se borra al instructor inicial sin nombre.
+- Daichi y Mika: compañeros de Torre e investigación.
+- Haruto y Leo: futuros compañeros de campo que le ceden decisión acotada y registro verificable.
+- Liora: apoyo social que no decide su vida afectiva.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+La fuente original y [[MICROINTERACCIONES_PERSONAJES_J_R]] prevalecen; no inventar una habilidad determinada ni fusionar su instructor inicial con Amane.
 
 > **«Yo desperté en un cuerpo local... tenía familia aquí. Por eso sé lo que se siente querer proteger este lugar como propio.»**  
 > — Ren explicando su llegada a Aria y Max
