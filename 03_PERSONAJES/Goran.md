@@ -1,5 +1,17 @@
 # Goran
 
+## Identidad estable
+Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+
+## RELACIONES VIVAS
+Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+
+## RUTA AUTÓNOMA — `PENDIENTE`
+Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+
+## FUENTES Y CORRECCIONES
+La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+
 > **Estado narrativo:** 5 de Floris, Año 3. Director de compañía, editor y miembro de los Cinco del Barril. Asesora a Biro, mientras la obra de éste y la comedia de convivencia siguen `PENDIENTES`.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3

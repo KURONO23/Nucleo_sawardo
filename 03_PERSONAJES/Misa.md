@@ -1,5 +1,17 @@
 # Misa
 
+## Identidad estable
+Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+
+## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+
+## RELACIONES VIVAS
+Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+
+## FUENTES Y CORRECCIONES
+La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+
 > **Estado narrativo:** 5 de Floris, Año 3. Sanadora S de Los Ventura; desarrolla un protocolo de atención de campo sin prometer curaciones que todavía no ha demostrado.
 
 ## CANON FUNDACIONAL — NO MODIFICAR

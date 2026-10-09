@@ -1,5 +1,17 @@
 # Thalion Evernight
 
+## Identidad estable
+Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+
+## RELACIONES VIVAS
+Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+
+## RUTA AUTÓNOMA — `PENDIENTE`
+Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+
+## FUENTES Y CORRECCIONES
+La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+
 > **Estado narrativo:** 5 de Floris, Año 3. Archmage de Corte y aliado científico con autonomía académica; Vaelor, nodos y G1 son investigación con límites, no propiedad de Max.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
