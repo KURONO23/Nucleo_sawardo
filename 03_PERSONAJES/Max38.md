@@ -53,12 +53,12 @@ El hallazgo le devolvió propósito y ánimo, pero no elimina su vulnerabilidad 
 - `CANON_FUNDACIONAL`: humano reencarnado desde la Tierra; tenía 38 años y era ingeniero.
 - `CANON_FUNDACIONAL`: su estilo de aventurero es rogue/espadachín, no mago tradicional.
 - `CANON_FUNDACIONAL`: el jugador controla exclusivamente sus decisiones, acciones, pensamientos y sentimientos.
-- `CANON_CONFIRMADO`: en el vacío previo a la reencarnación eligió `TIME STOP` entre cinco opciones; no eligió `CREATION` ni `INFINITE TREASURY` (PDF, pp. 1-4).
+- `CANON_CONFIRMADO`: en el vacío previo a la reencarnación eligió `TIME STOP` entre cinco opciones; no eligió `CREATION` ni `INFINITE TREASURY` (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
 ## APARIENCIA
 
 - `CANON_FUNDACIONAL`: aparenta menos de 38 años.
-- `CANON_CONFIRMADO`: llegó a Eryndal Valley con el mismo cuerpo y manos que reconocía, vestido con túnica marrón, pantalones oscuros y botas gastadas (PDF, p. 5).
+- `CANON_CONFIRMADO`: llegó a Eryndal Valley con el mismo cuerpo y manos que reconocía, vestido con túnica marrón, pantalones oscuros y botas gastadas (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 - `CORRECCION_AUTORAL_VISUAL`: apariencia normal y aventurera, inspirada aproximadamente en Stunk de *Ishuzoku Reviewers*: cabello castaño desordenado, facciones corrientes, expresión relajada y aire ligeramente pícaro.
 - Evitar príncipe perfecto, modelo aristocrático o belleza excesivamente idealizada.
 - Las ilustraciones anteriores conservan composición, pero no fijan el rostro si contradicen esta corrección.
@@ -66,18 +66,18 @@ El hallazgo le devolvió propósito y ánimo, pero no elimina su vulnerabilidad 
 ## PERSONALIDAD
 
 - `CANON_FUNDACIONAL`: valora libertad, independencia, relaciones genuinas, lealtad, competencia, una vida satisfactoria y proteger a sus cercanos.
-- `CANON_CONFIRMADO`: ante el primer peligro comprobó los límites de su capacidad y de su fuerza física antes de actuar a gran escala (PDF, pp. 7-10).
-- `INFERENCIA`: muestra curiosidad experimental, pragmatismo y disposición a explotar ventajas sin asumir capacidades no probadas (PDF, pp. 7-14).
+- `CANON_CONFIRMADO`: ante el primer peligro comprobó los límites de su capacidad y de su fuerza física antes de actuar a gran escala (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
+- `INFERENCIA`: muestra curiosidad experimental, pragmatismo y disposición a explotar ventajas sin asumir capacidades no probadas (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
 ## FORMA DE HABLAR
 
-- `CANON_CONFIRMADO`: usa humor seco o irreverente bajo presión y evita revelar inmediatamente el funcionamiento de su poder a desconocidos (PDF, pp. 17-24).
-- `CANON_CONFIRMADO`: tiende a responder con frases directas, bromas provocadoras y seguridad deliberada; negocia en términos prácticos de libertad, pago y beneficio mutuo (PDF, pp. 41-54).
+- `CANON_CONFIRMADO`: usa humor seco o irreverente bajo presión y evita revelar inmediatamente el funcionamiento de su poder a desconocidos (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
+- `CANON_CONFIRMADO`: tiende a responder con frases directas, bromas provocadoras y seguridad deliberada; negocia en términos prácticos de libertad, pago y beneficio mutuo (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 - Patrón observable: corta ofertas no deseadas sin rodeos, bromea para rebajar solemnidad y explica planes tácticos con lenguaje sencillo. No implica que deba actuar siempre así.
 
 ## MOTIVACIONES
 
-- `CANON_CONFIRMADO`: al inicio busca sobrevivir, comprender su poder, conseguir recursos y aprender gradualmente cómo funciona el mundo y el oficio de aventurero (PDF, pp. 7-24).
+- `CANON_CONFIRMADO`: al inicio busca sobrevivir, comprender su poder, conseguir recursos y aprender gradualmente cómo funciona el mundo y el oficio de aventurero (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
 ## CLASE / PROFESIÓN
 
@@ -87,12 +87,12 @@ El hallazgo le devolvió propósito y ánimo, pero no elimina su vulnerabilidad 
 ## HABILIDADES
 
 - [[Sawardo]].
-- `EVOLUCION_CONFIRMADA`: práctica inicial con un gran cuchillo/cleaver orco durante el tiempo detenido; aprende por repetición puntos débiles y mecánica básica del arma (PDF, pp. 10-12).
-- `CANON_CONFIRMADO`: su fuerza corporal inicial se percibe normal o solo algo más en forma que antes; no se demuestra fuerza sobrehumana (PDF, p. 8).
-- `CANON_CONFIRMADO`: recibe tarjeta gremial de rango S; el campo de especialización figura `UNKNOWN` (PDF, p. 49).
-- `EVOLUCION_CONFIRMADA`: inicia acondicionamiento, espada corta, cuchillos arrojadizos, navegación y entrenamiento mental dentro de tiempo detenido (PDF, pp. 81-100). Los resultados finales aún no están confirmados.
-- `EVOLUCION_CONFIRMADA`: completa treinta días subjetivos de entrenamiento, mata un juvenil de wyvern, y demuestra después tres objetos detenidos durante 50 segundos y una elevación narrada de fuerza (PDF, pp. 101-119).
-- `CANON_CONFIRMADO`: prefiere usar Sawardo como ventaja y red de seguridad sin volver dependientes a sus compañeros; reafirma que ellos ejecutarán el combate (PDF, pp. 121-124).
+- `EVOLUCION_CONFIRMADA`: práctica inicial con un gran cuchillo/cleaver orco durante el tiempo detenido; aprende por repetición puntos débiles y mecánica básica del arma (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
+- `CANON_CONFIRMADO`: su fuerza corporal inicial se percibe normal o solo algo más en forma que antes; no se demuestra fuerza sobrehumana (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
+- `CANON_CONFIRMADO`: recibe tarjeta gremial de rango S; el campo de especialización figura `UNKNOWN` (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
+- `EVOLUCION_CONFIRMADA`: inicia acondicionamiento, espada corta, cuchillos arrojadizos, navegación y entrenamiento mental dentro de tiempo detenido (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`). Los resultados finales aún no están confirmados.
+- `EVOLUCION_CONFIRMADA`: completa treinta días subjetivos de entrenamiento, mata un juvenil de wyvern, y demuestra después tres objetos detenidos durante 50 segundos y una elevación narrada de fuerza (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
+- `CANON_CONFIRMADO`: prefiere usar Sawardo como ventaja y red de seguridad sin volver dependientes a sus compañeros; reafirma que ellos ejecutarán el combate (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
 ## RANGO
 
@@ -101,106 +101,106 @@ El hallazgo le devolvió propósito y ánimo, pero no elimina su vulnerabilidad 
 
 ## RELACIONES
 
-- Los Ventura patrocinan su registro y aceptan acompañarlo en la misión de wyverns; Max todavía no ha aceptado formalmente incorporarse al grupo en este tramo (PDF, pp. 23-24, 41-53).
-- Kira lo registra como S y le aconseja presentarse como mercenario independiente, no soldado (PDF, pp. 45-49).
+- Los Ventura patrocinan su registro y aceptan acompañarlo en la misión de wyverns; Max todavía no ha aceptado formalmente incorporarse al grupo en este tramo (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
+- Kira lo registra como S y le aconseja presentarse como mercenario independiente, no soldado (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 - Véase [[RELATIONSHIPS]].
 
 ## CONOCIMIENTO
 
-- Sabe que fue seleccionado para reencarnación y que eligió detener el tiempo (PDF, pp. 1-5).
-- Desconoce inicialmente el mundo, el sistema gremial y los límites completos de su poder (PDF, pp. 5-24).
-- Conoce las pruebas ejecutadas hasta la p. 100; no debe tratar como demostradas las especulaciones formuladas por la Undine sobre alcance global o futuras evoluciones.
+- Sabe que fue seleccionado para reencarnación y que eligió detener el tiempo (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
+- Desconoce inicialmente el mundo, el sistema gremial y los límites completos de su poder (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
+- Conoce las pruebas ejecutadas hasta la tramo inicial; no debe tratar como demostradas las especulaciones formuladas por la Undine sobre alcance global o futuras evoluciones.
 
 ## SECRETOS
 
-- El alcance real de [[Sawardo]] no se revela a los Ventura en el primer encuentro; Jasmine pregunta por el método y Max aplaza la explicación (PDF, pp. 18-20).
-- En la p. 51 revela a los cuatro que detiene el tiempo y propone que ellos se muevan dentro; no les revela todos los resultados posteriores ni el entrenamiento subjetivo.
-- Al reunirse revela el mes subjetivo, el juvenil cazado, el consumo de carne y el control selectivo. La amplitud total de Sawardo sigue sin ser pública (PDF, pp. 117-124).
+- El alcance real de [[Sawardo]] no se revela a los Ventura en el primer encuentro; Jasmine pregunta por el método y Max aplaza la explicación (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
+- En la tramo inicial revela a los cuatro que detiene el tiempo y propone que ellos se muevan dentro; no les revela todos los resultados posteriores ni el entrenamiento subjetivo.
+- Al reunirse revela el mes subjetivo, el juvenil cazado, el consumo de carne y el control selectivo. La amplitud total de Sawardo sigue sin ser pública (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
 ## EVOLUCIÓN
 
-Hasta p. 300 dirige el asalto a Blackpeak, prioriza sorpresa, divide funciones, acepta capturar crías para investigación y recupera restos humanos para identificación. También decide usar depredadores entre sí y permite que el grupo resuelva el combate bajo su vigilancia. Estas decisiones son hechos del jugador; no establecen una obligación moral futura.
+Hasta tramo inicial dirige el asalto a Blackpeak, prioriza sorpresa, divide funciones, acepta capturar crías para investigación y recupera restos humanos para identificación. También decide usar depredadores entre sí y permite que el grupo resuelva el combate bajo su vigilancia. Estas decisiones son hechos del jugador; no establecen una obligación moral futura.
 
-Entre pp. 301-320 prioriza extraer al grupo antes que materiales pesados, comparte con los cuatro una marcha prolongada en tiempo detenido y propone descansar, comer y clasificar el botín antes de llegar. Su curiosidad experimental reaparece al probar una rama congelada. La frase que le atribuye `Creation` queda excluida por `CONTR-028`.
+Entre tramo inicial prioriza extraer al grupo antes que materiales pesados, comparte con los cuatro una marcha prolongada en tiempo detenido y propone descansar, comer y clasificar el botín antes de llegar. Su curiosidad experimental reaparece al probar una rama congelada. La frase que le atribuye `Creation` queda excluida por `CONTR-028`.
 
-En diálogo alterna instrucciones logísticas breves con preguntas especulativas directas; suele cambiar el foco desde el valor monetario hacia ventajas permanentes o conocimiento útil (pp. 301, 309-320).
+En diálogo alterna instrucciones logísticas breves con preguntas especulativas directas; suele cambiar el foco desde el valor monetario hacia ventajas permanentes o conocimiento útil (tramo inicial; véase fuente primaria).
 
-En pp. 323-340 decide entrenar solo pero acepta las objeciones de salud mental del grupo y fija controles semanales. Estructura el trabajo con descanso, ejercicio y alimentación; ante el fracaso cambia el modelo mental en vez de limitarse a forzar el resultado. El detalle de materiales obtenidos por `Creation` y los aumentos porcentuales no forman parte de sus capacidades confirmadas.
+En tramo inicial decide entrenar solo pero acepta las objeciones de salud mental del grupo y fija controles semanales. Estructura el trabajo con descanso, ejercicio y alimentación; ante el fracaso cambia el modelo mental en vez de limitarse a forzar el resultado. El detalle de materiales obtenidos por `Creation` y los aumentos porcentuales no forman parte de sus capacidades confirmadas.
 
-Completa 180 días subjetivos según el montaje y demuestra al volver manipulación remota de cuatro armas. Después asume un modo de entrenador más autoritario por decisión expresa del jugador: ordena rutinas, pero escucha el agotamiento, detiene sesiones con rendimientos decrecientes y conversa con Biro sobre aislamiento. Su afirmación de que hará a todos «powerhouses» expresa intención, no resultado garantizado (PDF, pp. 341-380).
+Completa 180 días subjetivos según el montaje y demuestra al volver manipulación remota de cuatro armas. Después asume un modo de entrenador más autoritario por decisión expresa del jugador: ordena rutinas, pero escucha el agotamiento, detiene sesiones con rendimientos decrecientes y conversa con Biro sobre aislamiento. Su afirmación de que hará a todos «powerhouses» expresa intención, no resultado garantizado (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
-En el gremio revela a Kira que hubo manipulación temporal, pero reserva los detalles. Negocia una venta de especímenes y luego declara que su objetivo económico está cumplido, que dejará las aventuras y comprará una casa concreta. La cantidad y titularidad del dinero son contradictorias, pero la decisión de retirarse es una acción expresa del jugador. Al cierre de p. 460 aún no responde a las súplicas del grupo (PDF, pp. 441-460).
+En el gremio revela a Kira que hubo manipulación temporal, pero reserva los detalles. Negocia una venta de especímenes y luego declara que su objetivo económico está cumplido, que dejará las aventuras y comprará una casa concreta. La cantidad y titularidad del dinero son contradictorias, pero la decisión de retirarse es una acción expresa del jugador. Al cierre de tramo inicial aún no responde a las súplicas del grupo (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
 Para esta despedida habla con calma y firmeza, sin insultos ni dramatización; el contraste con las respuestas del grupo muestra que no había comunicado antes su intención de retirarse.
 
-Aclara que no abandona al grupo: busca descanso, vida urbana, relaciones sociales y experiencias sin violencia después de casi un año subjetivo; acepta ayudar en aventuras necesarias. Compra el Western Noble Retreat y expresa intereses concretos en agricultura, alquimia, comodidad y automatización. Estos son objetivos personales confirmados; no prueban competencia alquímica previa (PDF, pp. 461-480).
+Aclara que no abandona al grupo: busca descanso, vida urbana, relaciones sociales y experiencias sin violencia después de casi un año subjetivo; acepta ayudar en aventuras necesarias. Compra el Western Noble Retreat y expresa intereses concretos en agricultura, alquimia, comodidad y automatización. Estos son objetivos personales confirmados; no prueban competencia alquímica previa (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
 Su habla aquí se vuelve explicativa y vulnerable sin perder concisión: enumera lo que necesita, define límites y ofrece formas concretas de mantener el vínculo. En compras pregunta primero por distancia, privacidad y ruido, luego decide y paga con rapidez.
 
-Contrata la automatización máxima, delega muebles mediante un montaje de compras y fija un reencuentro para el día 24. Ya instalado temporalmente, pregunta por crecimiento/envejecimiento temporal pero decide no usar poderes y priorizar paz. Busca conocer mujeres fuera de Los Ventura; explica que aprecia a sus compañeras como socias y teme que una ruptura romántica dañe al grupo, aludiendo a no repetir una experiencia dolorosa sin detallar cuál (PDF, pp. 481-500).
+Contrata la automatización máxima, delega muebles mediante un montaje de compras y fija un reencuentro para el día 24. Ya instalado temporalmente, pregunta por crecimiento/envejecimiento temporal pero decide no usar poderes y priorizar paz. Busca conocer mujeres fuera de Los Ventura; explica que aprecia a sus compañeras como socias y teme que una ruptura romántica dañe al grupo, aludiendo a no repetir una experiencia dolorosa sin detallar cuál (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
 Su estilo social con desconocidos es directo y transaccional al inicio —pregunta a Darren dónde conocer mujeres y deja propina alta—, pero pide guía al portero en vez de fingir conocer las normas del lounge.
 
-En Velvet Rose adopta modales formales con Celeste, pero trata a las tres hijas de comerciantes como si tuviera que probar sus intenciones; cuando ellas se marchan, las alcanza, pide empezar de nuevo y escucha. Declara buscar amistades y conversación sin apresurar romance, protege el secreto de Sawardo con negación juguetona y quiere crear una red de personas compatibles mediante reuniones pequeñas antes de fiestas grandes (PDF, pp. 501-520).
+En Velvet Rose adopta modales formales con Celeste, pero trata a las tres hijas de comerciantes como si tuviera que probar sus intenciones; cuando ellas se marchan, las alcanza, pide empezar de nuevo y escucha. Declara buscar amistades y conversación sin apresurar romance, protege el secreto de Sawardo con negación juguetona y quiere crear una red de personas compatibles mediante reuniones pequeñas antes de fiestas grandes (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
 Patrón de crecimiento social: puede ser frontal hasta resultar injusto; acepta crítica concreta, repara de inmediato y cambia a preguntas/escucha. No convertir este episodio en competencia social automática.
 
-Acepta de forma expresa la amistad de Natalia, Vivienne y Elise. Define su comunidad deseada como mezcla de aventureros, artistas y soñadores, sin etiquetas, y propone integrar gradualmente a Los Ventura empezando por Biro. Vuelve esa misma noche para pedirle consentimiento antes de llevarlo al lounge (PDF, pp. 521-540).
+Acepta de forma expresa la amistad de Natalia, Vivienne y Elise. Define su comunidad deseada como mezcla de aventureros, artistas y soñadores, sin etiquetas, y propone integrar gradualmente a Los Ventura empezando por Biro. Vuelve esa misma noche para pedirle consentimiento antes de llevarlo al lounge (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
 Las anécdotas narradas por la respuesta sobre incendios accidentales de Amane, pulso de Biro con un dragón y múltiples salvamentos de Misa carecen de escenas previas y no deben usarse como pasado canónico (`CONTR-068`).
 
-Invita a Biro mediante humor vulgar y camaradería, luego explica el valor de una vida social fuera de misiones. Comete un lapsus con nombres y lo corrige de inmediato. Ante Kael Ironheart, Lyra Swiftwind y Marcus se define principalmente como entrenador que pule habilidades, aunque reserva otras capacidades, y les propone amistad y salidas grupales (PDF, pp. 541-560).
+Invita a Biro mediante humor vulgar y camaradería, luego explica el valor de una vida social fuera de misiones. Comete un lapsus con nombres y lo corrige de inmediato. Ante Kael Ironheart, Lyra Swiftwind y Marcus se define principalmente como entrenador que pule habilidades, aunque reserva otras capacidades, y les propone amistad y salidas grupales (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
 La frase «fui por un contrato privado» contradice su motivo mostrado para entrar al lounge; puede ser cobertura social/mentira a Biro, no un evento real.
 
-Invita a Kael Ironheart, Lyra y Biro como huéspedes de honor de una primera noche casual; Marcus también entiende que está incluido en el núcleo. Quiere que rango, armas y negocios queden fuera de la convivencia. Tras saturarse socialmente elige un paseo solitario y admite que la velocidad de los cambios lo desorienta (PDF, pp. 561-577).
+Invita a Kael Ironheart, Lyra y Biro como huéspedes de honor de una primera noche casual; Marcus también entiende que está incluido en el núcleo. Quiere que rango, armas y negocios queden fuera de la convivencia. Tras saturarse socialmente elige un paseo solitario y admite que la velocidad de los cambios lo desorienta (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
 ## VIDA ANTERIOR — REVELACIÓN PERSONAL
 
-- `CANON_CONFIRMADO`: procede de Perú y considera su gastronomía reconocida; extraña la comida cotidiana de su madre (p. 580).
-- Su padre trabajaba en una PC haciendo ingeniería; Max confirma que también era ingeniero (p. 580).
-- Tiene un hermano que vendía ropa y era gerente/manager; género masculino confirmado, nombre `DESCONOCIDO` (p. 580).
-- La familia tuvo un perro llamado **Fatiga**, ya fallecido antes de la reencarnación (p. 580).
-- Extraña a sus amigos y las reuniones en su casa con snacks, gaseosa o licor, conversación de intereses y chismes (p. 580).
-- Afirma que devolvería todo su poder por compartir una comida con esas personas. Es una declaración emocional del personaje, no una acción ejecutada (p. 579).
+- `CANON_CONFIRMADO`: procede de Perú y considera su gastronomía reconocida; extraña la comida cotidiana de su madre (tramo inicial).
+- Su padre trabajaba en una PC haciendo ingeniería; Max confirma que también era ingeniero (tramo inicial).
+- Tiene un hermano que vendía ropa y era gerente/manager; género masculino confirmado, nombre `DESCONOCIDO` (tramo inicial).
+- La familia tuvo un perro llamado **Fatiga**, ya fallecido antes de la reencarnación (tramo inicial).
+- Extraña a sus amigos y las reuniones en su casa con snacks, gaseosa o licor, conversación de intereses y chismes (tramo inicial).
+- Afirma que devolvería todo su poder por compartir una comida con esas personas. Es una declaración emocional del personaje, no una acción ejecutada (tramo inicial).
 
 La narración no confirma nombres, edades, estado actual de padres/hermano/amigos ni ciudad peruana. Mantener `DESCONOCIDO`.
 
-Detalles adicionales confirmados por Max: construyó su propia PC con buenos componentes; automatizó su trabajo hasta necesitar aproximadamente una hora de atención; utilizaba una IA asesora/automatizadora, a la que veía como asistente y no amiga. Considera a Aria una amiga de forma distinta (pp. 584-587).
+Detalles adicionales confirmados por Max: construyó su propia PC con buenos componentes; automatizó su trabajo hasta necesitar aproximadamente una hora de atención; utilizaba una IA asesora/automatizadora, a la que veía como asistente y no amiga. Considera a Aria una amiga de forma distinta (tramo inicial; véase fuente primaria).
 
-Su mejor amiga se llamaba **Aysha**. La describe de alrededor de 1,50 m frente a sus 1,72 m, alegre, de voz aguda, con habla de «chica millonaria» pese a ser clase media; se molestaban mutuamente. El novio de Aysha era también mejor amigo de Max, pero nombre/identidad siguen `DESCONOCIDOS` (pp. 590-593).
+Su mejor amiga se llamaba **Aysha**. La describe de alrededor de 1,50 m frente a sus 1,72 m, alegre, de voz aguda, con habla de «chica millonaria» pese a ser clase media; se molestaban mutuamente. El novio de Aysha era también mejor amigo de Max, pero nombre/identidad siguen `DESCONOCIDOS` (tramo inicial; véase fuente primaria).
 
-Max promete llamar Aria a la Undine y después define su vínculo como partnership, no función. Esa elección coincide con la corrección fundacional de que Aria es persona independiente (pp. 588-598).
+Max promete llamar Aria a la Undine y después define su vínculo como partnership, no función. Esa elección coincide con la corrección fundacional de que Aria es persona independiente (tramo inicial; véase fuente primaria).
 
-Acepta el consejo de no sustituir vida por tiempo detenido y deja trabajar a Galwin. A la mañana siguiente entrena a Biro en escucha, preguntas abiertas y autenticidad, y promete apoyarlo si se bloquea. Aunque menciona Sawardo como salida, no lo usa. Su función de wingman se basa en introducir, destacar sin exagerar y reparar incomodidad (PDF, pp. 601-620).
+Acepta el consejo de no sustituir vida por tiempo detenido y deja trabajar a Galwin. A la mañana siguiente entrena a Biro en escucha, preguntas abiertas y autenticidad, y promete apoyarlo si se bloquea. Aunque menciona Sawardo como salida, no lo usa. Su función de wingman se basa en introducir, destacar sin exagerar y reparar incomodidad (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
-Explica que la finca será base de cumpleaños, reuniones, bodas y cualquier evento de sus amistades, no imperio comercial. Introduce la idea terrestre de papas cortadas, fritas y sazonadas; promete otras comidas sencillas de taberna y acepta bromear con una industria culinaria, sin firmar derechos ni negocio (PDF, pp. 625-639). Al volver reafirma a Biro que poder mostrarse humano vale más que trofeos.
+Explica que la finca será base de cumpleaños, reuniones, bodas y cualquier evento de sus amistades, no imperio comercial. Introduce la idea terrestre de papas cortadas, fritas y sazonadas; promete otras comidas sencillas de taberna y acepta bromear con una industria culinaria, sin firmar derechos ni negocio (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`). Al volver reafirma a Biro que poder mostrarse humano vale más que trofeos.
 
-Decide no usar una capacidad inventada para fabricar licuadora/batidor y reserva conceptos tecnológicos para discutirlos con artificieros, porque no quiere interferir demasiado en el desarrollo del mundo. Organiza compras divididas y busca tiempo de calidad con las tres mujeres de Los Ventura, reconociendo que pudo dejarlas de lado (PDF, pp. 644-660).
+Decide no usar una capacidad inventada para fabricar licuadora/batidor y reserva conceptos tecnológicos para discutirlos con artificieros, porque no quiere interferir demasiado en el desarrollo del mundo. Organiza compras divididas y busca tiempo de calidad con las tres mujeres de Los Ventura, reconociendo que pudo dejarlas de lado (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
-Convierte recetas recordadas en enseñanza práctica: dirige compras y una jornada de pruebas, explica reducción, tostado, fritura y balance de sabores, y presenta las salchipapas como plato de papas, salchicha y salsas personalizables. Dice vagamente que proceden de una tierra muy lejana, sin revelar todavía Perú a las tres (PDF, pp. 661-680).
+Convierte recetas recordadas en enseñanza práctica: dirige compras y una jornada de pruebas, explica reducción, tostado, fritura y balance de sabores, y presenta las salchipapas como plato de papas, salchicha y salsas personalizables. Dice vagamente que proceden de una tierra muy lejana, sin revelar todavía Perú a las tres (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
-Explica a Los Ventura diferencias de clase y riesgos de exceso de fritura desde su experiencia, evita responder todavía por qué dejó su mundo y usa Sawardo para traer bebida/pan dejando pago. Invita espontáneamente a la cuadrilla de obra y comparte mesa con ella; la consecuencia reputacional la identifican Biro y Misa, no fue un cálculo declarado de Max (PDF, pp. 681-700).
+Explica a Los Ventura diferencias de clase y riesgos de exceso de fritura desde su experiencia, evita responder todavía por qué dejó su mundo y usa Sawardo para traer bebida/pan dejando pago. Invita espontáneamente a la cuadrilla de obra y comparte mesa con ella; la consecuencia reputacional la identifican Biro y Misa, no fue un cálculo declarado de Max (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
-Planea una celebración inclusiva al terminar la finca: cuadrilla y familias, amistades B, comerciantes y Los Ventura; menú amplio y bonificación laboral. Decide delegar volumen a Oskar/Maren, enseñar platos base y reservar las salsas. La cifra de patrimonio corregida a 1,11 millones no se consolida por contradicciones económicas anteriores (PDF, pp. 701-716).
+Planea una celebración inclusiva al terminar la finca: cuadrilla y familias, amistades B, comerciantes y Los Ventura; menú amplio y bonificación laboral. Decide delegar volumen a Oskar/Maren, enseñar platos base y reservar las salsas. La cifra de patrimonio corregida a 1,11 millones no se consolida por contradicciones económicas anteriores (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
-Confirma explícitamente su nombre de la vida anterior: **Max Josemar Gutiérrez Reynaga**; Gutiérrez era el apellido de su padre y Reynaga el de su madre. Rechaza ser «Maxwell» y expresa extrañeza ante «Lord Velthris». Esta corrección del autor prevalece sobre expansiones automáticas del nombre (PDF, p. 740).
+Confirma explícitamente su nombre de la vida anterior: **Max Josemar Gutiérrez Reynaga**; Gutiérrez era el apellido de su padre y Reynaga el de su madre. Rechaza ser «Maxwell» y expresa extrañeza ante «Lord Velthris». Esta corrección del autor prevalece sobre expansiones automáticas del nombre (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
-Quiere conservar Gutiérrez y pregunta cómo darle reconocimiento legal equivalente; decide tratarlo después de la fiesta. Frente a Kira defiende haber pagado más por rapidez/calidad, llama amigos a los obreros, acepta auditoría y amenaza con abandonar finca/título si le impiden celebrar. No rehúye el conflicto, pero primero ofrece té y diálogo (PDF, pp. 741-751).
+Quiere conservar Gutiérrez y pregunta cómo darle reconocimiento legal equivalente; decide tratarlo después de la fiesta. Frente a Kira defiende haber pagado más por rapidez/calidad, llama amigos a los obreros, acepta auditoría y amenaza con abandonar finca/título si le impiden celebrar. No rehúye el conflicto, pero primero ofrece té y diálogo (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
-Decide presentar la comida en bandejas comunales porque entiende salchipapas/alitas como comida para compartir. Diseña una entrada que combina montaje dentro de Sawardo con niebla de Aria, luego incorpora al tiempo detenido a seis colaboradores y comienza un simulacro. Es teatralidad deliberada y comunitaria, no nueva capacidad de creación (PDF, pp. 766-780).
+Decide presentar la comida en bandejas comunales porque entiende salchipapas/alitas como comida para compartir. Diseña una entrada que combina montaje dentro de Sawardo con niebla de Aria, luego incorpora al tiempo detenido a seis colaboradores y comienza un simulacro. Es teatralidad deliberada y comunitaria, no nueva capacidad de creación (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
-Ante la incursión noble rechaza multa/supervisión, pero elige humillación no letal: usa Sawardo para desarmar y desvestir a quince guardias y luego niega públicamente haber actuado. Protege la fiesta sin heridos, a costa de agravar el conflicto político y exponer aún más su patrón temporal. Después acepta una competencia de bebida y pierde la memoria desde las 23:00; despierta día 29 (PDF, pp. 826-840).
+Ante la incursión noble rechaza multa/supervisión, pero elige humillación no letal: usa Sawardo para desarmar y desvestir a quince guardias y luego niega públicamente haber actuado. Protege la fiesta sin heridos, a costa de agravar el conflicto político y exponer aún más su patrón temporal. Después acepta una competencia de bebida y pierde la memoria desde las 23:00; despierta día 29 (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
-Recibe una invitación real y decide acudir acompañado por Los Ventura y, si aceptan, las tres comerciantes. Planea que amigos B vigilen la finca y ofrece a Torin, Kael y Lyssa veinte días subjetivos de entrenamiento para llevarlos hacia nivel A; **esta línea conserva el estado previo a la reevaluación pública** y no describe su estado actual. Después del entrenamiento, Kira los examina y certifica oficialmente a los tres como rango A (PDF, pp. 849-860; reevaluación posterior en `00_FUENTES/historia_original/AÑO_1/02_01_Bruma_a_18_Bruma_y_05_Solalto_a_09_Solalto_Año_1.md`, aprox. pp. 6940-7526).
+Recibe una invitación real y decide acudir acompañado por Los Ventura y, si aceptan, las tres comerciantes. Planea que amigos B vigilen la finca y ofrece a Torin, Kael y Lyssa veinte días subjetivos de entrenamiento para llevarlos hacia nivel A; **esta línea conserva el estado previo a la reevaluación pública** y no describe su estado actual. Después del entrenamiento, Kira los examina y certifica oficialmente a los tres como rango A (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`; reevaluación posterior en `00_FUENTES/historia_original/AÑO_1/02_01_Bruma_a_18_Bruma_y_05_Solalto_a_09_Solalto_Año_1.md`, aprox. tramo inicial).
 
-Acumula sesenta días subjetivos adicionales al entrenar individualmente a tres guardianes en un minuto exterior. Después inicia investigación metódica de reversión temporal con un objeto inorgánico, inspirándose en iconos de reproducción de video y motivado a largo plazo por acelerar cultivos contra el hambre (PDF, pp. 861-880).
+Acumula sesenta días subjetivos adicionales al entrenar individualmente a tres guardianes en un minuto exterior. Después inicia investigación metódica de reversión temporal con un objeto inorgánico, inspirándose en iconos de reproducción de video y motivado a largo plazo por acelerar cultivos contra el hambre (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
-Logra restaurar una daga y desecar una manzana, reconoce inmediatamente el riesgo mortal sobre personas y adopta cautela. Para la audiencia real, el plan delegado que acepta busca legitimidad sin control, libertad frente a la Corona e información sobre el reino; pretende escuchar primero y acudir con amistades, dejando guardianes en la finca (PDF, pp. 881-899).
+Logra restaurar una daga y desecar una manzana, reconoce inmediatamente el riesgo mortal sobre personas y adopta cautela. Para la audiencia real, el plan delegado que acepta busca legitimidad sin control, libertad frente a la Corona e información sobre el reino; pretende escuchar primero y acudir con amistades, dejando guardianes en la finca (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
-Viaja con Los Ventura y las tres comerciantes, proyecta autoridad en puertas de Aldoria y del palacio, acepta reglas de seguridad y entra sin hostilidad. Ante Aldric se inclina pero mantiene contacto visual; la audiencia empieza con el rey cuestionando si ese gesto es confianza o arrogancia (PDF, pp. 903-920).
+Viaja con Los Ventura y las tres comerciantes, proyecta autoridad en puertas de Aldoria y del palacio, acepta reglas de seguridad y entra sin hostilidad. Ante Aldric se inclina pero mantiene contacto visual; la audiencia empieza con el rey cuestionando si ese gesto es confianza o arrogancia (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
-Declara que no desea guerras, gobierno ni cruzadas demoníacas; acepta ayudar solo ante males verdaderamente inhumanos y por conducto del gremio. Pide recuperar su apellido Gutiérrez, diseña el sigilo de House Gutiérrez y acepta privilegios reales/Letter of Marque. La decisión convierte su identidad legal y relación con la Corona en hechos de cierre, no en hipótesis (PDF, pp. 921-942).
+Declara que no desea guerras, gobierno ni cruzadas demoníacas; acepta ayudar solo ante males verdaderamente inhumanos y por conducto del gremio. Pide recuperar su apellido Gutiérrez, diseña el sigilo de House Gutiérrez y acepta privilegios reales/Letter of Marque. La decisión convierte su identidad legal y relación con la Corona en hechos de cierre, no en hipótesis (fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
 ## ÚLTIMO ESTADO CONOCIDO
 
@@ -214,7 +214,7 @@ Declara que no desea guerras, gobierno ni cruzadas demoníacas; acepta ayudar so
 
 - Correcciones explícitas del jugador incluidas en el bootstrap.
 - `00_FUENTES/historia_original/historiaWORD.docx`.
-- `00_FUENTES/historia_original/los venturas.pdf`, pp. 1-24.
+- `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`, tramo inicial.
 
 
 
