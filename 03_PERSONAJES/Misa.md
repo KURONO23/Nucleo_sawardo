@@ -1,5 +1,7 @@
 # Misa
 
+> **Estado narrativo:** 5 de Floris, Año 3. Sanadora S de Los Ventura; desarrolla un protocolo de atención de campo sin prometer curaciones que todavía no ha demostrado.
+
 ## CANON FUNDACIONAL — NO MODIFICAR
 
 Rango inicial C y función healer. Amable, compasiva, paciente, empática, tímida con desconocidos, resistente, serena en crisis y valiente cuando peligra alguien querido. Es el pegamento emocional de [[Los_Ventura|Los Ventura]].
@@ -10,13 +12,13 @@ Cabello rubio largo, ojos verdes y capa roja; referencia visual oficial priorita
 
 ## PERSONALIDAD
 
-Se acerca con cautela compasiva a Max, atiende su estado físico, ofrece alimento y descanso, y adopta una postura protectora ante incertidumbre (PDF, pp. 17-19, 24-33, 41-54).
+Se acerca con cautela compasiva a Max, atiende su estado físico, ofrece alimento y descanso, y adopta una postura protectora ante incertidumbre (fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
 ## FORMA DE HABLAR
 
-Tono suave y cortés; formula preguntas con mitigadores, ofrece ayuda concreta y expresa riesgos sin imponerse. Cuando algo la avergüenza, vacila o aparta la mirada (PDF, pp. 18-24, 31-33, 41-49).
+Tono suave y cortés; formula preguntas con mitigadores, ofrece ayuda concreta y expresa riesgos sin imponerse. Cuando algo la avergüenza, vacila o aparta la mirada (misma fuente primaria).
 
-En combate mantiene serenidad, confirma riesgos médicos y ofrece seguimiento o golpe de seguridad cuando el plan lo requiere (PDF, pp. 159-195).
+En combate mantiene serenidad, confirma riesgos médicos y ofrece seguimiento o golpe de seguridad cuando el plan lo requiere (misma fuente primaria).
 
 ## MOTIVACIONES
 
@@ -28,37 +30,39 @@ Healer de Los Ventura; estudia restauración y posee conocimientos de herbologí
 
 ## HABILIDADES
 
-Magia curativa dorada demostrada como preparación defensiva; puede calentar agua con magia de fuego según su propia oferta, aunque su alcance no se prueba en escena (PDF, pp. 17, 25, 47).
+Magia curativa dorada demostrada como preparación defensiva; puede calentar agua con magia de fuego según su propia oferta, aunque su alcance no se prueba en escena (misma fuente primaria).
 
 ## RANGO
 
-C inicial; ascenso oficial a **S**. La valoración curativa SS/legendaria no equivale a rango general SS (PDF, pp. 22, 442-447).
+C inicial; ascenso oficial a **S**. La valoración curativa SS/legendaria no equivale a rango general SS (misma fuente primaria).
 
 ## RELACIONES
 
-Familia de Los Ventura. Ofrece apoyo a Max y acepta la misión al saber que el grupo irá; cualquier atracción sugerida por narración o bromas no se considera compromiso ni relación confirmada (PDF, pp. 31, 48-52).
+Familia de Los Ventura. Ofrece apoyo a Max y acepta la misión al saber que el grupo irá; cualquier atracción sugerida por narración o bromas no se considera compromiso ni relación confirmada (misma fuente primaria).
 
 ## CONOCIMIENTO
 
-Por corrección autoral explícita, no sabe que Max reencarnó ni conoce su origen terrestre. Conoce la detención temporal desde la p. 51; no conoce todos los entrenamientos posteriores.
+Por corrección autoral explícita, no sabe que Max reencarnó ni conoce su origen terrestre. Conoce la detención temporal desde la revelación inicial; no conoce todos los entrenamientos posteriores.
 
 ## SECRETOS
 
 `DESCONOCIDO`.
 
-## EVOLUCIÓN
+## CRONOLOGÍA CANÓNICA
 
-Trata la fatiga mental de Max con magia menor y descanso; participa como apoyo y remate cervical en las primeras emboscadas (PDF, pp. 159-195). Usa mejoras defensivas, una flecha de luz ofensiva y oración por las víctimas; apoya capturar crías cuando es viable (PDF, pp. 201-300).
+### Año 1 — Blackpeak, entrenamiento y criterio médico
 
-En el regreso insiste en evaluar el desgaste físico de Max, contempla la travesía detenida en términos espirituales y frena la tentación de Biro de desviarse. Se le atribuye preservación mágica de órganos por tres días, aplicación narrada pero aún no verificada fuera del inventario (PDF, pp. 301-320).
+Trata la fatiga mental de Max con magia menor y descanso; participa como apoyo y remate cervical en las primeras emboscadas. Usa mejoras defensivas, una flecha de luz ofensiva y oración por las víctimas; apoya capturar crías cuando es viable (misma fuente primaria).
 
-Completa un ciclo subjetivo de 30 días centrado en curación múltiple, barreras, movilidad y autorregeneración. En ejercicios creados mantiene hasta ocho auras, manifiesta `Radiant Sanctuary`, `Sanctuary Shield` y ejecuta un protocolo de reanimación en un muñeco simulado. Al regresar irradia una presencia curativa percibida por Jasmine, pero no cura todavía heridas reales graves ni resucita a una persona; esas capacidades siguen `NO_CONFIRMADAS` fuera de simulación (PDF, pp. 424-439). Su promesa de que nadie caerá expresa determinación, no garantía objetiva.
+En el regreso insiste en evaluar el desgaste físico de Max, contempla la travesía detenida en términos espirituales y frena la tentación de Biro de desviarse. Se le atribuye preservación mágica de órganos por tres días, aplicación narrada pero aún no verificada fuera del inventario (misma fuente primaria).
 
-Durante la pausa se aloja con Amane en Traveler's Rest, estudia `Intermediate Restoration Theory, Vol. III` en su día libre y aplica formación de herbología/compuestos a seleccionar alimentos. Busca saber si la invitación de Max es personal o secundaria; se alegra cuando él valora específicamente su experiencia e inmediatamente amplía el plan a las otras dos (PDF, pp. 654-658).
+Completa un ciclo subjetivo de 30 días centrado en curación múltiple, barreras, movilidad y autorregeneración. En ejercicios creados mantiene hasta ocho auras, manifiesta `Radiant Sanctuary`, `Sanctuary Shield` y ejecuta un protocolo de reanimación en un muñeco simulado. Al regresar irradia una presencia curativa percibida por Jasmine, pero no cura todavía heridas reales graves ni resucita a una persona; esas capacidades siguen `NO_CONFIRMADAS` fuera de simulación (misma fuente primaria). Su promesa de que nadie caerá expresa determinación, no garantía objetiva.
+
+Durante la pausa se aloja con Amane en Traveler's Rest, estudia `Intermediate Restoration Theory, Vol. III` en su día libre y aplica formación de herbología/compuestos a seleccionar alimentos. Busca saber si la invitación de Max es personal o secundaria; se alegra cuando él valora específicamente su experiencia e inmediatamente amplía el plan a las otras dos (misma fuente primaria).
 
 Su forma de hablar permite humor seco suave en confianza: advierte que Max lamentará despertar a Amane y corrige sus «cuatro minutos» a quince, sin perder ternura.
 
-En el mercado identifica frescura de redroots, aceite y carne; durante la cocina registra proporciones y ejecuta correctamente una mostaza ahumada. Su análisis de compuestos se transfiere a sabores y texturas, pero no se establece profesión culinaria (PDF, pp. 663-680).
+En el mercado identifica frescura de redroots, aceite y carne; durante la cocina registra proporciones y ejecuta correctamente una mostaza ahumada. Su análisis de compuestos se transfiere a sabores y texturas, pero no se establece profesión culinaria (misma fuente primaria).
 
 ## ÚLTIMO ESTADO CONOCIDO
 
@@ -66,13 +70,13 @@ En el salón privado de una taberna del distrito alto con el grupo. Observó que
 
 ## REFERENCIAS
 
-Correcciones autorales; referencia visual oficial; PDF, pp. 17-54.
+Correcciones autorales; referencia visual oficial; fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`.
 
 
 
 ---
 
-# EVOLUCIÓN CANÓNICA — CUMPLEAÑOS Y LUMINARIAS (AÑO 2)
+### Año 2 — cumpleaños y Luminarias
 
 ## Cumpleaños en Año 2
 - **20 de Cosecha:** Celebrado con una comida íntima y un botiquín de campo modular mejorado, robusto y adaptable.
@@ -81,11 +85,11 @@ Correcciones autorales; referencia visual oficial; PDF, pp. 17-54.
 - Explicó a Max la tradición de las Luminarias en el invierno de Aldoria.
 - Coordinó junto a Jasmine y Max las pruebas del chocolate caliente artesanal y organizó los puntos de atención médica y abrigo para las festividades nocturnas de invierno.
 
-## ADDENDUM — MICROINTERACCIONES Y VIDA AUTÓNOMA
+## MICROINTERACCIONES CONFIRMADAS
 
 - Explica Luminarias, prueba chocolate caliente y coordina abrigo y atención médica; su aporte cultural es organización comunitaria (`isekai Día 588...`, registro de Luminarias).
 
-## EVOLUCIÓN AUTÓNOMA — MISA NO DESAPARECE — AÑO 3
+## RUTA AUTÓNOMA — `PENDIENTE`: Misa no desaparece
 
 Aunque Max haya dejado de interactuar con ella directamente, Misa continúa activa:
 

@@ -1,6 +1,8 @@
 # Amane
 
-## ADDENDUM — MICROINTERACCIONES Y APRENDIZAJE
+> **Estado narrativo:** 5 de Floris, Año 3. Maga S de Los Ventura, maestra principal de Ren y participante profesional de la Prueba de Afrodita junto a Kael Ironheart; no existe romance entre ellos.
+
+## MICROINTERACCIONES CONFIRMADAS
 
 Confirma protocolos de viajeros, responde a órdenes breves y usa humor para sostener al grupo. Véase [[MICROINTERACCIONES_PERSONAJES_A_I]].
 
@@ -14,13 +16,13 @@ Cabello carmesí largo, ojos azules y gran sombrero de bruja; referencia visual 
 
 ## PERSONALIDAD
 
-Expresa curiosidad sin filtro, celebra novedades y busca incluir pronto a Max. También participa en planificación y acepta riesgos calculados (PDF, pp. 17-24, 29-34, 41-54).
+Expresa curiosidad sin filtro, celebra novedades y busca incluir pronto a Max. También participa en planificación y acepta riesgos calculados (fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
 ## FORMA DE HABLAR
 
-Exclamativa, rápida y expansiva; usa hipérboles juguetonas, preguntas encadenadas y apodos espontáneos. Sus bromas suelen invitar a otros a compartir entusiasmo, no degradarlos (PDF, pp. 18-24, 29-34, 42-53).
+Exclamativa, rápida y expansiva; usa hipérboles juguetonas, preguntas encadenadas y apodos espontáneos. Sus bromas suelen invitar a otros a compartir entusiasmo, no degradarlos (misma fuente primaria).
 
-Durante misión conserva energía verbal pero responde a órdenes cortas, confirma preparación y usa chistes para descargar tensión (PDF, pp. 142-195).
+Durante misión conserva energía verbal pero responde a órdenes cortas, confirma preparación y usa chistes para descargar tensión (misma fuente primaria).
 
 ## MOTIVACIONES
 
@@ -36,7 +38,7 @@ Magia de fuego; prende el campamento fuera de escena inmediata. Alcance exacto `
 
 ## RANGO
 
-B inicial; ascenso oficial a **S** tras reevaluación gremial (PDF, pp. 22, 442-447).
+B inicial; ascenso oficial a **S** tras reevaluación gremial (misma fuente primaria).
 
 ## RELACIONES
 
@@ -44,25 +46,27 @@ Familia de Los Ventura. Muestra afinidad lúdica inmediata con Max y desea incor
 
 ## CONOCIMIENTO
 
-Por corrección autoral explícita, no sabe que Max reencarnó ni conoce su origen terrestre. Conoce la detención temporal desde p. 51; desconoce las pruebas privadas posteriores.
+Por corrección autoral explícita, no sabe que Max reencarnó ni conoce su origen terrestre. Conoce la detención temporal desde la revelación inicial; desconoce las pruebas privadas posteriores.
 
 ## SECRETOS
 
 `DESCONOCIDO`.
 
-## EVOLUCIÓN
+## CRONOLOGÍA CANÓNICA
 
-Adquiere cristales de fuego y participa mediante detonaciones, barreras y ataques concentrados. Contiene tres crías con jaulas de fuego durante horas, reduciendo sus reservas a niveles críticos (PDF, pp. 201-300).
+### Año 1 — Blackpeak, entrenamiento y vida social
 
-Al entrar en Sawardo, sus jaulas y crías quedan detenidas y el drenaje cesa; recupera maná narrativamente del 13 % al 19 % durante la marcha. Su habla sigue siendo expresiva y curiosa aun agotada, pero verbaliza límites propios y acepta priorizar la misión (PDF, pp. 301-320).
+Adquiere cristales de fuego y participa mediante detonaciones, barreras y ataques concentrados. Contiene tres crías con jaulas de fuego durante horas, reduciendo sus reservas a niveles críticos (misma fuente primaria).
 
-Acepta con entusiasmo su ciclo y convierte la compresión en una analogía propia de bonfire/láser y gasolina/soplete. Aprende cuatro variantes narradas: Fireball comprimido, Fire Lance, Inferno Beam y Flame Burst; `Plasma Lance` aparece como firma. En prueba adapta patrones y logra rozar a Max. Tras reanudar, demuestra directamente un proyectil blanco comprimido a 200 m que perfora/vaporiza roca según narración (pp. 403-420). Temperaturas, costes y equivalencia A son estimaciones internas; su rango oficial sigue B.
+Al entrar en Sawardo, sus jaulas y crías quedan detenidas y el drenaje cesa; recupera maná narrativamente del 13 % al 19 % durante la marcha. Su habla sigue siendo expresiva y curiosa aun agotada, pero verbaliza límites propios y acepta priorizar la misión (misma fuente primaria).
 
-Tras el ascenso oficial su rango pasa a S. Durante la búsqueda de vivienda revela que su prima Lira trabaja en ventas inmobiliarias, la contacta de inmediato y convierte la mudanza en actividad grupal. Su entusiasmo sigue siendo operativo: conecta personas, propone recursos y sostiene el ánimo (PDF, pp. 441-480).
+Acepta con entusiasmo su ciclo y convierte la compresión en una analogía propia de bonfire/láser y gasolina/soplete. Aprende cuatro variantes narradas: Fireball comprimido, Fire Lance, Inferno Beam y Flame Burst; `Plasma Lance` aparece como firma. En prueba adapta patrones y logra rozar a Max. Tras reanudar, demuestra directamente un proyectil blanco comprimido a 200 m que perfora/vaporiza roca según narración (misma fuente primaria). Temperaturas, costes y equivalencia A son estimaciones internas; su rango oficial sigue B.
 
-En la pausa juega cartas hasta medianoche y se duerme entre mantas, comida y naipes. Despierta de inmediato ante la amenaza humorística de perder papas fritas y pasa de confusión a entusiasmo culinario en segundos. Su desorden personal y velocidad emocional refuerzan el caos fundacional sin reducir su competencia (PDF, pp. 657-660).
+Tras el ascenso oficial su rango pasa a S. Durante la búsqueda de vivienda revela que su prima Lira trabaja en ventas inmobiliarias, la contacta de inmediato y convierte la mudanza en actividad grupal. Su entusiasmo sigue siendo operativo: conecta personas, propone recursos y sostiene el ánimo (misma fuente primaria).
 
-Conoce el mercado sur y guía al grupo hacia especias y aceite; reconoce comerciantes e ingredientes, propone pimientos picantes y vigila de forma práctica la temperatura del aceite. Su entusiasmo por el picante es preferencia, no inmunidad demostrada (PDF, pp. 663-680).
+En la pausa juega cartas hasta medianoche y se duerme entre mantas, comida y naipes. Despierta de inmediato ante la amenaza humorística de perder papas fritas y pasa de confusión a entusiasmo culinario en segundos. Su desorden personal y velocidad emocional refuerzan el caos fundacional sin reducir su competencia (misma fuente primaria).
+
+Conoce el mercado sur y guía al grupo hacia especias y aceite; reconoce comerciantes e ingredientes, propone pimientos picantes y vigila de forma práctica la temperatura del aceite. Su entusiasmo por el picante es preferencia, no inmunidad demostrada (misma fuente primaria).
 
 ## ACTUALIZACIÓN — DELTA-RP-010
 
@@ -81,12 +85,12 @@ Noche del día 35 en Gutiérrez Estate. Tras la cena, las pruebas de salsa queda
 
 ## REFERENCIAS
 
-Correcciones autorales; referencia visual oficial; PDF, pp. 17-54; `DELTA-RP-007`; `DELTA-RP-010`.
+Correcciones autorales; referencia visual oficial; fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`; `DELTA-RP-007`; `DELTA-RP-010`.
 
 
 ---
 
-# EVOLUCIÓN CANÓNICA — DÍAS 156 A 634 (NOCTALIA, AÑO 2)
+### Año 2 — rango, cocina y cumpleaños
 
 ## Vínculo y Rango
 - Maga de fuego de alto calibre de Los Ventura (rango S).
@@ -104,14 +108,14 @@ Correcciones autorales; referencia visual oficial; PDF, pp. 17-54; `DELTA-RP-007
 
 ---
 
-## EVOLUCIÓN — FESTIVAL DE LA CERVEZA, AÑO 3
+### Año 3 — Festival y tutoría de Ren
 
 - Es la **maestra y tutora principal actual de Ren**. Lo entrena sin reducir su identidad a la condición de llegado.
 - Compitió con **Kael Ironheart** en la Prueba de Afrodita y la dupla aportó al resultado colectivo de Aldoria. El registro oficial de puestos se conserva en [[REGISTRO_FESTIVAL_CERVEZA_JUECES_Y_GANADORES]].
 - Dentro del trabajo técnico aporta lectura de energía, magia de fuego y criterios de contención. No debe presentarse como descifradora automática de tecnología antigua.
 - Su manera de enseñar combina demostración práctica, exigencia y entusiasmo; el progreso de Ren sigue siendo propio y gradual.
 
-## EVOLUCIÓN AUTÓNOMA — ENSEÑAR SIN RETENER
+## RUTA AUTÓNOMA — `PENDIENTE`: enseñar sin retener
 
 Al saber que Ren empezará a salir con Haruto y Leo, Amane no abandona su papel de maestra ni intenta convertirlo en su discípulo exclusivo. Prepara ejercicios de control, retirada y lectura elemental para que Ren pueda practicarlos fuera de su presencia.
 

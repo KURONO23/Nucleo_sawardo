@@ -1,22 +1,24 @@
 # Jasmine
 
+> **Estado narrativo:** 5 de Floris, Año 3. Combatiente táctica S de Los Ventura e investigadora de campo de la pista V. Sable; la investigación sigue abierta.
+
 ## CANON FUNDACIONAL — NO MODIFICAR
 
 Rango inicial A y combatiente inicialmente más fuerte de [[Los_Ventura|Los Ventura]]. Callada, observadora, disciplinada, cómoda con el silencio, honesta, competente, leal, autocontrolada, de humor extremadamente seco y protectora de su familia. Detesta arrogancia y crueldad innecesaria.
 
 ## APARIENCIA
 
-Cabello negro corto y ojos rojo carmesí. La referencia visual oficial prevalece. La fuente inicial la muestra con indumentaria oscura de combate (PDF, p. 17).
+Cabello negro corto y ojos rojo carmesí. La referencia visual oficial prevalece. La fuente inicial la muestra con indumentaria oscura de combate (fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
 ## PERSONALIDAD
 
-Evalúa amenazas antes de relajarse, prioriza preparación y retirada si un plan falla, y reconoce decisiones prácticas sin adulación (PDF, pp. 17-24, 52-54).
+Evalúa amenazas antes de relajarse, prioriza preparación y retirada si un plan falla, y reconoce decisiones prácticas sin adulación (misma fuente primaria).
 
 ## FORMA DE HABLAR
 
-Frases breves, precisas y de tono bajo. Corrige exageraciones con una observación seca, hace preguntas directas sobre riesgos y suele expresar aprobación mediante una frase mínima o una leve sonrisa (PDF, pp. 18-24, 34-44, 51-54).
+Frases breves, precisas y de tono bajo. Corrige exageraciones con una observación seca, hace preguntas directas sobre riesgos y suele expresar aprobación mediante una frase mínima o una leve sonrisa (misma fuente primaria).
 
-En planificación, convierte información en formaciones, rutas, ventanas de riesgo y criterios de retirada. Pregunta por límites antes de aceptar una táctica (PDF, pp. 121-200).
+En planificación, convierte información en formaciones, rutas, ventanas de riesgo y criterios de retirada. Pregunta por límites antes de aceptar una táctica (misma fuente primaria).
 
 ## MOTIVACIONES
 
@@ -32,31 +34,33 @@ Combatiente armada; mano recurrente en la empuñadura y conocimiento táctico. C
 
 ## RANGO
 
-A inicial; ascenso oficial a **S** tras reevaluación gremial (PDF, pp. 22, 442-447).
+A inicial; ascenso oficial a **S** tras reevaluación gremial (misma fuente primaria).
 
 ## RELACIONES
 
-Familia de Los Ventura. Con Max mantiene respeto creciente y cautela profesional; patrocina su registro y acepta la misión bajo condición de retirada (PDF, pp. 23-24, 41-52).
+Familia de Los Ventura. Con Max mantiene respeto creciente y cautela profesional; patrocina su registro y acepta la misión bajo condición de retirada (misma fuente primaria).
 
 ## CONOCIMIENTO
 
-Por corrección autoral explícita, no sabe que Max reencarnó ni conoce su origen terrestre. Desde la p. 51 conoce que detiene el tiempo; no conoce todavía el alcance completo ni todos los entrenamientos privados.
+Por corrección autoral explícita, no sabe que Max reencarnó ni conoce su origen terrestre. Desde la revelación inicial conoce que detiene el tiempo; no conoce todavía el alcance completo ni todos los entrenamientos privados.
 
 ## SECRETOS
 
 `DESCONOCIDO`.
 
-## EVOLUCIÓN
+## CRONOLOGÍA CANÓNICA
 
-Participa como planificadora táctica y atacante de garganta con daga de talón; prueba personalmente la pérdida y recuperación de movilidad dentro de Sawardo (PDF, pp. 163-200). Durante el nido dirige formaciones, toma flancos y protege a Biro de un oso; muestra respeto por los restos de víctimas (PDF, pp. 201-300).
+### Año 1 — Blackpeak, entrenamiento y confianza táctica
 
-Durante el regreso analiza riesgos sensoriales y tácticos, registra campamentos de bandidos para reportarlos y propone un reparto 50/50 entre Max y los cuatro Ventura. Su habla conserva formulaciones precisas, criterios de misión y cuantificación incluso ante lo extraordinario (PDF, pp. 302-320).
+Participa como planificadora táctica y atacante de garganta con daga de talón; prueba personalmente la pérdida y recuperación de movilidad dentro de Sawardo. Durante el nido dirige formaciones, toma flancos y protege a Biro de un oso; muestra respeto por los restos de víctimas (misma fuente primaria).
 
-Tras observar la demostración de Biro, primero cuestiona el insulto competitivo de Max y luego pide parámetros concretos del entrenamiento. Acepta un ciclo subjetivo de 30 días para proteger mejor al equipo; al cierre de p. 400 permanece móvil con Max mientras el resto está detenido. Su decisión no modifica todavía su rango A oficial (PDF, pp. 396-400).
+Durante el regreso analiza riesgos sensoriales y tácticos, registra campamentos de bandidos para reportarlos y propone un reparto 50/50 entre Max y los cuatro Ventura. Su habla conserva formulaciones precisas, criterios de misión y cuantificación incluso ante lo extraordinario (misma fuente primaria).
 
-Completa su ciclo mediante montaje y toca el hombro de Max en la prueba final. Al regresar demuestra recorrer 30 m en 2,1 s y golpear doce blancos en 9,3 s; una desaparición/reaparición «en sombra» se narra, pero el mecanismo y literalidad están `NO_CONFIRMADOS`. Resume el proceso con sequedad: «Thirty days of hell. Worth every second» (paráfrasis: reconoce el sufrimiento sin dramatizar y valida el resultado). Su rango oficial continúa A (PDF, pp. 401-404).
+Tras observar la demostración de Biro, primero cuestiona el insulto competitivo de Max y luego pide parámetros concretos del entrenamiento. Acepta un ciclo subjetivo de 30 días para proteger mejor al equipo; al cierre de la prueba permanece móvil con Max mientras el resto está detenido. Su decisión no modifica todavía su rango A oficial (misma fuente primaria).
 
-Acepta la invitación porque interpreta que Max volvió específicamente por ellas. En el mercado revela conocimiento rural de huevos, carne y ganado —Misa dice que creció en aldeas orientales—; selecciona al proveedor Harlan y después aplica una precisión extraordinaria al corte y preparación, sin que ello constituya una clase o poder nuevo (PDF, pp. 661-680).
+Completa su ciclo mediante montaje y toca el hombro de Max en la prueba final. Al regresar demuestra recorrer 30 m en 2,1 s y golpear doce blancos en 9,3 s; una desaparición/reaparición «en sombra» se narra, pero el mecanismo y literalidad están `NO_CONFIRMADOS`. Resume el proceso con sequedad: «Thirty days of hell. Worth every second» (paráfrasis: reconoce el sufrimiento sin dramatizar y valida el resultado). Su rango oficial continúa A (misma fuente primaria).
+
+Acepta la invitación porque interpreta que Max volvió específicamente por ellas. En el mercado revela conocimiento rural de huevos, carne y ganado —Misa dice que creció en aldeas orientales—; selecciona al proveedor Harlan y después aplica una precisión extraordinaria al corte y preparación, sin que ello constituya una clase o poder nuevo (misma fuente primaria).
 
 ## ÚLTIMO ESTADO CONOCIDO
 
@@ -64,13 +68,13 @@ En el salón privado de una taberna del distrito alto de Aldoria con Max y sus a
 
 ## REFERENCIAS
 
-Correcciones autorales; referencia visual oficial; PDF, pp. 17-54.
+Correcciones autorales; referencia visual oficial; fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`.
 
 
 
 ---
 
-# EVOLUCIÓN CANÓNICA — DÍAS 156 A 634 (NOCTALIA, AÑO 2)
+### Año 2 — cultura, cumpleaños y Luminarias
 
 ## Hitos y Vínculo con Max
 - **Rango y Habilidad:** Rango S consolidado. Combatiente de primera línea, ágil, protectora y pragmática.
@@ -85,13 +89,13 @@ Correcciones autorales; referencia visual oficial; PDF, pp. 17-54.
 - **Percy Jackson y los Dioses del Olimpo:** Max comenzó a narrarle *El ladrón del rayo*. Jasmine se fascinó por la mitología griega, las Moiras, los semidioses y las pruebas del inframundo.
 - **Docente de la Academia («Los Cinco del Barril + Jasmine»):** Imparte junto a Goran y los Cinco del Barril la clase magistral *«Del mito al MacGuffin»*, analizando con precisión quirúrgica y humor seco los arquetipos, las trampas narrativas y el viaje del héroe.
 
-## ADDENDUM — MICROINTERACCIONES Y VIDA AUTÓNOMA
+## MICROINTERACCIONES CONFIRMADAS
 
 - Prepara material para sus clases por iniciativa propia mientras otros trabajan; no espera a Max (`00_FUENTES/historia_original/AÑO_2/09_31_Noctalia_Año_2_a_01_Albor_Año_3.md`, 4875–4885).
 - Recibe a Max con humor seco —«Mira quién decidió recordar que tenemos casa»—, conservando afecto y pertenencia (`ISEKAI 31...`, 4875–4905).
 - En GOT y Dunk y Egg pregunta, analiza y recuerda; es testigo crítica antes de la institucionalización cultural (`isekai Día 588...`, 10712–10931).
 
-## EVOLUCIÓN AUTÓNOMA — MISIÓN DE V. SABLE Y AGENCIA PROPIA — AÑO 3
+## RUTA AUTÓNOMA — `PENDIENTE`: misión de V. Sable y agencia propia
 
 Jasmine **sí vio la misión de V. Sable**. No queda reducida a una acompañante de Max ni la investigación desaparece cuando él cambia de arco:
 

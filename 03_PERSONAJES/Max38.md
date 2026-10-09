@@ -1,6 +1,17 @@
 # Max38
 
-## ADENDA — 26 DE BRUMA A 4 DE FLORIS, AÑO 3
+> **Estado narrativo:** 5 de Floris, Año 3. Max Josemar Gutiérrez, 39 años, actúa bajo la cobertura Marcos; el jugador conserva control exclusivo de sus decisiones, pensamientos y sentimientos.
+
+## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+
+- Desayuno en Gutiérrez Estate con Serath y Aria; la operación Marcos permanece abierta y Yuki conserva dirección estratégica de su propio frente.
+- Liquidez conciliada: 905.905 oro. Los negocios, Esmeralda y la administración continúan bajo responsables propios; Max no puede atribuirse su trabajo autónomo.
+- Mantiene límites de consentimiento con Mizuki, Pequeño Zhong-Kyo, Sawardo y G1. Ravenwood/Veylan/Averne sigue siendo pista, no resolución.
+- Consultar [[CURRENT_STATE_5_FLORIS_AÑO3]], [[FINANZAS_CANON_VIGENTE]] y [[PLOT_THREADS]] antes de una escena nueva.
+
+## CRONOLOGÍA CANÓNICA
+
+### Año 3 — 26 de Bruma a 4 de Floris
 
 - Reconoce públicamente a Biro como autor y a Goran como creador capaz de transformar influencias en cultura aldoriana.
 - Comparte cine terrestre con Goran y distingue obra madre, adaptación y apropiación cultural.
@@ -12,7 +23,7 @@
 - Su impacto sigue siendo catalítico: crea conexiones, pero Biro, Goran, Yuki, Mizuki, Galwin, Kenji, Ryu y Haruto deciden y actúan por sí mismos.
 - Punto actual: [[CURRENT_STATE_4_FLORIS_AÑO3]].
 
-## ADENDA — MAÑANA DEL 26 DE BRUMA, AÑO 3
+### Año 3 — mañana del 26 de Bruma
 
 - Conoció por fin su liquidez conciliada: **905.905 oro**.
 - Reconoció que su objetivo de construir negocios capaces de funcionar sin él se cumplió durante casi seis semanas de ausencia.
@@ -23,13 +34,13 @@
 - Quiere acudir a una futura recepción con Serath, Aria, Natalia, Elise y Vivienne. La fecha no existe todavía y Max no ha ejecutado la broma ante nobles.
 - Fuente: `00_FUENTES/historia_original/AÑO_3/11_26_Bruma_Año_3.md`, líneas 1–1539.
 
-## PUNTO DE GIRO — DEPRESIÓN, TORRE Y AGUJA MUERTA
+### Año 2 — punto de giro: depresión, Torre y Aguja Muerta
 
 En un tramo de Año 2, Max salió solo porque estaba deprimido y necesitaba caminar y aislarse. No fue a la Torre siguiendo una misión: empezó a experimentar con su interfaz, imaginó una red local y preguntó por estructuras compatibles para ampliar la señal. Esa deriva creativa detectó patrones que condujeron a la Aguja Muerta, cerca de Brenna.
 
 El hallazgo le devolvió propósito y ánimo, pero no elimina su vulnerabilidad emocional. Al explicárselo a Aria y reunir después a Haruto y Amane, convirtió una necesidad personal en la base de un proyecto colectivo: Red de Nodos, contrato de mantenimiento de Galwin, G1, protocolos de seguridad y crecimiento autónomo del equipo. Véase [[PUNTO_DE_GIRO_TORRE_Y_NODOS]].
 
-## ADDENDUM DE EDAD — 26 DE BRUMA, AÑO 3
+## Identidad y edad estable
 
 - Edad inicial canónica: **38 años**.
 - Edad cronológica vigente: **39 años**.
