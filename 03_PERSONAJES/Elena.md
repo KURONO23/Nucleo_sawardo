@@ -1,25 +1,31 @@
 # Elena y Suri — Ficha Canónica
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Esta ficha distingue a Elena, vendedora y madre del mercado, de Suri, su hija artista de ocho años. Son memoria familiar del mercado, no símbolos sin vida ni una sola voz fusionada.
+
+## VOZ Y COMPORTAMIENTO EN ESCENA
+
+Elena habla con gratitud directa y preocupación cotidiana por mercado e hija. Suri es tímida, sensible y se expresa mejor a través de dibujo; no ponerle discursos adultos ni tratar su arte como profecía.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Permanecen ligadas a los puestos populares. No hay acción individual posterior confirmada al 5 de Floris.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- En los primeros días de Aldoria, Elena agradece apoyo a pequeños tenderos y Suri entrega dibujo de carbón de Max entre la niebla.
 
 ## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+La ayuda de mercado se vuelve recuerdo familiar y artístico: importa porque la gente común la conserva, no porque convierta a Max en mito sin contradicción.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Elena y Suri: madre e hija.
+- Mercado y pequeños tenderos: comunidad de trabajo.
+- Max: agradecimiento histórico, no dependencia ni acceso a su vida privada.
 
 ## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+No hay ruta autónoma individual localizada todavía; no crear negocio, peligro o talento nuevo para llenar la ausencia.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+Fuente primaria y [[MICROINTERACCIONES_PERSONAJES_A_I]] prevalecen.
 
 ## ADDENDUM — MICROINTERACCIÓN POPULAR
 

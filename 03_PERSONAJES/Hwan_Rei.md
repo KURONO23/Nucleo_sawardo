@@ -1,25 +1,30 @@
 # Hwan-Rei — Custodio de Pequeño Zhong-Kyo
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Hwan-Rei es custodio de Pequeño Zhong-Kyo y de los originales del Templo del Viejo Puente. Su autoridad procede de memoria local y custodia comunitaria, no de ser guía de Max, Ryu, Kenji o Mizuki.
+
+## VOZ Y COMPORTAMIENTO EN ESCENA
+
+Paciente, cuidadoso y firme. Prefiere admitir una discrepancia antes que adornar una traducción; escucha, pregunta por evidencia y marca límites sin teatralidad.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Conserva originales, permite copias controladas y sostiene archivo visual comunitario; no acepta conclusiones más seguras que la evidencia.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- 3–4 de Floris: regula acceso a siete tablillas y conserva primera discrepancia interna entre lecturas.
 
 ## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+La llegada de investigadores vuelve su custodia un método: copias, atribución de lectura y desacuerdo honesto protegen la memoria frente a apropiación.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Comunidad de Pequeño Zhong-Kyo: autoridad que representa sin hablar por todas las personas.
+- Ryu, Kenji, Max y Mizuki: acceso condicionado, no transferencia de custodia.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Ampliar el archivo comunitario con copias seguras y lecturas atribuidas, sin convertir tablillas en prueba automática de reencarnados.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+Fuente: `00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md` y [[CURRENT_STATE_4_FLORIS_AÑO3]].
 
 ## Estado al 4 de Floris, Año 3
 
