@@ -1,25 +1,29 @@
 # Príncipe Caelan Theron — Ficha Canónica
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Caelan Theron es príncipe heredero, hijo mayor de Aldric y hermano de Rowan. Es formal, disciplinado, competente en lo militar y paciente en diplomacia. Ignora el secreto de que Serath es su medio hermana biológica mayor; ese dato no puede guiar su conducta.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Su estado confirmado incluye el servicio de Dravenn y apoyo a la estabilidad de Aldoria; no hay escena individual posterior al 5 de Floris que fije una nueva acción.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- Otoño, Año 2: coordina con Astrid en Dravenn y formaliza arrestos de Varnek Draal y Voren Haal, evitando guerra civil.
+- 25 de Ventisca: presencia y celebra el relevo de Max en *Austin Powers*.
 
 ## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+Dravenn combina deber militar con procedimiento: aprende que incluso una intervención excéntrica debe terminar en arrestos y legitimidad. El teatro le muestra que cultura popular y estabilidad política pueden dialogar sin ser lo mismo.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Aldric y Rowan: familia pública de la Corona.
+- Serath: respeto público por la Comandante Suprema, sin conocimiento del vínculo biológico.
+- Astrid: coordinación de Dravenn.
+- Max: aprecio mutuo, no una alianza que sustituya instituciones.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Seguir integrando diplomacia y procedimiento ante crisis fronterizas. No hay misión nueva ni romance añadido.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+Fuente final: `00_FUENTES/historia_original/` y [[MICROINTERACCIONES_PERSONAJES_A_I]].
 
 ## ADDENDUM — MICROINTERACCIONES Y APRENDIZAJE
 

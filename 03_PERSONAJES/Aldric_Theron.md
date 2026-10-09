@@ -1,16 +1,18 @@
 # Aldric Theron
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Aldric Theron es rey de Aldoria: pragmático, conciso y políticamente incisivo. Su autoridad busca equilibrio entre Corona, gremio, rutas, innovación y casas nobles, y acepta alianzas con límites en vez de exigir obediencia teatral.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Max: alianza legal y condicionada mediante House, writ y Letter of Marque.
+- Serath y Thalion: figuras de corte en quienes delega funciones sin abandonar responsabilidad real.
+- Kira y autoridades locales: interlocutores institucionales de supervisión y acceso.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Establecer garantías proporcionales para nodos, Vaelor y Torre sin apropiarse del conocimiento. No hay decreto posterior confirmado.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+Fuente primaria y [[MICROINTERACCIONES_PERSONAJES_A_I]] prevalecen.
 
 > **Estado narrativo:** 5 de Floris, Año 3. Rey de Aldoria; mantiene una alianza legal y condicionada con House Gutiérrez sin controlar a Max ni apropiarse de la investigación de la Torre.
 

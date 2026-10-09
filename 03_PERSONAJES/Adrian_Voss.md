@@ -1,25 +1,28 @@
 # ADRIAN VOSS
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Adrian Voss es observador y antagonista sistémico. Su habilidad Breakpoint detecta tensiones, dependencias y posibles rupturas con contexto suficiente; no lee mentes, no controla personas ni le revela secretos que no pueda conocer plausiblemente.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Tras comprobar compensación distribuida en Aldoria, abandona la búsqueda de una ruptura única e introduce fricciones pequeñas para medir corrección. El siguiente intento de dos problemas legítimos simultáneos no está ejecutado.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- Otoño: observa el Festival Infantil y no halla ruptura única.
+- Después: prueba cartas, fechas y rumores; identifica nodos que corrigen colectivamente.
+- Año 2: sabotea teatro, es confrontado por Max y Aria y revela el nombre de Corven Marr; el trauma no le concede omnisciencia ni borra su capacidad de observar.
 
 ## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+La respuesta distribuida de Aldoria obliga a refinar su modelo: el sistema no depende de Max como único punto. La confrontación le enseña un límite de costo personal, pero no resuelve su agenda ni lo convierte en aliado.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Corven Marr: superior nombrado por Voss, sin que eso establezca alcance completo de la red.
+- Natalia, Leo, Yuki, Serath, Liora, Elise, Vivienne, Jasmine, Lyssa, Torin, Ryu y Kenji: nodos observados, no cómplices.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Estudiar prioridades ante problemas simultáneos sin canonizar aún sabotaje, víctima ni resultado.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+La fuente primaria y [[MICROINTERACCIONES_PERSONAJES_A_I]] prevalecen.
 
 ## ADDENDUM — MICROINTERACCIONES Y APRENDIZAJE
 
