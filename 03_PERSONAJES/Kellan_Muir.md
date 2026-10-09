@@ -1,25 +1,29 @@
 # Kellan Muir — Ficha Canónica Completa
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Excombatiente del Ejército Real de Aldoria, con diez años de patrullas fronterizas, reconvertido en actor. De unos treinta y cinco años, espalda ancha y una cicatriz ligera en el cuello, interpreta al Capitán Draevorn. Su experiencia hace creíbles las armas, armaduras, fatiga y órdenes militares y la comparte con el elenco.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Es actor de la compañía y custodio práctico de la verosimilitud militar de Draevorn. No se documenta una escena individual posterior al corte vigente.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- Antes de la compañía: diez años de servicio fronterizo.
+- Año 2: traslada ese conocimiento a Draevorn y enseña al reparto a portar equipo sin teatralidad fingida.
+- En la auditoría del equipo aparece dentro del circuito laboral teatral, sin una escena individual adicional localizada.
 
 ## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+El paso de ejército a escenario no borra su experiencia: la transforma en una herramienta para otros actores. Su reto creativo es que Draevorn exprese el cansancio de una marcha y no solo porte marcial.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Compañía Goran: espacio donde enseña técnica corporal y combate escénico.
+- Bram: colega del registro dramático de la compañía.
+- Goran: director y responsable del marco de producción.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Consolidar a Draevorn y explorar papeles menos solemnes sin traicionar su oficio militar. Puede defender un cambio de personaje si nace en ensayo; no existe aún ese conflicto resuelto.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+La autoridad final es `00_FUENTES/historia_original/`; el registro de auditoría se conserva como referencia de contexto, no como escena nueva.
 
 > **«Llevar una coraza en el escenario no es difícil; lo difícil es que el público escuche el cansancio de las marchas forzadas en cada orden que das.»**  
 > — Kellan Muir sobre el papel del Capitán Draevorn

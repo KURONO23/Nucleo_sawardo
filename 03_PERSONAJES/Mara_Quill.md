@@ -1,25 +1,29 @@
 # Mara Quill — Ficha Canónica Completa
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Mara Quill es una actriz profesional, procedente del teatro popular y los tablados callejeros de Aldoria y reclutada por Goran. Tiene veintiséis años, mirada penetrante, porte felino y voz precisa. Su oficio combina improvisación, timing seco y tránsito entre sátira y drama. Es creadora e intérprete de Vesper Noir.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Su continuidad vigente es la de actriz de la compañía y voz propia de Vesper. No hay una escena individual posterior consolidada que permita afirmar una acción nueva al 5 de Floris.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- Año 2: desarrolla a Vesper como investigadora con criterio y objetivos propios, no como complemento de Austin.
+- En la función donde Max releva a Nilo en el segundo acto, sostiene la escena e improvisa sin revelar la sustitución al público.
+- Después del proceso de Austin, detecta y corrige que Nilo había dejado de vivir el personaje fuera del escenario.
 
 ## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+La construcción de Vesper le permite convertir su experiencia popular en autoridad dramática: la comedia no borra su precisión, sino que afila su réplica. La sustitución de Max prueba su autonomía escénica; su observación a Nilo confirma que cuida al elenco desde una mirada crítica, no subordinada.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Goran: director que la integra en la compañía.
+- Nilo: antagonismo verbal interpretado como Vesper y correctivo profesional fuera de escena.
+- Max: colaborador en la construcción de Vesper y compañero de una improvisación histórica.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Profundizar una voz de actriz-creadora fuera del puro contrapunto de Austin. Puede proponer una escena que cambie cómo se recibe a Vesper, pero esa propuesta no está realizada todavía.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+`00_FUENTES/historia_original/` y [[MICROINTERACCIONES_PERSONAJES_J_R]] son las bases de esta síntesis. Las correcciones autorales prevalecen.
 
 > **«Vesper no es un adorno para que el espía luzca brillante. Vesper es la mente fría que desarma la farsa palabra por palabra.»**  
 > — Mara Quill durante los ensayos con Max y Goran

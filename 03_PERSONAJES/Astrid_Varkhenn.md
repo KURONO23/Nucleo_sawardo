@@ -1,25 +1,30 @@
 # Lady Astrid Varkhenn — Ficha Canónica Completa
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Lady Astrid Varkhenn, también Astrid Halvern en ámbito artístico, es dravenniana, hermana menor del heredero de Rocahalda, guerrera de rango A consolidado, diplomática de montaña y líder de delegación. Es frontal, leal y resistente; su humor y disciplina son parte de su identidad, no una máscara teatral.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Su estado confirmado es el de representante dravenniana, aliada de Serath y Max y figura de la crisis de Dravenn. No hay una escena individual posterior que establezca una acción nueva al 5 de Floris.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- Festival Internacional de la Cerveza: lidera a Dravenn y alcanza el segundo puesto ante Marevia.
+- *Dunk y Egg*: insiste en usar el escudo durante toda la secuencia; esa utilería se vuelve memoria cultural dravenniana.
+- Crisis de Dravenn, Año 2: recibe a Max tras la Esfera de Chronos, protege a Maeve, coopera con Caelan y preside el juicio que cierra la crisis.
 
 ## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+El festival la muestra como competidora y embajadora; el teatro le permite descubrir que un símbolo material puede viajar a la cultura popular. La crisis transforma esa representación en responsabilidad institucional: protege pruebas y personas mientras coordina con aliados, sin reducirla a fuerza marcial.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Maeve Roth: testigo y archivista puesta bajo custodia leal durante la crisis.
+- Serath y Max: amistad militar y respeto mutuo.
+- Caelan Theron: colaboración en el frente oficial de Dravenn.
+- Rocahalda y delegación dravenniana: deber político y cultural.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Seguir representando a Dravenn y resguardar su delegación, equilibrando diplomacia cultural y preparación marcial. Puede apoyar una iniciativa cultural sin apropiarse de ella; no hay acción posterior confirmada.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+La fuente primaria en `00_FUENTES/historia_original/` prevalece; véase también [[MICROINTERACCIONES_PERSONAJES_A_I]].
 
 ## ADDENDUM — MICROINTERACCIONES Y APRENDIZAJE
 

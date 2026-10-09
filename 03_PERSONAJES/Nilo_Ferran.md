@@ -1,22 +1,27 @@
 # NILO FERRAN
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Actor y narrador-comediante de la Compañía Teatral Goran, elegido en convocatoria abierta. Sus papeles confirmados son Milo Trent, Austin Powers y Jesse Fox. Su herramienta propia es el timing: pausa, economía de gesto y la capacidad de dejar que una microfractura revele a Milo bajo Austin; no es un imitador de Max.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Es un rostro público de *Austin Powers: El Espía Seductor*. La fuente no fija una escena individual posterior al corte vigente; por ello no se le asigna ubicación ni resultado fuera de cámara.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- Año 2: construye Austin con dirección de Max y Goran, manteniendo una versión propia.
+- 25 de Ventisca, Año 2: participa con Goran en la conspiración del cumpleaños de Max; sostiene el primer tramo de la función y cede el relevo en bastidores para la sorpresa de Selene.
+- Después del estreno: Mara advierte que deja de caminar permanentemente como Austin, señal de que recupera distancia respecto del papel.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Max: mentor de mecánica cómica, no modelo que deba copiar.
+- Goran: director y cómplice de la función de cumpleaños.
+- Mara / Vesper: duelo verbal escénico y correctivo profesional.
+- Edda / Isola: contrapunto cómico; Isola puede seguirle el juego para desarmarlo mediante la ley.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Conservar Austin sin quedar reducido a él: ampliar repertorio, cuidar descanso y sostener química con la compañía. Su próxima decisión debe respetar su humor y su voz propia; no hay resultado narrado.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+`00_FUENTES/historia_original/` es autoridad final. Véanse también los registros de ensayo y función de Año 2 enlazados en esta ficha y [[MICROINTERACCIONES_PERSONAJES_J_R]]. Las correcciones autorales prevalecen.
 
 ## Identidad
 - Actor/narrador-comediante seleccionado mediante convocatoria abierta.

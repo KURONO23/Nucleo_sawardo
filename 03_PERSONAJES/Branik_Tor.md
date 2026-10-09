@@ -1,25 +1,30 @@
 # Branik Tor
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Branik Tor es actor cómico-dramático y atleta escénico aldoriano, de raíces fronterizas, conocido como Garran: gigante sentimental y devoto de la hermandad del barril. Su presencia física y voz grave son reales; su comedia une exceso, ternura y vulnerabilidad.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Es figura popular vinculada a la Compañía Goran, *El Festival de la Cerveza* y los Juegos del Barril. No hay escena individual posterior consolidada al 5 de Floris.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- Día 322: su poema de taberna fallido conmueve y hace reír a Biro; Darian lo juzga espantoso y Goran lo elige precisamente por esa ternura.
+- Ensayos de *El Festival de la Cerveza*: un lanzamiento de muñeco destruye una mesa de utilería y Max conserva el accidente como escena.
+- Festival: presenta los Juegos del Barril como Garran; recibe cincuenta de oro por el trabajo e impulsa lemas populares.
+- Participa también en *¿Qué pasó ayer?* y en la dupla cómica con Perrin.
 
 ## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+Su audición convierte una vulnerabilidad involuntaria en rasgo de oficio: Garran no es solo fuerza. El accidente de ensayo le enseña que el exceso funciona cuando está al servicio de la escena. Con Perrin aprende que el entusiasmo también debe respetar reglas.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Perrin: contrapunto estable entre pasión desbordada y reglamento.
+- Biro, Darian y Goran: testigos y decisor de la audición que funda su incorporación.
+- Max: conserva el hallazgo del ensayo y lo contrata como maestro de ceremonias.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Desarrollar a Garran y la conducción pública con responsabilidad emocional, moderando una celebración sin volverla exhibición de fuerza. Es una dirección posible, no un hecho ejecutado.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+La fuente primaria en `00_FUENTES/historia_original/` es autoridad final; véase también [[MICROINTERACCIONES_PERSONAJES_A_I]].
 
 ## ADDENDUM — MICROINTERACCIONES Y APRENDIZAJE
 

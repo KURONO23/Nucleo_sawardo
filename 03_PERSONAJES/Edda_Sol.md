@@ -1,25 +1,28 @@
 # Edda Sol — Ficha Canónica Completa
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Actriz de formación clásica de la Compañía Teatral Goran y creadora de Isola Ren, fiscal u oficial administrativa implacable. Su técnica se apoya en silencio, cuerpo y microexpresión; su comedia consiste en dejar que Austin se exponga antes de devolverlo al peso del trámite o la ley.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Permanece vinculada a la compañía y a Isola Ren. La ficha no contiene escena individual posterior que permita afirmar dónde está o qué ha resuelto al 5 de Floris.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- Año 2: define a Isola como quien combate con sellos, formularios y aplicación fría de la ley.
+- En *Austin Powers*, acompaña parcialmente el juego de Austin antes de desarmarlo desde la norma, una forma distinta de comedia a la de Vesper.
 
 ## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+El contraste con Austin confirma que la formación clásica no la vuelve rígida: aprende a usar la pausa como remate y a responder desde la voz de Isola. El personaje ensancha su autoridad sin convertirla en una villana o en un accesorio.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Nilo / Austin: contrapunto de escena basado en juego y corrección administrativa.
+- Mara / Vesper: compañeras con registros cómicos distintos.
+- Goran: marco de compañía y dirección.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Consolidar a Isola con más matiz y asumir una responsabilidad de ensayo desde su formación clásica. No hay ensayo ni desenlace autónomo ya ocurrido.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+`00_FUENTES/historia_original/` y [[MICROINTERACCIONES_PERSONAJES_A_I]] prevalecen sobre esta síntesis.
 
 ## ADDENDUM — MICROINTERACCIONES Y OFICIO
 

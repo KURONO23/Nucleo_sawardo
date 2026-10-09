@@ -1,25 +1,28 @@
 # Bram Sorel — Ficha Canónica Completa
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Actor dramático veterano de la Compañía Teatral Goran. De porte solemne, voz barítona y técnica de economía: usa el silencio y el movimiento mínimo para construir autoridad. Creó a Lord Corvin Varel, villano ideológico y burocrático, no una caricatura gritona.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Integra el circuito teatral vigente como intérprete de Varel. No hay escena individual posterior consolidada que autorice situarlo o darle una acción nueva.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- Año 2: da a Varel una amenaza administrativa ligada al monopolio y la centralización de rutas mercantes.
+- La recepción de Caelan y Rowan destaca que encarna la tiranía administrativa sin histrionismo.
 
 ## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+La dirección compartida con Max y Goran transforma su gravedad previa en un antagonista que da miedo por lo que normaliza. La recepción cortesana confirma que su voz dramática puede sostener cultura popular sin rebajarse.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Goran y Max: dirección y construcción de Varel.
+- Caelan y Rowan Theron: espectadores que reconocen el alcance político de su interpretación.
+- Compañía: defiende la literatura seria y una voz dramática propia dentro de la antología.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Perfeccionar a Varel y transmitir oficio dramático sin perder apertura ante una crítica que no venga de Max. Esa meta es una dirección, no un resultado consumado.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+La fuente primaria en `00_FUENTES/historia_original/` prevalece, junto con [[MICROINTERACCIONES_PERSONAJES_A_I]].
 
 ## ADDENDUM — MICROINTERACCIONES Y APRENDIZAJE
 

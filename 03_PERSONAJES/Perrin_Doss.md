@@ -1,25 +1,30 @@
 # Perrin Doss
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Perrin Doss es actor de carácter y escribiente. Su papel emblemático, Nim, es un contador bajo, enjuto, seco y cerebral, obsesionado con el reglamento. Su herramienta cómica es la inmovilidad: dice el absurdo sin regalar la risa.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Sigue ligado a la compañía y al imaginario público de Nim. No hay escena individual posterior consolidada al 5 de Floris.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- Día 323: su respuesta «Contador» gana el papel de Nim en la audición.
+- Teatro: convierte el cálculo, el pH y los tecnicismos del reglamento en contrapunto de la taberna.
+- Festival de la Cerveza, Año 3: actúa como anfitrión y juez; ante protestas consulta su tablilla y responde «Reglamento».
+- Participa en *¿Qué pasó ayer?* como apoyo burocrático de la farsa.
 
 ## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+Nim nace de su oficio de escribiente, pero el teatro demuestra que su precisión puede ser popular. El festival traslada esa máscara al espacio público: ya no solo representa una regla, ayuda a que la regla sea legible cuando hay rivalidad.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Branik: pareja escénica de contraste, gigante sentimental frente a contador imperturbable.
+- Goran y Los Cinco del Barril: marco de su casting y papel.
+- Capitanes y participantes del festival: juez que aplica reglas, sin favoritismo documentado.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Sostener la precisión popular de Nim y arbitrar una disputa sin sesgo aldoriano. La disputa no ha ocurrido todavía en el canon.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+Fuente primaria: `00_FUENTES/historia_original/`, en especial `AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md`; las correcciones autorales prevalecen.
 
 > **«—Te preguntan qué demonios eres después de beber medio barril.**  
 > **—Contador.»**  
