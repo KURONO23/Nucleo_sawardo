@@ -1,6 +1,6 @@
 # Registro de puntos de inflexión — Núcleo Sawardo
 
-> Auditoría viva de los hechos que cambiaron una trayectoria. Un punto de inflexión no es cualquier escena importante: es un hecho que modifica de forma duradera a Max, a otra persona, a una institución, a la cultura o a las reglas del mundo. Este registro añade orientación; no sustituye la fuente original ni las fichas.
+> Auditoría causal viva de los hechos que cambiaron una trayectoria. Un punto de inflexión no es cualquier escena importante: es un hecho que modifica de forma duradera a Max, a otra persona, a una institución, a la cultura o a las reglas del mundo. Su función principal es conservar **quién evolucionó, quién influyó a quién y qué consecuencias sobrevivieron a la escena**. Este registro añade orientación; no sustituye la fuente original ni las fichas.
 
 ## Cómo leerlo
 
@@ -8,6 +8,42 @@
 - **Consecuencia:** cambio que ya quedó documentado en fichas o sistemas.
 - **Pendiente:** efecto que debe mostrarse en una escena futura; no se trata como hecho consumado.
 - Las fechas se mantienen solo cuando están confirmadas. No se rellenan huecos por intuición.
+
+## Matriz causal de evolución e influencia
+
+Esta matriz traduce los puntos narrativos en desarrollo verificable. “Influido” no significa obediencia ni romance automático: significa que la experiencia modificó una decisión, habilidad, vínculo, método, institución o visión del mundo.
+
+| Punto de inflexión | Quién evoluciona | Quién influye o es influido | Evolución observable | Consecuencia que persiste |
+|---|---|---|---|---|
+| Reencarnación y Sawardo | Max | Aria, futuros compañeros y enemigos | Pasa de superviviente a experimentador responsable de un poder temporal | Su método de probar límites guía toda la investigación posterior |
+| Horda orca y Los Ventura | Max; Jasmine, Misa, Amane y Biro | Se influyen mutuamente | Max acepta aliados; Los Ventura descubren que pueden crecer junto a alguien extraordinario | Nace la primera familia elegida y una cultura de entrenamiento compartido |
+| Aria como persona elegida | Aria y Max | Influencia mutua | Aria afirma voluntad propia; Max aprende a confiar sin poseer | Aria se convierte en ancla emocional y socia autónoma |
+| Blackpeak | Biro, Jasmine, Misa, Amane y Max | Max entrena; Los Ventura responden con criterio | El grupo mejora combate, reparto de riesgo y confianza | La fortuna inicial financia hogar, talleres y proyectos |
+| Gutiérrez Estate | Natalia, Elise, Vivienne, guardias y Max | Max abre recursos; ellas institucionalizan | El equipo pasa de ayuda puntual a administración profesional | La finca funciona como hogar, empresa y centro comunitario |
+| Serath y matrimonio | Max y Serath | Se influyen sin absorberse | Max acepta una pareja con mando propio; Serath integra intimidad y deber | La alianza cambia la política de House Gutiérrez y de la Corona |
+| Zhong-Kyo | Ryu, Kenji, Max y Haruto | Max protege; Ryu/Kenji devuelven familia y competencia | Ryu se vuelve navegante/cartógrafo; Kenji artífice-cocinero | La familia y la comunidad zhong-kyana adquieren continuidad propia |
+| Los Cinco del Barril | Max, Goran, Darian, Biro y Haruto | Influencia creativa horizontal | Goran organiza, Biro escribe/actúa, Haruto aporta experiencia y Darian adapta | La cultura deja de depender de una sola voz |
+| Esmeralda | Sayaka/Evelyn, Max, Natalia y trabajadores | Colaboración tras conflicto económico | Sayaka/Evelyn pasa de rival a socia; Natalia convierte intuición en empresa auditable | La cervecería genera empleo, identidad y dividendos sin gestión diaria de Max |
+| Obras terrestres | Niños, adultos, artistas y nobles | Max narra; Aldoria interpreta y remezcla | Se adoptan vocabulario, casas, gestos, polémicas y formas de contar | La cultura terrestre se vuelve aldoriana, no una copia pasiva |
+| Festival de la Cerveza | Goran, Biro, Darian, Haruto, delegaciones y organizadores | La obra influye al evento; el evento reinterpreta la obra | Actores se vuelven presentadores, jueces y organizadores; delegaciones crean identidad | Nace una institución internacional independiente |
+| Depresión, Torre y Aguja Muerta | Max, Aria, Haruto y Amane | El grupo contiene; el hallazgo transforma al grupo | Max recupera propósito; Aria aprende a acompañar sin controlar; Haruto/Amane entran en investigación | Red de Nodos, secreto de Estado y contrato de Galwin |
+| Galwin y delegación | Galwin y sus aprendices | Max confía; Galwin transmite | Galwin pasa de ejecutor indispensable a maestro que delega | G1/G2 y mantenimiento pueden sobrevivir sin una sola persona |
+| Kazuki y Minas Quebradas | Kazuki y Max | Se desafían intelectualmente | Kazuki convierte comprensión estructural en método propio; Max acepta un espejo | Ancla de Referencia Temporal y frente autónomo de Minas |
+| Vaelor/ACF-3 | Thalion y equipos científicos; Max | El trabajo colectivo corrige la centralidad de Max | Investigadores trabajan sin esperar instrucciones de Max | La ciencia de Aldoria obtiene autonomía institucional |
+| Luminarias | Familias, artesanos, niños y Max | Max inicia; la comunidad conserva | La tradición adquiere significado propio y rituales locales | La fiesta persiste aunque Max no aparezca |
+| Casa del Puente | Ryu, Kenji y comunidad zhong-kyana | Max financia sin apropiarse; la comunidad gobierna | Ryu/Kenji pasan a representar y servir a su comunidad | Modelo de beneficencia con autonomía, no dependencia |
+| Ausencia de Max | Todo el elenco | Las personas se influyen entre sí fuera de cámara | Empresas, romances, misiones y proyectos avanzan sin esperar órdenes | Se consolida la vida autónoma del simulador |
+| Yuki/Marcos | Max y Yuki | Yuki dirige; Max aprende a obedecer y documentar | Max puede servir bajo otra autoridad sin resolver todo por fuerza | Las operaciones de Ravenwood adquieren dirección propia |
+
+### Lectura obligatoria de cada fila
+
+Para saber “qué hizo evolucionar a quién”, cada fila debe poder contestar estas cinco preguntas:
+
+1. ¿Cuál era el estado anterior de cada persona?
+2. ¿Qué acción, pérdida, encuentro o decisión produjo el cambio?
+3. ¿Qué aprendió o empezó a hacer la persona afectada?
+4. ¿A quién influyó después y mediante qué conducta observable?
+5. ¿Qué evidencia demuestra que el cambio persistió cuando Max no estaba presente?
 
 ## Puntos de inflexión confirmados
 
