@@ -1,7 +1,11 @@
 # Torin — Ficha Canónica Completa
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Torin es capitán de guardianes de Gutiérrez Estate y aventurero A de espada y escudo. Su defensa territorial de Tornhaven y Pequeño Zhong-Kyo no lo convierte en guardaespaldas pasivo de Max.
+
+## VOZ Y COMPORTAMIENTO EN ESCENA
+
+Habla con economía y deber: frases funcionales sobre turnos, rutas, suministros y protección. Su afecto aparece en la utilidad —«esto sí sirve»— más que en discursos; puede desescalar y organizar relevos sin perder firmeza.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
 No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.

@@ -1,7 +1,11 @@
 # Lyssa
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Lyssa es arquera, guardiana A de Gutiérrez Estate y compañera de Torin y Kael. No es Lyra Swiftwind ni la versión anulada de luchadora dual.
+
+## VOZ Y COMPORTAMIENTO EN ESCENA
+
+Habla poco, de forma competitiva y orientada a precisión verificable. Pide un arco propio y mide resultados; su deseo de validación no debe borrarle disciplina ni convertirla en alguien ruidosa o genérica.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
 No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.

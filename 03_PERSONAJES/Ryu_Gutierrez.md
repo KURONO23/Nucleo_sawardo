@@ -1,7 +1,11 @@
 # Ryu Gutiérrez — Ficha Canónica y Hoja de Hitos
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Ryu Gutiérrez tiene 18 años, es hermano mayor de Kenji y hermano adoptivo de Max. Guerrero A alto, primer oficial del Serath-Maru y enlace de Pequeño Zhong-Kyo, combina presión física con responsabilidad de rutas y comunidad.
+
+## VOZ Y COMPORTAMIENTO EN ESCENA
+
+Habla como hermano y guerrero joven: directo, vivo, capaz de discutirle a Max de igual a igual con un «muy bien, imbécil» sin perder afecto. Ante combate o navegación se vuelve concreto y de cobertura; su entusiasmo por rivales fuertes debe mostrar el esfuerzo por no malgastar energía.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
 No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.

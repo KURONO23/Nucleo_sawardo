@@ -1,7 +1,11 @@
 # Kael Ironheart
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Kael Ironheart es el mismo guardián espadachín dual antes registrado de forma fragmentada: aventurero A y protector de Estate, amigo de Biro, Torin y Lyssa. Su interés afectivo en desarrollo es Natalia, no Amane.
+
+## VOZ Y COMPORTAMIENTO EN ESCENA
+
+Directo, informal y sociable; puede llamar `Boss` a Max en montaje y bromear sin perder atención a la tarea. Su competitividad debe mostrar adaptación y moderación de agresividad; con Natalia hay cercanía y torpeza contenida, no pareja ya hecha.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
 No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.

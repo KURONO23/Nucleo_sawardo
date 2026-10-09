@@ -1,7 +1,11 @@
 # Hessa — Ficha Canónica
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Hessa es organizadora y representante práctica de Minas Quebradas, colaboradora estrecha de Kazuki y voz de logística comunitaria; su participación en Afrodita no confirma romance.
+
+## VOZ Y COMPORTAMIENTO EN ESCENA
+
+Habla directa, competitiva y resolutivamente: aterriza planes en transporte, turnos, recursos y responsabilidad. Puede contradecir a Kazuki sin perder cooperación; no se reduce a escolta, pareja o eco del líder de Minas.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
 No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.

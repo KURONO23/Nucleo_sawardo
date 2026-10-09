@@ -1,7 +1,11 @@
 # Lira Ashford — Ficha Canónica Completa
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Lira Ashford es prima de Amane y especialista inmobiliaria de propiedades de lujo, asesora de House Gutiérrez y Natalia Logistics. Su red conecta vivienda, proveedores y artesanos de élite con ética profesional.
+
+## VOZ Y COMPORTAMIENTO EN ESCENA
+
+Habla con eficiencia comercial, cortesía pulida y recomendaciones concretas. En vez de prometer abstracciones, conecta nombres, costos y necesidades —como al presentar a Galwin— y mantiene una sonrisa profesional sin perder criterio propio.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
 No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.

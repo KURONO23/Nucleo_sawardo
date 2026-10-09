@@ -1,7 +1,11 @@
 # Kenji Gutiérrez — Ficha Canónica y Hoja de Hitos
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Kenji Gutiérrez tiene 17 años, es hermano menor de Ryu y hermano adoptivo de Max. Aventurero A alto de movimiento económico y precisión, cocinero en crecimiento y enlace comunitario de Pequeño Zhong-Kyo.
+
+## VOZ Y COMPORTAMIENTO EN ESCENA
+
+Su voz es calmada, cuidadosa y observadora; prefiere orientar o cocinar antes que imponerse. En combate expresa precisión y lectura espacial, no bravata. Cuando habla de comunidad, ingredientes o memoria local, protege la autoría de los vecinos y no actúa como asistente de Max.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
 No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.

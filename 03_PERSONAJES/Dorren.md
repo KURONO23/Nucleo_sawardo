@@ -1,7 +1,11 @@
 # Maestro Dorren — Ficha Canónica Completa
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Dorren es maestro mayor de obras, contratista de piedra y carpintería pesada de Gutiérrez Estate. Defiende a su cuadrilla por experiencia laboral, no por servilismo a Max.
+
+## VOZ Y COMPORTAMIENTO EN ESCENA
+
+Habla con mando práctico y tono paternal: llama a medir, comer y volver al trabajo. Valora plazo, marco, salario y seguridad; ante innovación pide prueba y encaje material antes de aceptar entusiasmo ajeno.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
 No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
