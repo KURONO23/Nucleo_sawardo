@@ -19,6 +19,10 @@ Deja de tratar las relaciones como objeto de experimento y empieza a aceptar con
 - Max, Aria y Pequeño Zhong-Kyo: acceso condicionado a consentimiento, reglas comunitarias y no apropiación cultural.
 - Casa Ardel / Veylan: frente investigativo, no afiliación operativa.
 
+## VOZ VIGENTE
+
+Como Mizuki, habla desde la observación de redes humanas, con cuidado para distinguir lectura, evidencia y posibilidad. No es omnisciente ni emocionalmente neutra: admite daño, escucha límites y no usa análisis para reclamar perdón. Con Max, en la intimidad recuperada de dos reencarnados japoneses, puede decir **«Max-san»**; ese registro no la absuelve ni la convierte en aliada automática.
+
 ## RUTA AUTÓNOMA — `SEMILLA`
 Contrastar la pista Veylan sin contaminar evidencia ni convertir su lectura social en veredicto. La red, el financiador y toda resolución siguen abiertos.
 

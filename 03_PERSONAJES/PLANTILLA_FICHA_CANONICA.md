@@ -9,6 +9,14 @@
 - Límites, secretos y datos todavía desconocidos.
 - Relaciones confirmadas; distinguir amistad, interés, pareja, matrimonio y rivalidad.
 
+## 1.1 Voz y comportamiento en escena — obligatorio
+
+- Ritmo, vocabulario, grado de formalidad, silencios, humor, reacciones y gestos recurrentes que estén confirmados.
+- Cómo cambia entre público, intimidad, combate, trabajo y crisis.
+- Tratamientos, apelativos y alias permitidos, con contexto de uso. Ejemplo: un apodo privado no autoriza uso público.
+- La voz se extrae de diálogo y conducta de la fuente; si no existe prueba, registrar `VOZ AÚN NO LOCALIZADA` y nunca rellenar con un arquetipo.
+- No resumir a nadie como "analítico", "cálido" o "noble" sin explicar cómo se manifiesta al hablar y responder.
+
 ## 2. Estado vigente — 5 de Floris, Año 3
 
 - Ubicación o frente actual, responsabilidad, conocimiento operativo y asunto abierto.

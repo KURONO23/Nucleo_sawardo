@@ -10,13 +10,16 @@ No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT
 Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Max: aliado terrestre y amigo entrañable. En confianza privada lo llama **Max-san**; él puede llamarla **Bakarina** con afecto, apodo aceptado solo en ese marco.
+- Serath y Celene: referentes y protectoras de su vida de corte.
+- Sayaka/Evelyn: contraparte japonesa y amistad de conversación íntima.
+- Aria y Mizuki: colaboradoras con quienes contrasta información sin renunciar a su dirección estratégica.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Conducir la contraoperación Ravenwood y contrastar Veylan sin dejar que Max le resuelva su arco. El siguiente movimiento sigue sujeto a evidencia; no hay infiltración o desenlace ya consumado.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+Fuente primaria: `00_FUENTES/historia_original/`, especialmente el tramo 26 de Bruma–4 de Floris. `Max-san` y `Bakarina` son guardarraíles de voz, no bromas prescindibles.
 
 ## ADENDA — 1 A 4 DE FLORIS, AÑO 3
 

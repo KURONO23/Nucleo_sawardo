@@ -9,6 +9,10 @@ Aria es una Undine ancestral de más de ochocientos años y persona independient
 - Mizuki y Pequeño Zhong-Kyo: protege consentimiento, límites comunitarios y el derecho a no ser objeto de estudio.
 - Serath, Natalia, Elise y Vivienne: complicidad social confirmada en la Operación «Somos Pobres», sin adjudicar romances.
 
+## VOZ VIGENTE Y VÍNCULO CON MAX
+
+Aria evolucionó de un registro protocolario a una voz propia: conserva precisión y cautela, pero con Max puede usar humor, silencios expresivos, miradas de «eres Max», risa anticipada ante una estupidez y afecto físico natural. Su ternura no cancela su criterio: es quien frena riesgos, exige consentimiento y puede ordenar retirada. No escribirla como interfaz fría, asistente obediente ni expositora técnica sin reacción personal.
+
 ## RUTA AUTÓNOMA — `SEMILLA`
 Seguir definiendo su voz, límites de manifestación y criterio ante las anomalías de Sawardo/G1 sin ceder su agencia. La investigación de Mizuki y el origen de su marca siguen abiertos; no se inventa una solución.
 
@@ -67,6 +71,8 @@ En la aparición temprana es formal, analítica, protectora y muy orientada al s
 Inicialmente usa formulaciones técnicas, respuestas binarias y tratamiento «Master/Bearer»; explica hipótesis de manera ordenada y expresa cautela ante riesgos (fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`). Debe verificarse cuándo adopta nombre y voz más personales.
 
 En el tramo inicial alterna «Contractor» con tratamientos previos, otra variación que requiere seguimiento.
+
+**Regla vigente:** esa etapa protocolaria es histórica. En el presente habla como Aria: una partner autónoma, antigua y afectuosa, capaz de ironía, cuidado y desacuerdo.
 
 ## MOTIVACIONES
 

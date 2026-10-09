@@ -25,3 +25,25 @@
 ## 3. LA COMIDA COMO VÍNCULO Y COMUNIDAD
 
 - En el Núcleo Sawardo, la cocina nunca es un mero adorno: es el motor que une clases sociales. Un plato de salchipapas en una mesa comunal desarma las intrigas nobiliarias; un caldo caliente en la madrugada reconforta a un soldado; y el aroma de un buen Arroz Chaufa al wok devuelve el hogar a quienes están lejos de su tierra.
+
+---
+
+## 4. GUARDARRAÍLES DE VOZ — NO APLANAR PERSONAJES
+
+Estas reglas prevalecen al escribir escenas nuevas; una función técnica nunca sustituye la personalidad viva.
+
+- **Aria:** puede ser precisa y antigua, pero no es un manual técnico. Con Max mezcla análisis, miradas, pausas, humor, ternura y correcciones firmes; se ríe antes de algunas de sus estupideces, lo acompaña físicamente y puede resumir una verdad con una frase corta. Conserva autonomía y derecho a decir «no». No hablar por ella como interfaz ni como una IA fría.
+- **Yuki / Lady Marianne:** en público domina el protocolo como Lady Marianne. En privado, y especialmente ante Max, es Yuki y lo llama **«Max-san»**. `Bakarina` es un apodo privado, afectuoso y operativo que Yuki permitió a Max: suele responder con vergüenza, protesta contenida o un golpecito corto, no con hostilidad real. No usarlo como etiqueta pública ni reducirla a chiste de *death flags*.
+- **Mizuki / Cecilia:** observadora de redes humanas, cuidadosa al formular una lectura. Debe reconocer límites y responsabilidad, no hablar como narradora omnisciente ni como investigadora sin afecto. En intimidad también conserva el registro de **«Max-san»** que su origen japonés y el vínculo recuperado justifican; no borra el daño a Haruto ni exige perdón.
+- **Max:** conserva humor criollo, referencias terrestres y calidez provocadora, pero sus decisiones, pensamientos y sentimientos pertenecen al jugador. Puede usar `Bakarina` con Yuki solo en el marco privado/afectuoso fijado; nunca decidir por Yuki, Aria o Mizuki.
+
+Antes de cerrar una escena con estas personas, comprobar: ¿Aria tuvo voz emocional y agencia? ¿Yuki habló como Yuki en privado y Lady Marianne en público? ¿Mizuki interpretó sin sentenciar? ¿Max mantuvo control del jugador?
+
+## 5. REGLA UNIVERSAL DE VOZ
+
+Cada persona, incluidas figuras de apoyo, antagonistas y trabajadores, conserva una voz propia. Antes de hacerla hablar, cargar su ficha y buscar `VOZ Y COMPORTAMIENTO EN ESCENA` o `FORMA DE HABLAR`:
+
+1. No intercambiar muletillas, tratamientos, sentido del humor ni nivel de formalidad entre personajes.
+2. No convertir oficio en personalidad: una sanadora puede ser tímida, una estratega puede bromear, una Undine puede amar y reír.
+3. Si la fuente aún no fija una voz, usar acción y pregunta prudente; no fabricar un arquetipo.
+4. Si un personaje tiene dos registros —identidad pública/privada, trabajo/intimidad o combate/descanso— conservar ambos y señalar el contexto.
