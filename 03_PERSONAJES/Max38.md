@@ -23,6 +23,12 @@
 - Quiere acudir a una futura recepción con Serath, Aria, Natalia, Elise y Vivienne. La fecha no existe todavía y Max no ha ejecutado la broma ante nobles.
 - Fuente: `00_FUENTES/historia_original/AÑO_3/11_26_Bruma_Año_3.md`, líneas 1–1539.
 
+## PUNTO DE GIRO — DEPRESIÓN, TORRE Y AGUJA MUERTA
+
+En un tramo de Año 2, Max salió solo porque estaba deprimido y necesitaba caminar y aislarse. No fue a la Torre siguiendo una misión: empezó a experimentar con su interfaz, imaginó una red local y preguntó por estructuras compatibles para ampliar la señal. Esa deriva creativa detectó patrones que condujeron a la Aguja Muerta, cerca de Brenna.
+
+El hallazgo le devolvió propósito y ánimo, pero no elimina su vulnerabilidad emocional. Al explicárselo a Aria y reunir después a Haruto y Amane, convirtió una necesidad personal en la base de un proyecto colectivo: Red de Nodos, contrato de mantenimiento de Galwin, G1, protocolos de seguridad y crecimiento autónomo del equipo. Véase [[PUNTO_DE_GIRO_TORRE_Y_NODOS]].
+
 ## ADDENDUM DE EDAD — 26 DE BRUMA, AÑO 3
 
 - Edad inicial canónica: **38 años**.

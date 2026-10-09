@@ -5,6 +5,12 @@
 
 ---
 
+## Punto de origen humano — depresión de Max y descubrimiento de la Red
+
+La Red no nació de una orden administrativa. Max llegó deprimido a la Torre de los Nombres, necesitó aislarse y convirtió ese estado en una exploración creativa de compatibilidad, señal y repetidores. La Torre lo condujo hacia la Aguja Muerta, cerca de Brenna; al compartir el hallazgo con Aria, Haruto y Amane, una crisis privada se transformó en investigación colectiva.
+
+Este origen explica por qué el proyecto combina ingeniería, acompañamiento emocional, seguridad y autonomía del equipo. Véase [[PUNTO_DE_GIRO_TORRE_Y_NODOS]].
+
 ## 1. NATURALEZA Y ARQUITECTURA DE LA RED
 
 - **Definición:** Antigua red interdimensional de transporte, comunicación y estabilización de planos previa a la era actual de Altea.

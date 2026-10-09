@@ -11,6 +11,8 @@
 - [[05_CONTINUIDAD/RUTA_OPTIMA_DE_CRECIMIENTO_DEL_ELENCO_AÑO3|Ruta óptima de crecimiento del elenco]]
 - [[05_CONTINUIDAD/PROTOCOLO_EVOLUCION_UNIVERSAL_ESTILO_ARIA_AÑO3|Protocolo universal de evolución — modelo Aria]]
 - [[05_CONTINUIDAD/PROTOCOLO_EVOLUCION_UNIVERSAL_ESTILO_KAZUKI_AÑO3|Protocolo universal de evolución — modelo Kazuki]]
+- [[05_CONTINUIDAD/PUNTO_DE_GIRO_TORRE_Y_NODOS|Punto de giro: depresión de Max y descubrimiento de la Red]]
+- [[05_CONTINUIDAD/REGISTRO_PUNTOS_DE_INFLEXION|Registro de puntos de inflexión]]
 - [[05_CONTINUIDAD/ESTADO_RELACIONES_Y_ROMANCES_AÑO3|Relaciones y romances]]
 - [[06_AGENTES/AGENT_REGISTRY|Registro de agentes y perfiles Luna]]
 - [[06_AGENTES/PERFILES_ANTIGRAVITY_GEMINI|Perfiles equivalentes para Antigravity/Gemini]]
