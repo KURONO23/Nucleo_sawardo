@@ -65,6 +65,14 @@ historias/<nombre>/
 - Mantén separados los borradores, el canon y las notas de revisión.
 - Usa nombres de archivo claros y estables.
 
+## Fichas canónicas de personaje
+
+- Toda ficha de `03_PERSONAJES/` debe converger hacia [[PLANTILLA_FICHA_CANONICA]]: identidad estable, estado vigente, cronología, evolución causal, relaciones vivas, ruta autónoma y fuentes/correcciones.
+- Al crear una persona nueva, copiar la plantilla antes de registrar datos. No se considera ficha válida una nota que solo contenga nombre, rango o apariencia.
+- Para una persona existente, conservar cada hecho previo y reorganizarlo de manera aditiva; nunca borrar microinteracciones, correcciones, fuentes o estados históricos.
+- `ESTADO VIGENTE` usa el presente narrativo confirmado. `CRONOLOGÍA` conserva lo ocurrido. `RUTA AUTÓNOMA` solo contiene `SEMILLA` o `PENDIENTE`, nunca resultados inventados.
+- Las fuentes de las fichas deben enlazar Markdown de `00_FUENTES/historia_original/`; no usar localizadores de paginación heredados.
+
 ## Proceso creativo
 
 1. Determina el objetivo y el tipo de entrega solicitado.

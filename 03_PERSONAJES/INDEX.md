@@ -44,9 +44,14 @@
 
 - [[Diemos]] — `NO_CANON`; no activar ni recuperar como personaje.
 
-## Regla de ficha
+## Regla obligatoria de ficha
 
-Para un NPC importante nuevo, crear o completar: canon fundacional, apariencia, personalidad, forma de hablar, motivaciones, clase/profesión, rango, habilidades, relaciones, conocimiento, secretos, evolución, estado actual y referencias. Una ausencia se marca `DESCONOCIDO`; no se rellena por arquetipo.
+Toda persona de `03_PERSONAJES/`, actual o futura, usa [[PLANTILLA_FICHA_CANONICA]]. El orden de lectura obligatorio es: **identidad estable → estado vigente → cronología canónica → evolución causal → relaciones vivas → ruta autónoma → fuentes y correcciones**.
+
+- Para un personaje nuevo, copiar la plantilla completa antes de escribir datos.
+- Para una ficha antigua, migrar su contenido de forma aditiva: ningún hecho, microinteracción, corrección ni estado histórico se borra.
+- Una ausencia se marca `DESCONOCIDO`; una posibilidad, `SEMILLA` o `PENDIENTE`.
+- Solo `ESTADO VIGENTE` guía una escena nueva. La cronología es evidencia histórica, no presente automático.
 
 ## Regla de nombres nuevos
 
