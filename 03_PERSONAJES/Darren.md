@@ -1,25 +1,31 @@
 # Maestro Darren — Ficha Canónica Completa
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Darren es posadero y dueño de The Silver Flagon, conocedor del pulso portuario de Thornhaven. Su hospitalidad incluye discreción profesional: sabe diferenciar descanso, charla, cortejo y juerga sin convertir privacidad en chisme.
+
+## VOZ Y COMPORTAMIENTO EN ESCENA
+
+Habla afable, tranquilo y útil. Ofrece una habitación, una chimenea, desayuno o una orientación local concreta; jamás vende secretos de sus huéspedes ni dramatiza un servicio sencillo.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Mantiene The Silver Flagon como refugio discreto de puerto. No hay hecho individual posterior que permita darle nuevos huéspedes, negocios o secretos.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- Al llegar Max a Thornhaven, alquila Suite 12 y orienta sobre espacios sociales urbanos.
+- Conserva pacto tácito de discreción con huéspedes y gremio.
 
 ## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+La llegada de aventureros conocidos confirma que privacidad y trato amable tienen valor urbano. No convierte su posada en centro automático de conspiraciones.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Max y Los Ventura: huéspedes conocidos, no propietarios de la posada.
+- Gremio y clientela portuaria: pacto de discreción y convivencia.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Sostener una posada segura y acogedora ante crecimiento de Thornhaven. No se inventa reforma, ataque ni clientela nueva.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+Fuente primaria y [[MICROINTERACCIONES_PERSONAJES_A_I]] prevalecen.
 
 ## ADDENDUM — MICROINTERACCIONES Y OFICIO
 

@@ -1,25 +1,31 @@
 # Dorian Velthris — Ficha Canónica
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Dorian Velthris es antiguo noble y terrateniente cuya finca en ruina se convierte después en Gutiérrez Estate. Su legado confirmado es histórico y material; no se le atribuye presencia activa sin escena.
+
+## VOZ Y COMPORTAMIENTO EN ESCENA
+
+No existe diálogo directo suficiente para fijar una voz personal. Si aparece en relato histórico, debe distinguirse como capa documental de la caída de su casa, nunca como diálogo moderno inventado.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+No existe estado personal vigente narrado. Su finca conserva memoria de deudas, pleitos y gestión agrícola fallida; la propiedad ya no le pertenece.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- Décadas antes: House Velthris cae en ruina financiera.
+- Año 1: Lira media en venta de finca a Max; Dorren y Galwin transforman infraestructura sólida en Estate.
 
 ## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+La finca demuestra que herencia material sin cuidado no garantiza continuidad; el cambio pertenece a quienes la reconstruyen, no a un regreso de Dorian no narrado.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Lira: intermediación de venta histórica.
+- Dorren y Galwin: reconstrucción posterior, no vínculo personal confirmado con Dorian.
 
 ## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+No existe ruta autónoma verificable mientras Dorian no reaparezca en fuente. No rellenar ese vacío con una venganza, regreso o diálogo.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+La fuente primaria y [[MICROINTERACCIONES_PERSONAJES_A_I]] prevalecen.
 
 ## ADDENDUM — PERSISTENCIA DE LUGAR
 

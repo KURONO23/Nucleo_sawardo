@@ -1,25 +1,34 @@
 # Capitana Elara Venn — Ficha Canónica Completa
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Elara Venn es oficial veterana de Guardia y Ejército de Aldoria, responsable de intendencia, logística de guarnición y perímetros bajo Serath. No tiene títulos hereditarios no demostrados.
+
+## VOZ Y COMPORTAMIENTO EN ESCENA
+
+Habla poco y de forma reglamentaria: perímetro, suministro, despliegue y riesgo. Fuera de formación puede relajarse con el círculo de Serath, pero no pierde su lectura de seguridad ni adopta intriga de salón como voz principal.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Sostiene seguridad de rutas y celebraciones frente a sabotaje o especulación; no hay despliegue nuevo individual narrado al 5 de Floris.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- Coordina boda de Max y Serath con guardianes de Estate.
+- Participa en despedida de Serath y preserva faceta fraterna fuera de filas.
+- Año 2: blinda rutas de suministros festivos.
 
 ## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+Los eventos masivos le enseñan que seguridad es integración con civiles y logística, no solo cordón militar. Trabaja con inteligencia y política sin confundirse con ellas.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Serath: superior y referente.
+- Darian: compañero veterano.
+- Celene: lectura política complementaria.
+- Maelis: inteligencia que Elara transforma en despliegue.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Revisar rutas y suministros ante presiones nuevas, con decisiones propias de oficial. No se declara una operación ya iniciada.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+La fuente original y [[MICROINTERACCIONES_PERSONAJES_A_I]] prevalecen.
 
 ## ADDENDUM — MICROINTERACCIONES Y AGENCIA
 

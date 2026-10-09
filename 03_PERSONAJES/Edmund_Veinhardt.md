@@ -1,25 +1,34 @@
 # Lord Edmund Veinhardt — Ficha Canónica Completa
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Lord Edmund Veinhardt es patriarca de House Veinhardt y representante de nobleza terrateniente conservadora. Defiende jerarquía estamental, mano de obra contenida y privilegios; su oposición funciona a través de costos, crédito y procedimiento.
+
+## VOZ Y COMPORTAMIENTO EN ESCENA
+
+Habla con formalismo severo y clasista. Antes de decidir, apunta a columnas, aforo, duración, consumo, transporte y costos; no lo escribir como villano emocional plano ni como alguien incapaz de reconocer logística.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Continúa como oposición procedimental contenida por Corona, Celene y Maelis; no hay ofensiva nueva confirmada al 5 de Floris.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- Conflicto inicial: rechaza salarios y alimentación justos de la obra de Estate.
+- Con Credence y Marlowe intenta imponer presión mediante quince guardias; la neutralización no sangrienta expone al bloque al ridículo.
+- Año 2: analiza *Austin Powers* como sistema económico y logístico, no como experiencia emocional.
 
 ## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+La derrota pública reemplaza presión directa por bloqueo de crédito, gremios y pasillos. El teatro le añade herramientas de lectura institucional sin volverlo aliado.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Credence y Marlowe: bloque conservador.
+- Max: némesis económica y social.
+- Aldric: autoridad que debe acatar con resentimiento.
+- Celene y Maelis: vigilancia política y de contrainteligencia.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Organizar oposición mediante procedimiento y economía, sin que se canonice boicot, sabotaje o resultado fuera de escena.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+Fuente principal: `00_FUENTES/historia_original/` y [[MICROINTERACCIONES_PERSONAJES_A_I]].
 
 ## ADENDA — LECTURA ECONÓMICA DE AUSTIN POWERS
 
