@@ -1,6 +1,6 @@
 # Enriquecimiento causal del elenco
 
-> Addendum transversal. No reemplaza fichas de `03_PERSONAJES/`; explica cómo los puntos de inflexión producen evolución individual y cómo esa evolución repercute en otras personas. Si una consecuencia todavía no tiene escena, queda marcada como pendiente.
+> Índice transversal de trazabilidad. No reemplaza ni sustituye fichas de `03_PERSONAJES/`; señala qué crecimiento debe añadirse dentro de cada ficha existente y cómo los puntos de inflexión repercuten en otras personas. Si una consecuencia todavía no tiene escena, queda marcada como pendiente.
 
 ## Regla de lectura
 
