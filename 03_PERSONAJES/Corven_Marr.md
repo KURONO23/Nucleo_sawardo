@@ -1,25 +1,32 @@
 # Corven Marr
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Corven Marr es observador político de identidad, presión y sistemas de control. Su frente Ravenwood/Ardel/Veylan es propio: no equivale a nobleza tradicional, a Cecilia ni a una afiliación automática con Marlowe.
+
+## VOZ Y COMPORTAMIENTO EN ESCENA
+
+Habla y actúa mediante preguntas, pruebas y presión indirecta. Lee reacciones, no proclama certezas; su error posible es reducir a Max a hambre de poder e ignorar libertad, afecto y curiosidad.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Provoca respuestas medibles en Ravenwood junto a Verrick, Orren y Severin. Sabe que Veylan está en el circuito, pero no conoce al patrocinador final ni está probado que identifique a Marcos como Max.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- Año 2: observa *Austin Powers* como lectura de cambio de tono y reacción colectiva.
+- 1–4 de Floris: cambia de observación pasiva a presión, dependencias, rumores, intermediarios y financiación por capas.
 
 ## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+La cultura le muestra que el significado también organiza poder; Ravenwood lo lleva a probar qué se considera intolerable. La investigación sigue siendo peligrosa, no una resolución.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Verrick, Orren y Severin: circuito de Casa Ardel.
+- Yuki/Ravenwood y Max/Marcos: objetivos de observación, no conocimiento total.
+- Patrocinador externo y Veylan: hilos incompletos.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Preparar infiltración plausible mediante proveedor o contrato, sin canonizar entrada, éxito, captura ni descubrimiento de Marcos.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+Fuentes: `00_FUENTES/historia_original/AÑO_2/06_15_Ambar_a_25_Ambar_Año_2.md`, `AÑO_2/05_26_Solalto_a_14_Ambar_Año_2.md` y [[OPERACION_RAVENWOOD_ARDEL_VEYLAN]].
 
 ## ADENDA — OPERACIÓN RAVENWOOD, 1–4 DE FLORIS, AÑO 3
 

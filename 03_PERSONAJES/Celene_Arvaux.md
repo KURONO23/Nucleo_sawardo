@@ -1,25 +1,33 @@
 # Lady Celene Arvaux — Ficha Canónica Completa
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Lady Celene Arvaux es consejera, diplomática y estratega de salón de Serath Vale. Lee alianzas, gestos y repeticiones de argumentos para construir mapas políticos preventivos.
+
+## VOZ Y COMPORTAMIENTO EN ESCENA
+
+Habla con compostura aristocrática, ironía precisa y preguntas que obligan a revelar intereses. No grita ni se precipita: convierte rumor en patrón, y protocolo en una forma de defender a Serath sin hablar por ella.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Permanece como ancla política del círculo de Serath frente a casas resentidas y preserva legitimidad institucional del matrimonio sin reducir a Serath a esposa de Max.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- Año 2: identifica repetición de argumentos de Marlowe, Credence y Veinhardt y prefiere observar para mapear influencia.
+- En el teatro organiza presencia institucional de Serath junto a Elara, Maelis, Helena y Marianne.
 
 ## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+La oposición le confirma que una respuesta pública impulsiva puede ocultar la red real; su método de observación convierte rumor en inteligencia política sin apropiarse de la voz de Serath.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Serath: consejera y defensora de su posición institucional.
+- Elara y Maelis: contrapartes militares del círculo.
+- Yuki: interlocutora de etiqueta y diplomacia.
+- Marlowe, Credence y Veinhardt: adversarios observados.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Seguir separando rumor de red de influencia y aconsejar a Serath sin decidir por ella. No hay operación nueva ya ejecutada.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+La fuente primaria y [[MICROINTERACCIONES_PERSONAJES_A_I]] prevalecen.
 
 ## ADDENDUM — MICROINTERACCIONES Y APRENDIZAJE
 

@@ -1,25 +1,31 @@
 # Cassian Vyre — Ficha Canónica
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Cassian Vyre es informante clandestino y corredor de secretos vinculado históricamente a House Marlowe. Su identidad, lealtad última y resolución de sus contradicciones se mantienen abiertas por canon.
+
+## VOZ Y COMPORTAMIENTO EN ESCENA
+
+Pregunta, negocia y retiene información. Habla como quien mide el valor de cada dato y evita comprometerse de más; no debe dar confesiones limpias ni actuar como fuente fiable sin coste o contraste.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Sigue activo con prudencia en distritos comerciales y tabernas tras la consolidación de House Gutiérrez; Natalia y Maelis lo vigilan como posible canal de desinformación.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- Opera como enlace de chismes, movimientos financieros y cotizaciones para Marlowe.
+- La vigilancia civil y militar lo mantiene en circulación bajo riesgo, sin resolver su doble juego.
 
 ## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+El aumento de vigilancia transforma su oficio: cada negociación exige distinguir información útil de cebo. No se afirma que haya cambiado de bando.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- House Marlowe: vínculo histórico de información.
+- Natalia y Maelis: redes que lo vigilan y pueden usar desinformación controlada.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Sobrevivir a la presión comercial sin revelar su lealtad. Ninguna entrega, traición o captura está confirmada.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+La fuente primaria y [[MICROINTERACCIONES_PERSONAJES_A_I]] prevalecen; conservar la contradicción sin resolución artificial.
 
 ## ADDENDUM — MICROINTERACCIONES Y CONTRADICCIÓN PRESERVADA
 
