@@ -18,6 +18,7 @@ Memoria canónica y sistema modular para el roleplay de **Los Ventura**.
 
 - Economía: [[FINANZAS_CANON_VIGENTE]].
 - Puntos de inflexión y consecuencias: [[REGISTRO_PUNTOS_DE_INFLEXION]].
+- Evolución individual e influencia entre personajes: [[ENRIQUECIMIENTO_CAUSAL_DEL_ELENCO]].
 - Cultura y adopciones: [[LEGADO_CULTURAL_DE_MAX]].
 - Expedientes por obra, Cerveza Esmeralda y Festival: [[CULTURA_DE_ALDORIA_INDICE]].
 - Fuente corriente más reciente integrada: delta RP `07_ROLEPLAY/DELTA-RP-4_5_FLORIS_A3_CHAT_2026-10-08.md`; la matriz original continúa siendo intocable.
