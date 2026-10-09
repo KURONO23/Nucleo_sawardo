@@ -1,25 +1,41 @@
 # REGISTRO HISTÓRICO — ANTIGUA ETIQUETA “KAEL EXPLORADORA”
 
-## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+## 1. Identidad estable
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+- **Canon vigente y resolución:** La exploradora veterana de Blackpeak se llama oficialmente **[[Romina_Exploradora_Blackpeak|Romina]]**.
+- **Propósito de esta ficha:** Este archivo se mantiene como redirección y preservación de trazabilidad histórica para no romper enlaces ni citas de fuentes anteriores a la auditoría canónica.
+- **Regla inviolable:** No crear, narrar ni inventar un tercer personaje llamado «Kael exploradora».
 
-## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+## 1.1 Voz y comportamiento en escena — obligatorio
 
-## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+- Consultar la ficha canónica de [[Romina_Exploradora_Blackpeak]]: voz áspera, directa, curtida por expediciones de alta montaña y advertencias técnicas sobre wyverns en The Cracked Shield.
 
-## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+## 2. Estado vigente — 5 de Floris, Año 3
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+- Redirigido formalmente hacia [[Romina_Exploradora_Blackpeak]].
 
-## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+## 3. Cronología canónica
+
+- Hechos preservados íntegramente bajo la titularidad de [[Romina_Exploradora_Blackpeak]].
+
+## 4. Evolución causal
+
+- Ver evolución y punto de inflexión en [[Romina_Exploradora_Blackpeak]].
+
+## 5. Relaciones vivas
+
+- Consultar tabla de relaciones en [[Romina_Exploradora_Blackpeak]].
+
+## 6. Ruta autónoma — `PENDIENTE`
+
+- Canalizada a través de [[Romina_Exploradora_Blackpeak]].
+
+## 7. Fuentes y correcciones
+
+- `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`.
+- **Corrección autoral:** Nombre fijado como Romina para evitar homonimia con [[Kael_Ironheart]].
+
+---
 
 > **Canon vigente:** la exploradora de Blackpeak se llama **Romina**. Este archivo se conserva como redirección histórica para no romper fuentes antiguas; no crear ni narrar una persona separada llamada “Kael exploradora”. Usar [[Romina_Exploradora_Blackpeak]].
 

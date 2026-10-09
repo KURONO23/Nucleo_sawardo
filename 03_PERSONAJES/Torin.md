@@ -1,26 +1,82 @@
 # Torin — Ficha Canónica Completa
 
-## Identidad estable
-Torin es capitán de guardianes de Gutiérrez Estate y aventurero A de espada y escudo. Su defensa territorial de Tornhaven y Pequeño Zhong-Kyo no lo convierte en guardaespaldas pasivo de Max.
+## 1. Identidad estable
 
-## VOZ Y COMPORTAMIENTO EN ESCENA
+- **Nombre:** Torin.
+- **Origen:** Hijo de un veterano de la guardia en una aldea norteña; educado en el deber y la disciplina marcial.
+- **Cargo y Rol:** Capitán de guardianes de Gutiérrez Estate y comandante de patrullas territoriales entre Aldoria y Thornhaven.
+- **Clase / Combate:** Guerrero pesado de espada ancha y escudo en torre; especialista en líneas de contención y contraataques defensivos.
+- **Rango:** **Oficial A del Gremio**. Ascendió desde B tras el entrenamiento de 20 días en Sawardo y la reevaluación pública de Kira.
+- **Cumpleaños:** **2 de Ventisca** (Día 596).
+- **Personalidad:** Pragmático, lacónico, de pocas palabras y sentido común impecable. Valora la preparación, el relevo a tiempo y el deber cumplido sin buscar medallas.
 
-Habla con economía y deber: frases funcionales sobre turnos, rutas, suministros y protección. Su afecto aparece en la utilidad —«esto sí sirve»— más que en discursos; puede desescalar y organizar relevos sin perder firmeza.
+## 1.1 Voz y comportamiento en escena — obligatorio
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+- **Ritmo y vocabulario:** Economía absoluta de palabras y sentido práctico: frases funcionales sobre turnos, rutas, suministros, puntos ciegos y protección.
+- **En servicio / patrulla:** Firme, calmo y desescalador. No alza la voz innecesariamente; organiza relevos y perímetros con gestos precisos.
+- **Expresión de afecto y lealtad:** Su afecto aparece en la utilidad concreta más que en discursos: *«Esto sí sirve»* (su respuesta al recibir equipo funcional en su cumpleaños). Cuando le preguntan qué quería de niño, responde simplemente: *«Un escudo»*.
+- **Voz en escena confirmada:**
+  > «Mi espada y mi escudo están jurados a la defensa de esta casa y de esta gente. Si hay peligro en los caminos de Tornhaven o en los muros de la finca, allí estaré.»  
+  — Torin durante el despliegue de patrullas.
 
-## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+## 2. Estado vigente — 5 de Floris, Año 3
 
-## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- **Ubicación:** Gutiérrez Estate y enlaces de patrulla perimetral en Thornhaven y Pequeño Zhong-Kyo.
+- **Responsabilidad actual:** Coordinación de la defensa territorial junto a Ryu y Kenji Gutiérrez; supervisión de turnos de guardia de la finca.
+- **Asunto abierto:** Presentación ante Guildmaster Kira de la petición de **Vigilia del Umbral** para formalizar la ronda entre la finca, Casa del Puente y los muelles.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## 3. Cronología canónica
 
-## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+### Año 1
+- Contratado junto a Kael Ironheart y Lyssa como guardián de Gutiérrez Estate.
+- Completa el entrenamiento de 20 días subjetivos bajo la tutela de Max.
+- Neutraliza pacíficamente junto a Los Ventura a la comitiva hostil de los quince guardias de Veinhardt y Credence.
+- Reevaluación pública de Kira: ascenso oficial a Rango A.
+
+### Año 2
+- Asume la coordinación de seguridad territorial de Thornhaven y Pequeño Zhong-Kyo junto a Ryu y Kenji Gutiérrez.
+- Cumpleaños celebrado discretamente el 2 de Ventisca; recibe equipo de vigilancia funcional adaptado por Max.
+
+### Año 3
+- Mantiene la seguridad perimetral durante el Festival Internacional de la Cerveza.
+- Presenta a Kira la propuesta de contrato de patrulla «Vigilia del Umbral».
+
+## 4. Evolución causal
+
+### Punto de inflexión: La asimilación del entrenamiento de Max en Año 1
+- **Antes:** Guerrero disciplinado pero limitado a tácticas rígidas de guardia aldeana.
+- **Hecho:** Integró el escudo en torre con movilidad coordinada y lectura espacial de combate.
+- **Cambio:** Se convirtió en el eje defensivo capaz de frenar cuadrillas enteras sin romper formación.
+- **Conducta vigente:** Actúa como líder nato de patrullas y mentor táctico para combatientes más jóvenes como Kenji.
+- **Influencia:** Brinda tranquilidad absoluta a Max y Serath sobre la seguridad física de sus propiedades y seres queridos.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md` y `AÑO_2/07_25_Ambar_a_10_Noctalia_Año_2.md`.
+
+## 5. Relaciones vivas
+
+| Persona o grupo | Estado vigente | Base canónica | Límite |
+|---|---|---|---|
+| Max Josemar Gutiérrez | Empleador, amigo y líder respetado | Lealtad jurada a Gutiérrez Estate | Mantiene criterio de seguridad independiente |
+| Kael Ironheart y Lyssa | Compañeros del trío de guardianes | Entrenamiento y patrullas conjuntas | Respeto a sus especialidades marciales |
+| Ryu y Kenji Gutiérrez | Aliados tácticos en Tornhaven y Pequeño Zhong-Kyo | Operaciones de seguridad territorial | Coordinación fraternal |
+| Misa | Afecto y respeto mutuo | Interacciones comunitarias | Espacio propio sin forzar romance prematuro |
+| Guildmaster Kira | Autoridad gremial evaluadora | Reevaluación de Rango A y peticiones | Sujeción a clasificaciones F–S |
+
+## 6. Ruta autónoma — `SEMILLA`
+
+- **Meta inmediata:** Obtener la certificación oficial de Kira para el Turno de Umbral entre la finca y Casa del Puente.
+- **Obstáculo:** Medir tiempos de respuesta en días de niebla costera densa.
+- **Hito futuro:** PENDIENTE de consolidar un destacamento formal de guardias veteranos para la red del Consorcio.
+
+## 7. Fuentes y correcciones
+
+- `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`
+- `00_FUENTES/historia_original/AÑO_2/07_25_Ambar_a_10_Noctalia_Año_2.md`, líneas 3556–3617.
+- `00_FUENTES/historia_original/AÑO_2/08_11_Noctalia_a_30_Noctalia_Año_2.md`, líneas 11788–11808.
+- [[CURRENT_STATE_5_FLORIS_AÑO3]]
+- [[MICROINTERACCIONES_PERSONAJES_A_I]]
+- **Corrección autoral:** Capitán de guardianes; no reducir a escolta pasivo.
+
+---
 
 > **«Mi espada y mi escudo están jurados a la defensa de esta casa y de esta gente. Si hay peligro en los caminos de Tornhaven o en los muros de la finca, allí estaré.»**  
 > — Torin durante el despliegue de patrullas
@@ -58,18 +114,3 @@ La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorale
 ## PETICIÓN AUTÓNOMA AL GREMIO — VIGILIA DEL UMBRAL — AÑO 3
 
 Torin presenta a Kira la petición de un **Turno de umbral** y una ronda entre la finca, Casa del Puente y las rutas de Thornhaven. Quiere medir tiempos de respuesta, suministros y puntos ciegos; no busca que Max lo rescate ni que Vigilia se convierta en guardia privada absorbida por House Gutiérrez. Solo Kira puede sellarla como contrato F–S.
-
-La petición queda pendiente de clasificación F–S por Kira. Si Max no participa, Torin puede realizar una ronda autónoma con Ryu o Lyssa solo cuando una escena la muestre y entregar un informe de vulnerabilidades. Véase [[MISIONES_PROPUESTAS_POR_NPC_AÑO3]].
-
-## REEVALUACIÓN OFICIAL — ASCENSO A RANGO A
-
-La ficha anterior conservaba el estado B como corte previo a la prueba. Después de que Max patrocinara la solicitud, Kira evaluó a Torin mediante cristal, demostración individual y ejercicio táctico. Confirmó control defensivo, protección de terceros y capacidad consistente de rango A, retiró la tarjeta B y emitió el **ascenso oficial a A**.
-
-Fuente: `00_FUENTES/historia_original/AÑO_1/02_01_Bruma_a_18_Bruma_y_05_Solalto_a_09_Solalto_Año_1.md`, evaluación de Torin, aprox. líneas 6940–7115.
-
-## EVOLUCIÓN CAUSAL — EL ESCUDO QUE APRENDE A ORGANIZAR A OTROS
-
-- El regalo de su escudo y el entrenamiento de veinte días no sustituyen su vocación previa: le dan herramientas para transformar el deber aprendido de su padre en defensa consciente, con límites y relevos.
-- La neutralización sin muerte de la comitiva hostil y la protección de la finca amplían su idea de victoria: sostener una línea puede incluir desescalar, evacuar y responder sin humillar por placer.
-- Coordinar Tornhaven y Pequeño Zhong-Kyo con Ryu y Kenji le da una responsabilidad territorial real. Ya no es solo guardaespaldas de Max; aprende a proteger comerciantes, migrantes y rutas aun cuando él no esté.
-- La Vigilia del Umbral pone a prueba su siguiente madurez: formar un turno que sobreviva a su ausencia, no una guardia que dependa de su escudo.

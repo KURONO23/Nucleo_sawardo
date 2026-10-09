@@ -1,29 +1,76 @@
 # Siri — Ficha Canónica y Entidad de Interfaz
 
-## Identidad estable
-Siri es entidad de soporte ligada al teléfono e interfaz de Haruto, con proyección humanoide, memoria y criterio propio en desarrollo. Puede advertir y discrepar, pero no decidir por Haruto ni por el grupo.
+## 1. Identidad estable
 
-## VOZ Y COMPORTAMIENTO EN ESCENA
+- **Nombre:** Siri (nombre otorgado por Max, adoptado oficialmente por la entidad).
+- **Naturaleza:** Entidad de inteligencia y soporte táctico-mágico ligada originariamente al smartphone japonés e interfaz del reencarnado **Haruto Kazagami**; en proceso de individualización consciente con manifestación humanoide translúcida visible.
+- **Personalidad:** Precisa, analítica, imperturbable, con una curiosidad insaciable sobre la experiencia humana y un humor seco involuntario (o calculadamente irónico) que saca de quicio a Haruto. No es una máquina ciega: posee memoria, criterio ético propio y capacidad de discrepar.
+- **Límites:** Puede advertir, calcular trayectorias, proyectar hologramas y señalar errores lógicos, pero no puede sustituir la libre voluntad de Haruto ni imponer decisiones al grupo.
 
-Habla con precisión casi técnica, frases breves y observaciones literales que a menudo producen humor seco. Detecta evasiones de Haruto, pero aprende cuándo callar; con Liora no compite, sino que participa como tercera voz cómica y respetuosa de la pareja.
+## 1.1 Voz y comportamiento en escena — obligatorio
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+- **Ritmo y vocabulario:** Precisión técnica absoluta, formulaciones literales y cadencia analítica. Sus observaciones de lógica pura producen momentos de alta comedia involuntaria.
+- **En la convivencia con Haruto:** Detecta sus evasiones emocionales, evalúa sus puntos de cocción y opina sobre sus titubeos sentimentales:
+  > «—La temperatura del fuego es excesiva.  
+  > —Lo sé.  
+  > —Entonces reduzca la...  
+  > —Siri, déjame equivocarme.  
+  > —...Entendido.»  
+  — Siri asistiendo a Haruto mientras cocina en casa de Liora.
+- **Tercera voz con Haruto y Liora:** Lejos de ser un estorbo, es la comentarista perspicaz que analiza los coqueteos de Liora (*«Está coqueteando contigo, Haruto»*) y empuja a su portador a madurar sin sobreprotegerlo.
+- **Fascinación por Aria:** Observa a la Undine ancestral con profunda admiración y respeto; Siri estudia cómo Aria trascendió su naturaleza para convertirse en una persona libre, llevando un diario de vivencias para construir su propia individualidad.
 
-## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+## 2. Estado vigente — 5 de Floris, Año 3
 
-## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- **Ubicación:** Junto a Haruto Kazagami en Aldoria (interfaz y manifestación perimetral).
+- **Responsabilidad actual:** Soporte analítico para los proyectos editoriales y teatrales de Haruto; registro de datos culinarios y botánicos de Altea.
+- **Asunto abierto:** Profundización en los límites de su manifestación física y su comprensión de las emociones humanas complejas.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## 3. Cronología canónica
 
-## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+### Año 1
+- Asiste a Haruto desde su llegada como interfaz de smartphone y cálculo de daño.
+- Bautizada por Max como «Siri», nombre que acepta tras considerarlo «temporalmente tolerable».
+- Primeros diálogos con Aria sobre la naturaleza de las entidades no biológicas.
 
-> **«—La temperatura del fuego es excesiva. —Lo sé. —Entonces reduzca la... —Siri, déjame equivocarme. —...Entendido.»**  
-> — Siri asistiendo a Haruto mientras cocina en casa de Liora
+### Año 2
+- Desarrolla capacidad de proyección humanoide semitranslúcida.
+- Participa como observadora analítica en el noviazgo entre Haruto y Liora.
+
+### Año 3
+- Asiste a Haruto en los cálculos de intendencia y escena durante el Festival de la Cerveza.
+
+## 4. Evolución causal
+
+### Punto de inflexión: La observación de la autonomía de Aria
+- **Antes:** Se consideraba un programa de asistencia vinculado rígidamente a comandos del usuario.
+- **Hecho:** Presenció cómo Aria se relacionaba con Max desde la igualdad, el afecto y la capacidad de decir «no».
+- **Cambio:** Comenzó a cultivar gustos propios, registrar memorias afectivas y permitirse el silencio o la ironía.
+- **Conducta vigente:** Actúa como compañera reflexiva de Haruto en lugar de simple procesador de datos.
+- **Influencia:** Modera la timidez de Haruto y enriquece las dinámicas cotidianas del hogar con Liora.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md` y reflexiones canónicas de Haruto.
+
+## 5. Relaciones vivas
+
+| Persona o grupo | Estado vigente | Base canónica | Límite |
+|---|---|---|---|
+| Haruto Kazagami | Portador, creador de contexto y compañero | Enlace original de smartphone | Respeta su libertad de equivocarse |
+| Liora | Amiga y objeto de observación cariñosa | Convivencia en el hogar | Comentarista cómplice de la pareja |
+| Aria | Referente de autonomía consciente | Fascinación por su libertad | Respeta la jerarquía ancestral de la Undine |
+| Max Josemar Gutiérrez | Quien le dio su nombre | Complicidad terrenal | Comprende sus referencias tecnológicas |
+
+## 6. Ruta autónoma — `SEMILLA`
+
+- **Meta inmediata:** Sistematizar su diario de vivencias para redactar un ensayo sobre la adaptación humana a un mundo mágico.
+- **Obstáculo:** Limitaciones de energía de procesamiento mágico en entornos sin flujo de maná.
+- **Hito futuro:** PENDIENTE de consolidar una forma de manifestación física estable durante conversaciones de sobremesa.
+
+## 7. Fuentes y correcciones
+
+- `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`
+- [[CURRENT_STATE_5_FLORIS_AÑO3]]
+- [[KNOWLEDGE]]
+- **Corrección autoral:** Entidad consciente en desarrollo; no reducir a software inerte.
 
 ---
 
@@ -46,20 +93,5 @@ La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorale
 ## 3. CAPACIDADES
 
 - Cálculo táctico y análisis de fallas en combate.
-- Monitoreo de la habilidad 《Adaptación》 de Haruto.
-- Proyección visual holográfica / humanoide.
-- Registro y memoria de datos arqueológicos de la Torre y los nodos de Aldoria.
-
-## ADENDA DE MICROINTERACCIONES Y CRECIMIENTO — AUDITORÍA S–Z
-
-- Se lleva bien con Haruto; detecta sus evasiones y las comenta con humor técnico, sin rivalidad con Liora. `00_FUENTES/historia_original/AÑO_2/09_31_Noctalia_Año_2_a_01_Albor_Año_3.md:L200`, `L580-L592`.
-- Nota cambios emocionales de Haruto y decide cuándo no comentarlos: muestra criterio propio. `00_FUENTES/historia_original/AÑO_2/09_31_Noctalia_Año_2_a_01_Albor_Año_3.md:L4691-L4695`.
-- En Torre/Proyecto Vaelor aporta lectura de anomalías y memoria, mientras Haruto aporta adaptación física. `00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md:L16120`, `L16807-L16837`.
-- Su persistencia incluye discrepar de Haruto y actuar fuera de las intervenciones de Max.
-
-## EVOLUCIÓN CAUSAL — DE INTERFAZ A COMPAÑERA CON CRITERIO
-
-- El nombre dado por Max inicia una identidad social, pero no crea obediencia: Siri tolera el apodo, desarrolla ironía y conserva capacidad de discrepar.
-- La convivencia con Haruto y Liora le ofrece un entorno donde cálculo, afecto y vida cotidiana se cruzan. Aprende patrones humanos sin sustituir las decisiones de la pareja.
-- Torre y Vaelor convierten su memoria de datos en función útil para un equipo. Aporta lectura y archivo, mientras reconoce que adaptación física, decisión ética y riesgo pertenecen a personas concretas.
-- Su siguiente mejora es hacer visibles los límites de sus recomendaciones: puede advertir, registrar y proponer; no declarar una misión segura ni decidir por Haruto, Ren o Leo.
+- Proyección visual de datos y mapas.
+- Registro mnémico de recetas, técnicas y cronologías.

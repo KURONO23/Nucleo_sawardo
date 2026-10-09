@@ -1,27 +1,73 @@
 # Romina — Exploradora de Blackpeak
 
-## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+## 1. Identidad estable
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+- **Nombre canónico vigente:** Romina.
+- **Oficio y Rango:** Exploradora veterana y rastreadora de alta montaña, Rango A consolidado del Gremio de Aventureros.
+- **Edad / Apariencia:** Mujer en los comienzos de sus cuarenta años, complexión fibrosa y endurecida por el clima alpino, ojos cansados y agudos, y una notoria cicatriz de quemadura en el costado del cuello (secuela de aliento ígneo de wyvern). Lleva su insignia de Rango A parcialmente oculta bajo un capote desgastado pero funcional.
+- **Personalidad:** Cauta, templada por el dolor de pérdidas pasadas, franca y solidaria con quienes demuestran criterio profesional y prudencia en lugar de arrogancia novata.
+- **Regla de diferenciación inviolable:** Esta ficha corresponde exclusivamente a la exploradora veterana antes denominada provisionalmente «Kael exploradora». **NO ES** Kael Ironheart (el espadachín dual de Casa Gutiérrez) ni existe una tercera Kael.
+- **Límites:** Experta en supervivencia, rastreo y etología de monstruos de cumbre; capacidades marciales directas demostradas en retirada táctica y supervivencia extrema, no en combate de choque frontal contra bandadas enteras.
 
-## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+## 1.1 Voz y comportamiento en escena — obligatorio
 
-## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+- **Ritmo y vocabulario:** Áspera, directa, técnica y basada en la dura experiencia. No endulza la realidad ni promete falsas seguridades; enumera patrones concretos de conducta animal, corrientes térmicas de vuelo, cantos de llamada y jerarquías de nido.
+- **Humor y reacciones:** Humor sombrío y seco, forjado tras haber sobrevivido a tragedias en las que vio perecer a camaradas. Reacciona favorablemente ante quienes escuchan con respeto y pagan una ronda honesta.
+- **En escena confirmada (The Cracked Shield):** En la taberna *The Cracked Shield* de Thornhaven, tras recibir una jarra de cerveza de manos de Max y Jasmine, comparte información vital sobre los patrones de caza de los wyverns acorazados de Blackpeak, advirtiendo sobre el líder de la bandada y recordando que de su propia expedición de cuatro solo regresaron tres (`00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
-## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+## 2. Estado vigente — 5 de Floris, Año 3
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+- **Ubicación:** Tabernas y refugios de avanzada entre Thornhaven y las estribaciones de Blackpeak.
+- **Responsabilidad actual:** Asesora libre de expediciones de alta montaña y cartografía de cordilleras para el Gremio de Aventureros.
+- **Asunto abierto:** Seguimiento de las migraciones de bestias aladas tras la pacificación del Nido Mayor en Año 1.
 
-## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+## 3. Cronología canónica
 
-> **Cambio de nombre canónico:** esta ficha reemplaza únicamente la etiqueta confusa “Kael exploradora de Blackpeak”. No es Kael Ironheart ni una tercera Kael. Los hechos, habilidades y relaciones de la ficha anterior se conservan sin modificación.
+### Año 1
+- Encuentro en *The Cracked Shield* con Max y Jasmine; entrega de la información táctica que permitió a Los Ventura planificar la incursión al nido de wyverns de Blackpeak.
+- Su testimonio salva vidas al advertir sobre los hábitos de emboscada aérea de las crías y los centinelas.
+
+### Año 2
+- Mantiene expediciones menores de reconocimiento y cartografía en pasos montañosos del norte.
+
+### Año 3
+- Continúa activa como veterana de rango A consultada por el Gremio para misiones de contención biológica.
+
+## 4. Evolución causal
+
+### Punto de inflexión: La expedición fallida de Blackpeak y el relevo de Max
+- **Antes:** Cargaba con el peso de la expedición donde perdió a su compañero y sentía que el nido de Blackpeak era una trampa mortal insuperable.
+- **Hecho:** Proporcionó su inteligencia a Max, y este liquidó la amenaza rescatando crías vivas y pacificando la montaña.
+- **Cambio:** Sanó el duelo por su cuadrilla al ver cumplida la misión con método y respeto a la naturaleza de la bestia.
+- **Conducta vigente:** Comparte sus conocimientos con jóvenes exploradores para evitar muertes innecesarias.
+- **Influencia:** Su informe fue la piedra angular sobre la que Max construyó su fama de rango A y su fortuna inicial.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`.
+
+## 5. Relaciones vivas
+
+| Persona o grupo | Estado vigente | Base canónica | Límite |
+|---|---|---|---|
+| Max Josemar Gutiérrez | Gratitud profesional y respeto | Asesoría táctica en The Cracked Shield | No tienen vínculo de dependencia contractual |
+| Jasmine | Camarada de taberna | Conversación compartida en Thornhaven | Encuentros esporádicos en el Gremio |
+| Kael Ironheart | Ninguna relación; identidades distintas | Guardarraíl canónico de nombres | Personas totalmente separadas |
+| Gremio de Aventureros | Exploradora de Rango A | Consultora emérita de montaña | Rechaza misiones en llanuras urbanas |
+
+## 6. Ruta autónoma — `PENDIENTE`
+
+- **Meta inmediata:** Elaborar una guía detallada de senderos seguros y pasos invernales a través del macizo de Blackpeak.
+- **Obstáculo:** Desprendimientos de rocas por los deshielos tempranos de primavera.
+- **Hito futuro:** PENDIENTE de publicar un mapa topográfico de las cumbres septentrionales para los archivos del Gremio.
+
+## 7. Fuentes y correcciones
+
+- `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`
+- [[MICROINTERACCIONES_PERSONAJES_J_R]]
+- [[REGISTRO_DE_VIDA_AUTONOMA_Y_METAS_AÑO3]]
+- **Corrección autoral inviolable:** Esta exploradora se llama **Romina**. La etiqueta antigua «Kael exploradora» se conserva solo como redirección histórica.
+
+---
+
+> **Cambio de nombre canónico:** esta ficha reemplaza únicamente la etiqueta confusa «Kael exploradora de Blackpeak». No es Kael Ironheart ni una tercera Kael. Los hechos, habilidades y relaciones de la ficha anterior se conservan sin modificación.
 
 ## IDENTIDAD
 
@@ -53,7 +99,7 @@ En The Cracked Shield, Thornhaven.
 
 ## CONTINUIDAD
 
-Las menciones antiguas al nombre “Kael” que correspondían a esta exploradora se leen ahora como **Romina**. No se modifica Kael Ironheart ni se reinterpreta retrospectivamente cada mención ambigua: cuando la fuente no permita distinguir la identidad, se conserva la ambigüedad y se marca para revisión.
+Las menciones antiguas al nombre «Kael» que correspondían a esta exploradora se leen ahora como **Romina**. No se modifica Kael Ironheart ni se reinterpreta retrospectivamente cada mención ambigua: cuando la fuente no permita distinguir la identidad, se conserva la ambigüedad y se marca para revisión.
 
 ## FUENTE
 

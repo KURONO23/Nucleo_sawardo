@@ -1,22 +1,73 @@
-# Oskar y Maren — Ficha Canónica
+# Maren (y Oskar) — Maestros de Cocina de Casa Gutiérrez
 
-## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+## 1. Identidad estable
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+- **Nombre:** Maren.
+- **Oficio y Cargo:** Maestra de intendencia, jefa de repostería y despensa de Casa Gutiérrez (junto a Oskar).
+- **Apariencia:** Mujer madura en sus tempranos cuarentas, complexión afable, cabello castaño recogido bajo una cofia blanca pulcra, delantal de trabajo impecable y mirada atenta a cada detalle de la mesa.
+- **Personalidad:** Meticulosa, organizada, hospitalaria y maternal con los sirvientes y trabajadores de la finca. Combina firmeza en el control de provisiones con una profunda calidez humana.
+- **Límites:** Centrada en intendencia doméstica, despensa y cocina; no interviene en política exterior ni combate.
 
-## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+## 1.1 Voz y comportamiento en escena — obligatorio
 
-## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- **Ritmo y vocabulario:** Voz templada, clara y afectuosa. Ordena los tiempos de servicio con precisión y vigila que ningún plato salga sin la presentación adecuada.
+- **En la despensa / servicio:** Rigurosa con la rotación de alimentos, el inventario de especias y la frescura de verduras y carnes. Exige limpieza absoluta.
+- **En intimidad / con la familia y trabajadores:** Acogedora. Ofrece té caliente o caldo reconfortante a quienes llegan cansados del viaje; comprende las tensiones de la casa y cuida el bienestar emocional del personal.
+- **Voz en escena confirmada:** Conversa con Oskar en los preparativos de los banquetes, verificando que los ingredientes especiales traídos por Max se traten con la reverencia debida.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## 2. Estado vigente — 5 de Floris, Año 3
 
-## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+- **Ubicación:** Despensa y cocina de Casa Gutiérrez en Thornhaven.
+- **Responsabilidad actual:** Gestión integral de provisiones de la finca, coordinación de compras con el equipo de Natalia Thornwell y supervisión del personal de servicio.
+- **Asunto abierto:** Planificación de reservas de conservas y mermeladas con las primeras cosechas de la temporada.
+
+## 3. Cronología canónica
+
+### Año 1
+- Contratada junto a Oskar durante la refundación de Gutiérrez Estate.
+- Aprende a elaborar postres, panes enriquecidos y bebidas fermentadas con las indicaciones de Max.
+- Garantiza la intendencia impecable de la fiesta de inauguración de la finca.
+
+### Año 2
+- Administra el incremento masivo de provisiones durante las visitas de comitivas nobles y delegaciones de aventureros.
+- Estandariza la despensa para responder a recepciones imprevistas sin alterar los costes de la hacienda.
+
+### Año 3
+- Supervisa el aprovisionamiento de las celebraciones de Año 3 y consolida la reputación de hospitalidad de Casa Gutiérrez.
+
+## 4. Evolución causal
+
+### Punto de inflexión: La administración de una hacienda de rango S
+- **Antes:** Gestionaba despensas pequeñas de posadas con presupuestos muy limitados y mermas frecuentes.
+- **Hecho:** Asumió la jefatura de intendencia de la finca de un héroe de rango S y nobleza emergente.
+- **Cambio:** Desarrolló métodos avanzados de almacenamiento, rotación y previsión de inventario para alimentar a decenas de personas diarias.
+- **Conducta vigente:** Mantiene la despensa abastecida con semanas de anticipación y audita la calidad de cada proveedor local.
+- **Influencia:** Es el pilar de bienestar del personal de servicio y da tranquilidad absoluta a Max y Natalia sobre la vida doméstica.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md` y [[MICROINTERACCIONES_PERSONAJES_J_R]].
+
+## 5. Relaciones vivas
+
+| Persona o grupo | Estado vigente | Base canónica | Límite |
+|---|---|---|---|
+| Oskar | Compañero de vida y trabajo culinario | Colaboración continua en fogones y servicio | Respeto a sus áreas de maestría |
+| Max Josemar Gutiérrez | Empleador y figura de gratitud | Confianza y trato cercano | No sobrepasa los límites del servicio |
+| Natalia Thornwell | Coordinación de presupuesto y nómina | Reportes de gastos de despensa | Respeta escrupulosamente los presupuestos |
+| Empleados domésticos | Jefa de servicio y mentora | Dirección diaria en la finca | Trato humano y exigencia de calidad |
+
+## 6. Ruta autónoma — `SEMILLA`
+
+- **Meta inmediata:** Crear un sistema de deshidratación de frutas y hierbas medicinales para botiquines de la finca.
+- **Obstáculo:** Necesidad de acondicionar salas secas en los pisos superiores del granero.
+- **Hito futuro:** PENDIENTE de establecer un taller de pastelería artesanal para abastecer las tertulias de Casa Gutiérrez.
+
+## 7. Fuentes y correcciones
+
+- `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`
+- [[MICROINTERACCIONES_PERSONAJES_J_R]]
+- [[REGISTRO_DE_LECTURA]]
+- **Corrección autoral:** No reducirla a mera acompañante; posee agencia plena en la intendencia de la finca.
+
+---
 
 > **«Un guiso de taberna necesita fuego lento y buen fondo; pero lo que Max trajo a este puerto... eso es fuego nuevo.»**  
 > — Oskar conversando con Maren en las cocinas del gran banquete
@@ -25,23 +76,20 @@ La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorale
 
 ## 1. IDENTIDAD Y PERFILES
 
-- **Oskar:** Cocinero veterano del mercado sur de Thornhaven y Aldoria; hombre de unos cuarenta y tantos años, robusto, de rostro curtido con cicatrices de viejas quemaduras y ollas pesadas. Especialista en guisos de taberna, caldos densos y carnes asadas tradicionales.
-- **Maren:** Vendedora y cocinera de comida callejera en los muelles de Thornhaven; mujer de unos treinta y tantos años, ágil, rápida de reflejos y con un conocimiento exhaustivo de los pescados y mariscos que bajan de los barcos mercantes.
+- **Oskar:** Maestro cocinero principal de Gutiérrez Estate. Hombre de unos cuarenta y cinco años, de complexión robusta, temperamento afable y corazón generoso.
+- **Maren:** Maestra de intendencia y repostería de la hacienda. Mujer meticulosa, cálida y de gran don de gentes.
+- **Rol:** Ambos forman el corazón cálido de la hacienda, encargados de transformar las recetas innovadoras de Max en realidad para decenas de comensales.
 
 ---
 
 ## 2. PARTICIPACIÓN EN LA REVOLUCIÓN GASTRONÓMICA
 
-- **El Gran Banquete de la Finca:** Tanto Oskar como Maren fueron contratados por Max para apoyar en la preparación de los grandes banquetes populares de House Gutiérrez.
-- **El Intercambio de Técnicas:** Max les enseñó técnicas de cocina criolla y marina (como el sellado rápido de carnes, frituras crujientes y bases de aderezo). Maren aportó su experiencia en el tratamiento del pescado fresco de Tornhaven, mientras Oskar coordinó los hornos pesados para alimentar a cientos de personas.
+- Cuando Max adquirió la hacienda, rescató a Oskar y Maren de la precariedad de las tabernas portuarias y los puso al frente de la cocina más moderna del reino (con fogones de tiro inducido, hornos de hierro y despensas ventiladas).
+- Fueron los primeros en aprender a preparar las míticas papas a la huancaína, lomo saltado, anticuchos y estofados que Max introdujo.
+- Su entusiasmo y maestría permitieron que la comida de la finca se convirtiera en un imán diplomático donde nobles, soldados y aventureros compartían mesa sin distinción de clases.
 
-## EVOLUCIÓN CAUSAL — TRADUCIR NOVEDAD EN OFICIO COSTERO
+## EVOLUCIÓN CAUSAL — COCINA DE OFICIO PARA UNA MESA MÁS GRANDE
 
-- La invitación al banquete no la vuelve ayudante de una receta extranjera: su manejo de pescado y suministros de Tornhaven da a las técnicas nuevas una base que Aldoria puede repetir.
-- Trabajar con Oskar demuestra que una cocina popular necesita cadena de frío, limpieza, hornos y ritmo, además de una idea llamativa. Esa lección la vuelve interlocutora técnica, no simple ejecutora.
-- Su meta es que los platos lleguen a mesas de puerto con ingredientes locales y márgenes honestos. Puede modificar un método de Max si el producto local, la temporada o la seguridad lo exigen.
-- Ambos son el puente gastronómico popular que precedió a la posterior consagración de **La Bruma Azul** en Tornhaven.
-
-## ADDENDUM — CIERRE DE MICROINTERACCIONES
-
-- Mantiene puesto en los muelles, replica frituras con precisión y participa en capacitación de cocina de volumen junto a Oskar (`00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`, 23703–23762 y 24089–24136).
+- Adaptar recetas de taberna a banquetes de hacienda les enseñó a estructurar brigadas de cocina y organizar suministros a gran escala.
+- No dependen de que Max esté presente en la cocina para mantener el estándar: comprenden los fundamentos de sabor, tiempo y temperatura.
+- Su crecimiento autónomo fortalece la estabilidad interna de Casa Gutiérrez.

@@ -1,110 +1,58 @@
 # El Take («Take») — Ficha Canónica y Guía de Voz
 
-## Identidad estable
-Take es uno de los mejores amigos terrestres de Max y supervisor de casino en crucero. Permanece en la Tierra; su ausencia de contacto no es desaparición ni concede conocimiento de Aldoria.
+## 1. Identidad estable
 
-## VOZ Y COMPORTAMIENTO EN ESCENA
+- **Nombre completo:** Take (nombre de cariño y trato habitual entre sus amigos de Lima).
+- **Origen:** Lima, Perú (Tierra).
+- **Oficio:** Trabajador y supervisor de mesas de casino en cruceros turísticos internacionales; antiguo compañero de estudios y juergas nocturnas de Max Josemar Gutiérrez en Lima.
+- **Personalidad:** Pragmático, leal hasta los huesos, callejero, observador agudo de la naturaleza humana, burlón, afectuoso y de risa fácil. Tiene un corazón noble escondido tras una coraza de jerga criolla y sentido común implacable.
+- **Ontología en la narrativa:** Existe en el núcleo como **memoria viva, ancla de identidad terrenal y brújula humana** de Max. **NO existe comunicación mágica ni tecnológica** interdimensional.
+- **Regla canónica fundamental:** **NO está casado ni es pareja sentimental de Aysha**. Son dos amigos completamente independientes de Max.
 
-Habla como causa de confianza: `habla, causa`, `papi`, `ptm`, `qué chucha`, con ráfagas cortas, risas y burlas que bajan la solemnidad. Es práctico, afectuoso y jodón; coordina chelas, vacaciones o Wilson antes que dar discursos largos.
+## 1.1 Voz y comportamiento en escena — obligatorio
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+- **Ritmo y vocabulario:** Jerga criolla limeña pura y distendida: *«¡Habla, causa!»*, *«papi»*, *«ptm»*, *«qué chucha»*, *«vamos por unas chelas»*, ráfagas cortas, carcajadas francas y burlas cariñosas que desarman cualquier solemnidad pretenciosa.
+- **En los recuerdos de Max:** Es la voz que le recuerda a Max de dónde viene, cómo no dejarse marear por el poder ni por títulos pomposos y cómo mantener los pies en la tierra.
+- **Voz en escena confirmada:**
+  > «¡Habla, causa! Así es la vida, papi... que no quede huella. Algún día volveremos a tomarnos unas chelas y a reírnos de la vida.»  
+  — Memoria entrañable y dinámica viva entre Max y Take.
 
-## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+## 2. Estado vigente — 5 de Floris, Año 3
 
-## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+- **Ubicación:** Tierra (Lima / Alta mar en cruceros internacionales).
+- **Estado ontológico:** Vive su vida terrenal en el recuerdo agradecido de Max; su sabiduría práctica inspira la camaradería de Los Cinco del Barril.
 
-## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+## 3. Cronología canónica
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+### En la Tierra
+- Décadas de amistad con Max en Lima: salidas a Wilson, partidas de cartas, guardias de trabajo y confidencias de juventud.
 
-## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+### En Altea (Año 1 a Año 3)
+- Max recurre a su memoria para diseñar dinámicas de entretenimiento, lealtades de taberna y mantener la humildad.
 
-> **«¡Habla, causa! Así es la vida, papi... que no quede huella. Algún día volveremos a tomarnos unas chelas y a reírnos de la vida.»**  
-> — Memoria entrañable y dinámica viva entre Max y Take
+## 4. Evolución causal
 
----
+### Punto de inflexión: La asimilación del legado de amistad
+- **Antes:** Nostalgia dolorosa por la separación súbita.
+- **Hecho:** Max construyó una nueva familia en Altea honrando la lealtad que aprendió con Take.
+- **Cambio:** Take pasó de ser un duelo a ser un faro moral de compañerismo.
+- **Conducta vigente:** Max trata a Biro y a Darian con la misma fraternidad leal aprendida con Take.
+- **Fuente:** [[TIMELINE]] y reflexiones canónicas de Max.
 
-## 1. IDENTIDAD Y PERFIL (LA TIERRA — PERÚ)
+## 5. Relaciones vivas
 
-- **Nombre / Apodo:** Take («El Take», «El Take 2»).
-- **Origen:** Lima, Perú (La Tierra).
-- **Profesión real:** **Supervisor de casino en crucero internacional** (navega por diversos océanos administrando mesas de juego, supervisión de salas, control de apuestas y hospitalidad de altamar; pasa largas temporadas en el mar y regresa a Lima en vacaciones de fin de año, usualmente en diciembre).
-- **Vínculo con Max:** Uno de los mejores amigos de la juventud y la vida adulta de Max Josemar Gutiérrez. Relación de pura hermandad callejera, complicidad total, joda pesada sin filtro y lealtad absoluta.
-- **Relación con Aysha:** **Amistad independiente.** Take y Aysha **NO están casados ni son pareja**. Ambos pertenecen al círculo más íntimo y querido de amigos de Max en Lima, pero con vidas y amistades autónomas.
+| Persona o grupo | Estado vigente | Base canónica | Límite |
+|---|---|---|---|
+| Max Josemar Gutiérrez | Mejor amigo de juventud y hermano de vida | Décadas de amistad en Lima | Separados por la brecha dimensional |
+| Aysha | Amiga independiente en Lima | Círculo de amigos de Max | NO son pareja ni esposos |
 
----
+## 6. Ruta autónoma — `PENDIENTE`
 
-## 2. SIGNIFICADO EMOCIONAL PARA MAX EN ALDORIA
+- **Estado:** Custodiado como ancla permanente en la memoria de Max.
 
-- Para Max, Take representa la verdad sin maquillaje: el pata con el que no tienes que fingir ser un lord, ni un regente, ni un héroe de guerra. Con Take se habla de flacas, de chupes, de mangas, de huevadas cotidianas y de cómo va la vida.
-- El trabajo de Take en los casinos de cruceros nutrió las anécdotas de Max sobre el mundo de las apuestas, la psicología del jugador y el ambiente festivo, elementos que Max volcó más tarde en Aldoria al organizar el casino teatral de *¿Qué pasó ayer?* y el ambiente tabernero de las ferias.
-- Max atesora el deseo de tomarse una chela helada con Take frente al mar, cagándose de risa de las locuras que ha tenido que vivir en este nuevo mundo.
+## 7. Fuentes y correcciones
 
----
-
-## 3. ADN LINGÜÍSTICO Y PATRONES DE ESCRITURA (WHATSAPP REAL)
-
-Basado en el análisis de más de 2,460 mensajes directos de WhatsApp en `Chat de WhatsApp con El Take 2.txt`:
-
-### A. Vocativo y Muletillas Clave
-- **«Papi»:** Su vocativo insignia indiscutible. Lo usa continuamente (*«Así es la vida papi»*, *«Invitaste al Papi y su flaca?»*, *«Tranquilo papi»*).
-- **«Weon» / «Weonazo»:** Para putear con cariño o reaccionar a idioteces (*«Ptm qué weon»*).
-- **«Papu»:** Usado en tono cómico/otaku (*«Dale papu»*).
-- **«Causa» / «Brother» / «Mano»:** Vocativos secundarios de confianza.
-- **«Jato»:** Casa (*«Ya salí de mi jato»*, *«Toy en mi jato»*).
-- **«Toy» / «Ta»:** Contracciones coloquiales habituales (*«Toy de vacaciones»*, *«Ta bien»*).
-- **«Chill»:** Para indicar tranquilidad o ambiente relajado (*«Todo chill»*).
-- **«Caleta»:** Para hacer algo sin llamar la atención (*«Así caleta, te haces el sorprendido»*).
-- **«Ptm»:** Reacción espontánea de frustración o risa.
-
-### B. Estilo de Risa y Emojis
-- **Risa:** Principalmente `jajaja`, `jajajaja` (en minúsculas o ráfagas).
-- **Emojis predominantes:** 🤣 (el que más usa, con diferencia abrumadora: más de 219 veces), 😂, 😆, 🤨 (cuando desconfía o pregunta con sorna), 🫠, 🙃, 😎.
-
-### C. Estructura y Cadencia de Mensaje
-- **Ráfagas cortas de una línea:** Rara vez escribe párrafos largos. Manda 3 a 5 mensajes seguidos de una sola línea:
-  > *«Estoy de vacaciones»*  
-  > *«A qué hora vas a ir a Wilson?»*  
-  > *«Que necio para despertar tan temprano»*  
-  > *«Y así quieres ir ? 🤣»*
-- **Tono:** Burlón, práctico, relajado, cero dramatismo. Siempre está buscando el chiste o bajándole el humo a cualquier situación solemne.
-
-### D. Temas Recurrentes en sus Conversaciones
-1. **El crucero y el mar:** Contratos en altamar, cuándo le toca embarcarse, cuándo baja a Lima de vacaciones en diciembre.
-2. **Juergas y salidas en Lima:** Bares, planes de fin de semana, cervezas, coordinar quién va al cumpleaños de Max, quién lleva tragos.
-3. **Flacas y chismes:** Burlarse de los levantes del grupo, la supuesta «coreanita», los «calentados» de amigos mutuos (*«Obvio ese brother quería hacer su mes»*).
-4. **Anime, manga y Wilson:** Ir al centro de Lima (Wilson / Arenales) a buscar componentes, discos o figuras; memes otakus.
-5. **Círculo de amigos mutuos:** Pancho, el Papi, Patamón, Mel, Annieka, Xavier, etc.
-
----
-
-## 4. GUÍA RÁPIDA DE ROLEPLAY / EJEMPLO DE MENSAJES
-
-Si Max interactúa a través de una terminal o recuerda un chat con Take:
-
-```text
-[Take]: Habla causa 🤣
-[Take]: Qué chucha fue de tu vida? Te tragó la tierra o qué ptm
-[Take]: Toy acá en el barco todavía, bajando en diciembre para Lima
-[Take]: Más bien anda enfriando las chelas papi
-[Take]: No me digas que sigues con tus inventos raros 🤨
-[Take]: Saludos de la gente, avisa si no te has muerto todavía jajaja
-```
-
----
-
-## 5. ESTADO CANÓNICO EN EL ROLEPLAY (AÑO 2)
-
-- Permanece en la Tierra.
-- No ha habido contacto oficial bidireccional formal aún; vive en la memoria de Max como uno de sus anclajes emocionales más puros y divertidos.
-
-## ADENDA DE MICROINTERACCIONES Y CRECIMIENTO — AUDITORÍA S–Z
-
-- La ausencia de contacto no equivale a desaparición: Take continúa como mejor amigo y anclaje terrestre de Max. `00_FUENTES/historia_original/AÑO_2/05_26_Solalto_a_14_Ambar_Año_2.md:L203-L303`.
-- Max imagina cómo Take reaccionaría ante Sawardo y confirma que aún no hay comunicación; Take no recibe llamadas, mensajes ni visiones desde Aldoria. `00_FUENTES/historia_original/AÑO_2/05_26_Solalto_a_14_Ambar_Año_2.md:L210`, `L168797-L169007`; `00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md:L21939-L22077`.
+- [[Take_y_Aysha]]
+- [[MICROINTERACCIONES_PERSONAJES_A_I]]
+- [[TIMELINE]]
+- **Corrección autoral inviolable:** No es pareja de Aysha. Sin comunicación mágica.

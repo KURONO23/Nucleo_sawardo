@@ -1,25 +1,73 @@
-# Compañeros Aventureros: Marcus Ashford, Lyra Swiftwind y Gareth Stonebrook
+# Gareth Stonebrook
 
-## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+## 1. Identidad estable
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+- **Nombre:** Gareth Stonebrook («El Veterano de Treinta Años»).
+- **Oficio y Rango:** Espadachín, rastreador y explorador veterano del Gremio de Aventureros de Thornhaven y Aldoria; más de tres décadas ininterrumpidas de servicio activo.
+- **Apariencia:** Hombre mayor, de cabello grisáceo y barba recortada, complexión enjuta y fibrosa, manos callosas por el cuero de la empuñadura y armadura de cuero endurecido con remaches de hierro desgastados pero impecablemente aceitados.
+- **Personalidad:** Paciente, observador, práctico y humilde con su oficio. No alardea de hazañas pasadas; valora la supervivencia, la lectura del terreno y el sentido común por encima de las acrobacias de salón.
+- **Habilidades:** Combate defensivo con espada corta y rodela, supervivencia en intemperie, mantenimiento de carromatos y equipos de expedición, y agudo ojo evaluador de técnicas de combate.
+- **Límites:** No posee magia ni la velocidad explosiva de la juventud; su combate se apoya en el posicionamiento y la economía de movimiento.
 
-## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+## 1.1 Voz y comportamiento en escena — obligatorio
 
-## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+- **Ritmo y vocabulario:** Tono pausado, grave y reflexivo. Habla con la calma de quien ha visto a generaciones de novatos morir por imprudencia. Usa metáforas de viaje, desgaste de ruedas y cocción lenta.
+- **En público / taberna:** Se sienta donde pueda ver las entradas; no interrumpe fanfarronadas ajenas, pero cuando opina, los aventureros más jóvenes guardan silencio.
+- **Comportamiento en escena confirmado:** Fue uno de los primeros en observar el estilo de combate de Max y reconocer que no era esgrima de academia, sino un método letal y eficiente de supervivencia real, prediciendo tempranamente que Max superaría el rango A.
+- **Agencia económica propia:** Sirve productos de hornos nuevos y usa el recalzado de ruedas como argumento comercial propio; sabe de logística y costes reales de transporte.
 
-## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+## 2. Estado vigente — 5 de Floris, Año 3
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+- **Ubicación:** Tabernas del Gremio en Thornhaven y Aldoria.
+- **Responsabilidad actual:** Asesor de expediciones veteranas, participante en el circuito logístico de transporte y apoyo moral a los fondos de retiro de veteranos.
+- **Asunto abierto:** PENDIENTE de consolidación de nuevas rutas comerciales abastecidas por las innovaciones mecánicas del taller de Galwin.
 
-## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+## 3. Cronología canónica
+
+### Año 1
+- Primeros encuentros con Max en el Gremio de Thornhaven; evalúa su técnica y reconoce la eficacia mortal de su combate pragmático.
+- Comparte mesa y consejos con veteranos como Marcus Ashford y Lyra Swiftwind.
+
+### Año 2
+- Testigo del auge de las empresas de Max y la consolidación de Casa Gutiérrez.
+- Participa en intercambios comerciales de suministros y transporte de hornos nuevos.
+
+### Año 3
+- Asiste al Festival de la Cerveza y apoya la integración del Fondo de Veteranos del Gremio.
+
+## 4. Evolución causal
+
+### Punto de inflexión: La observación de la esgrima de Max en Año 1
+- **Antes:** Consideraba que la supervivencia en el Gremio dependía estrictamente de acumular décadas de cautela o nacer con dones nobles.
+- **Hecho:** Vio a Max luchar sin fórmulas académicas, optimizando cada movimiento para neutralizar amenazas al instante.
+- **Cambio:** Reconoció que existía un camino de maestría basado en la fría lógica de la supervivencia sin apego a convenciones gremiales.
+- **Conducta vigente:** Alienta a los jóvenes aventureros a valorar la eficacia real sobre el adorno; promueve la preparación logística y el cuidado del equipo.
+- **Influencia:** Influye en la opinión de los rangos intermedios del Gremio, otorgando legitimidad temprana a Max entre los veteranos escépticos.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md` y [[MICROINTERACCIONES_PERSONAJES_A_I]].
+
+## 5. Relaciones vivas
+
+| Persona o grupo | Estado vigente | Base canónica | Límite |
+|---|---|---|---|
+| Marcus Ashford y Lyra Swiftwind | Colegas veteranos de rango B | Décadas de misiones compartidas | Respeta sus especialidades mágica y de tiro |
+| Max Josemar Gutiérrez | Respeto profundo y admiración | Reconocimiento temprano de su técnica | Trato de veterano a líder sin sumisión servil |
+| Biro | Amistad de taberna | Encuentros en el Gremio | Bromea sobre sus temeridades |
+| Gremio de Aventureros | Veterano con 30 años de servicio | Miembro emérito respetado | No asume cargos administrativos formales |
+
+## 6. Ruta autónoma — `SEMILLA`
+
+- **Meta inmediata:** Seguir asesorando caravanas y talleres en el recalzado de ruedas y transporte de hornos para ferias comarcales.
+- **Obstáculo:** El desgaste físico de la edad y la lentitud de los caminos secundarios.
+- **Hito futuro:** PENDIENTE de retiro formal o integración como instructor de campo en el campamento de entrenamiento de veteranos.
+
+## 7. Fuentes y correcciones
+
+- `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`
+- [[MICROINTERACCIONES_PERSONAJES_A_I]]
+- [[REGISTRO_DE_VIDA_AUTONOMA_Y_METAS_AÑO3]]
+- **Corrección autoral:** No fusionar su ficha con las de Marcus o Lyra; cada uno conserva su trayectoria individual.
+
+---
 
 ## ADDENDUM — AGENCIA ECONÓMICA DE GARETH
 

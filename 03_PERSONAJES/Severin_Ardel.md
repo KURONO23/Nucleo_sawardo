@@ -1,37 +1,82 @@
-# Severin Ardel — Ficha provisional de continuidad
+# Severin Ardel — Ficha Canónica de Continuidad
 
-## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+## 1. Identidad estable
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+- **Nombre:** Lord Severin Ardel.
+- **Rol / Estatus:** Joven noble heredero y titular visible de Casa Ardel en Aldoria.
+- **Apariencia:** Noble joven de unos veintitantos años, rostro a menudo tenso y preocupado, ropajes finos pero que denotan cierta fatiga financiera o austeridad forzada frente a los gastos tradicionales de su linaje.
+- **Personalidad:** Cauteloso, presionado por las responsabilidades dinásticas, desconfiado y en conflicto interno. Lucha por mantener las apariencias de solvencia e independencia de su casa mientras sospecha que maniobras externas lo están utilizando como pieza de ajedrez.
+- **Límites:** No se ha fijado su lealtad final, ni el objetivo exacto contra Ravenwood, ni si conoce la verdadera identidad de Max/Marcos. No convertirlo automáticamente en villano ni en víctima inocente.
 
-## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+## 1.1 Voz y comportamiento en escena — obligatorio
 
-## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+- **Ritmo y vocabulario:** Tenso, formal, reservado y defensivo. Elige sus palabras con cautela para no revelar debilidades de balance ni fisuras en el control de su servicio.
+- **En público / salones nobles:** Mantiene la compostura de decoro patricia, aunque denota incomodidad ante las preguntas sobre gastos extraordinarios.
+- **En privado / Casa Ardel:** Exigente con las cuentas y facturas; revisa compromisos antiguos que no encajan con los nuevos pagos. Interroga a sus administradores con tono incisivo buscando entender si afronta una deuda, una traición o una dependencia forzada.
+- **Voz en escena confirmada:** Tono preocupado y autoritario contenido durante las revisiones de inventario y contratos en Casa Ardel (`00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md`).
 
-## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+## 2. Estado vigente — 5 de Floris, Año 3
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+- **Ubicación:** Mansión de Casa Ardel en Aldoria.
+- **Responsabilidad actual:** Administración general de los bienes familiares, revisión de contratos comerciales y supervisión de dependencias domésticas.
+- **Asunto abierto:** Auditoría interna de facturas discrepantes y observación de los movimientos de Corven Marr y Veylan alrededor de su patrimonio.
 
-## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+## 3. Cronología canónica
+
+### Año 1 y Año 2
+- Actividad nobiliaria discreta de Casa Ardel en los márgenes de los grandes debates cortesanos.
+
+### Año 3 (Bruma a Floris)
+- Entrada de Casa Ardel en el foco de la intriga política vinculada a la red de Veylan y Corven Marr.
+- Admisión involuntaria o indirecta de personal doméstico adicional (incluyendo a Max bajo la identidad encubierta de «Marcos»).
+- Detección personal de anomalías contables que no coinciden con las directivas legítimas de su casa.
+
+## 4. Evolución causal
+
+### Punto de inflexión: El hallazgo de facturas discrepantes en Floris, Año 3
+- **Antes:** Confiaba en la gestión rutinaria de sus administradores e intermediarios comerciales.
+- **Hecho:** Descubrió pagos, cartas y compromisos que involucran a Veylan y a operadores externos sin su autorización expresa.
+- **Cambio:** Comenzó a desconfiar de su propio entorno y a revisar minuciosamente los archivos de la casa.
+- **Conducta vigente:** Vigila a sus colaboradores cercanos (Halven, Dossan) y trata de ganar tiempo sin mostrar pánico.
+- **Influencia:** Su indecisión permite el avance encubierto del operativo de Yuki Moriyama y la investigación de Max.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md` y [[OPERACION_RAVENWOOD_ARDEL_VEYLAN]].
+
+## 5. Relaciones vivas
+
+| Persona o grupo | Estado vigente | Base canónica | Límite |
+|---|---|---|---|
+| Orren Halven | Administrador doméstico de Casa Ardel | Supervisión del servicio y disciplina | No comparte sus sospechas de alta política |
+| Verrick Dossan | Intermediario comercial y de mensajes | Enlace con redes mercantiles | Evalúa si Dossan actúa para terceros |
+| Corven Marr | Figura de influencia y presión velada | Contactos y acuerdos oscuros | Sospecha de sus verdaderos fines |
+| Lady Marianne (Yuki Moriyama) | Dama de House Ravenwood | Relaciones patricias formales | Desconoce la contraoperación en su contra |
+| Marcos (Max Gutiérrez) | Sirviente / mozo recientemente admitido | Trabajo doméstico en la mansión | Ignora por completo su verdadera identidad |
+
+## 6. Ruta autónoma — `PENDIENTE`
+
+- **Meta inmediata:** Identificar quién está emitiendo facturas a nombre de Casa Ardel hacia circuitos de Veylan.
+- **Obstáculo:** La compartimentación de los correos y el temor a un escándalo que arruine a su familia.
+- **Hito futuro:** PENDIENTE de decidir si se enfrenta abiertamente a Corven Marr o si busca auxilio formal ante la Corona.
+
+## 7. Fuentes y correcciones
+
+- `00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md`
+- [[OPERACION_RAVENWOOD_ARDEL_VEYLAN]]
+- [[CURRENT_STATE_4_FLORIS_AÑO3]]
+- **Corrección autoral:** No convertir en villano ni víctima confirmada; mantener abierto su dilema moral y político.
+
+---
 
 ## Estado al 4 de Floris, Año 3
 
-Severin coopera con Corven desde Casa Ardel, pero no controla por completo el financiamiento. Su relación con Ravenwood y su comprensión del plan siguen incompletas.
+Mientras Corven prueba respuestas y Veylan aparece como circuito reciente, Severin intenta mantener la apariencia de control ante su propia casa. Ha comenzado a revisar compromisos antiguos que no encajan con las nuevas facturas, pero todavía no sabe si está buscando una deuda, una traición o una dependencia.
 
 ## Personalidad y conflicto
 
-Acostumbrado a que el apellido abra puertas, Severin está descubriendo que el dinero que sostiene la operación no responde enteramente a su casa. Su margen de decisión puede ser menor de lo que aparenta.
+Orgullo patrio, temor al deshonor y desconfianza creciente hacia los acreedores y operadores foráneos.
 
 ## Vida autónoma
 
-Mientras Corven prueba respuestas y Veylan aparece como circuito reciente, Severin intenta mantener la apariencia de control ante su propia casa. Ha comenzado a revisar compromisos antiguos que no encajan con las nuevas facturas, pero todavía no sabe si está buscando una deuda, una traición o una dependencia.
+Revisa libros contables por las noches, intenta rastrear qué dependientes responden a órdenes ajenas y sopesa las consecuencias de una ruptura con sus patrocinadores.
 
 ## Límites
 

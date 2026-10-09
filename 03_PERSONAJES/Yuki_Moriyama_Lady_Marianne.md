@@ -1,25 +1,85 @@
 # Yuki Moriyama / Lady Marianne — Ficha Canónica Completa
 
-## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+## 1. Identidad estable
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+- **Nombre real (Tierra):** Yuki Moriyama.
+- **Identidad social (Altea):** Lady Marianne von Ravenwood.
+- **Origen:** Japón moderno. Lectora apasionada de novelas otome y fantasía histórica; reencarnada en el mundo de Altea.
+- **Rol actual:** Joven aristócrata de la alta nobleza de Aldoria, música aficionada, diplomática cultural, aliada estratégica de la Corona y de Casa Gutiérrez, y directora operativa del contraespionaje frente a la conspiración de Ravenwood, Ardel y Veylan.
+- **Apariencia:** Joven noble de porte distinguido, ojos almendrados muy expresivos, tez clara, vestidos de corte cortesano impecable en tonos azulados, gris perla y plata, con peinados aristocráticos sobrios.
+- **Personalidad:** Sensible, profundamente perceptiva, melómana y prudente. Maduró desde el temor cómico inicial a las *death flags* hasta convertirse en una estratega madura que combina la sensibilidad cultural con la cautela política.
+- **Límites:** No es combatiente física ni hechicera de batalla; su poder reside en su comprensión de las sutilezas cortesanas, protocolo heráldico y la lectura de conspiraciones aristocráticas.
 
-## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+## 1.1 Voz y comportamiento en escena — obligatorio
 
-## RELACIONES VIVAS
-- Max: aliado terrestre y amigo entrañable. En confianza privada lo llama **Max-san**; él puede llamarla **Bakarina** con afecto, apodo aceptado solo en ese marco.
-- Serath y Celene: referentes y protectoras de su vida de corte.
-- Sayaka/Evelyn: contraparte japonesa y amistad de conversación íntima.
-- Aria y Mizuki: colaboradoras con quienes contrasta información sin renunciar a su dirección estratégica.
+- **Ritmo y vocabulario:**
+  - **En público (como Lady Marianne):** Impecable protocolo aristocrático de Aldoria. Dicción pulcra, fórmulas de cortesía cortesana, miradas medidas y distancia de seguridad patricia.
+  - **En privado / intimidad con Max (como Yuki):** Relajada, espontánea y cercana. Habla con fluidez japonesa y llama invariablemente a Max **«Max-san»**, un tratamiento de afecto, complicidad y respeto cultural que Max atesora.
+- **El apodo privado («Bakarina»):** Max la llama cariñosamente `Bakarina` por su paranoia cómica con los tropos de heroínas otome (referencia a Catarina Claes de *Hamefura*). Es un apodo estrictamente privado, afectuoso y permitido entre ambos; no es insulto ni debe utilizarse en público. Ante él, Yuki suele suspirar, darle un golpecito seco en el brazo y protestar con ternura:
+  > «Max-san... Voy a ignorarlo únicamente porque has usado un tono demasiado cariñoso como para justificar violencia diplomática. ¡Compórtate!»
+- **En crisis / dirección de la contraoperación:** Determinada, serena y protectora. Entrenó a Max en postura de sirviente, manejo de bandeja, silencio y etiqueta para su infiltración como «Marcos», usando el código `Doctor` para Max en el enlace G1 certificado.
 
-## RUTA AUTÓNOMA — `SEMILLA`
-Conducir la contraoperación Ravenwood y contrastar Veylan sin dejar que Max le resuelva su arco. El siguiente movimiento sigue sujeto a evidencia; no hay infiltración o desenlace ya consumado.
+## 2. Estado vigente — 5 de Floris, Año 3
 
-## FUENTES Y CORRECCIONES
-Fuente primaria: `00_FUENTES/historia_original/`, especialmente el tramo 26 de Bruma–4 de Floris. `Max-san` y `Bakarina` son guardarraíles de voz, no bromas prescindibles.
+- **Ubicación:** Residencia noble de House Ravenwood en Aldoria, con enlaces directos hacia Casa Gutiérrez.
+- **Responsabilidad actual:** Dirección estratégica de la contraoperación Ravenwood-Ardel-Veylan; análisis cruzado entre el informe independiente de Mizuki y los datos del canal Max–Aria–Yuki.
+- **Asunto abierto:** Vigilancia de Severin Ardel, neutralización del experimento de Corven Marr y rastreo del patrocinador financiero en Veylan sin quemar la cobertura de Marcos.
+
+## 3. Cronología canónica
+
+### Año 1
+- Adquisición del clavecín antiguo de Liriel en la Gran Subasta de Aldoria: Max se retiró deliberadamente de la puja al notar su nostalgia genuina.
+- Revelación del origen terrestre mediante la clave secreta `ZA WARUDO`, creando un pacto inquebrantable de complicidad y confianza.
+- Propuesta de su padre, el Duque Ravenwood, como juez independiente para el Festival.
+
+### Año 2
+- Integración en el círculo social de la Comandante Suprema Serath Vale y Lady Celene Arvaux.
+- Presencia en los palcos nobiliarios durante las obras de la Compañía Goran (*Austin Powers*, *Dunk y Egg*); se tapa la cara de risa al ver a Max en el escenario.
+- Análisis caligráfico y de sellos para desenmascarar el boicot nobiliario de otoño.
+
+### Año 3 (1 a 5 de Floris)
+- Asume la dirección estratégica de la contraoperación contra la trama Ravenwood-Ardel-Veylan.
+- Adiestra a Max en modales de servicio doméstico para su infiltración encubierta como Marcos.
+- Procesa informes de Aria y Mizuki, decidiendo no precipitar acciones contra Severin para mantener confiado a Corven.
+
+## 4. Evolución causal
+
+### Punto de inflexión: La contraoperación Ravenwood-Ardel-Veylan (Año 3)
+- **Antes:** Observadora y analista que temía la activación de trampas políticas y dependía del escudo de Max.
+- **Hecho:** La conspiración atacó directamente los intereses de su casa y la estabilidad del reino.
+- **Cambio:** Se negó a que Max resolviera el conflicto por ella y asumió el liderazgo del operativo.
+- **Conducta vigente:** Dirige la red, dosifica órdenes, impone protocolos de retirada y contrasta datos de múltiples fuentes antes de actuar.
+- **Influencia:** Guía las acciones encubiertas de Max, modera las reacciones de Aria y articula la defensa silenciosa de House Ravenwood.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md` y [[OPERACION_RAVENWOOD_ARDEL_VEYLAN]].
+
+## 5. Relaciones vivas
+
+| Persona o grupo | Estado vigente | Base canónica | Límite |
+|---|---|---|---|
+| Max Josemar Gutiérrez | Confidente íntimo, compatriota terrestre y aliado | Vínculo sellado con `ZA WARUDO` y complicidad | `Max-san` en privado; respeto mutuo de autonomía |
+| Sayaka Fujimoto (Evelyn Cross) | Amiga íntima de origen japonés | Charlas desahogadas en japonés | Conservan sus esferas de vida separadas |
+| Comandante Serath Vale | Protectora y referente de estado | Círculo de corte y respeto mutuo | No interfiere en disciplina marcial |
+| Lady Celene Arvaux | Aliada diplomática en la corte | Coordinación contra la nobleza hostil | Diplomacia compartida |
+| Mizuki / Cecilia | Enlace de inteligencia indirecto | Contraste de informes sobre Veylan | Cautela por el pasado con Haruto |
+| Aria | Fascinación musical y enlace de comunicación | Terminales G1 y transmisión de datos | Respeto por la autonomía de la Undine |
+
+## 6. Ruta autónoma — `SEMILLA`
+
+- **Meta inmediata:** Desmantelar el circuito de financiamiento entre Corven Marr y Veylan sin comprometer la posición de House Ravenwood en la corte.
+- **Obstáculo:** La red opera mediante facturas dispersas y correos comerciales compartimentados.
+- **Hito futuro:** PENDIENTE de consolidar un círculo de diplomacia cultural internacional entre Aldoria y los reinos vecinos.
+
+## 7. Fuentes y correcciones
+
+- `00_FUENTES/historia_original/AÑO_1/04_09_Solalto_Año_1_a_25_Solalto_Año_2.md`
+- `00_FUENTES/historia_original/AÑO_2/06_15_Ambar_a_25_Ambar_Año_2.md`
+- `00_FUENTES/historia_original/AÑO_3/11_26_Bruma_Año_3.md`
+- `00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md`
+- [[OPERACION_RAVENWOOD_ARDEL_VEYLAN]]
+- [[PERSONAJES_GUARDRAILS_CHAT]]
+- **Guardarraíles de voz:** Llama a Max `Max-san` en privado. `Bakarina` es apodo cariñoso y privado de Max, no un insulto público.
+
+---
 
 ## ADENDA — 1 A 4 DE FLORIS, AÑO 3
 
@@ -71,7 +131,7 @@ Durante el boicot de otoño del Año 2, Yuki fue una de las encargadas de examin
 - **En Público:** Es la impecable **Lady Marianne von Ravenwood**, guardando con pulcritud la compostura y el protocolo noble de Aldoria.
 - **En Privado / Confianza Íntima:** Se relaja por completo y vuelve a ser **Yuki**. Llama invariablemente a Max **«Max-san»**, un sufijo de respeto y cercanía japonesa que a Max le fascina y le provoca una sonrisa genuina inmediata.
 - **El Apodo Afectuoso («Bakarina»):** Debido a su paranoia cómica inicial con las *death flags*, príncipes y pretendientes de historias otome, Max la bautizó en broma como **«Bakarina»** (referencia directa a Catarina Claes de *Hamefura*). Max la molesta con ternura descarada usando ese apodo; la reacción clásica de Yuki es suspirar, darle un golpecito seco en el brazo y advertirle:
-  > *«—Max-san... Voy a ignorarlo únicamente porque has usado un tono demasiado cariñoso como para justificar violencia diplomática. ¡Compórtate!»*
+  > *«Max-san... Voy a ignorarlo únicamente porque has usado un tono demasiado cariñoso como para justificar violencia diplomática. ¡Compórtate!»*
 
 ---
 

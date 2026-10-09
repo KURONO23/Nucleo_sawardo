@@ -1,25 +1,68 @@
-# Corvin Hale
+# Corvin Hale — Ficha Canónica de Continuidad
 
-## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+## 1. Identidad estable
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+- **Nombre:** Corvin Hale.
+- **Diferenciación crítica e inviolable:** Persona totalmente diferenciada de [[Corven_Marr]]. **NO FUSIONAR** bajo ningún concepto por semejanza fonética.
+- **Rol / Estatus:** Agente y operador presente dentro del círculo social y político ampliado de Aldoria que mantiene actividad independiente sin gravitar en torno a Max.
+- **Presencia en fuentes:** Cuenta con nueve menciones nominales en los registros históricos de Año 2, asistiendo a espacios de interacción noble y mercantil.
+- **Límites:** Profesión exacta, afiliación faccional completa y objetivos últimos permanecen en evaluación; no inventar habilidades arcanas ni cargos no documentados.
 
-## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+## 1.1 Voz y comportamiento en escena — obligatorio
 
-## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+- **Estado de registro de voz:** `VOZ AÚN NO LOCALIZADA EN FUENTE`.
+- **Directiva canónica:** Conforme a las reglas rectoras del núcleo, no se rellena su voz con arquetipos genéricos. Se registra su presencia formal en escenas de interacción pública (`00_FUENTES/historia_original/AÑO_2/05_26_Solalto_a_14_Ambar_Año_2.md`, líneas 212600–213115), a la espera de diálogos directos extendidos que fijen cadencia, vocabulario y modismos.
 
-## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+## 2. Estado vigente — 5 de Floris, Año 3
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+- **Ubicación:** Distritos comerciales y salones de Aldoria.
+- **Responsabilidad actual:** Gestiones de enlace mercantil y social dentro de los círculos aristocráticos ampliados.
+- **Asunto abierto:** Seguimiento de las nuevas regulaciones mercantiles post-Festival en los circuitos de la nobleza media.
 
-## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+## 3. Cronología canónica
+
+### Año 1
+- Registro de actividad independiente en los circuitos urbanos de Aldoria.
+
+### Año 2
+- Nueve apariciones nominales en las crónicas de Solalto y Ámbar dentro de salones y reuniones sociales de la capital.
+- Presencia en el entorno de eventos públicos sin alineamiento explícito con las casas hostiles ni con Casa Gutiérrez.
+
+### Año 3
+- Mantiene actividad en la periferia social de los acontecimientos de Aldoria.
+
+## 4. Evolución causal
+
+### Punto de inflexión: Consolidación como agente independiente en Año 2
+- **Antes:** Figura difusa en los registros mercantiles urbanos.
+- **Hecho:** Aparición recurrente en los registros de salones de Aldoria durante el auge de las reformas de Max y Serath.
+- **Cambio:** Se afirmó como un actor secundario que navega las tensiones de clase sin subordinarse a ninguno de los bandos hegemónicos.
+- **Conducta vigente:** Mantiene la discreción y evita tomar partido público en los debates del Consejo Real.
+- **Influencia:** Representa la masa crítica de la nobleza menor y burguesía que observa con prudencia los cambios en el reino.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_2/05_26_Solalto_a_14_Ambar_Año_2.md`.
+
+## 5. Relaciones vivas
+
+| Persona o grupo | Estado vigente | Base canónica | Límite |
+|---|---|---|---|
+| Corven Marr | Ninguna; identidades completamente separadas | Regla estricta contra confusión de nombres | No tienen vínculo operativo probado |
+| Círculos sociales de Aldoria | Interlocutor secundario | Nueve menciones en crónicas de Año 2 | Trato social protocolar |
+| Casa Gutiérrez | Observador externo independiente | Sin conflicto abierto ni alianza formal | Distancia prudente |
+
+## 6. Ruta autónoma — `PENDIENTE`
+
+- **Meta inmediata:** Mantener la estabilidad de sus conexiones mercantiles ante la reconfiguración económica de Aldoria.
+- **Obstáculo:** Polarización política entre la Corona y las casas patricias conservadoras.
+- **Hito futuro:** PENDIENTE de individualización de misiones o contratos específicos en futuras crónicas.
+
+## 7. Fuentes y correcciones
+
+- `00_FUENTES/historia_original/AÑO_2/05_26_Solalto_a_14_Ambar_Año_2.md`, líneas 212600–213115.
+- [[REAUDITORIA_CRUZADA_06_OCTUBRE_2026]]
+- [[REGISTRO_DE_VIDA_AUTONOMA_Y_METAS_AÑO3]]
+- **Corrección autoral inviolable:** No fusionar con Corven Marr.
+
+---
 
 ## CANON RECUPERADO — REAUDITORÍA
 
@@ -30,4 +73,3 @@ La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorale
 ## FUENTE RECTORA
 
 - `00_FUENTES/historia_original/AÑO_2/05_26_Solalto_a_14_Ambar_Año_2.md`, bloque alrededor de líneas 212600–213115 y apariciones nominales relacionadas.
-

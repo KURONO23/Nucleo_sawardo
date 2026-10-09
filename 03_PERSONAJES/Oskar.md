@@ -1,22 +1,75 @@
-# Oskar y Maren — Ficha Canónica
+# Oskar (y Maren) — Maestros de Cocina de Casa Gutiérrez
 
-## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+## 1. Identidad estable
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+- **Nombre:** Oskar.
+- **Oficio y Cargo:** Maestro cocinero, jefe de fogones y corresponsable de intendencia de Casa Gutiérrez (junto a Maren).
+- **Apariencia:** Hombre corpulento y bonachón de unos cuarenta y cinco años, rostro sonrosado por el calor constante de los hornos, brazos fuertes, delantal de lino grueso impecable y manos ágiles con los cuchillos de despiece.
+- **Personalidad:** Apasionado del oficio culinario, riguroso con los fondos y caldos, generoso con las raciones y profundamente agradecido por la dignidad laboral y las técnicas traídas por Max.
+- **Límites:** Cocinero y gestor de intendencia de cocina; no es combatiente ni administrador financiero de tesorería.
 
-## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+## 1.1 Voz y comportamiento en escena — obligatorio
 
-## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- **Ritmo y vocabulario:** Directo, entusiasta y campechano. Habla con la franqueza de quien manda en una cocina viva; utiliza metáforas de cocción, temperaturas, salazones y tiempos de reposo.
+- **En la cocina / trabajo:** Comandos claros, exigente con la limpieza y los puntos de cocción. No tolera el desperdicio.
+- **En conversación / intimidad:** Respetuoso y devoto de Max y de la familia Gutiérrez. Discute recetas con admiración sincera por las combinaciones de sabores del nuevo mundo gastronómico.
+- **Voz en escena confirmada:**
+  > «Un guiso de taberna necesita fuego lento y buen fondo; pero lo que Max trajo a este puerto... eso es fuego nuevo.»  
+  — Oskar conversando con Maren durante la preparación de un banquete en la finca.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## 2. Estado vigente — 5 de Floris, Año 3
 
-## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+- **Ubicación:** Cocinas centrales de Casa Gutiérrez en Thornhaven y apoyo logístico en eventos de Aldoria.
+- **Responsabilidad actual:** Coordinación de las brigadas de cocina de la finca, preparación de banquetes del Consorcio y adaptación de menús a gran escala.
+- **Asunto abierto:** Estandarización de las recetas de salsas y ahumados para los banquetes de la temporada de primavera.
+
+## 3. Cronología canónica
+
+### Año 1
+- Contratado junto a Maren tras la adquisición y remodelación de Gutiérrez Estate.
+- Asimila las técnicas culinarias introducidas por Max (cortes precisos, marinados, sofritos y salsas).
+- Gestión del primer gran banquete de inauguración de la finca con éxito rotundo.
+
+### Año 2
+- Escalamiento de la cocina de la finca para abastecer a decenas de trabajadores, invitados nobles y miembros de Los Ventura.
+- Adaptación de recetas de comida callejera y de taberna para la intendencia del Festival de la Cerveza.
+
+### Año 3
+- Supervisión de banquetes masivos y celebraciones de Año 3, consolidando la reputación gastronómica de Casa Gutiérrez.
+
+## 4. Evolución causal
+
+### Punto de inflexión: La llegada a las cocinas de Casa Gutiérrez
+- **Antes:** Cocinero de tabernas tradicionales acostumbrado a guisos pesados, cortes toscos y condimentos escasos.
+- **Hecho:** Max le enseñó técnicas culinarias modernas de la Tierra (fondos balanceados, fritura controlada, balance ácido-graso).
+- **Cambio:** Transformó su oficio tradicional en una cocina de alta escala con calidad y respeto al producto.
+- **Conducta vigente:** Dirige la cocina con orgullo profesional y transmite las técnicas a aprendices locales sin mezquindad.
+- **Influencia:** Garantiza la moral y nutrición de los trabajadores y defiende el estándar culinario que distingue a Casa Gutiérrez.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md` y [[MICROINTERACCIONES_PERSONAJES_J_R]].
+
+## 5. Relaciones vivas
+
+| Persona o grupo | Estado vigente | Base canónica | Límite |
+|---|---|---|---|
+| Maren | Pareja de oficio y cogestora de intendencia | Trabajo conjunto diario en la finca | Cooperación armónica en fogones |
+| Max Josemar Gutiérrez | Empleador, maestro culinario y protector | Respeto incondicional y lealtad | No interfiere en asuntos de gobierno de la casa |
+| Natalia Thornwell | Coordinación de compras y suministros | Rendición de cuentas de despensa | Se ajusta a los presupuestos de Natalia |
+| Personal de servicio de la Finca | Maestro de cocina y líder de brigada | Jerarquía de cocina en la hacienda | Trato justo y paternal con los ayudantes |
+
+## 6. Ruta autónoma — `SEMILLA`
+
+- **Meta inmediata:** Montar un sistema de secado y conservación de carnes ahumadas para proveer a las expediciones de aventureros.
+- **Obstáculo:** Control de la humedad costera en los almacenes de Thornhaven.
+- **Hito futuro:** PENDIENTE de publicar un recetario básico de cocina de hacienda auspiciado por Editorial Estrella Verde.
+
+## 7. Fuentes y correcciones
+
+- `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`
+- [[MICROINTERACCIONES_PERSONAJES_J_R]]
+- [[REGISTRO_DE_LECTURA]]
+- **Corrección autoral:** Mantener a Oskar y Maren como maestros culinarios independientes con reparto de tareas claro.
+
+---
 
 > **«Un guiso de taberna necesita fuego lento y buen fondo; pero lo que Max trajo a este puerto... eso es fuego nuevo.»**  
 > — Oskar conversando con Maren en las cocinas del gran banquete
@@ -25,23 +78,20 @@ La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorale
 
 ## 1. IDENTIDAD Y PERFILES
 
-- **Oskar:** Cocinero veterano del mercado sur de Thornhaven y Aldoria; hombre de unos cuarenta y tantos años, robusto, de rostro curtido con cicatrices de viejas quemaduras y ollas pesadas. Especialista en guisos de taberna, caldos densos y carnes asadas tradicionales.
-- **Maren:** Vendedora y cocinera de comida callejera en los muelles de Thornhaven; mujer de unos treinta y tantos años, ágil, rápida de reflejos y con un conocimiento exhaustivo de los pescados y mariscos que bajan de los barcos mercantes.
+- **Oskar:** Maestro cocinero principal de Gutiérrez Estate. Hombre de unos cuarenta y cinco años, de complexión robusta, temperamento afable y corazón generoso.
+- **Maren:** Maestra de intendencia y repostería de la hacienda. Mujer meticulosa, cálida y de gran don de gentes.
+- **Rol:** Ambos forman el corazón cálido de la hacienda, encargados de transformar las recetas innovadoras de Max en realidad para decenas de comensales.
 
 ---
 
 ## 2. PARTICIPACIÓN EN LA REVOLUCIÓN GASTRONÓMICA
 
-- **El Gran Banquete de la Finca:** Tanto Oskar como Maren fueron contratados por Max para apoyar en la preparación de los grandes banquetes populares de House Gutiérrez.
-- **El Intercambio de Técnicas:** Max les enseñó técnicas de cocina criolla y marina (como el sellado rápido de carnes, frituras crujientes y bases de aderezo). Maren aportó su experiencia en el tratamiento del pescado fresco de Tornhaven, mientras Oskar coordinó los hornos pesados para alimentar a cientos de personas.
+- Cuando Max adquirió la hacienda, rescató a Oskar y Maren de la precariedad de las tabernas portuarias y los puso al frente de la cocina más moderna del reino (con fogones de tiro inducido, hornos de hierro y despensas ventiladas).
+- Fueron los primeros en aprender a preparar las míticas papas a la huancaína, lomo saltado, anticuchos y estofados que Max introdujo.
+- Su entusiasmo y maestría permitieron que la comida de la finca se convirtiera en un imán diplomático donde nobles, soldados y aventureros compartían mesa sin distinción de clases.
 
 ## EVOLUCIÓN CAUSAL — COCINA DE OFICIO PARA UNA MESA MÁS GRANDE
 
-- El banquete de la finca demuestra que las recetas de Max solo llegan a comunidad porque Oskar traduce ideas a hornos, volumen, tiempos y personal.
-- El intercambio con Maren le enseña a no tratar la novedad como reemplazo de técnica local: el fuego rápido convive con fondos lentos, pescado fresco y logística de puerto.
-- Su crecimiento autónomo es formar una brigada capaz de alimentar celebraciones sin depender de que Max cocine o esté presente. Conserva su criterio de taberna y puede rechazar una preparación que no sea segura o reproducible.
-- Ambos son el puente gastronómico popular que precedió a la posterior consagración de **La Bruma Azul** en Tornhaven.
-
-## ADDENDUM — MICROINTERACCIONES Y VIDA AUTÓNOMA
-
-- Llega desde la taberna con oficio propio, firma contrato, prueba las salchipapas y adapta técnicas a cocina de volumen (`00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`, 23700–23774; 24089–24113).
+- Adaptar recetas de taberna a banquetes de hacienda les enseñó a estructurar brigadas de cocina y organizar suministros a gran escala.
+- No dependen de que Max esté presente en la cocina para mantener el estándar: comprenden los fundamentos de sabor, tiempo y temperatura.
+- Su crecimiento autónomo fortalece la estabilidad interna de Casa Gutiérrez.

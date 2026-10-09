@@ -1,83 +1,74 @@
 # Lyssa
 
-## Identidad estable
-Lyssa es arquera, guardiana A de Gutiérrez Estate y compañera de Torin y Kael. No es Lyra Swiftwind ni la versión anulada de luchadora dual.
+## 1. Identidad estable
 
-## VOZ Y COMPORTAMIENTO EN ESCENA
+- **Nombre:** Lyssa.
+- **Oficio y Rango:** Arquera de élite; guardiana de Gutiérrez Estate y aventurera de **Rango Oficial A del Gremio**.
+- **Origen:** Menor de cinco hermanos; forjó su camino con tenacidad para destacar por mérito propio.
+- **Apariencia:** Joven ágil de complexión esbelta y mirada concentrada, ropajes de cuero oscuro ceñidos para el tiro sin fricción, carcaj ergonómico y arco compuesto finamente calibrado.
+- **Personalidad:** Competitiva, observadora, silenciosa y orientada a la precisión matemática y verificable. Busca validación mediante resultados indiscutibles sin perder jamás la disciplina marcial.
+- **Regla de diferenciación inviolable:** **NO ES** Lyra Swiftwind (la arquera rango B compañera de Marcus Ashford). Son dos personas con identidades y trayectorias distintas.
 
-Habla poco, de forma competitiva y orientada a precisión verificable. Pide un arco propio y mide resultados; su deseo de validación no debe borrarle disciplina ni convertirla en alguien ruidosa o genérica.
+## 1.1 Voz y comportamiento en escena — obligatorio
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+- **Ritmo y vocabulario:** Concisa, sobria y analítica. Habla poco; prefiere reportar distancias, trayectorias de viento y ángulos de tiro.
+- **Actitud:** Su competitividad no es ruidosa; observa en silencio, evalúa el blanco y dispara con fría exactitud.
+- **Anhelo personal confirmado:** De niña su mayor anhelo era tener *«un arco que fuera mío»*. Al integrarse a la finca y comparar su equipo con el arco de Jasmine, reafirmó su deseo de forjar su propia identidad técnica sin copiar a nadie.
+- **En patrulla:** Ojos en constante barrido de alturas y sombras; se comunica mediante señas precisas con Torin y Kael.
 
-## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+## 2. Estado vigente — 5 de Floris, Año 3
 
-## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- **Ubicación:** Gutiérrez Estate y enlaces de vigilancia en Aldoria y Thornhaven.
+- **Responsabilidad actual:** Guardia perimetral de la finca y cobertura de altura en los almacenes del Consorcio.
+- **Asunto abierto:** Presentación ante Guildmaster Kira de la petición de misión **«El mensaje que debe llegar»**, para medir su capacidad de escolta y logística rápida.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## 3. Cronología canónica
 
-## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+### Año 1
+- Contratada junto a Torin y Kael para la seguridad perimetral de Gutiérrez Estate.
+- Completa el ciclo de entrenamiento de adaptación y tiro bajo la tutela de Max.
+- Reevaluación pública ante Kira: ascenso oficial a Rango A tras demostrar precisión y control de entorno.
 
-## CANON FUNDACIONAL
+### Año 2
+- Cumpleaños celebrado el 22 de Ventisca (Día 616).
+- Despliegue de vigilancia durante las festividades de Aldoria y defensa pacífica de la finca.
 
-No aplica. Corrección autoral: es arquera; la versión de luchadora dual queda anulada.
+### Año 3
+- Mantiene la red de observación de la finca durante el Festival Internacional de la Cerveza.
+- Presentación de su solicitud de contrato independiente ante Kira.
 
-## APARIENCIA
+## 4. Evolución causal
 
-`DESCONOCIDO`; no reutilizar la apariencia de Lyra Swiftwind.
+### Punto de inflexión: La conquista de un arco y un rango propios
+- **Antes:** Arquera de rango B que sentía la sombra de arqueros legendarios y la necesidad de probarse ante sus hermanos mayores.
+- **Hecho:** El entrenamiento con Max y la rigurosa evaluación de Kira le demostraron que su precisión y percepción de campo eran de primer nivel.
+- **Cambio:** Dejó atrás la inseguridad y asumió su lugar como guardiana de élite con estilo propio.
+- **Conducta vigente:** Actúa con serenidad, vigila rutas de mensajería y asegura pasos transitados.
+- **Influencia:** Otorga a Casa Gutiérrez una cobertura de largo alcance inexpugnable.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_1/02_01_Bruma_a_18_Bruma_y_05_Solalto_a_09_Solalto_Año_1.md`, líneas 7300–7526.
 
-## PERSONALIDAD
+## 5. Relaciones vivas
 
-Competitiva, observadora y orientada a precisión; busca validación sin perder disciplina.
+| Persona o grupo | Estado vigente | Base canónica | Límite |
+|---|---|---|---|
+| Max Josemar Gutiérrez | Empleador y mentor | Respeto y lealtad a la finca | No depende de él para definir su valor |
+| Torin y Kael Ironheart | Compañeros del trío de guardianes | Guardia diaria y patrullas conjuntas | Línea de defensa coordinada |
+| Jasmine | Referente de arquera de rango superior | Respeto profesional | Busca su propio estilo sin imitarla |
+| Lyra Swiftwind | Ninguna relación directa | Identidades diferenciadas | Vidas separadas en el Gremio |
 
-## FORMA DE HABLAR
+## 6. Ruta autónoma — `SEMILLA`
 
-Concisa, competitiva y atenta a resultados medibles. Muestra insuficiente para tics adicionales.
+- **Meta inmediata:** Realizar la ruta de «El mensaje que debe llegar» para certificar tiempos de transmisión de señales en terreno quebrado.
+- **Obstáculo:** PENDIENTE de clasificación F–S por parte de Kira.
+- **Hito futuro:** PENDIENTE de diseñar un sistema de postas de tiro y señales de humo entre la finca y el puerto.
 
-## MOTIVACIONES
+## 7. Fuentes y correcciones
 
-Mejorar, proteger la finca y demostrar capacidad por mérito propio.
-
-## CLASE / PROFESIÓN
-
-Arquera; guardiana de Gutiérrez Estate.
-
-## RANGO
-
-**Oficial A del Gremio.** Ascendió desde B tras el entrenamiento de Max y la reevaluación pública de Kira.
-
-## HABILIDADES
-
-Precisión, reposicionamiento y dosificación del esfuerzo. Tiros de 200 m del montaje no son prueba normal independiente.
-
-## RELACIONES
-
-Amistad/lealtad en formación con Max; compañera de Torin y Kael guardián. No fusionar con [[Lyra_Swiftwind]].
-
-## CONOCIMIENTO
-
-Vivió 20 días subjetivos de entrenamiento con Max. No conoce automáticamente secretos privados.
-
-## SECRETOS
-
-Declara ser menor de cinco hermanos; más detalles `DESCONOCIDOS`.
-
-## EVOLUCIÓN
-
-Completa 20 días subjetivos y sale con nivel A percibido; la reevaluación gremial posterior confirma el **ascenso oficial a rango A**.
-
-## ESTADO ACTUAL
-
-Asignada a la protección de Gutiérrez Estate durante el viaje.
-
-## REFERENCIAS
-
-Fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`; [[CURRENT_STATE_5_FLORIS_AÑO3]].
-
+- `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`
+- `00_FUENTES/historia_original/AÑO_1/02_01_Bruma_a_18_Bruma_y_05_Solalto_a_09_Solalto_Año_1.md`, líneas 7300–7526.
+- `00_FUENTES/historia_original/AÑO_2/08_11_Noctalia_a_30_Noctalia_Año_2.md`, líneas 12306–12348.
+- [[MISIONES_PROPUESTAS_POR_NPC_AÑO3]]
+- **Corrección autoral:** Arquera confirmada (versión de luchadora dual anulada). No confundir con Lyra Swiftwind.
 
 ---
 

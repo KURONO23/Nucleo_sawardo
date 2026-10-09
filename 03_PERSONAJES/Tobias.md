@@ -1,49 +1,80 @@
 # Tobias — Ficha Canónica
 
-## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+## 1. Identidad estable
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+- **Nombre:** Tobias.
+- **Oficio:** Comerciante de gremio local, tendero y representante de pequeños mercaderes de Aldoria.
+- **Apariencia:** Hombre de mediana edad, vestimenta sobria de lana oscura sin lujos, rostro curtido por el sol de los mercados y modales respetuosos.
+- **Personalidad:** Prudente, honesto, temeroso de las represalias de la alta nobleza pero valiente al defender la subsistencia de su familia y sus colegas gremiales.
+- **Límites:** Comerciante civil modesto; carece de riqueza personal masiva o influencia armada.
 
-## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+## 1.1 Voz y comportamiento en escena — obligatorio
 
-## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+- **Ritmo y vocabulario:** Tono mesurado, deferente y agradecido. Emplea términos de compraventa al por menor, pesaje de grano y pago de aranceles.
+- **En los puestos de mercado:** Atento y diligente con los compradores humildes.
+- **Ante nobles y abusos fiscales:** Tímido y precavido por experiencia histórica de extorsión, pero digno cuando encuentra respaldo legal.
+- **Voz en escena confirmada:**
+  > «Ver a Lady Credence obligada a retirarse así... me devolvió la esperanza de que los nobles no son los dueños de nuestras vidas.»  
+  — Tobias a Max tras la victoria frente a los abusos fiscales en los mercados de Aldoria (`00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
-## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+## 2. Estado vigente — 5 de Floris, Año 3
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+- **Ubicación:** Distrito comercial y mercados populares de Aldoria.
+- **Responsabilidad actual:** Coordinación de puestos de venta locales y comercialización de productos agrícolas y manufacturados.
+- **Asunto abierto:** Afiliación de tenderos independientes a la red de distribución minorista del Consorcio Gutiérrez.
 
-## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+## 3. Cronología canónica
 
-> **«Ver a Lady Credence obligada a retirarse así... me devolvió la esperanza de que los nobles no son los dueños de nuestras vidas.»**  
-> — Tobias a Max tras la victoria frente a los abusos fiscales
+### Año 1
+- Afectado por los abusos arancelarios ilegales impulsados por Lady Seraphine Credence y la facción noble conservadora.
+- Apoyado por Max durante la confrontación pública contra los cobradores de impuestos abusivos, logrando la anulación de las tarifas extorsivas.
+- Expresa su agradecimiento en nombre de los pequeños comerciantes de Aldoria.
+
+### Año 2
+- Participa en la venta minorista de suministros y productos derivados de las nuevas iniciativas comerciales populares.
+
+### Año 3
+- Consolida su tienda como punto de venta regular y respalda la estabilidad comercial promovida por la Casa Gutiérrez.
+
+## 4. Evolución causal
+
+### Punto de inflexión: El freno a la extorsión de Lady Credence
+- **Antes:** Sometido a la arbitrariedad fiscal noble, viviendo al borde de la quiebra y el despojo.
+- **Hecho:** Presenció cómo Max Gutiérrez desafió la imposición ilegal de Credence y obligó a las autoridades a respetar a los pequeños tenderos.
+- **Cambio:** Recuperó la confianza en el comercio legal y dejó de temer a los recaudadores corruptos.
+- **Conducta vigente:** Promueve la transparencia de precios y defiende el derecho de los tenderos a comerciar sin pagar sobornos.
+- **Influencia:** Articula a los pequeños mercaderes como una base social agradecida y leal al Consorcio Gutiérrez.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md` y [[MICROINTERACCIONES_PERSONAJES_S_Z]].
+
+## 5. Relaciones vivas
+
+| Persona o grupo | Estado vigente | Base canónica | Límite |
+|---|---|---|---|
+| Max Josemar Gutiérrez | Defensor del mercado y benefactor | Intervención contra Lady Credence | Trato de cliente y comerciante respetuoso |
+| Pequeños mercaderes de Aldoria | Colegas y red comercial | Comunidad de puesteros del mercado | Coordinación gremial informal |
+| Lady Seraphine Credence | Víctima histórica de su facción | Arbitrariedad fiscal anulada | Cautela y distancia total |
+
+## 6. Ruta autónoma — `SEMILLA`
+
+- **Meta inmediata:** Organizar una asociación de ayuda mutua para tenderos del mercado central que permita comprar grano al por mayor.
+- **Obstáculo:** Falta de espacio de almacenamiento común techado.
+- **Hito futuro:** PENDIENTE de suscribir un contrato de suministro directo con los huertos y molinos del Consorcio.
+
+## 7. Fuentes y correcciones
+
+- `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`
+- [[MICROINTERACCIONES_PERSONAJES_S_Z]]
+- [[REGISTRO_DE_VIDA_AUTONOMA_Y_METAS_AÑO3]]
+- **Corrección autoral:** Representante de la clase comerciante popular; mantener su perspectiva civil.
 
 ---
 
 ## 1. IDENTIDAD Y PERFIL
 
 - **Nombre:** Tobias.
-- **Oficio:** Joven comerciante textil y sastre independiente de Aldoria.
-- **Apariencia:** Muchacho joven de rostro honesto, manos hábiles con las telas y la aguja, de vestimenta modesta pero cuidada.
-- **Personalidad:** Trabajador, humilde, agradecido y perseverante. Representa al ciudadano común aldoriano que intenta ganarse la vida honradamente frente a la voracidad de la alta nobleza.
-
----
+- **Ocupación:** Tendero y comerciante de gremio en Aldoria.
+- **Hito:** Voz de la gente común frente al atropello fiscal patricia.
 
 ## 2. HITO CANÓNICO EN LA HISTORIA
 
-- **La Ruina a Manos de House Credence:** La familia de Tobias poseía un próspero taller y tienda de paños en el distrito comercial, hasta que Lady Seraphine Credence impuso gravámenes y falsos «ajustes fiscales» abusivos para forzar la quiebra del negocio y apoderarse de sus telares.
-- **La Mano en el Hombro de Max:** Cuando Max llegó a Aldoria y comenzó a desafiar abiertamente la tiranía económica de Credence y Veinhardt, Tobias fue uno de los primeros comerciantes locales en atreverse a hablar. Max colocó una mano sobre su hombro y le aseguró: *«No pierdas la esperanza, Tobias; las cosas van a cambiar aquí»*.
-- **Renacimiento Laboral:** Con la creación de los festivales, las obras de la Compañía Goran y la demanda de uniformes y telas para Gutiérrez Estate y Natalia Logistics, Tobias volvió a prosperar como proveedor textil independiente, convirtiéndose en un leal defensor de Max en los barrios populares.
-
-## ADENDA DE MICROINTERACCIONES Y CRECIMIENTO — AUDITORÍA S–Z
-
-- **Antes:** taller textil arruinado por gravámenes y falsos ajustes de House Credence.
-- **Interacción:** habla con Max y recibe la promesa de que las cosas cambiarán; Max abre condiciones comerciales, no una carrera artificial. `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md:L27774-L27777`.
-- **Elección propia:** mantiene un negocio textil independiente y aprovecha la demanda de obras, uniformes y proyectos de Casa Gutiérrez.
-- **Persistencia:** prospera y se convierte en defensor popular de Max; la mejora nace de contratos y oficio.
+- Representa el impacto real de las intervenciones de Max en la vida de los ciudadanos de a pie de Aldoria.

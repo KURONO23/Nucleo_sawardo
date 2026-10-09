@@ -1,25 +1,44 @@
-# Kael
+# Kael — Ficha de Desambiguación Histórica
 
-## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+## 1. Identidad estable
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+- **Resolución Canónica:** Las menciones históricas antiguas al nombre escueto «Kael» en los textos originales se desambiguan en dos personajes canónicos estrictamente diferenciados:
+  1. **[[Kael_Ironheart]]:** Espadachín de dos armas, guardián de Gutiérrez Estate, aventurero Rango A, compañero de Los Ventura, amigo de Biro y Torin, con interés afectivo mutuo en desarrollo hacia [[Natalia_Thornwell]].
+  2. **[[Romina_Exploradora_Blackpeak|Romina]]:** Exploradora veterana Rango A de Blackpeak, mujer de cuarenta años con cicatriz de quemadura en el cuello que compartió inteligencia sobre wyverns en The Cracked Shield (anteriormente rotulada como «Kael exploradora»).
+- **Regla inviolable:** No fusionar ambas identidades. Si un texto antiguo carece de contexto suficiente para determinar cuál de los dos es, se preserva la ambigüedad y no se inventan hechos.
 
-## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+## 1.1 Voz y comportamiento en escena — obligatorio
 
-## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+- Para el espadachín dual, ver [[Kael_Ironheart]] (directo, informal, sociable, llama «Boss» a Max).
+- Para la exploradora veterana, ver [[Romina_Exploradora_Blackpeak]] (áspera, técnica, cauta y sombría).
 
-## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+## 2. Estado vigente — 5 de Floris, Año 3
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+- Remitirse a [[Kael_Ironheart]] y [[Romina_Exploradora_Blackpeak]].
 
-## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+## 3. Cronología canónica
+
+- Consultar las cronologías independientes de cada personaje.
+
+## 4. Evolución causal
+
+- Ver evolución causal en sus fichas definitivas respectivas.
+
+## 5. Relaciones vivas
+
+- Consultar [[Kael_Ironheart]] y [[Romina_Exploradora_Blackpeak]].
+
+## 6. Ruta autónoma — `PENDIENTE`
+
+- Canalizada en sus respectivos expedientes canónicos.
+
+## 7. Fuentes y correcciones
+
+- `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`.
+- `isekai Día 588...`, líneas 37442–38187.
+- **Corrección autoral:** Desambiguación terminante entre Kael Ironheart y Romina.
+
+---
 
 ## CANON FUNDACIONAL — NO MODIFICAR
 

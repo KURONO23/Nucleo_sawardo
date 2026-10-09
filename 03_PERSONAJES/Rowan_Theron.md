@@ -1,27 +1,78 @@
 # Príncipe Rowan Theron — Ficha Canónica
 
-## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+## 1. Identidad estable
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+- **Nombre:** Rowan Theron.
+- **Título y Rango:** Segundo Príncipe de la Corona de Aldoria.
+- **Familia:** Hijo menor del Rey **Aldric Theron**; hermano menor del Príncipe Heredero **Caelan Theron** y medio hermano biológico de **Serath Vale** (secreto dinástico que desconoce por completo).
+- **Apariencia:** Joven apuesto de unos veintidós años, cabello castaño claro con reflejos cobrizos, porte atlético y relajado, viste jubones de corte refinado pero cómodos, evitando ropajes excesivamente pesados de gala siempre que el protocolo se lo permite.
+- **Personalidad:** Curioso, jovial, entusiasta de las artes populares, la literatura, la ingeniería y las festividades cívicas. Prefiere pasar las tardes en los talleres de inventores o en las primeras filas del teatro antes que en audiencias ceremoniales de palacio.
+- **Límites:** No tiene ambiciones sobre el trono ni participa en conspiraciones palaciegas; es leal a su padre y a su hermano Caelan.
 
-## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+## 1.1 Voz y comportamiento en escena — obligatorio
 
-## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+- **Ritmo y vocabulario:** Juvenil, vivaz, inteligente y espontáneo. Aunque educado en el protocolo real, prescinde de formulismos rígidos cuando habla con personas de talento práctico.
+- **En público / ceremonias:** Desenvuelto y carismático; conecta fácilmente con las masas urbanas gracias a su cercanía y simpatía natural.
+- **En el teatro y espectáculos:** Desinhibido y risueño. En la función del 25 de Ventisca en Aldoria, no pudo contener las carcajadas:
+  > «¿Ese no es Max en el escenario? ¡Sí! ¡Es el original!»  
+  — Rowan señalando al escenario muerto de la risa.
+- **Criterio político en escena confirmada:** Durante la audiencia con el Rey Aldric demostró un agudo sentido analítico, distinguiendo con precisión entre quién hace más ruido cortesano y quién representa una amenaza real (`isekai Día 588...`, líneas 576–628).
 
-## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+## 2. Estado vigente — 5 de Floris, Año 3
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+- **Ubicación:** Palacio Real de Aldoria y distritos culturales de la ciudad.
+- **Responsabilidad actual:** Representación cultural de la Corona, mecenas de las iniciativas recreativas juveniles y enlace con los talleres del Consorcio.
+- **Asunto abierto:** Impulso a las ligas juveniles del Quidditch a pie y la expansión de bibliotecas populares con Editorial Estrella Verde.
 
-## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+## 3. Cronología canónica
 
-> **«—¿Ese no es Max en el escenario? —¡Sí! ¡Es el original! (Rowan señalando al escenario muerto de la risa).»**  
+### Año 1
+- Primer contacto con las innovaciones traídas por Max a Aldoria; asombro ante la agilidad con la que transformó la economía de la ciudad.
+- Asiste a las audiencias reales aportando su lectura fresca de los hechos ante su padre, el Rey Aldric.
+
+### Año 2
+- Promotor del Festival Infantil de Aldoria y las competencias lúdicas inspiradas en las obras de Estrella Verde.
+- Asistente entusiasta a los estrenos de la Compañía Goran, celebrando las sátiras teatrales.
+
+### Año 3
+- Participación en las recepciones y festividades de Año 3, consolidando su rol de contrapeso relajado frente a las responsabilidades dinásticas de Caelan.
+
+## 4. Evolución causal
+
+### Punto de inflexión: El éxito de las iniciativas populares en Año 2
+- **Antes:** Veía los intereses culturales como un pasatiempo personal desconectado del deber real.
+- **Hecho:** Presenció cómo el teatro y los festivales unieron al pueblo con la Corona y desarmaron el descontento social.
+- **Cambio:** Comprendió que la cultura es el pilar más efectivo para la legitimidad política de la dinastía Theron.
+- **Conducta vigente:** Utiliza su influencia de príncipe para respaldar proyectos culturales y proteger a los artistas del acoso noble conservador.
+- **Influencia:** Alivia las tensiones del Príncipe Heredero Caelan y fortalece los lazos de la Corona con Casa Gutiérrez.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_2/06_15_Ambar_a_25_Ambar_Año_2.md` y [[MICROINTERACCIONES_PERSONAJES_J_R]].
+
+## 5. Relaciones vivas
+
+| Persona o grupo | Estado vigente | Base canónica | Límite |
+|---|---|---|---|
+| Rey Aldric Theron | Padre y soberano | Respeto filial y consejo perspicaz | Acata las decisiones de Estado |
+| Príncipe Caelan Theron | Hermano mayor y heredero | Fraternidad y apoyo leal | Caelan gobierna, Rowan dinamiza la cultura |
+| Max Josemar Gutiérrez | Ídolo creativo y aliado de la Corona | Admiración por sus historias y visión | Trato de príncipe a noble emérito |
+| Comandante Serath Vale | Admiración marcial (desconoce vínculo biológico) | Respeto hacia la jefa de la Guardia | Trato de protocolo real |
+
+## 6. Ruta autónoma — `SEMILLA`
+
+- **Meta inmediata:** Organizar el primer torneo interescolar de juegos atléticos en los campos de Aldoria con apoyo de Estrella Verde.
+- **Obstáculo:** Reticencias del Lord Chamberlain ante la mezcla de jóvenes nobles y plebeyos en el mismo campo.
+- **Hito futuro:** PENDIENTE de asumir el patronato real oficial de la Red de Bibliotecas Populares de Aldoria.
+
+## 7. Fuentes y correcciones
+
+- `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`
+- `00_FUENTES/historia_original/AÑO_2/06_15_Ambar_a_25_Ambar_Año_2.md`
+- [[MICROINTERACCIONES_PERSONAJES_J_R]]
+- [[REGISTRO_DE_VIDA_AUTONOMA_Y_METAS_AÑO3]]
+- **Guardarraíl canónico:** Desconoce que Serath Vale es su media hermana biológica; preservar el secreto de Estado.
+
+---
+
+> **«¿Ese no es Max en el escenario? ¡Sí! ¡Es el original! (Rowan señalando al escenario muerto de la risa).»**  
 > — Función especial del 25 de Ventisca en Aldoria
 
 ---

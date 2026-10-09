@@ -1,25 +1,78 @@
-# Rul y Daren
+# Rul y Daren — Ficha Canónica de Contactos Externos
 
-## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+## 1. Identidad estable
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+- **Nombres:** Rul y Daren (dúo inseparable de aventureros urbanos).
+- **Rango / Estatus:** Rango D en el Gremio de Aventureros de Thornhaven y Aldoria; operan como contactos externos independientes de Casa Gutiérrez (no son miembros de la servidumbre ni de la casa).
+- **Perfil de tareas habituales:** Transporte ligero, recuperación de objetos menores, vigilancia de almacenes, escoltas urbanas cortas, recados discretos y mensajería confidencial. Conocen al dedillo cada callejuela, muelle y dinámica barrial.
+- **Diferenciación individual:**
+  - **Rul:** Sobrio, reflexivo, estructurado y prudente. Evalúa los riesgos antes de aceptar un encargo; lleva con celo una libreta de contabilidad donde registró minuciosamente el fondo logístico de diez monedas de oro entregado por Max.
+  - **Daren:** Expresivo, bromista, ocurrente e improvisador. Utiliza el humor y la labia para negociar, distraer y recopilar chismes de la ciudad, pero comprende la seriedad del silencio cuando una misión lo amerita.
+- **Código moral propio:** No aceptan bajo ninguna circunstancia trabajos contra niños, ataques a sanadores, amenazas a inocentes o familias vulnerables, robo de hogares, quema de negocios, carga de cadáveres ni entregas que parezcan trampas sin conocer su naturaleza. Pueden rechazar encargos sin perder la amistad con Max.
 
-## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+## 1.1 Voz y comportamiento en escena — obligatorio
 
-## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+- **Rul:**
+  - Ritmo y vocabulario: Serio, económico y cuantitativo. Habla con prudencia, revisa monedas, pesa bolsas y anota en su libreta.
+  - Conducta: Inspecciona el estado del material (como tableros torcidos o carros) y negocia tarifas justas sin abusar ni aceptar pagos desmedidos injustificados (`00_FUENTES/historia_original/AÑO_1/02_01_Bruma_a_18_Bruma_y_05_Solalto_a_09_Solalto_Año_1.md`, líneas 15375–15510).
+- **Daren:**
+  - Ritmo y vocabulario: Chispeante, callejero, rápido de reflejos y persuasivo. Usa guiños, chistes y comentarios distendidos para relajar la tensión en controles o aduanas urbanas.
+- **Operativo cumbre confirmado (Día 35):**
+  - Encargo de Max: Entregar en secreto la respuesta personal a Serath Vale (de la Guardia Real) en doble sobre, sin sellos visibles de Casa Gutiérrez.
+  - Clave de confirmación pactada: «La paloma está a salvo».
+  - Ejecución: Cumplieron la entrega impecablemente durante la cena del Día 35. Rul y Daren reportaron con orgullo y sobriedad: *«La paloma está a salvo. Sin cola, sin preguntas raras, sin teatro»*.
 
-## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+## 2. Estado vigente — 5 de Floris, Año 3
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+- **Ubicación:** Calles y tabernas populares de Aldoria y Thornhaven.
+- **Responsabilidad actual:** Contactos externos de confianza para enlaces urbanos rápidos y distribución de recados comerciales menores.
+- **Asunto abierto:** Vigilancia de posibles movimientos extraños de mensajeros foráneos en las inmediaciones de los almacenes del Consorcio.
 
-## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+## 3. Cronología canónica
+
+### Año 1
+- Identificados por Guildmaster Kira en Thornhaven como aventureros de bajo rango laboriosos y confiables que reciclan materiales con ingenio.
+- Contratados por Max con pago digno y entrega de fondo de diez monedas de oro para mensajería secreta.
+- Misión exitosa de entrega de la carta a Serath Vale (clave «La paloma está a salvo»).
+
+### Año 2
+- Realizan transportes urbanos, avisos rápidos entre imprentas y tabernas durante el auge de las obras teatrales.
+
+### Año 3
+- Asistencia y apoyo logístico externo durante las actividades del Festival de la Cerveza.
+
+## 4. Evolución causal
+
+### Punto de inflexión: La confianza y el fondo logístico de Max en Año 1
+- **Antes:** Sobrevivían con encargos mal remunerados de rango D, expuestos a la prepotencia de aventureros de alto rango.
+- **Hecho:** Max confió en ellos una misión de máxima discreción política y personal, tratándolos con respeto y pagándoles con justicia.
+- **Cambio:** Asumieron una disciplina profesional de contrainteligencia urbana y blindaron su lealtad ética a Casa Gutiérrez.
+- **Conducta vigente:** Actúan como un canal de comunicaciones alternativo que jamás despierta sospechas de las casas nobles.
+- **Influencia:** Han permitido a Max mantener enlaces privados sin recurrir a guardias formales que llamarían la atención.
+- **Fuente:** `DELTA-RP-010` y `00_FUENTES/historia_original/AÑO_1/02_01_Bruma_a_18_Bruma_y_05_Solalto_a_09_Solalto_Año_1.md`.
+
+## 5. Relaciones vivas
+
+| Persona o grupo | Estado vigente | Base canónica | Límite |
+|---|---|---|---|
+| Max Josemar Gutiérrez | Empleador externo y protector respetado | Trato justo y misión de la carta a Serath | No conocen secretos de la Tierra ni Sawardo |
+| Comandante Serath Vale | Destinataria de correspondencia secreta | Entrega de carta en Año 1 | La tratan con reverencia marcial absoluta |
+| Torin | Contacto en Gutiérrez Estate | Escuchó la clave «la paloma está a salvo» | Coordinación de transportes menores |
+| Guildmaster Kira | Autoridad gremial | Registros de aventureros rango D | Cumplimiento de ordenanzas |
+
+## 6. Ruta autónoma — `SEMILLA`
+
+- **Meta inmediata:** Comprar un carromato cubierto con ruedas reforzadas para establecer una ruta de mensajería regular entre el puerto y la capital.
+- **Obstáculo:** Tarifas de peaje en las puertas de la ciudad para carruajes comerciales.
+- **Hito futuro:** PENDIENTE de formalizar una agencia de recados urbanos con licencia protegida del Consorcio.
+
+## 7. Fuentes y correcciones
+
+- `DELTA-RP-010`
+- `00_FUENTES/historia_original/AÑO_1/02_01_Bruma_a_18_Bruma_y_05_Solalto_a_09_Solalto_Año_1.md`, líneas 15375–15510.
+- **Corrección autoral:** Contactos externos independientes; no incorporarlos formalmente a la servidumbre de House Gutiérrez.
+
+---
 
 ## ESTADO
 
@@ -37,7 +90,6 @@ Contactos externos de House Gutiérrez. No son miembros de la casa.
 Más sobrio, práctico y estructurado. Evalúa riesgos antes de aceptar encargos. Lleva una libreta de cuentas y registro del fondo logístico entregado por Max.
 
 Fortalezas observadas:
-
 - discreción;
 - rutas urbanas;
 - vigilancia;
@@ -50,7 +102,6 @@ Fortalezas observadas:
 Más expresivo, bromista e improvisador. Usa humor para negociar y distraer, pero demostró entender la importancia de la discreción cuando el encargo lo exige.
 
 Fortalezas observadas:
-
 - negociación;
 - improvisación;
 - distracción social;
@@ -61,7 +112,6 @@ Fortalezas observadas:
 ## CÓDIGO PROPIO
 
 No aceptan:
-
 - trabajos contra niños;
 - trabajos contra sanadores;
 - amenazas a inocentes;
@@ -75,12 +125,9 @@ Pueden rechazar encargos que crucen sus límites sin perder el vínculo con Max.
 
 ## VÍNCULO CON MAX / HOUSE GUTIÉRREZ
 
-Max los contrató como contactos externos, con trabajos concretos, pago justo y libertad de aceptar o rechazar.
-
-Max les entregó diez monedas de oro como fondo logístico para mensajería discreta y futuras cartas. Rul lo registró en libreta.
+Max los contrató como contactos externos, con trabajos concretos, pago justo y libertad de aceptar o rechazar. Max les entregó diez monedas de oro como fondo logístico para mensajería discreta y futuras cartas. Rul lo registró en libreta.
 
 Primera misión:
-
 - Entregar en secreto la respuesta de Max a Serath.
 - Doble sobre.
 - Exterior neutro, sin sello visible de House Gutiérrez.
@@ -90,16 +137,13 @@ Primera misión:
 - Confirmación acordada: `la paloma está a salvo`.
 
 Resultado:
-
 - Entrega confirmada durante la cena del día 35.
 - Frase usada: `La paloma está a salvo`.
 - No hubo cola, preguntas raras ni teatro, según Rul y Daren.
 
 ## CONOCIMIENTO
 
-Saben que entregaron una carta personal a Serath, de la Guardia Real. No conocen a Aria, Sawardo, Tierra, Perú ni la reencarnación.
-
-Torin oyó la frase de confirmación, pero no conoce necesariamente su significado completo.
+Saben que entregaron una carta personal a Serath, de la Guardia Real. No conocen a Aria, Sawardo, Tierra, Perú ni la reencarnación. Torin oyó la frase de confirmación, pero no conoce necesariamente su significado completo.
 
 ## LÍMITES DE CANON
 

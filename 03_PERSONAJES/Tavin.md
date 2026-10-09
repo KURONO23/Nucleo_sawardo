@@ -1,47 +1,80 @@
 # Tavin — Ficha Canónica
 
-## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+## 1. Identidad estable
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+- **Nombre:** Tavin.
+- **Oficio:** Obrero de construcción, albañil y peón de mantenimiento de Casa Gutiérrez (asociado habitualmente a Dorren).
+- **Apariencia:** Joven fuerte, manos llenas de callos y polvo de caliche, ropas sencillas de trabajo remendadas con esmero, sonrisa amplia y apetito formidable.
+- **Personalidad:** Trabajador incansable, agradecido, sencillo y jovial. Celebra el trabajo bien hecho y la comida abundante.
+- **Límites:** Obrero civil; carece de formación marcial y no interviene en decisiones estratégicas ni políticas.
 
-## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+## 1.1 Voz y comportamiento en escena — obligatorio
 
-## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+- **Ritmo y vocabulario:** Coloquial, espontáneo y entusiasta. Habla con la naturalidad de la clase trabajadora de Thornhaven; expresa asombro genuino ante las innovaciones y el trato digno recibido.
+- **En la faena de obra:** Dedicado y cooperativo; bromea con sus compañeros mientras carga sacos de arena o mezcla argamasa.
+- **En la mesa / comedor:** Inmensamente feliz y agradecido. No da por sentado el plato caliente diario.
+- **Voz en escena confirmada:**
+  > «¿El señor Max dijo que podemos repetir plato? ¡Dorren, dime que no estoy soñando!»  
+  — Tavin atacando una bandeja de comida recién salida de la cocina durante la remodelación inicial de la finca (`00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`, líneas 14190–14220).
 
-## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+## 2. Estado vigente — 5 de Floris, Año 3
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+- **Ubicación:** Gutiérrez Estate, Thornhaven.
+- **Responsabilidad actual:** Cuadrilla de mantenimiento de muros, acequias y almacenes de la hacienda.
+- **Asunto abierto:** Reparaciones estacionales tras las lluvias y heladas de invierno.
 
-## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+## 3. Cronología canónica
 
-> **«¿El señor Max dijo que podemos repetir plato? ¡Dorren, dime que no estoy soñando!»**  
-> — Tavin atacando una bandeja de papas fritas durante la remodelación de la finca
+### Año 1
+- Contratado como parte de las cuadrillas locales de obreros para la remodelación total de la abandonada finca Velthris, ahora Casa Gutiérrez.
+- Experimenta por primera vez condiciones laborales sin precedentes en el reino: paga justa a tiempo, jornadas humanas y comida abundante cocinada por el propio Max.
+
+### Año 2
+- Pasa a formar parte del equipo permanente de mantenimiento de infraestructura de Casa Gutiérrez y almacenes del puerto.
+
+### Año 3
+- Mantiene las instalaciones en óptimo estado durante las visitas masivas y celebraciones del Año 3.
+
+## 4. Evolución causal
+
+### Punto de inflexión: La contratación con trato digno en Año 1
+- **Antes:** Peón precarizado acostumbrado a la explotación feudal, pagos retrasados y comida escasa.
+- **Hecho:** Fue contratado por Max con salario digno y tres comidas completas al día.
+- **Cambio:** Desarrolló una lealtad férrea y orgullo genuino por su trabajo en la finca.
+- **Conducta vigente:** Trabaja con esmero y protege los bienes de la hacienda como si fueran propios.
+- **Influencia:** Es testimonio vivo entre los trabajadores del puerto de que la Casa Gutiérrez es un empleador justo y protector.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`.
+
+## 5. Relaciones vivas
+
+| Persona o grupo | Estado vigente | Base canónica | Límite |
+|---|---|---|---|
+| Dorren | Compañero de cuadrilla y mejor amigo | Trabajo diario en la finca | Lealtad de compañeros de obra |
+| Max Josemar Gutiérrez | Patrón, benefactor y héroe | Gratitud profunda e incondicional | Respeto respetuoso hacia el amo |
+| Oskar y Maren | Cocineros que alimentan a la cuadrilla | Trato cariñoso en los comedores | Agradecimiento diario |
+| Torin | Capataz y supervisor perimetral | Órdenes de mantenimiento | Obediencia a las directivas de seguridad |
+
+## 6. Ruta autónoma — `SEMILLA`
+
+- **Meta inmediata:** Perfeccionar técnicas de mampostería en piedra para construir el nuevo cobertizo de herramientas de los huertos.
+- **Obstáculo:** Fatiga física en jornadas de carga pesada.
+- **Hito futuro:** PENDIENTE de ascender a capataz auxiliar de obras en las futuras ampliaciones de la hacienda.
+
+## 7. Fuentes y correcciones
+
+- `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`, líneas 14190–14220.
+- [[MICROINTERACCIONES_PERSONAJES_S_Z]]
+- [[REGISTRO_DE_VIDA_AUTONOMA_Y_METAS_AÑO3]]
+- **Corrección autoral:** Personaje obrero con identidad propia; no desdibujar su voz campechana.
 
 ---
 
 ## 1. IDENTIDAD Y PERFIL
 
 - **Nombre:** Tavin.
-- **Oficio:** Joven peón y aprendiz de albañilería en la cuadrilla del Maestro Dorren.
-- **Edad / Apariencia:** Muchacho de unos dieciocho a veinte años, pelirrojo, pecoso, de complexión delgada pero fibrosa, siempre con una sonrisa y polvo de yeso en la ropa.
-- **Personalidad:** Entusiasta, alegre, glotón y trabajador incansable. Representa el alivio y la alegría de la juventud trabajadora al encontrar un patrón que los trata como seres humanos.
-
----
+- **Rol:** Obrero de construcción y albañil de Gutiérrez Estate.
+- **Rasgos:** Joven fuerte, optimista y leal.
 
 ## 2. MOMENTO CANÓNICO
 
-- Durante la construcción de Gutiérrez Estate, Tavin se ganó el cariño de Max y Los Ventura por su voraz apetito (devoraba sistemáticamente platos enteros de papas fritas y salsas caseras traídas por Max).
-- Aprendió el oficio bajo la tutela estricta de Dorren y se convirtió en uno de los defensores más ruidosos de la Casa Gutiérrez entre la juventud obrera de Aldoria.
-
-## ADENDA DE MICROINTERACCIONES Y CRECIMIENTO — AUDITORÍA S–Z
-
-- Bajo Dorren, Tavin pasa del entusiasmo y apetito a un oficio concreto; mide el marco cuatro veces después de que Dorren le exige precisión. `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md:L23165-L23254`, `L23374-L23379`.
-- Se convierte en voz de la juventud obrera y ayuda a que la reputación de la casa circule fuera de la nobleza.
-- Las 11 fuentes no añaden un nuevo oficio o hito posterior; conservar ese desconocido.
+- Encarna la transformación social provocada por Max: un peón que descubre que el trabajo puede ser remunerado con justicia y respeto humano.

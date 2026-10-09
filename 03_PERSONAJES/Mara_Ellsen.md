@@ -1,35 +1,78 @@
 # Mara Ellsen
 
-## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+## 1. Identidad estable
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+- **Nombre:** Mara Ellsen.
+- **Oficio y Rango:** Cazadora, rastreadora de élite y exploradora vinculada a los círculos tácticos y de seguridad de Aldoria.
+- **Apariencia:** Mujer de complexión atlética, ojos alertas, ropas prácticas de cuero y lino teñido en tonos pardos, calzado silencioso y daga de caza al cinto.
+- **Personalidad:** Taciturna, observadora, fría ante el pánico y con un instinto afinado para percibir emboscadas y rastros ocultos.
+- **Diferenciación crítica:** No fusionar con Maelis Dorne ni con Lyssa; Mara posee su propia identidad en los registros de seguridad y festivales.
+- **Límites:** Especialista en rastreo físico y lectura de huellas; no posee dones mágicos arcanos ni mando de grandes batallones.
 
-## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+## 1.1 Voz y comportamiento en escena — obligatorio
 
-## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+- **Ritmo y vocabulario:** Parca en palabras. Habla con frases cortas y descriptivas, señalando detalles del entorno que otros pasan por alto (humedad del suelo, ramas rotas, tensión en la multitud).
+- **En público / multitudes:** Mantiene la espalda protegida y la mirada en movimiento constante. No participa en tertulias ruidosas a menos que sea necesario para recabar impresiones.
+- **En escena confirmada:** Asistió al Festival de la Cerveza de Aldoria compartiendo observaciones de seguridad con Lady Celene Arvaux y Maelis Dorne (`FESTIVAL DE LA CERVEZA.md`, líneas 4737–5091).
+- **Tratamiento:** Se dirige a superiores con respeto escueto y sin servilismo cortesano.
 
-## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+## 2. Estado vigente — 5 de Floris, Año 3
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+- **Ubicación:** Perímetros de Aldoria y rutas de acceso a los distritos centrales.
+- **Responsabilidad actual:** Rastreo preventivo de accesos no autorizados y vigilancia de caminos durante las semanas post-Festival.
+- **Asunto abierto:** Vigilancia de posibles campamentos ilegales de contrabandistas o desertores en los bosques aledaños.
 
-## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+## 3. Cronología canónica
 
-## CANON RECUPERADO — REAUDITORÍA
+### Año 1
+- Registro de actividades como cazadora y rastreadora independiente en los bosques exteriores.
 
-- Integrante recurrente del entorno social/político vinculado a Serath y a las producciones culturales.
-- Posee presencia propia en conversaciones y observación teatral; no fusionar con [[Mara_Quill]].
-- La coincidencia del nombre Mara no autoriza identidad compartida.
-- Cargo, casa, edad y relación exacta con las demás Mara permanecen `DESCONOCIDOS` donde la fuente no los especifique.
+### Año 2
+- Incorporación a esquemas de apoyo de seguridad e inteligencia perimetral convocados por la Guardia y el círculo de Serath Vale.
+- Asistencia y observación en eventos públicos y representaciones de la Compañía Goran (*¿Qué pasó ayer?*, *Austin Powers*).
 
-## FUENTES
+### Año 3
+- Despliegue de seguridad encubierta en el Festival de la Cerveza, coordinando con Celene Arvaux y Maelis Dorne.
 
-- `00_FUENTES/historia_original/AÑO_2/05_26_Solalto_a_14_Ambar_Año_2.md`, continuidad alrededor de líneas 212600–213115.
-- Fuentes teatrales posteriores; 30 coincidencias nominales localizadas durante la reauditoría.
+## 4. Evolución causal
 
+### Punto de inflexión: La integración en operativos mixtos con la Guardia en Año 2
+- **Antes:** Actuaba exclusivamente como rastreadora solitaria guiada por contratos de caza de bestias.
+- **Hecho:** Fue convocada para evaluar la seguridad de grandes multitudes ante posibles sabotajes nobles.
+- **Cambio:** Aprendió a trasladar su lectura de rastros en la naturaleza a la lectura del comportamiento de masas urbanas.
+- **Conducta vigente:** Detecta anomalías en flujos de personas y puntos ciegos urbanos con la misma precisión que un rastro en el bosque.
+- **Influencia:** Proporciona alertas tempranas a Maelis y Celene sobre movimientos sospechosos en los accesos de la ciudad.
+- **Fuente:** `FESTIVAL DE LA CERVEZA.md` y [[PLOT_THREADS]].
+
+## 5. Relaciones vivas
+
+| Persona o grupo | Estado vigente | Base canónica | Límite |
+|---|---|---|---|
+| Maelis Dorne | Colega de observación táctica | Coordinación en el Festival | Maelis procesa inteligencia, Mara el rastro físico |
+| Lady Celene Arvaux | Enlace con la seguridad noble | Observación en palcos y eventos | Distancia profesional de clase |
+| Guardia Real de Aldoria | Contratista auxiliar de rastreo | Misiones perimetrales | Conserva estatus de exploradora libre |
+
+## 6. Ruta autónoma — `PENDIENTE`
+
+- **Meta inmediata:** Inspeccionar las gargantas rocosas del norte para descartar asentamientos de bandidos financiados por casas patricias.
+- **Obstáculo:** Terreno escarpado y deshielos estacionales.
+- **Hito futuro:** PENDIENTE de consolidar una red de rastreadores forestales al servicio de la seguridad de las rutas cerveceras.
+
+## 7. Fuentes y correcciones
+
+- `FESTIVAL DE LA CERVEZA.md`, líneas 4737–5091.
+- [[MICROINTERACCIONES_PERSONAJES_J_R]]
+- [[PLOT_THREADS]]
+- **Corrección autoral:** No fusionar con Maelis Dorne ni con Lyssa; es una rastreadora autónoma.
+
+---
+
+## 1. IDENTIDAD Y PERFIL
+
+- **Nombre:** Mara Ellsen.
+- **Rol:** Cazadora y rastreadora independiente que colabora con esquemas de observación táctica.
+- **Apariencia:** Silenciosa, vestimenta de tonos forestales y reflejos afilados.
+
+## ADDENDUM — CIERRE DE MICROINTERACCIONES
+
+- Aparece en el Festival junto a Celene y Maelis; conserva función de observadora táctica y no se fusiona con Maelis (`FESTIVAL DE LA CERVEZA.md`, 4737–5091).

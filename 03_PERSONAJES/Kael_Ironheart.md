@@ -1,83 +1,76 @@
 # Kael Ironheart
 
-## Identidad estable
-Kael Ironheart es el mismo guardián espadachín dual antes registrado de forma fragmentada: aventurero A y protector de Estate, amigo de Biro, Torin y Lyssa. Su interés afectivo en desarrollo es Natalia, no Amane.
+## 1. Identidad estable
 
-## VOZ Y COMPORTAMIENTO EN ESCENA
+- **Nombre:** Kael Ironheart.
+- **Oficio y Rango:** Espadachín de dos armas; guardián de Gutiérrez Estate y aventurero de **Rango Oficial A del Gremio**.
+- **Apariencia:** Joven espadachín atlético, porte ágil y mirada chispeante; porta dos espadas gemelas cruzadas a la espalda y armadura de cuero ligero con refuerzos de acero para máxima movilidad.
+- **Personalidad:** Sociable, bromista, curioso, competitivo y perseverante. Aprendió a moderar su impulsividad ofensiva y canalizarla en una esgrima dual coordinada y adaptativa.
+- **Vínculo afectivo rector:** **Interés mutuo en desarrollo con Natalia Thornwell** (la fuente registra cercanía buscada, comidas compartidas, aceptación de bromas de Max y Biro, y celos leves ante Leo Mercer; aún sin formalización). Su dupla deportiva con Amane en el Festival fue estrictamente profesional.
+- **Regla de diferenciación inviolable:** No confundir con Romina (la exploradora veterana antes rotulada «Kael exploradora»).
 
-Directo, informal y sociable; puede llamar `Boss` a Max en montaje y bromear sin perder atención a la tarea. Su competitividad debe mostrar adaptación y moderación de agresividad; con Natalia hay cercanía y torpeza contenida, no pareja ya hecha.
+## 1.1 Voz y comportamiento en escena — obligatorio
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+- **Ritmo y vocabulario:** Directo, informal, entusiasta y deportivo. Se presenta con apretón de manos enérgico y preguntas curiosas sobre técnicas marciales.
+- **Tratamiento y apodos:** Llama cariñosamente **«Boss»** a Max durante entrenamientos y tareas en la finca, manteniendo un tono de camaradería respetuosa.
+- **Con Natalia Thornwell:** Pierde parte de su soltura fanfarrona; muestra una torpeza contenida y dulce, buscando su aprobación indirecta y compartiendo comidas con evidente interés recíproco.
+- **En combate / guardia:** Rápido de reflejos, concentrado en cadenas de tajos y paradas dobles; sabe frenar su avance para no romper la línea de Torin.
 
-## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+## 2. Estado vigente — 5 de Floris, Año 3
 
-## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- **Ubicación:** Gutiérrez Estate y enlaces de patrulla en Thornhaven y Aldoria.
+- **Responsabilidad actual:** Seguridad perimetral de la finca junto a Torin y Lyssa.
+- **Asunto abierto:** Presentación ante Guildmaster Kira de la petición autónoma de misión **«La presa que no necesita un héroe»**, para medir su crecimiento como espadachín independiente.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## 3. Cronología canónica
 
-## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+### Año 1
+- Encuentro inicial con Max en The Silver Flagon como colega de rango B y amigo de aventuras de Biro.
+- Contratado como guardián de Gutiérrez Estate; completa el ciclo de 20 días subjetivos de entrenamiento en combate dual.
+- Reevaluación pública ante Kira: ascenso oficial y emisión de su tarjeta de **Rango A**.
 
-## CANON FUNDACIONAL
+### Año 2
+- Defensa de la finca frente a la comitiva hostil de guardias nobles.
+- Celebración de su cumpleaños el 15 de Ámbar; recibe espadas de entrenamiento de madera que atesora como símbolo de identidad.
+- Acercamiento evidente con Natalia Thornwell durante los festejos y eventos de la finca.
 
-No aplica. Corrección autoral post-FASE 2: Kael Ironheart y el guardián Kael de dos espadas son la misma persona.
+### Año 3
+- Titular masculino de la delegación en la Prueba de Afrodita junto a Amane en el Festival de la Cerveza (colaboración deportiva profesional).
+- Presentación de su solicitud de misión de rango A ante Kira.
 
-## APARIENCIA
+## 4. Evolución causal
 
-Espadachín varón. Apariencia física detallada `DESCONOCIDO`; no reutilizar la ficha de [[Kael]], exploradora A de Blackpeak.
+### Punto de inflexión: El entrenamiento y reevaluación gremial en Año 1
+- **Antes:** Espadachín de rango B estancado por un ímpetu ofensivo desordenado que ponía en riesgo a sus compañeros.
+- **Hecho:** Max le enseñó adaptación, economía de golpes y control del tempo de combate con dos hojas.
+- **Cambio:** Integró la paciencia táctica sin perder su chispa de ataque, ganándose el rango A por mérito probado ante Kira.
+- **Conducta vigente:** Actúa como defensor disciplinado y asume responsabilidades sin depender de que Max resuelva sus peleas.
+- **Influencia:** Fortalece la vanguardia de la finca y motiva a aventureros jóvenes a entrenar con método.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md` y `AÑO_1/02_01_Bruma_a_18_Bruma_y_05_Solalto_a_09_Solalto_Año_1.md`.
 
-## PERSONALIDAD
+## 5. Relaciones vivas
 
-Sociable, bromista, curioso, competitivo y perseverante. Durante el entrenamiento aprende a moderar agresividad y adaptarse.
+| Persona o grupo | Estado vigente | Base canónica | Límite |
+|---|---|---|---|
+| Natalia Thornwell | Interés mutuo en desarrollo | Comidas compartidas, celos leves con Leo | Vínculo en evolución; no pareja formalizada |
+| Max Josemar Gutiérrez | Empleador («Boss»), mentor y amigo | Confianza plena y entrenamiento | Autonomía marcial propia |
+| Torin y Lyssa | Compañeros del trío de guardianes | Guardia diaria de Gutiérrez Estate | Coordinación táctica permanente |
+| Biro | Amigo de aventuras de larga data | Años de misiones compartidas | Rivalidad sana y bromas |
+| Amane | Compañera en la Prueba de Afrodita | Dupla deportiva en el Festival | Relación estrictamente profesional y amistosa |
 
-## FORMA DE HABLAR
+## 6. Ruta autónoma — `SEMILLA`
 
-Directa e informal. Se presenta con apretón de manos, pregunta por especialidades y llama “Boss” a Max durante el montaje. No añadir tics con la muestra disponible.
+- **Meta inmediata:** Obtener la aprobación de Kira para liderar «La presa que no necesita un héroe» con respaldo perimetral de Torin y Amane.
+- **Obstáculo:** Clasificación formal del contrato F–S en el Gremio.
+- **Hito futuro:** PENDIENTE de consolidar un paso adelante formal en su relación afectiva con Natalia Thornwell mediante escenas recíprocas.
 
-## MOTIVACIONES
+## 7. Fuentes y correcciones
 
-Romper su estancamiento en B, crecer como espadachín, sostener amistades aventureras y proteger Gutiérrez Estate.
-
-## CLASE / PROFESIÓN
-
-Espadachín de dos armas; aventurero y guardián de Gutiérrez Estate.
-
-## RANGO
-
-**Oficial A del Gremio.** Ascendió desde B tras el entrenamiento de Max y la reevaluación pública de Kira; no es solo una capacidad estimada.
-
-## HABILIDADES
-
-Combate con dos espadas, cadenas de ataques y adaptación entrenadas. Las métricas de montaje y activaciones de Sawardo dentro de Sawardo no son pruebas válidas.
-
-## RELACIONES
-
-Amigo habitual de Biro; ha realizado misiones con él durante años. Acepta amistad e invitación de Max y luego desarrolla lealtad/amistad como guardián. Compañero de Torin y Lyssa. Amistad previa con Lyra Swiftwind y Marcus Ashford.
-
-## CONOCIMIENTO
-
-Conoce a Max como aventurero S, entrenador, amigo y señor de la finca. Experimentó 20 días subjetivos incorporado a Sawardo. No consta que conozca la reencarnación, Tierra o los experimentos privados de daga/manzana.
-
-## SECRETOS
-
-Declara haber huido de una familia mercante; nombres, lugar y circunstancias `DESCONOCIDO`.
-
-## EVOLUCIÓN
-
-Conoce a Max en Silver Flagon como amigo B de Biro, acepta entrar en su círculo social y luego es convocado para proteger la finca. Completa un ciclo de 20 días subjetivos, mejora control de agresividad, combate dual y adaptación, y alcanza primero una capacidad A alta. La reevaluación gremial posterior convierte esa capacidad en **ascenso oficial a rango A**. No duplicar estas apariciones como dos Kael.
-
-## ESTADO ACTUAL
-
-Asignado con Torin y Lyssa a la protección de Gutiérrez Estate durante el viaje de la comitiva a Aldoria.
-
-## REFERENCIAS
-
-Fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`; corrección autoral post-FASE 2; [[CURRENT_STATE_5_FLORIS_AÑO3]], [[RELATIONSHIPS]], [[KNOWLEDGE]].
-
+- `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`
+- `00_FUENTES/historia_original/AÑO_1/02_01_Bruma_a_18_Bruma_y_05_Solalto_a_09_Solalto_Año_1.md`, líneas 7115–7213.
+- `00_FUENTES/historia_original/AÑO_2/08_11_Noctalia_a_30_Noctalia_Año_2.md`
+- [[MISIONES_PROPUESTAS_POR_NPC_AÑO3]]
+- **Corrección autoral:** Interés afectivo dirigido a Natalia Thornwell, NO a Amane. Rango Oficial A.
 
 ---
 

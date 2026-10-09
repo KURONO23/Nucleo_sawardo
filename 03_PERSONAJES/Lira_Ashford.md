@@ -1,29 +1,72 @@
 # Lira Ashford — Ficha Canónica Completa
 
-## Identidad estable
-Lira Ashford es prima de Amane y especialista inmobiliaria de propiedades de lujo, asesora de House Gutiérrez y Natalia Logistics. Su red conecta vivienda, proveedores y artesanos de élite con ética profesional.
+## 1. Identidad estable
 
-## VOZ Y COMPORTAMIENTO EN ESCENA
+- **Nombre:** Lira Ashford.
+- **Parentesco:** Prima de **Amane** (maga de fuego de Los Ventura).
+- **Oficio / Profesión:** Especialista y corredora inmobiliaria de propiedades de lujo y terrenos señoriales en Aldoria y comarcas aledañas; asesora inmobiliaria de Casa Gutiérrez y Natalia Logistics.
+- **Apariencia:** Mujer refinada de finales de los veinte años, porte elegante, trajes de corte sastre fino de telas selectas, peinado pulcro y sonrisa profesional cautivadora.
+- **Personalidad:** Perspicaz, eficiente, excelentemente conectada con la aristocracia y los maestros artesanos de élite, y de una ética intachable en el corretaje. No vende humo ni propiedades con vicios ocultos.
 
-Habla con eficiencia comercial, cortesía pulida y recomendaciones concretas. En vez de prometer abstracciones, conecta nombres, costos y necesidades —como al presentar a Galwin— y mantiene una sonrisa profesional sin perder criterio propio.
+## 1.1 Voz y comportamiento en escena — obligatorio
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+- **Ritmo y vocabulario:** Eficiencia comercial, cortesía diplomática pulida y recomendaciones directas y concretas. Conecta nombres, costes, normativas de escrituración y necesidades reales.
+- **En negociación:** Mantiene una sonrisa profesional sin perder un milímetro de criterio técnico; no adula a clientes ricos ni promete plazos irreales.
+- **Voz en escena confirmada:**
+  > «Dile a Galwin que te envía Lira Ashford; le hace descuentos especiales a mis clientes selectos.»  
+  — Lira entregándole a Max la tarjeta de contacto del maestro artífice (`00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
-## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+## 2. Estado vigente — 5 de Floris, Año 3
 
-## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+- **Ubicación:** Distrito comercial y de negocios de Aldoria.
+- **Responsabilidad actual:** Asesoría inmobiliaria para la adquisición de nuevos locales comerciales y depósitos de Cervecería Esmeralda y Editorial Estrella Verde.
+- **Asunto abierto:** Búsqueda de una sede representativa para la administración central del Consorcio en la capital.
 
-## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+## 3. Cronología canónica
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+### Año 1
+- Gestiona la venta de la finca de Dorian Velthris a Max, felicitando al grupo por su nuevo rango S.
+- Conecta a Max con el maestro inventor enano **Galwin Gearwright** y provee la terna de artesanos de élite (*The Golden Hearth* de Marissa Goldweave, *Thornwood Artisan Collective*, *Silkweave & Stone*).
 
-## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+### Año 2
+- Asesora a Natalia Thornwell en la compra de terrenos para almacenes y establos en las rutas hacia Thornhaven.
+
+### Año 3
+- Consolida su estatus como la corredora inmobiliaria predilecta de las nuevas empresas asociadas a la Corona y Casa Gutiérrez.
+
+## 4. Evolución causal
+
+### Punto de inflexión: La venta de la finca Velthris en Año 1
+- **Antes:** Corredora que lidiaba con nobles caprichosos y propiedades estancadas por litigios familiares.
+- **Hecho:** Encontró en Max a un comprador con liquidez inmediata que confió en sus recomendaciones técnicas de artesanos.
+- **Cambio:** Posicionó su agencia como el puente entre el capital nuevo y los mejores talleres artesanales del reino.
+- **Conducta vigente:** Asesora con visión integral, asegurando que cada inmueble cuente con reformas viables y artesanos contrastados.
+- **Influencia:** Aceleró la fundación material de Gutiérrez Estate y dinamizó la economía del Distrito de Artesanos.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`.
+
+## 5. Relaciones vivas
+
+| Persona o grupo | Estado vigente | Base canónica | Límite |
+|---|---|---|---|
+| Amane | Prima hermana querida | Vínculo familiar afectuoso | Separan negocios inmobiliarios de aventuras |
+| Max Josemar Gutiérrez | Cliente de honor y aliado comercial | Venta de la finca y contactos clave | Relación profesional de mutua estima |
+| Galwin Gearwright | Maestro artífice y socio de confianza | Red de recomendaciones selectas | Respeto entre oficios |
+| Marissa Goldweave | Proveedora artesanal recomendada | Decoración de The Golden Hearth | Colaboración de prestigio |
+
+## 6. Ruta autónoma — `SEMILLA`
+
+- **Meta inmediata:** Cerrar la compra del edificio colindante a la imprenta para expandir los talleres de encuadernación.
+- **Obstáculo:** Peticiones de arriendo abusivas por parte de herederos patricios.
+- **Hito futuro:** PENDIENTE de formalizar la Cámara de Comercio Inmobiliario de Aldoria.
+
+## 7. Fuentes y correcciones
+
+- `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`
+- [[CURRENT_STATE_5_FLORIS_AÑO3]]
+- [[REGISTRO_DE_VIDA_AUTONOMA_Y_METAS_AÑO3]]
+- **Corrección autoral:** Prima de Amane; especialista inmobiliaria con red de artesanos de élite.
+
+---
 
 > **«Dile a Galwin que te envía Lira Ashford; le hace descuentos especiales a mis clientes selectos.»**  
 > — Lira entregándole a Max la tarjeta de contacto del maestro artífice
@@ -50,7 +93,3 @@ La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorale
      - *Thornwood Artisan Collective* para carpintería a medida.
      - *Silkweave & Stone* para tapicería y esculturas.
 - Se mantiene como asesora de bienes raíces de confianza de House Gutiérrez y Natalia Logistics.
-
-## ADDENDUM — CIERRE DE MICROINTERACCIONES
-
-- Responde profesionalmente a Amane, identifica la necesidad de vivienda de Max y conecta finca y proveedores (`00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`, 15497–15512).

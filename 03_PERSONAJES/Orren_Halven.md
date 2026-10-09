@@ -1,25 +1,69 @@
-# Orren Halven — Ficha provisional de continuidad
+# Orren Halven — Ficha Canónica de Continuidad
 
-## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+## 1. Identidad estable
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+- **Nombre:** Orren Halven.
+- **Rol / Oficio:** Administrador doméstico y mayordomo jefe de Casa Ardel en Aldoria.
+- **Apariencia:** Hombre mayor de sesenta años, espalda recta, cabello ralo y plateado, librea sobria de servicio oscuro sin adornos y llaves de dependencias al cinto.
+- **Personalidad:** Metódico, severo, pragmático, apegado al orden de la casa y al cumplimiento riguroso de tareas. No se interesa por filosofías ni discursos políticos; juzga a las personas únicamente por si cumplen su trabajo con silencio, puntualidad y limpieza.
+- **Límites:** Dirige la capa doméstica y operativa de la casa; no comprende el financiamiento de alta política ni la conspiración internacional de Corven Marr. No conoce la verdadera identidad de Max ni de G1.
 
-## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+## 1.1 Voz y comportamiento en escena — obligatorio
 
-## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+- **Ritmo y vocabulario:** Seco, austero, imperativo y sin rodeos. Voz baja pero autoritaria propia de un mayordomo tradicional.
+- **En la supervisión de servicio:** Instrucciones breves y precisas sobre limpieza de candelabros, pulido de pisos, horarios de cocina y servicio de mesa.
+- **En escena confirmada (trato con Marcos/Max):** Observó el desempeño de «Marcos» con mirada evaluadora; notó su disciplina física y le permitió volver a prestar servicio tras verificar que no hacía preguntas indiscretas ni causaba desorden (`00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md`).
+- **Tratamiento:** Exige respeto hacia Lord Severin y disciplina estricta entre la servidumbre.
 
-## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+## 2. Estado vigente — 5 de Floris, Año 3
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+- **Ubicación:** Mansión de Casa Ardel, Aldoria.
+- **Responsabilidad actual:** Coordinación del personal doméstico, turnos de guardia doméstica y mantenimiento de las instalaciones.
+- **Asunto abierto:** Reajuste de los horarios y cuadrillas de la servidumbre para absorber ausencias sin llamar la atención de Lord Severin.
 
-## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+## 3. Cronología canónica
+
+### Año 1 y Año 2
+- Décadas de servicio como intendente y mayordomo leal de Casa Ardel.
+
+### Año 3 (Bruma a Floris)
+- Gestión de la servidumbre durante las tensiones financieras de la casa.
+- Contratación y supervisión de mozos auxiliares, incluyendo la admisión de «Marcos» para tareas de servicio doméstico.
+- Ajuste de turnos para que la rutina de la mansión no se interrumpa por las salidas o entradas irregulares de colaboradores.
+
+## 4. Evolución causal
+
+### Punto de inflexión: La absorción de personal auxiliar en Año 3
+- **Antes:** Mantenía una plantilla fija y hermética de sirvientes veteranos.
+- **Hecho:** Las exigencias imprevistas y el trasiego de visitas ordenado por Corven Marr saturaron la capacidad de la casa.
+- **Cambio:** Tuvo que incorporar sirvientes eventuales externos («Marcos»), flexibilizando sus rígidos filtros de contratación.
+- **Conducta vigente:** Vigila de cerca a los recién llegados pero tolera ausencias si el trabajo pesado queda realizado impecablemente.
+- **Influencia:** Proporcionó involuntariamente a Max la cobertura perfecta para operar en el corazón de Casa Ardel.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md`.
+
+## 5. Relaciones vivas
+
+| Persona o grupo | Estado vigente | Base canónica | Límite |
+|---|---|---|---|
+| Lord Severin Ardel | Señor y amo de la casa | Devoción al linaje Ardel | Oculta pequeñas faltas domésticas para no agobiarlo |
+| Marcos (Max Gutiérrez) | Mozo auxiliar contratado | Supervisión de tareas domésticas | Lo juzga por su eficiencia física; desconoce su identidad |
+| Verrick Dossan | Coordinador comercial externo | Recepción de recados para la casa | Mantenerlo fuera de las dependencias privadas |
+| Servidumbre de Casa Ardel | Mayordomo y jefe directo | Disciplina de servicio diaria | Exige silencio y pulcritud absoluta |
+
+## 6. Ruta autónoma — `PENDIENTE`
+
+- **Meta inmediata:** Sustituir las provisiones dañadas de la bodega y asegurar las cerraduras de la biblioteca familiar.
+- **Obstáculo:** Presupuesto doméstico congelado por las auditorías de Severin.
+- **Hito futuro:** PENDIENTE de defender la mansión familiar frente a un eventual allanamiento o intervención judicial de la Guardia.
+
+## 7. Fuentes y correcciones
+
+- `00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md`
+- [[OPERACION_RAVENWOOD_ARDEL_VEYLAN]]
+- [[CURRENT_STATE_4_FLORIS_AÑO3]]
+- **Corrección autoral:** Burócrata doméstico de honor antiguo; no atribuirle complicidad ideológica con la conspiración.
+
+---
 
 ## Estado al 4 de Floris, Año 3
 

@@ -1,25 +1,73 @@
 # Marissa Goldweave — Ficha Canónica
 
-## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+## 1. Identidad estable
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+- **Nombre:** Marissa Goldweave.
+- **Ocupación:** Propietaria, maestra decoradora y artesana mayor de **The Golden Hearth**, el establecimiento de mobiliario e interiorismo más prestigioso del Distrito de Artesanos de Aldoria.
+- **Edad / Apariencia:** Dama refinada de unos cincuenta años, porte distinguido, cabello castaño con toques cobrizos elegantemente recogido, mirada serena y vestimenta de corte impecable.
+- **Personalidad:** Exigente con los estándares de calidad, apasionada por las maderas nobles, telas resistentes y la ergonomía; valora a los clientes que aprecian el trabajo bien hecho y desprecian la ostentación hueca.
+- **Límites:** Especialista en diseño, carpintería fina, tapicería e interiorismo; no es comerciante de combate ni figura política cortesana.
 
-## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+## 1.1 Voz y comportamiento en escena — obligatorio
 
-## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+- **Ritmo y vocabulario:** Tono pausado, seguro, profesional y con la elegancia que otorgan tres décadas de oficio. Explica densidades de roble, uniones de cola de milano, refuerzos de confort y tintes de telas con autoridad técnica.
+- **En su tienda / taller:** Minuciosa; calcula presupuestos en silencio mental antes de dar un plazo exacto. No adula a nobles caprichosos.
+- **En interacción con Max:** Sorprendida inicialmente por la escala masiva del encargo, se recompone con profesionalismo implacable para diseñar mobiliario funcional y duradero.
+- **Voz en escena confirmada:**
+  > «Llevo más de treinta años vistiendo y amueblando las residencias más exigentes de este reino; sé distinguir a un cliente que busca apariencias de uno que busca un hogar verdadero.»  
+  — Marissa Goldweave recibiendo a Max en The Golden Hearth (`00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`, líneas 16210–16268).
 
-## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+## 2. Estado vigente — 5 de Floris, Año 3
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+- **Ubicación:** The Golden Hearth, Distrito de Artesanos de Aldoria.
+- **Responsabilidad actual:** Dirección de talleres de carpintería y ebanistería fina, atención a residencias distinguidas y proveedora de mobiliario para proyectos del Consorcio.
+- **Asunto abierto:** Fabricación de pedidos especiales de estanterías y mesas de lectura para las nuevas dependencias de Editorial Estrella Verde.
 
-## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+## 3. Cronología canónica
+
+### Año 1
+- Recomendada personalmente por Lira Ashford, recibe a Max en The Golden Hearth.
+- Diseña, fabrica y entrega el mobiliario interior de Casa Gutiérrez (camas de roble macizo con refuerzos de confort, sofás tapizados de durabilidad extrema y la gran mesa de comedor comunal).
+- Cumplimiento estricto de los plazos antes de la gran fiesta de inauguración de la hacienda.
+
+### Año 2
+- Continúa suministrando muebles de calidad y decorados de madera para los teatros de la Compañía Goran y residencias asociadas.
+
+### Año 3
+- Mantiene a The Golden Hearth como el referente máximo de interiorismo de calidad en Aldoria.
+
+## 4. Evolución causal
+
+### Punto de inflexión: El encargo de Gutiérrez Estate en Año 1
+- **Antes:** Proveía mobiliario para la aristocracia tradicional, acostumbrada a muebles ornamentados pero frágiles e incómodos.
+- **Hecho:** Max le solicitó muebles de roble macizo pensados para la comodidad real, el descanso de aventureros y el uso comunitario diario.
+- **Cambio:** Validó su filosofía de que la verdadera artesanía une belleza con solidez estructural y confort.
+- **Conducta vigente:** Defiende el diseño funcional de alta gama frente a la decoración superficial.
+- **Influencia:** Proporcionó a Casa Gutiérrez la calidez de un verdadero hogar y consolidó alianzas entre artesanos y el Consorcio.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`.
+
+## 5. Relaciones vivas
+
+| Persona o grupo | Estado vigente | Base canónica | Límite |
+|---|---|---|---|
+| Max Josemar Gutiérrez | Cliente de honor y referente de confort | Encargo integral de Gutiérrez Estate | Relación profesional de respeto |
+| Lira Ashford | Amiga y cliente que la recomendó | Vínculos en el Distrito de Artesanos | Colaboración de prestigio |
+| Artesanos de The Golden Hearth | Jefa de taller y maestra | Décadas de dirección artesanal | Exigencia de excelencia |
+
+## 6. Ruta autónoma — `SEMILLA`
+
+- **Meta inmediata:** Diseñar una línea de escritorios modulares con gavetas secretas adaptados para redactores y contables.
+- **Obstáculo:** Suministro irregular de herrajes de latón importados.
+- **Hito futuro:** PENDIENTE de proveer todo el equipamiento de interiores para la sede central de Cerveza Esmeralda en Aldoria.
+
+## 7. Fuentes y correcciones
+
+- `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`, líneas 16210–16268.
+- [[MICROINTERACCIONES_PERSONAJES_J_R]]
+- [[REGISTRO_DE_VIDA_AUTONOMA_Y_METAS_AÑO3]]
+- **Corrección autoral:** Maestra artesana de interiorismo; conservar su rol diferenciado de las modistas y tejedoras.
+
+---
 
 > **«Llevo más de treinta años vistiendo y amueblando las residencias más exigentes de este reino; sé distinguir a un cliente que busca apariencias de uno que busca un hogar verdadero.»**  
 > — Marissa Goldweave recibiendo a Max en The Golden Hearth

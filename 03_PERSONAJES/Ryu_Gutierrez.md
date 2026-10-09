@@ -1,26 +1,80 @@
 # Ryu Gutiérrez — Ficha Canónica y Hoja de Hitos
 
-## Identidad estable
-Ryu Gutiérrez tiene 18 años, es hermano mayor de Kenji y hermano adoptivo de Max. Guerrero A alto, primer oficial del Serath-Maru y enlace de Pequeño Zhong-Kyo, combina presión física con responsabilidad de rutas y comunidad.
+## 1. Identidad estable
 
-## VOZ Y COMPORTAMIENTO EN ESCENA
+- **Nombre:** Ryu Gutiérrez.
+- **Edad / Cumpleaños:** **18 años** (nacido el 10 de Cosecha, confirmado en Año 2).
+- **Origen:** Imperio de Zhong-Kyo.
+- **Familia:** Hermano biológico mayor de Kenji; adoptado legal y afectivamente por Max Josemar Gutiérrez como hermano menor y heredero de Casa Gutiérrez.
+- **Rango Gremial:** **Clase A Alta (Oficial del Gremio)**; primer oficial del navío *Serath-Maru*, líder de interceptación y enlace comunitario en Pequeño Zhong-Kyo.
+- **Apariencia:** Joven guerrero atlético y de complexión fuerte, cabello negro recogido para el combate, ojos oscuros afilados, ropajes funcionales marineros de cuero y lino reforzado, y espada recta de acero templado al cinto.
+- **Personalidad:** Valiente, frontal, protector con Kenji, apasionado del combate contra rivales fuertes y leal hasta la muerte. Combina la intrepidez de la juventud con una naciente madurez como capitán y líder de comunidad.
 
-Habla como hermano y guerrero joven: directo, vivo, capaz de discutirle a Max de igual a igual con un «muy bien, imbécil» sin perder afecto. Ante combate o navegación se vuelve concreto y de cobertura; su entusiasmo por rivales fuertes debe mostrar el esfuerzo por no malgastar energía.
+## 1.1 Voz y comportamiento en escena — obligatorio
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+- **Ritmo y vocabulario:** Directo, vivo, descarado y fraternal. Es el único capaz de discutirle a Max de igual a igual sin miedo con un afectuoso *«Muy bien, imbécil»* sin perder el respeto ni la admiración.
+- **En combate / navegación:** Voz de mando clara y concisa; ordena maniobras de cubierta y cobertura defensiva con precisión de oficial.
+- **Con Kenji:** Protector pero respetuoso de la creciente autonomía de su hermano menor; celebra los platos y logros culinarios de Kenji con entusiasmo genuino.
+- **Voz en escena confirmada:**
+  > «¡Tiene una presión física impresionante y lee el contacto como pocos! En cuanto aprenda a no malgastar energía cuando se divierte contra tipos fuertes, estará tocando la puerta de la Clase S.»  
+  — Dictamen de Guildmaster Kira y Serath Vale en el examen oficial de Ryu (Día 426).
 
-## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+## 2. Estado vigente — 5 de Floris, Año 3
 
-## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- **Ubicación:** Thornhaven / Pequeño Zhong-Kyo (puerto base del *Serath-Maru* y Casa Puente).
+- **Responsabilidad actual:** Coordinación de la seguridad naval y costera del *Serath-Maru*, enlace de Casa Puente junto a Kenji y protección de las familias migrantes.
+- **Asunto abierto:** Investigación discreta junto a Hwan-Rei y Max sobre las leyendas de los «caídos del cielo» y ruinas antiguas sin alterar la vida comunitaria del barrio.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## 3. Cronología canónica
 
-## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+### En Zhong-Kyo
+- Cacería de la Serpiente de Bambú y los Tengus junto a Max; rescata a Kenji y demuestra valor en combate.
+- Abatimiento de la Bestia Milenaria Nian (Calamidad Menor): ascenso a Cinta de Bronce.
+- Travesía transoceánica como timonel y oficial de cubierta a bordo del *Serath-Maru*.
+
+### Año 2
+- Llegada a Thornhaven e ingreso al Gremio; asignación de Rango C y luego B.
+- Día 426: Examen oficial ante Kira y evaluadores Clase A; dictamen unánime de **Clase A Alta**.
+- Noche de Luminarias (Día 654): Celebración familiar en Gutiérrez Estate; recibe equipo de forja marina.
+
+### Año 3 (Bruma a Floris)
+- Cofunda y sostiene **Casa Puente** en Pequeño Zhong-Kyo.
+- 3 de Floris: Recibe a Max, Aria y Mizuki en Pequeño Zhong-Kyo, facilitando el diálogo sobre memoria e historia local.
+
+## 4. Evolución causal
+
+### Punto de inflexión: El cruce oceánico y el examen de Clase A Alta
+- **Antes:** Joven guerrero que peleaba por pura adrenalina y supervivencia en las nieves de Zhong-Kyo.
+- **Hecho:** Asumió el timón de un gran navío en alta mar y se midió contra examinadores veteranos bajo la mirada de Serath y Kira.
+- **Cambio:** Aprendió a canalizar su presión física en liderazgo táctico y responsabilidad colectiva.
+- **Conducta vigente:** Protege a los marineros y a la comunidad de Pequeño Zhong-Kyo sin buscar peleas innecesarias.
+- **Influencia:** Es el brazo naval y de vanguardia de Casa Gutiérrez en Thornhaven.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_2/08_11_Noctalia_a_30_Noctalia_Año_2.md` y `AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md`.
+
+## 5. Relaciones vivas
+
+| Persona o grupo | Estado vigente | Base canónica | Límite |
+|---|---|---|---|
+| Max Josemar Gutiérrez | Hermano mayor adoptivo y mentor | Fraternidad inquebrantable | Le discute con humor de igual a igual |
+| Kenji Gutiérrez | Hermano menor amado | Sangre y cofundadores de Casa Puente | Respeta su madurez culinaria y táctica |
+| Serath Vale | Cuñada y referente militar supremo | Respeto marcial | Bautizaron el *Serath-Maru* en su honor |
+| Guildmaster Kira | Mentora gremial y evaluadora | Examen de Clase A Alta | Aspira a la Clase S bajo su guía |
+| Torin | Aliado de defensa territorial | Patrullas en Thornhaven | Coordinación tierra-mar |
+
+## 6. Ruta autónoma — `SEMILLA`
+
+- **Meta inmediata:** Cartografiar las corrientes y bajos fondos del golfo de Thornhaven para optimizar las rutas pesqueras de Casa Puente.
+- **Obstáculo:** Hostilidad esporádica de piratas costeros y burocracia portuaria feudal.
+- **Hito futuro:** PENDIENTE de certificación oficial como Capitán de Alta Mar y candidatura formal a Clase S del Gremio.
+
+## 7. Fuentes y correcciones
+
+- `00_FUENTES/historia_original/AÑO_2/08_11_Noctalia_a_30_Noctalia_Año_2.md`
+- `00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md`
+- [[CURRENT_STATE_5_FLORIS_AÑO3]]
+- **Corrección autoral:** Hermano adoptivo de Max; Rango Oficial Clase A Alta.
+
+---
 
 ## ADENDA — PEQUEÑO ZHONG-KYO, 3 DE FLORIS, AÑO 3
 
@@ -78,33 +132,8 @@ La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorale
 1. **Defensa de los Bosques de Bambú (Zhong-Kyo):**
    - Derribó al segundo Tengu que amenazaba a Kenji, asestando una estocada letal en la comisura del cuello bajo las órdenes de Max.
 2. **Abatimiento de la Bestia Milenaria Nian (Calamidad Menor — Zhong-Kyo):**
-   - Saltó desde una cornisa rocosa sobre la bestia y hundió su daga en la arteria delantera desprotegida, facilitando la victoria de la expedición. Ascenso a Cinta de Bronce.
-3. **Primer Oficial del Serath-Maru:**
-   - Lideró la cubierta, los cabos y la guardia del acorazado durante la navegación intercontinental, ganándose el respeto unánime de los marineros veteranos.
-4. **Misión de Campo en Altea (Día 156):**
-   - Superó con éxito su primera misión independiente en Altea junto a la maga Amane, aprendiendo a coordinarse alrededor de magias de área.
-5. **El Examen de los Dos contra Tres (Día 426 — Thornhaven):**
-   - En la prueba final de Kira, defendió el objetivo junto a Kenji ante tres evaluadores veteranos Clase A, comprando el tiempo exacto con juego de hombros y derribos para asegurar la victoria. Consagrado como **Clase A Alta**.
-6. **Cartografía Naval y Noche de Luminarias (Día 654 — Año 2):**
-   - Estableció las rutas comerciales seguras entre Aldoria y el enclave de Pequeño Zhong-Kyo en Tornhaven.
-   - En Luminarias, Max le entregó su **estuche maestro de navegación y cartografía** con el mapa dedicado: *«Para las rutas que todavía faltan»*.
-
----
-
-## EVOLUCIÓN — CASA PUENTE Y FESTIVAL, AÑO 3
-
-- Junto con Kenji sostiene **Casa Puente**, iniciativa vinculada a Pequeño Zhong-Kyo para facilitar acogida, orientación y vínculos comunitarios sin absorber la identidad de sus participantes dentro de Casa Gutiérrez.
-- Su experiencia marítima y cartográfica sirve para conectar rutas, delegaciones y suministros durante el Festival de la Cerveza.
-- Apoya la participación cultural de Pequeño Zhong-Kyo; esto no implica adjudicarle personalmente pruebas o resultados que el registro no confirme.
-- Casa Puente conserva autonomía operativa y cultural. Ryu puede colaborar con Max sin quedar reducido a subordinado doméstico.
-
-## ADDENDUM — MICROINTERACCIONES Y VIDA AUTÓNOMA
-
-- Revisa rutas antes de la broma de Santa y reconoce a Max de inmediato; su reacción difiere de la risa de Kenji (`00_FUENTES/historia_original/AÑO_2/08_11_Noctalia_a_30_Noctalia_Año_2.md`, 12727–12829).
-- Conecta movilidad, delegaciones y suministros en Casa Puente sin absorber la identidad de Pequeño Zhong-Kyo (`FESTIVAL DE LA CERVEZA.md`, Casa Puente).
-
-## EVOLUCIÓN CAUSAL — DE HERMANO A REFERENTE COMUNITARIO
-
-- Zhong-Kyo y la adopción por Max le dan una familia, pero su crecimiento real nace de convertir ese vínculo en oficio: navegación, cartografía, logística y lectura de rutas.
-- La bienvenida de Biro y Los Ventura le muestra que puede entrar a una familia ya formada sin renunciar a su disciplina ni a su cultura. Aprende a enseñar y coordinar, no solo a obedecer.
-- Casa del Puente y el Festival convierten su conocimiento de rutas en acogida práctica para otras personas migrantes. Influye en Kenji y en la comunidad al demostrar que la representación no depende de que Max hable por ellos.
+   - Participación coordinada con Kenji y Max en la cacería legendaria.
+3. **El Cruce del Serath-Maru:**
+   - Navegación transoceánica como timonel y oficial de cubierta.
+4. **El Examen de los Dos contra Tres (Día 426):**
+   - Combatió junto a Kenji ante tres examinadores de Clase A, ganando su rango con honores.

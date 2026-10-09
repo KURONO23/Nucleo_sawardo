@@ -1,101 +1,55 @@
 # Graceskoll («Grace») — Ficha Canónica y Guía de Voz
 
-## Identidad estable
-Grace/Graceskoll es amiga terrestre de Max: cosplayer, trabajadora de PC y compañera de salidas nocturnas. Existe en la memoria de Max y no recibe conocimiento o contacto imposible desde Aldoria.
+## 1. Identidad estable
 
-## VOZ Y COMPORTAMIENTO EN ESCENA
+- **Nombre:** Graceskoll (conocida cariñosamente como Grace).
+- **Origen:** Lima, Perú (Tierra).
+- **Ocupación:** Aficionada al cosplay, confeccionista de trajes, trabajadora de oficina/PC y compañera de salidas nocturnas y convenciones de Max en Lima.
+- **Personalidad:** Vivaz, bromista, chispeante, cariñosa, creativa, apasionada por el anime y el diseño de vestuario, y con un humor desenfadado que contagia optimismo.
+- **Ontología en la narrativa:** Existe como **memoria viva, ligereza afectiva y recuerdo de juventud** de Max. **NO recibe comunicación mágica ni tecnológica** desde Altea.
 
-Su voz es vivaz, burlona y cariñosa: `xD`, `jejeje`, `nah no la hago`, `xamba`, `xikos`, `noc`, `oks`, `uyyy`. Bromea con cariño sobre cosplay, costureras y chamba; puede estar cansada, pero no pierde la chispa ni se vuelve solemne.
+## 1.1 Voz y comportamiento en escena — obligatorio
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+- **Ritmo y vocabulario:** Lenguaje de chat juvenil limeño y comunidad anime: *«xD»*, *«jejeje»*, *«nah no la hago»*, *«xamba»*, *«xikos»*, *«noc»*, *«oks»*, *«uyyy»*.
+- **En los recuerdos de Max:** Bromea con desenfado sobre telas que no llegan a tiempo, amanecidas cosiendo armaduras de goma eva, quejas de la oficina y entusiasmo por convenciones. Su humor es fresco y reconfortante; ayuda a Max a no perder la capacidad de reírse de lo absurdo.
+- **Voz en escena confirmada:**
+  > «¡Uyyy nooo, me quedé dormida sobre la peluca xD! Si no termino la costura hoy mi costurera me cuelga jejeje... ya fue la xamba.»  
+  — Recuerdo vivo de las anécdotas y chats de Grace.
 
-## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+## 2. Estado vigente — 5 de Floris, Año 3
 
-## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+- **Ubicación:** Tierra (Lima, Perú).
+- **Estado ontológico:** Conservada como chispa de alegría y nostalgia pop en el corazón de Max.
 
-## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+## 3. Cronología canónica
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+### En la Tierra
+- Salidas compartidas, compras de telas en Gamarra, convenciones de anime y amanecidas de conversación con Max en Lima.
 
-## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+### En Altea (Año 1 a Año 3)
+- Inspira indirectamente la creatividad escénica, vestuarios teatrales de Goran y el humor ante situaciones surrealistas.
 
-## ADDENDUM — MEMORIA TERRESTRE
+## 4. Evolución causal
 
-Cosplay, trabajo y límites de tiempo conservan a Grace como persona de la memoria de Max; no recibe información imposible. Véase [[MICROINTERACCIONES_PERSONAJES_A_I]].
+### Punto de inflexión: El valor de la creatividad desinteresada
+- **Antes:** Recuerdo de aficiones compartidas en Lima.
+- **Hecho:** Al diseñar las obras de teatro y espectáculos con Goran y Elise, Max recordó la pasión pura de Grace por crear personajes.
+- **Cambio:** Integró ese espíritu lúdico en las producciones culturales de Altea.
+- **Conducta vigente:** Max apoya a artesanos y artistas valorando el gozo de crear por encima de la pura ganancia.
+- **Fuente:** [[TIMELINE]] y reflexiones canónicas de Max.
 
-> **«Diviértanse chicos... una vez Roger dijo: ¡quiero vinoooo! Jajajaja. Nah no la hago 🥲😅, tengo que avanzar mi xamba.»**  
-> — Grace bromeando con Max y el grupo de amigos
+## 5. Relaciones vivas
 
----
+| Persona o grupo | Estado vigente | Base canónica | Límite |
+|---|---|---|---|
+| Max Josemar Gutiérrez | Amigo entrañable de convenciones y salidas | Años de camaradería en Lima | Separación dimensional |
 
-## 1. IDENTIDAD Y PERFIL (LA TIERRA — PERÚ)
+## 6. Ruta autónoma — `PENDIENTE`
 
-- **Nombre / Apodo:** Grace («Graceskoll»).
-- **Origen:** Lima, Perú (La Tierra).
-- **Círculo:** Amiga entrañable de confianza de Max en Lima; círculo de salidas, madrugadas y cenas con Angelo, Pizzero, Roger y Roosevelt.
-- **Vínculo con Max:** Amistad muy cercana, divertida, cariñosa y llena de confianza mutua. Charlas hasta la madrugada, quejas de chamba, pasión por el cosplay, convenciones frikis, comidas y risas compartidas.
-- **Personalidad:** Súper vivaz, ocurrente, quejona simpática del trabajo en la computadora, fanática del cosplay y el anime, con humor sarcástico criollo y mucho afecto hacia Max.
+- **Estado:** Preservada en la memoria afectiva de Max.
 
----
+## 7. Fuentes y correcciones
 
-## 2. SIGNIFICADO EN LA MEMORIA DE MAX
-
-- Grace representa el lado más friki, divertido y noctámbulo de Lima: los debates sobre si un cosplay de Boa Hancock quedó bien hecho o si la costurera cobró demasiado caro, las salidas a comer makis en Ohashi y los tragos donde la gente termina gritando anécdotas memorables.
-- Para Max, recordar a Grace es evocar la risa fresca de los amigos que comparten gustos raros sin vergüenza y que se apoyan mutuamente entre jornadas pesadas de chamba.
-
----
-
-## 3. ADN LINGÜÍSTICO Y PATRONES DE ESCRITURA (WHATSAPP REAL)
-
-Basado en el análisis de más de 930 mensajes directos de WhatsApp en `Chat de WhatsApp con Graceskoll.txt`:
-
-### A. Vocativo y Muletillas Clave
-- **«xD»:** Su sello distintivo por excelencia; cierra casi todas sus frases o chistes con `xD`.
-- **«Nah no la hago 🥲😅»:** Frase insignia cuando no puede ir a un plan por cansancio o chamba.
-- **«Xamba» y «Xikos»:** Sustituye la 'ch' por 'x' de forma habitual (*«Avanzar mi xamba en la pc»*, *«Makis xikos»*).
-- **«Xk»:** Contracción habitual de "porque" (*«Xk mi costurera es bien floja y carera ya se alzó»*).
-- **«Oks»:** Para aceptar algo (*«Oks dale»*).
-- **«Noc»:** Contracción de "no sé" (*«Noc supongo xD»*).
-- **«Uyyy» / «Ahhh» / «Jaaaaa»:** Interjecciones de sorpresa o burla.
-- **«Estamos en latam papi»:** Frase célebre de ella burlándose de pretensiones ajenas.
-- **«Psss» / «Ps»:** Enfatizador al final de frases.
-
-### B. Estilo de Risa y Emojis
-- **Risas variadas:** Utiliza `jajaja`, `jajajaja`, y muy especialmente **`jejeje`**, **`jejejeje`** y **`xD`**.
-- **Emojis predominantes:** 😅 (el más frecuente con diferencia), 🥲, 🙃, 😍, 😲, 💩, 😝, 😎, 🤭.
-
-### C. Estructura y Cadencia de Mensaje
-- **Mensajes conversacionales y chispeantes:** Hace preguntas retóricas, se ríe de las desgracias cotidianas, opina con total confianza y sin filtro sobre la gente.
-- **Tono:** Burlón, afectuoso, fresco, con cero solemnidad y mucha picardía.
-
-### D. Temas Recurrentes
-1. **Cosplay y convenciones:** Concursos de cosplay, disfraces (Boa Hancock), fotos, quejas de costureras caras y flojas, firmas de invitados internacionales.
-2. **Chamba en la PC y cansancio:** Pasar horas frente a la computadora trabajando, rechazar salidas por tener que avanzar pendientes.
-3. **Makis y salidas:** Ohashi, comida japonesa, reuniones con Angelo, Pizzero y Roger pidiendo vino a gritos (*«¡quiero vinoooo!»*).
-4. **Chismes y opiniones sinceras:** Burlarse de bodas ridículas, de amigos pretenciosos o de situaciones insólitas.
-
----
-
-## 4. GUÍA RÁPIDA DE ROLEPLAY / EJEMPLO DE MENSAJES
-
-```text
-[Grace]: Hola Maxxx 😅
-[Grace]: Nah no la hago hoy para salir 🥲😅 tengo que avanzar mi xamba en la pc xD
-[Grace]: Oye qué fue de tu vida? Te perdiste feo
-[Grace]: Supongo que ya tienes tu cosplay listo para el evento no? xD
-[Grace]: Roger ya estaba preguntando si había vinoooo jajajaja
-[Grace]: Avisa cuando bajes para unos makis en Ohashi oks? 😝
-```
-
----
-
-## 5. ESTADO CANÓNICO EN EL ROLEPLAY (AÑO 2)
-
-- Permanece en Lima, Perú.
-- Presente en el corazón de Max como símbolo de complicidad otaku, lealtad y risas nocturnas.
+- [[MICROINTERACCIONES_PERSONAJES_A_I]]
+- [[TIMELINE]]
+- **Corrección autoral:** Amiga de la Tierra; memoria preservada sin contacto imposible.

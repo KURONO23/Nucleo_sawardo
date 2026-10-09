@@ -1,22 +1,85 @@
 # Darian (Capitán Darian Holt)
 
-## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+## 1. Identidad estable
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+- **Nombre completo:** Capitán Darian Holt (reconocido en círculos íntimos y por Los Cinco del Barril como Darian; posterior dignidad de Barón Darian Holt tras el reconocimiento de la Corona).
+- **Oficio y Rango:** Capitán veterano del Ejército Real y la Guardia de Aldoria; comandante militar respetado con diecisiete años de campañas fronterizas.
+- **Cumpleaños Canónico:** 7 de Ventisca (calendario oficial de Aldoria).
+- **Apariencia:** Militar en la madurez de su carrera, constitución robusta y porte erguido; mirada curtida por el campo de batalla, cicatrices de campaña y uniforme reglamentario impecable sin excesos ceremoniales.
+- **Personalidad:** Pragmático, directo, leal hasta la médula, riguroso con los reglamentos y la lógica operativa. No tolera la arrogancia cortesana ni la improvisación negligente. Para Serath Vale es un hermano de vida; para Los Cinco del Barril, el cable a tierra de la causalidad.
+- **Habilidades:** Mando táctico, combate marcial con espada pesada y escudo, fortificación, logística militar y análisis deductivo de seguridad.
+- **Límites:** No tiene aptitud mágica ofensiva; desconfía visceralmente de la intriga política que no presenta evidencias documentadas.
 
-## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+## 1.1 Voz y comportamiento en escena — obligatorio
 
-## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- **Ritmo y vocabulario:** Frases breves, medidas y desprovistas de adornos retóricos. Utiliza jerga militar sobria combinada con ironía seca. Cuando analiza un plan, enumera riesgos por orden de letalidad: distancia, suministro, fatiga y redundancia de escape.
+- **En público / servicio:** Voz de mando firme, tono cuartelero respetuoso de la jerarquía pero intransigente con el desorden. Trata a la tropa con justicia inflexible.
+- **En intimidad / con Los Cinco del Barril y Serath:** Relajado pero alerta. Acepta con resignación burlona el mote «El Contador» que le impuso Biro por su obsesión con los balances y distancias. Disfruta los pulsos de taberna (casi revienta una mesa con Biro en la finca Gutiérrez).
+- **Reacción emocional confirmada:** Ante el noviazgo y compromiso de Serath y Max (Día 175):
+  > «—¿Tú?  
+  > —Sí.  
+  > —Voluntariamente.  
+  > —Darian.  
+  > —Necesitaba confirmar.»  
+  Tras evaluar a Max personalmente, sentenció: *«Entiendo por qué te eligió»*.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## 2. Estado vigente — 5 de Floris, Año 3
 
-## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+- **Ubicación:** Cuartel General de la Guardia Real de Aldoria y enlaces frecuentes con la Casa Gutiérrez.
+- **Responsabilidad actual:** Coordinación de la seguridad perimetral de Aldoria, supervisión de veteranos reinsertados y socio activo de Cervecería Esmeralda.
+- **Asunto abierto:** Consolidación de protocolos de seguridad post-Festival y evaluación de las maniobras discretas de casas nobles opositoras.
+
+## 3. Cronología canónica
+
+### Año 1
+- Campañas de frontera junto a Serath Vale, afianzando diecisiete años de confianza marcial mutua.
+- Entrada en contacto con Max tras el establecimiento de Casa Gutiérrez; evaluación personal del héroe y aceptación fraternal en el círculo de Serath.
+- Cofundador de Los Cinco del Barril (Max, Goran, Haruto, Biro y Darian).
+
+### Año 2
+- Actúa como el filtro de lógica y causalidad en el cuarto de escritores de Editorial Estrella Verde para *¿Qué pasó ayer?* y la saga teatral.
+- Estructuración de las normas y medidas de seguridad para los Juegos del Barril en el Festival Internacional de la Cerveza de Aldoria.
+- Socio accionista en la fundación de Cerveza Esmeralda.
+
+### Año 3
+- Supervisión del despliegue del Festival en Bruma y Floris.
+- Verificación del impacto del Fondo de Veteranos y balance logístico de la Guardia Real.
+
+## 4. Evolución causal
+
+### Punto de inflexión: La revelación del compromiso de Serath Vale con Max (Día 175)
+- **Antes:** Veía a Serath como su comandante y hermana de armas consagrada exclusivamente al deber marcial sin espacio para la vida personal.
+- **Hecho:** Conoce a Max, interroga directamente a Serath y comprueba que ella eligió libremente a su compañero.
+- **Cambio:** Deja de ser un protector defensivo para convertirse en el hermano leal y socio estratégico de Max en proyectos civiles y culturales.
+- **Conducta vigente:** Actúa como el puente más sólido entre el estamento militar tradicional y las innovaciones de Casa Gutiérrez.
+- **Influencia:** Protege y valida a Serath ante la oficialidad; modera los impulsos cómicos de Biro y Goran.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md` y addendas de continuidad militar.
+
+## 5. Relaciones vivas
+
+| Persona o grupo | Estado vigente | Base canónica | Límite |
+|---|---|---|---|
+| Comandante Serath Vale | Hermandad de armas y lealtad absoluta | 17 años de campañas compartidas | No interfiere en su vida conyugal privada |
+| Max Josemar Gutiérrez | Amigo entrañable, socio y evaluador táctico | Miembros de Los Cinco del Barril y Esmeralda | Mantiene exigencia de seguridad rigurosa |
+| Biro | Amistad viril, rivalidad de pulsos | Discusiones de guion y desafíos en la taberna | No tolera negligencia que cueste vidas |
+| Haruto y Goran | Compañeros creativos y socios | Escritura de *¿Qué pasó ayer?* y teatro | Filtra giros ilógicos en los libretos |
+| Natalia Thornwell | Respeto mutuo y balance contable | Accionistas de Cerveza Esmeralda | Deja los números comerciales en sus manos |
+
+## 6. Ruta autónoma — `SEMILLA`
+
+- **Meta inmediata:** Protocolizar los manuales de seguridad para las sedes de expansión de Cerveza Esmeralda y el Fondo de Veteranos del Gremio.
+- **Obstáculo:** La fricción burocrática en la Cancillería de la Corona ante las pensiones y reincorporaciones de soldados lisiados.
+- **Hito futuro:** PENDIENTE de formalización del título de Barón Holt y su integración definitiva en el Consejo de Defensa de Aldoria.
+
+## 7. Fuentes y correcciones
+
+- `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`
+- `00_FUENTES/historia_original/AÑO_2/05_26_Solalto_a_14_Ambar_Año_2.md`
+- `00_FUENTES/historia_original/AÑO_3/11_26_Bruma_Año_3.md`
+- [[MICROINTERACCIONES_PERSONAJES_A_I]]
+- **Corrección autoral:** Darian, Capitán Darian Holt y Barón Darian Holt son la misma y única persona.
+
+---
 
 ## ADDENDUM — MICROINTERACCIONES Y PERSISTENCIA
 
@@ -58,26 +121,3 @@ Darian no es un colaborador ocasional ni un actor: es el **quinto miembro origin
 - **«El Contador»:** Bautizado sarcásticamente con este apodo por Biro debido a su meticulosidad extrema con los reglamentos, los números y las distancias. Este rasgo inspiró directamente la creación del personaje cómico *Nim*.
 - **Arquitecto de los Juegos del Barril:** Redactó las normas y medidas de seguridad oficiales para las competencias de taberna reales en el Festival Internacional de la Cerveza de Aldoria, salvando vidas al evitar que barricas mal equilibradas aplastaran a los concursantes.
 - **Dinámica con Biro:** Rivalidad cómica permanente de pulseadas (casi destrozan una mesa en la finca Gutiérrez) y disputas dialécticas cotidianas.
-
----
-
-## 4. RELACIÓN CON EL CÍRCULO DE MAX Y LA FINCA
-
-- **Compañero de Mesa y Familia:** Participa habitualmente en los grandes almuerzos y banquetes de Gutiérrez Estate (pollo a la brasa, chaufa, salchipapas).
-- **Reuniones con Leo Mercer y Haruto:** Darian es parte del grupo veterano que atestigua las reacciones de Quest Log y Siri ante el caos cotidiano del grupo.
-- **Supervisión y Seguridad:** Colabora con Natalia Thornwell, Torin, Kael y Lyssa en la coordinación estratégica y discreta de la seguridad para los eventos y celebraciones del consorcio.
-
----
-
-## 5. ESTADO ACTUAL (AÑO 2)
-
-- Oficial activo y respetado en la capital de Aldoria.
-- Miembro del consejo consultivo de las producciones culturales de Goran y Max (*¿Qué pasó ayer?*, *El Festival de la Cerveza*, *Austin Powers*).
-- Accionista formal de Cerveza Esmeralda.
-
-## EVOLUCIÓN CAUSAL — ORGANIZAR SIN APROPIARSE
-
-- Los Cinco del Barril lo convierten de participante del círculo de Max en parte del núcleo creativo que sostiene el humor, la adaptación y las reglas internas de las producciones.
-- El paso de *El Festival de la Cerveza* de comedia a evento real le exige pensar en regulación, seguridad y memoria del origen: una prueba deportiva no debe borrar que nació de una obra compartida.
-- Su participación en Austin Powers y en la compañía le enseña a leer qué puede seguir siendo parodia, qué necesita límites y cuándo una escena afecta reputación o seguridad de otras personas.
-- Influye en Biro y Goran como colaborador que preserva continuidad sin reclamar autoría; influye en la casa al conectar cultura, logística y seguridad discreta.

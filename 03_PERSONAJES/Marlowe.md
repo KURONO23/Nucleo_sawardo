@@ -1,36 +1,81 @@
-# Representante de House Marlowe — Ficha Canónica Completa
+# Marlowe (Casa Marlowe) — Ficha Canónica
 
-## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+## 1. Identidad estable
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+- **Nombre:** Lord Marlowe (y la representación de House Marlowe).
+- **Rol / Estatus:** Patriarca noble, representante de House Marlowe en las asambleas y reuniones secretas de la aristocracia conservadora de Aldoria.
+- **Apariencia:** Aristócrata severo, porte frío y desdeñoso, atuendos de terciopelo oscuro con bordados de seda que denotan antiguo linaje y riqueza heredada.
+- **Personalidad:** Calculador, elitista, frío, adverso a cualquier cambio social o económico que debilite el monopolio feudal de la nobleza patricia.
+- **Límites:** Opera mediante influencias políticas, financiamiento encubierto e intermediarios; evita ensuciarse directamente las manos en combates físicos.
 
-## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+## 1.1 Voz y comportamiento en escena — obligatorio
 
-## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+- **Ritmo y vocabulario:** Tono aristocrático, distante, mordaz y glacial. Habla con la condescendencia de quien considera a los plebeyos y advenedizos como peones desechables.
+- **En reuniones secretas / conspiración:** Cauteloso; sopesa los riesgos de cada maniobra y exige discreción absoluta a sus agentes.
+- **En escena confirmada:** Observa las obras teatrales de la Compañía Goran desde los palcos nobles con desdén inicial, desconcertado por el fervor popular que generan pero registrando con frialdad su indudable peso político (`Historia isekai 577-587...`, líneas 489–555).
+- **Métodos confirmados:** Utiliza operadores de información como Cassian Vyre para espiar los libros contables, compras de grano y movimientos financieros de Casa Gutiérrez y Natalia Logistics.
 
-## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+## 2. Estado vigente — 5 de Floris, Año 3
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+- **Ubicación:** Mansión solariega de House Marlowe en el distrito noble de Aldoria.
+- **Responsabilidad actual:** Dirección de las inversiones tradicionales de su casa y coordinación en la sombra con facciones patricias conservadoras.
+- **Asunto abierto:** Contención de pérdidas comerciales tras el auge de Cerveza Esmeralda y el Fondo de Veteranos del Consorcio.
 
-## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+## 3. Cronología canónica
 
-> **«Un noble sabio nunca saca la daga cuando puede hacer que el invierno y los precios altos hagan el trabajo por él.»**  
-> — Representante de House Marlowe en las reuniones secretas de la nobleza
+### Año 1
+- Forma parte de la tríada original de la nobleza hostil (junto a Lord Edmund Veinhardt y Lady Seraphine Credence) que intenta bloquear la adquisición de la finca Velthris por parte de Max.
+- Respalda la comitiva de guardias enviada a la finca Gutiérrez que resultó desarmada y humillada pacíficamente por Max.
+
+### Año 2
+- Financiación y fomento encubierto del boicot contra las publicaciones de Editorial Estrella Verde y los suministros de cebada.
+- Asistencia a los palcos del teatro para evaluar el impacto de la propaganda popular de Max y Goran.
+
+### Año 3
+- Maniobras entre bambalinas tras el éxito arrollador del Festival Internacional de la Cerveza; repliegue táctico ante el blindaje real de Casa Gutiérrez.
+
+## 4. Evolución causal
+
+### Punto de inflexión: El fracaso del boicot noble en Año 2
+- **Antes:** Confiaba en que el monopolio comercial feudal bastaría para ahogar financieramente a Max y su hacienda.
+- **Hecho:** Las redes comerciales de Natalia Thornwell, la alianza con artesanos y la aprobación del Rey desmantelaron el boicot por completo.
+- **Cambio:** Comprendió que Max no es un aventurero pasajero sino un poder económico e institucional consolidado.
+- **Conducta vigente:** Abandonó la confrontación directa abierta y optó por el espionaje silencioso y la contención de daños para su propio linaje.
+- **Influencia:** Alimenta la paranoia de la facción conservadora pero teme cruzar la línea que active una respuesta marcial de Serath Vale.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_2/05_26_Solalto_a_14_Ambar_Año_2.md`.
+
+## 5. Relaciones vivas
+
+| Persona o grupo | Estado vigente | Base canónica | Límite |
+|---|---|---|---|
+| Lord Edmund Veinhardt y Lady Credence | Aliados políticos tradicionales | Bloque conservador en el Consejo | Cada casa vela por sus propios fondos |
+| Cassian Vyre | Informante y espía a su servicio | Operaciones encubiertas de datos | Marlowe niega cualquier vínculo si es capturado |
+| Max Josemar Gutiérrez | Adversario político y rival económico | Hostilidad de clase | No se atreve a desafiarlo abiertamente |
+| Comandante Serath Vale | Terror respetuoso ante su espada | Mando militar del reino | Evita provocar la ira de la Guardia Real |
+
+## 6. Ruta autónoma — `PENDIENTE`
+
+- **Meta inmediata:** Blindar los arrendamientos rurales de su señorío para evitar la deserción de peones hacia las empresas de Max.
+- **Obstáculo:** Los salarios y condiciones ofrecidos por el Consorcio atraen a los mejores artesanos y trabajadores.
+- **Hito futuro:** PENDIENTE de redefinir su estrategia de alianzas matrimoniales en la corte para recuperar influencia en el Consejo Real.
+
+## 7. Fuentes y correcciones
+
+- `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`
+- `00_FUENTES/historia_original/AÑO_2/05_26_Solalto_a_14_Ambar_Año_2.md`
+- [[MICROINTERACCIONES_PERSONAJES_J_R]]
+- **Corrección autoral:** Casa aristocrática independiente; no confundir con facciones de fuera del reino.
+
+---
+
+> **«Representante de House Marlowe en las reuniones secretas de la nobleza»**
 
 ---
 
 ## 1. IDENTIDAD Y PERFIL
 
-- **Nombre / Título:** Representante y Portavoz de House Marlowe (mantener identificado por casa/título conforme a las directivas del canon debido a contradicciones de identidad en los registros previos).
-- **Rol:** Portavoz de una de las casas nobles más antiguas, ricas y discretas de Aldoria, con intereses en rutas de transporte terrestre, almacenes y granos.
-- **Personalidad:** Siniestro, paciente, diplomático en público y venenoso en privado. A diferencia de la altanería ruidosa de Veinhardt o la codicia visible de Credence, Marlowe prefiere mover peones, comprar voluntades y actuar a través de intermediarios como **Cassian Vyre**.
+- **Nombre:** Lord Marlowe (y Casa Marlowe).
+- **Rol:** Patriarca de House Marlowe, exponente del conservadurismo aristocrático de Aldoria.
 
 ---
 

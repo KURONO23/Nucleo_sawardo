@@ -1,25 +1,70 @@
 # Helena Carrow
 
-## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+## 1. Identidad estable
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+- **Nombre:** Helena Carrow.
+- **Rol / Oficio:** Dama de la corte de Aldoria, vinculada a los círculos protocolares y al entorno social propio de la Comandante Suprema Serath Vale.
+- **Apariencia:** Dama aristócrata de porte sobrio y refinado, viste con elegancia contenida y colores acordes a la etiqueta cortesana formal de Aldoria.
+- **Personalidad:** Discreta, perceptiva, de agudo sentido crítico respecto a la cultura y la política. Sostiene conversaciones de fondo sobre la transformación de las costumbres sin dejarse llevar por el fervor cortesano ciego.
+- **Límites:** Trayectoria previa, título exacto y edad específica no han sido detallados exhaustivamente en la fuente; se registran solo hechos confirmados.
 
-## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+## 1.1 Voz y comportamiento en escena — obligatorio
 
-## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+- **Ritmo y vocabulario:** Lenguaje cortesano pulido, educado y reflexivo. Formula comentarios perspicaces sobre las obras y los cambios sociales en lugar de chismes banales.
+- **En público / palcos:** Compostura impecable de dama de la corte; observa las representaciones teatrales con atención crítica, evaluando el impacto político de los textos.
+- **En intimidad / círculo de Serath:** Cercana y relajada; demuestra que Serath conserva amistades e interlocutores que no dependen de su matrimonio ni de la cadena de mando marcial.
+- **Voz en fuente:** Conversación en palcos durante el estreno de *Austin Powers*, contrastando la sátira con el poder cultural de la Corona.
 
-## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+## 2. Estado vigente — 5 de Floris, Año 3
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+- **Ubicación:** Distrito alto de Aldoria.
+- **Responsabilidad actual:** Relaciones sociales y observación de la opinión patricia sobre las iniciativas culturales del Consorcio Gutiérrez y la Corona.
+- **Asunto abierto:** Evaluación de la recepción de los nuevos espectáculos y publicaciones de Editorial Estrella Verde entre las familias nobles tradicionales.
 
-## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+## 3. Cronología canónica
+
+### Año 1
+- Presencia en los círculos cortesanos de Aldoria vinculados a las damas de honor y allegadas a la Guardia Real.
+
+### Año 2
+- Asistencia a las funciones teatrales de la Compañía Goran, especialmente en los palcos durante *Austin Powers*, compartiendo lecturas críticas con el círculo de Serath Vale.
+- Intercambio de impresiones sobre el cambio en el gusto estético y cultural de la nobleza.
+
+### Año 3
+- Participación como espectadora y testigo social de las celebraciones y recepciones de Año 3.
+
+## 4. Evolución causal
+
+### Punto de inflexión: La recepción de la sátira teatral en Año 2
+- **Antes:** Concebía el teatro como mero entretenimiento ligero o protocolo de salón.
+- **Hecho:** Presenció el fenómeno de masas de *Austin Powers* y la reacción dividida de la aristocracia.
+- **Cambio:** Comprendió que las obras de Max y Goran son herramientas de reconfiguración cultural que desmantelan la rigidez cortesana.
+- **Conducta vigente:** Actúa como defensora de la apertura cultural dentro de los salones patricios.
+- **Influencia:** Aporta respaldo y normalización a la posición social de Serath frente a las críticas de las casas conservadoras.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_2/06_15_Ambar_a_25_Ambar_Año_2.md`.
+
+## 5. Relaciones vivas
+
+| Persona o grupo | Estado vigente | Base canónica | Límite |
+|---|---|---|---|
+| Comandante Serath Vale | Amistad cortesana y apoyo social independiente | Círculo social de Serath | No interfiere en decisiones militares |
+| Círculo de damas de Aldoria | Interlocutora y termómetro de opinión | Salones y palcos nobles | Evita el partidismo extremo |
+| Max Josemar Gutiérrez | Admiración por su impacto cultural | Obras teatrales y eventos | Mantiene distancia protocolar adecuada |
+
+## 6. Ruta autónoma — `PENDIENTE`
+
+- **Meta inmediata:** Seguir analizando la respuesta patricia ante las nuevas publicaciones de Estrella Verde en Año 3.
+- **Obstáculo:** La resistencia de los clanes aristocráticos más rancios a aceptar la sátira y el protagonismo plebeyo.
+- **Hito futuro:** PENDIENTE de asignación de un rol protocolar más definido en futuras recepciones reales.
+
+## 7. Fuentes y correcciones
+
+- `00_FUENTES/historia_original/AÑO_2/05_26_Solalto_a_14_Ambar_Año_2.md`, líneas 212600–213115.
+- `00_FUENTES/historia_original/AÑO_2/06_15_Ambar_a_25_Ambar_Año_2.md`.
+- [[REGISTRO_DE_VIDA_AUTONOMA_Y_METAS_AÑO3]]
+- **Corrección autoral:** No reducir a acompañante de Max; es miembro del círculo propio de Serath.
+
+---
 
 ## CANON RECUPERADO — REAUDITORÍA
 
@@ -32,4 +77,3 @@ La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorale
 
 - `00_FUENTES/historia_original/AÑO_2/05_26_Solalto_a_14_Ambar_Año_2.md`, bloque de continuidad alrededor de líneas 212600–213115.
 - `00_FUENTES/historia_original/AÑO_2/06_15_Ambar_a_25_Ambar_Año_2.md`, palcos y reacciones de *Austin Powers*.
-
