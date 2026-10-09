@@ -96,7 +96,7 @@ En el salón privado de una taberna del distrito alto con Max y sus amigos; part
 
 ## REFERENCIAS
 
-Correcciones autorales; referencia visual oficial; PDF, pp. 17-54.
+Correcciones autorales; referencia visual oficial. Las menciones antiguas `PDF, pp. ...` son localizadores heredados de una exportación anterior; la autoridad actual es siempre la escena correspondiente en `00_FUENTES/historia_original/`.
 
 
 

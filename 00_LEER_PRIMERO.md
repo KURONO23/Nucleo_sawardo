@@ -9,6 +9,8 @@ Antes de continuar una relación, personaje, obra o proyecto, consultar [[CONTRO
 > **Guía Rápida de Entrada al Núcleo Sawardo**
 > Presente narrativo rector: 5 de Floris, Año 3. Los cortes del Día 634, 26 de Bruma y 4 de Floris se conservan únicamente como historia.
 
+> **Referencias heredadas:** algunas fichas todavía contienen `PDF, pp. ...` porque fueron extraídas antes de organizar la matriz en Markdown. Esas páginas no son una fuente adicional ni deben prevalecer: para verificar un hecho, usar siempre la ruta y el bloque correspondiente de `00_FUENTES/historia_original/`. La depuración de estos localizadores está pendiente y será aditiva.
+
 ---
 
 ## 1. Orden de Lectura Rápido
