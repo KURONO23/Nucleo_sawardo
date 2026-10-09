@@ -293,3 +293,11 @@ Fuentes: `00_FUENTES/historia_original/AÑO_1/03_19_Bruma_a_04_Solalto_Año_1.md
 ## ADDENDUM — DELTA RP, 4–5 DE FLORIS, AÑO 3
 
 Durante la operación Marcos, Max mantiene la cobertura sin llevar G1 encima. `DOCTOR` es su alias de comunicación y `BAKARINA` identifica a Yuki. Las bromas `BAZUMA` y la comparación humorística de Serath con Sena son referencias culturales, no autodesprecio ni sustitución de personalidad. En el desayuno del 5 de Floris, las opciones del usuario (escuchar/proteger a Serath y pedir vigilancia prudente a Aria) quedan pendientes de escenificación.
+
+## EVOLUCIÓN CAUSAL — HILOS QUE CAMBIARON SU FORMA DE VIVIR Y DE INFLUIR
+
+- **Los Ventura y Blackpeak:** pasar de superviviente recién llegado a compañero probado le enseñó a usar Sawardo como red de seguridad y no como excusa para reemplazar a quienes luchan con él. De ahí nacen su impulso de entrenar, pagar justamente y dejar decisiones a otros.
+- **La casa, la cultura y los Cinco del Barril:** al abrir mesa, relatos y escenario entendió que dar una idea no equivale a poseerla. Goran, Biro, Darian, Nilo y el resto convierten sus referencias terrestres en cultura aldoriana con voz propia.
+- **La depresión, Torre y Aguja Muerta:** una caminata para aislarse se convirtió en una investigación que devolvió propósito. La consecuencia no es que el dolor desaparezca, sino que aprendió a compartir un proyecto: Galwin mantiene, Daichi cuestiona, Mika mide, Leo registra y los demás deciden si participar.
+- **La Red de Nodos y G1:** confirma que su legado deseable es infraestructura con límites, salarios, protocolos y personas capaces de decirle que no; G2 no se adelanta por deseo de Max.
+- **Red, Atalayas y Marcos:** la amenaza amplía su responsabilidad sin convertirlo en gobernante omnisciente. Aria, Serath, Yuki, Kira y la Corona sostienen frentes propios; su cobertura actual sigue siendo una escena abierta, no una victoria ya narrada.

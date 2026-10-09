@@ -84,3 +84,10 @@ La petición no altera su rango oficial ni su interés en desarrollo con Natalia
 Kira confirmó que la fluctuación inicial del cristal no anulaba su desempeño: Kael compensó su impulso ofensivo con control táctico, adaptación y dominio de sus dos espadas. El Gremio aprobó su ascenso desde B y emitió la nueva tarjeta **A**.
 
 Fuente: `00_FUENTES/historia_original/AÑO_1/02_01_Bruma_a_18_Bruma_y_05_Solalto_a_09_Solalto_Año_1.md`, evaluación de Kael, aprox. líneas 7115–7213.
+
+## EVOLUCIÓN CAUSAL — PODER ENTRENADO, ELECCIÓN PROPIA
+
+- El entrenamiento de veinte días con Max y la reevaluación de Kira explican su ascenso de B a A: el rango es una certificación posterior a práctica y prueba, no una cualidad retroactiva que siempre tuvo.
+- La defensa de la finca y el trabajo junto a Torin y Lyssa le enseñan a usar su impulso ofensivo dentro de una línea compartida. Su deseo de destacar no desaparece, pero ya no justifica romper formación.
+- La Prueba de Afrodita con Amane visibiliza que puede colaborar sin que una dupla profesional se convierta en romance. Su interés afectivo sigue dirigido a Natalia y conserva espacio para evolucionar solo mediante escenas recíprocas.
+- La petición a Kira es su siguiente gesto de autonomía: busca una misión que mida decisiones propias, sin exigir que Max sea árbitro, rescatista o premio.

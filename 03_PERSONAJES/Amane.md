@@ -120,3 +120,10 @@ Al saber que Ren empezará a salir con Haruto y Leo, Amane no abandona su papel 
 - Empieza a evaluar su propia enseñanza: si Ren solo funciona cuando ella está cerca, el método todavía no está terminado.
 
 Amane sigue siendo su referencia principal para magia y combate. La expedición con Haruto y Leo amplía el aula; no la reemplaza.
+
+## EVOLUCIÓN CAUSAL — DEL EQUIPO DE MAX A MAESTRA QUE ABRE CAMINO
+
+- El primer vínculo con Max, la prueba de Blackpeak y el ascenso junto a Los Ventura le confirmaron que su entusiasmo funciona mejor cuando convierte el miedo ajeno en participación concreta. De ahí nace su manera de enseñar: una demostración ruidosa, una regla de seguridad y espacio para que el otro lo intente.
+- La Torre, la Aguja Muerta y la Red de Nodos le enseñaron que una explosión útil necesita protocolos, retirada y especialistas distintos. Por eso aporta lectura elemental y contención, pero no se atribuye el descifrado de ruinas ni de G1.
+- El Festival del Año 3 y la Prueba de Afrodita con Kael la hicieron visible fuera de la formación Ventura; conserva la diversión, pero entiende que representar a Aldoria exige coordinación y no solo impulso.
+- El paso de Ren hacia salidas con Haruto y Leo es su prueba de madurez docente: sigue siendo su maestra, sin retenerlo para demostrar que la enseñanza le pertenece.

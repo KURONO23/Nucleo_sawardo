@@ -44,3 +44,10 @@ Daichi deja de ser únicamente el hombre que dice “todavía no”. Diseña una
 - Fija un criterio institucional: **G2 no pasa de diseño a activación** hasta que G1 tenga pruebas repetibles, límites escritos y una retirada segura.
 
 Su crecimiento está en aceptar que el método también debe enseñar y no solo frenar. Puede aprobar una exploración pequeña si el riesgo está acotado y la evidencia queda completa.
+
+## EVOLUCIÓN CAUSAL — DE LA DESCONFIANZA AL MÉTODO QUE PERMITE AVANZAR
+
+- La desaparición de llegados, el objeto compartido con Mika y la incertidumbre de la Torre hicieron de su cautela una defensa razonable antes que una manía. No deja que una promesa técnica sustituya consentimiento o prueba.
+- La apertura de Max, Aria y Serath hacia la investigación formal le dio recursos sin anular su independencia: aprende que cuestionar un proyecto también puede ser una forma de protegerlo.
+- La Aguja Muerta y el mantenimiento de Galwin confirmaron que una infraestructura duradera necesita personas que documenten límites, no solo inventores que la hagan funcionar una vez.
+- Al acompañar la formación de Ren, Haruto y Leo, Daichi empieza a usar sus criterios para habilitar misiones pequeñas y seguras. Su meta no es impedir G2, sino lograr que nadie deba confiar en él a ciegas para activarlo.

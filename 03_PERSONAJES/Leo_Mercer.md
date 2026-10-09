@@ -48,3 +48,10 @@ El sistema no obtiene omnisciencia, no conoce todos los pasillos y no puede orde
 ## ADDENDUM — 5 DE FLORIS, AÑO 3
 
 Leo mantiene Quest Log en fase de diseño verificable. La primera misión con Ren y Haruto aún no ha producido resultados, evidencias ni recompensas.
+
+## EVOLUCIÓN CAUSAL — DE INTERFAZ PERSONAL A RESPONSABILIDAD DE EQUIPO
+
+- El contacto con la Torre y el trabajo documental le enseñaron que registrar no es mirar desde fuera: una lista mal diseñada puede empujar a alguien a asumir un riesgo que no entiende.
+- El descubrimiento de nodos, los protocolos de Daichi y las mediciones de Mika establecen el límite de Quest Log: puede ordenar información y sugerir objetivos, pero no posee autoridad científica ni moral sobre el grupo.
+- La futura misión con Ren y Haruto es su primer ensayo como coordinador humano. El objetivo no es acumular recompensas, sino aprender a declarar una misión incompleta, rechazar una tarea lateral y volver con pruebas.
+- Su avance depende de escuchar discrepancias: Haruto protege a las personas, Ren conoce sus propios límites y Leo garantiza que la decisión final quede legible, no que el sistema tenga la última palabra.

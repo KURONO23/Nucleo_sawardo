@@ -49,3 +49,10 @@ La primera misión queda preparada, no resuelta fuera de escena. Su crecimiento 
 ## ADDENDUM — 5 DE FLORIS, AÑO 3
 
 El primer reconocimiento con Haruto y Leo sigue pendiente de escena. Ren continúa aprendiendo de Amane; la salida no sustituye la tutoría ni garantiza éxito.
+
+## EVOLUCIÓN CAUSAL — IDENTIDAD COMPUESTA, APRENDIZAJE COMPARTIDO
+
+- Descubrir que su memoria local y su memoria externa pueden coexistir evitó que tuviera que escoger una identidad falsa. El contacto con Kazuki y la investigación de la Torre convierten esa tensión en pregunta de estudio, no en sentencia sobre él.
+- Amane le entrega una base de magia y combate; la Red de Nodos le muestra por qué el control y la retirada importan tanto como el poder. Su progreso no se mide por imitar a Max ni por dominar una habilidad de golpe.
+- La salida prevista con Haruto y Leo nace precisamente de ese punto: Ren conserva maestra, compañeros y un registro propio. Si falla, la evidencia vuelve a Amane, Daichi y Mika; si acierta, no queda aislado como prodigio.
+- Su ambición gradual es ser un investigador de campo fiable que pueda explicar qué hizo y por qué, aun cuando un Eco de Hábito no tenga explicación inmediata.

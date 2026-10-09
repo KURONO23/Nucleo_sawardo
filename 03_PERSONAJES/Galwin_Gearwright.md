@@ -85,3 +85,10 @@ Este cambio no reduce a Galwin: lo hace pasar de ejecutor indispensable a maestr
 ## ADDENDUM — 4–5 DE FLORIS, AÑO 3
 
 La delegación del horno continúa. Galwin concentra su tiempo en hacer reproducible el G1 y en preparar una revisión segura de las ruinas; G2 sigue sin construirse y no debe declararse operativo.
+
+## EVOLUCIÓN CAUSAL — DEL ARTÍFICE IMPRESCINDIBLE AL MAESTRO DE UNA INFRAESTRUCTURA
+
+- La depresión de Max y el hallazgo de la Aguja Muerta cambiaron su horizonte: el encargo de mantenimiento de 500 oro mensuales no es un regalo pasivo, sino confianza contractual para cuidar una red cuyo riesgo crece con ella.
+- Al poder desplazarse por nodos autorizados para mantenimiento, dejó de imaginar su oficio como trabajo de banco. Aprende dónde una teoría falla frente a materiales, clima y uso humano.
+- La colaboración con Aria, Sayaka, Daichi, Mika, Kazuki y Thalion convierte su inventiva en una disciplina que debe poder reparar otra persona. Por eso delegar el horno es parte de su progreso, no abandono de su excelencia.
+- G1, antes que G2, es la respuesta práctica a ese aprendizaje: una tecnología útil debe ser auditable, mantenible y segura incluso cuando Max no está presente.

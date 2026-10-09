@@ -80,3 +80,10 @@ Si Max no participa, Lyssa transforma el encargo en práctica de Vigilia y prese
 Kira confirmó la precisión, percepción, control del entorno y protección de terceros de Lyssa. Tras la prueba pública, retiró el estado B y emitió la nueva tarjeta **A**. La Vigilia del Umbral quedó registrada con sus tres integrantes en rango A.
 
 Fuente: `00_FUENTES/historia_original/AÑO_1/02_01_Bruma_a_18_Bruma_y_05_Solalto_a_09_Solalto_Año_1.md`, evaluación de Lyssa, aprox. líneas 7300–7526.
+
+## EVOLUCIÓN CAUSAL — DE DESEO DE EQUIPO PROPIO A ENLACE CON CRITERIO
+
+- El arco que pidió de niña y el entrenamiento con Max convierten un deseo sencillo en una identidad práctica: precisión, señalización y protección a distancia que no dependen de copiar a Jasmine.
+- La reevaluación de Kira confirma el ascenso de B a A después de la prueba; no borra los aprendizajes ni la inseguridad que hicieron necesario entrenar.
+- La defensa coordinada y la Vigilia del Umbral muestran que su aporte es también logístico: leer calles, llevar mensajes y dejar rutas más seguras para quienes no tienen su rango.
+- Su petición de gremio busca una evidencia propia de valor. El siguiente paso no está resuelto: debe ocurrir en escena y ser clasificado por Kira antes de generar resultados o recompensas.

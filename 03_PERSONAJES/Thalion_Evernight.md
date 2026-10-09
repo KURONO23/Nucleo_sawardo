@@ -77,3 +77,10 @@ PDF, pp. 919-942; [[CURRENT_STATE]].
 - Como juez crea control arcano de bebidas: declaración, revisión previa y descalificación de sustancias peligrosas. `00_FUENTES/historia_original/AÑO_1/04_09_Solalto_Año_1_a_25_Solalto_Año_2.md:L162810-L162900`, `L165360-L165410`.
 - Distingue efectos visuales permitidos de alteraciones del juicio; no vota por rareza sino por seguridad y transparencia.
 - Mantiene cooperación con Max sin abandonar su identidad de mago.
+
+## EVOLUCIÓN CAUSAL — DE CURIOSIDAD DE CORTE A CUSTODIO DEL CONOCIMIENTO COMPARTIDO
+
+- La audiencia con Max le mostró una autoridad temporal que no controla. En vez de apropiarse de ella, fija una alianza investigativa condicionada: respeto, preguntas y límites antes de acceso.
+- El recuerdo de Vaelor transforma nostalgia personal en investigación pública. Su cumpleaños y el proyecto reactivado no son un capricho de Max, sino un punto de partida para trabajo académico que Thalion puede dirigir.
+- El Festival le confirma que la cultura también necesita criterios técnicos: seguridad y transparencia antes que espectacularidad. Esa misma lógica guía su papel ante artefactos, nodos y propuestas de G1/G2.
+- Su crecimiento consiste en construir instituciones que puedan debatir con Max, no en convertirse en su intérprete exclusivo.

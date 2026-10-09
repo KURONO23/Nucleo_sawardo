@@ -103,3 +103,10 @@ Jasmine **sí vio la misión de V. Sable**. No queda reducida a una acompañante
 - el siguiente hito será presentar una comparación verificable de rutas y fechas. La identidad final de V. Sable, la red completa y cualquier nuevo movimiento permanecen abiertos.
 
 El coste es personal: seguir una pista sin Max implica exposición, paciencia y la posibilidad de descubrir que una lectura táctica era incompleta. Hasta que exista una escena posterior, no se declara resuelta la misión.
+
+## EVOLUCIÓN CAUSAL — DE EVALUAR A MAX A ELEGIR SU PROPIA INVESTIGACIÓN
+
+- Blackpeak fue su primer criterio decisivo: no entregó confianza por el poder de Max, sino después de verlo aceptar retirada, reparto y límites operativos. Ese aprendizaje sostiene su lealtad adulta, no una obediencia automática.
+- Las narraciones de *Juego de Tronos*, *Dunk y Egg* y *Percy Jackson* le dieron un lenguaje adicional para analizar costo político, promesas y daño colateral. Sus observaciones culturales nacen de escuchar, debatir y recordar; no son conocimientos mágicos del mundo.
+- La experiencia de la Torre y de la Red de Nodos ensanchó su definición de protección: ahora piensa también en perímetros, información incompleta y equipos que deben volver enteros.
+- Haber presenciado la misión de V. Sable transforma esa disciplina en agencia propia. Su siguiente avance depende de contrastar rutas y proteger testigos con Kira y Misa, no de que Max vuelva a darle una orden.

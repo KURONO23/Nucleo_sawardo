@@ -46,3 +46,10 @@ Desde el 4 de Floris, Mika deja de ser solo la persona que “sabe leer mapas”
 - empieza a redactar una capa de compatibilidad para G2, pero no promete que la tecnología antigua sea compatible con el G1.
 
 Su primera mejora tendrá un coste: un falso positivo obligará al equipo a repetir una medición y retrasará una entrega. Mika aprenderá a defender la demora como resultado científico, no como fracaso personal.
+
+## EVOLUCIÓN CAUSAL — DEL MAPA INDIVIDUAL A LA EVIDENCIA COMPARTIDA
+
+- Su llegada, el artefacto que custodió con Daichi y el encuentro con Max la obligaron a distinguir intuición útil de acceso legítimo. La pregunta de si un terminal era seguro no fue una excentricidad: se vuelve el origen de su hábito de verificar antes de integrar una herramienta.
+- La Torre, la Aguja Muerta y la Red de Nodos convierten su talento de orientación en una responsabilidad reproducible. Ya no basta con que Mika perciba una anomalía; debe dejar un registro que otro pueda comprobar.
+- El trabajo con Kazuki, Ren y Daichi le enseñó que los llegados no son una sola categoría. Su Resonancia de Nodo es una pista limitada dentro de un equipo, no una llave universal.
+- G2 representa su ambición profesional: traducir ruinas en infraestructura útil sin forzar compatibilidades, ocultar fallos o adelantarse a G1.

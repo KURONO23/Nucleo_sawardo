@@ -44,3 +44,10 @@ La petición queda pendiente de clasificación F–S por Kira. Si Max no partici
 La ficha anterior conservaba el estado B como corte previo a la prueba. Después de que Max patrocinara la solicitud, Kira evaluó a Torin mediante cristal, demostración individual y ejercicio táctico. Confirmó control defensivo, protección de terceros y capacidad consistente de rango A, retiró la tarjeta B y emitió el **ascenso oficial a A**.
 
 Fuente: `00_FUENTES/historia_original/AÑO_1/02_01_Bruma_a_18_Bruma_y_05_Solalto_a_09_Solalto_Año_1.md`, evaluación de Torin, aprox. líneas 6940–7115.
+
+## EVOLUCIÓN CAUSAL — EL ESCUDO QUE APRENDE A ORGANIZAR A OTROS
+
+- El regalo de su escudo y el entrenamiento de veinte días no sustituyen su vocación previa: le dan herramientas para transformar el deber aprendido de su padre en defensa consciente, con límites y relevos.
+- La neutralización sin muerte de la comitiva hostil y la protección de la finca amplían su idea de victoria: sostener una línea puede incluir desescalar, evacuar y responder sin humillar por placer.
+- Coordinar Tornhaven y Pequeño Zhong-Kyo con Ryu y Kenji le da una responsabilidad territorial real. Ya no es solo guardaespaldas de Max; aprende a proteger comerciantes, migrantes y rutas aun cuando él no esté.
+- La Vigilia del Umbral pone a prueba su siguiente madurez: formar un turno que sobreviva a su ausencia, no una guardia que dependa de su escudo.

@@ -65,3 +65,9 @@ En el Palacio Real de Aldoria. Concluyó formalmente la audiencia, autorizó la 
 ## REFERENCIAS
 
 PDF, pp. 849-852, 918-942; [[CURRENT_STATE]].
+
+## EVOLUCIÓN CAUSAL — AUTORIDAD QUE NEGOCIA LÍMITES
+
+- La audiencia con Max comienza como examen de confianza y arrojo; termina en reconocimiento legal condicionado. Aldric no compra lealtad absoluta: acepta una House, un writ y una Letter of Marque con límites frente a guerra y gobierno.
+- Las consecuencias de Blackpeak, los conflictos nobiliarios y la expansión de proyectos civiles le muestran que la estabilidad no se obtiene controlando cada iniciativa. Aprende a delegar en Serath, Thalion, Kira y autoridades locales sin confundir cooperación con obediencia.
+- Torre, Vaelor y la Red de Nodos lo obligan a equilibrar seguridad del reino con investigación abierta. Su papel actual es permitir garantías y supervisión proporcional, no declarar propiedad de un conocimiento que Aldoria apenas empieza a comprender.

@@ -97,3 +97,10 @@ Aunque Max haya dejado de interactuar con ella directamente, Misa continúa acti
 - su siguiente hito será revisar el botiquín modular y convertir una de sus prácticas de Sawardo en un procedimiento seguro para una misión real.
 
 El obstáculo es que la curación avanzada todavía tiene límites no confirmados: Misa debe elegir entre intervenir, esperar o pedir ayuda. Ese conflicto sigue abierto y no se resuelve fuera de cámara.
+
+## EVOLUCIÓN CAUSAL — CUIDAR SIN CONVERTIRSE EN LA ÚNICA RESPUESTA
+
+- La vulnerabilidad inicial de Max, Blackpeak y el entrenamiento en Sawardo le demostraron que sanar después del daño no basta: debe enseñar prevención, descanso y petición de ayuda sin vergüenza.
+- La Torre y los nodos hicieron visible un tipo de peligro que no se resuelve con una cura inmediata. Por eso su triaje incorpora exposición, agotamiento y retirada, además de heridas visibles.
+- Luminarias convirtió su compasión en capacidad comunitaria: abrigo, chocolate, botiquín y seguimiento muestran que puede organizar cuidado colectivo sin que Max sea el centro de la escena.
+- La línea V. Sable junto a Jasmine conserva una frontera ética: protege supervivientes y testigos sin diagnosticar culpables ni prometer una intervención que su magia no haya demostrado.

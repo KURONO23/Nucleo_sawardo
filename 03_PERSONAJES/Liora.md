@@ -59,3 +59,10 @@ Participa plenamente como parte de la familia extendida en las celebraciones de 
 ## ADDENDUM — MICROINTERACCIONES Y VIDA AUTÓNOMA
 
 - Encuentra a Ren y presenta amistades, leyendo tensiones sin decidir por él (`00_FUENTES/historia_original/AÑO_2/06_15_Ambar_a_25_Ambar_Año_2.md`, 23547–23569).
+
+## EVOLUCIÓN CAUSAL — VIDA PROPIA, VÍNCULOS QUE ABREN EL MUNDO
+
+- El encuentro con Haruto y la convivencia con Siri le enseñan a sostener una relación donde existe una habilidad extraordinaria sin dejar que esa habilidad dicte la intimidad. Su vínculo es pareja confirmada, no compromiso ni boda acordada.
+- La Torre, Quest Log y el aislamiento de Ren y Leo le muestran un riesgo social que los especialistas no veían: convertir toda la juventud en preparación de crisis. Por eso ofrece espacios, amistades y salidas, sin elegir por ellos.
+- La desinformación contra Austin y Cerveza Esmeralda deja claro que su experiencia de club, escena y rumores es inteligencia cultural válida. Distingue chisme de campaña dirigida sin apropiarse de la investigación de Kira o Jasmine.
+- Su ambición no queda absorbida por Haruto: mantiene La Rosa de Medianoche, su red de amistades y su criterio para decidir cuándo proteger una noche normal frente a la urgencia de los demás.
