@@ -24,22 +24,21 @@ Memoria canónica y sistema modular para el roleplay de **Los Ventura**.
 - Cumpleaños y alertas de salto temporal: [[CALENDARIO_CUMPLEANOS_CIRCULO_DE_MAX]]. Próximo: **Ryu, 8 de Floris**.
 - Misiones, autoridad de Kira y aportes: [[MISIONES_PROPUESTAS_POR_NPC_AÑO3]] y [[AUDITORIA_GREMIO_FONDO_VETERANOS_AÑO3]].
 
-## Archivo histórico — corte del Día 634 (no vigente)
+## Archivo histórico actualizado — corte del 1 de Floris, Año 3 (no vigente)
 
-- **Fecha narrativa:** **10 de Noctalia, Año 2 (DÍA 634 continuo)**.
-- **Estación:** Invierno en Aldoria.
-- **Situación:** Noche de las Luminarias preparada (Panettone, chocolate caliente y juguetes artesanales).
-- **Hito inmediato por resolver:** **12 de Noctalia, Año 2 (DÍA 636) — Cumpleaños de Thalion Evernight**.
-- **Finanzas consolidadas:**
-  - Oro líquido en caja: **890,935 oro (~890,000 oro)**.
-  - Patrimonio estimado total: **1,465,435 oro**.
-  - Flujo ordinario base en aquel corte: **8,470 oro/mes**. El vigente desde el 26 de Bruma es **7,270 oro/mes**, antes de dividendos variables de Esmeralda.
-  - Cupo de gasto mensual discrecional: hasta **5,000 oro/mes** (financia Luminarias).
+- **Fecha narrativa:** **1 de Floris, Año 3**. Este corte es posterior al Día 634 y anterior al presente rector del 5 de Floris.
+- **Situación:** Natalia abre el cierre de Bruma, la nómina y los resultados de Cervecería Esmeralda junto a Vivienne y Elise. El cumpleaños de Haruto ya ocurrió fuera de cámara: tiene **19 años**.
+- **Finanzas verificadas en la escena:**
+  - Último saldo líquido conciliado conocido: **905,905 oro**, correspondiente al cierre del 26 de Bruma y arrastrado como base al 1 de Floris.
+  - Nueva remuneración ordinaria: **800 oro mensuales para Natalia, Elise y Vivienne**, vigente desde el 26 de Bruma.
+  - Flujo estructural hacia adelante: **7,270 oro/mes** bajo la nueva nómina; no se recalcula todo Bruma retroactivamente con ese coste.
+  - **Cervecería Esmeralda:** rentable, con dividendos activos e impacto positivo del Festival; el importe exacto acumulado todavía no está fijado canónicamente.
+  - **Patrimonio total:** no debe reutilizarse la tasación del Día 634; queda pendiente de revaloración con los activos y dividendos del Año 3.
 
 ## Consulta histórica — Día 634 (no iniciar sesiones desde aquí)
 
-1. Consultar el corte histórico conservado en [[CURRENT_STATE]] solo si se necesita recuperar antecedentes.
-2. No usar [[CURRENT_STATE]] como punto de reanudación: sus cifras, hilos y estado pertenecen al Día 634.
+1. Consultar el corte del Día 634 conservado en [[CURRENT_STATE]] solo si se necesita recuperar antecedentes.
+2. No usar [[CURRENT_STATE]] como punto de reanudación: sus cifras, hilos y estado pertenecen al Día 634 y ya fueron superados por el corte del 1 de Floris.
 3. Seguir las directrices históricas conservadas en [[DIRECTRICES_MAESTRAS_ROLEPLAY]].
 4. Consultar fuentes primarias directas en `00_FUENTES/historia_original/`.
 
