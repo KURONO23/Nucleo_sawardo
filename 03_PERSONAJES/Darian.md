@@ -56,3 +56,10 @@ Darian no es un colaborador ocasional ni un actor: es el **quinto miembro origin
 - Oficial activo y respetado en la capital de Aldoria.
 - Miembro del consejo consultivo de las producciones culturales de Goran y Max (*¿Qué pasó ayer?*, *El Festival de la Cerveza*, *Austin Powers*).
 - Accionista formal de Cerveza Esmeralda.
+
+## EVOLUCIÓN CAUSAL — ORGANIZAR SIN APROPIARSE
+
+- Los Cinco del Barril lo convierten de participante del círculo de Max en parte del núcleo creativo que sostiene el humor, la adaptación y las reglas internas de las producciones.
+- El paso de *El Festival de la Cerveza* de comedia a evento real le exige pensar en regulación, seguridad y memoria del origen: una prueba deportiva no debe borrar que nació de una obra compartida.
+- Su participación en Austin Powers y en la compañía le enseña a leer qué puede seguir siendo parodia, qué necesita límites y cuándo una escena afecta reputación o seguridad de otras personas.
+- Influye en Biro y Goran como colaborador que preserva continuidad sin reclamar autoría; influye en la casa al conectar cultura, logística y seguridad discreta.

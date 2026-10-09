@@ -84,3 +84,10 @@
 
 - Guarda utensilios antes de la broma de Santa y pasa de incredulidad a risa al reconocer a Max (`00_FUENTES/historia_original/AÑO_2/08_11_Noctalia_a_30_Noctalia_Año_2.md`, 12727–12799).
 - La continuidad corrige la omisión de sus regalos: es hermano menor de Max, integrado desde Zhong-Kyo (`isekai Día 11-30...`, 12646–12701).
+
+## EVOLUCIÓN CAUSAL — FUERZA, OFICIO Y HOSPITALIDAD
+
+- Llegar desde Zhong-Kyo y ser recibido como hermano no lo congela como “el menor protegido”. El entrenamiento y el reconocimiento de Biro muestran que puede sorprender a guerreros mayores sin necesitar aprobación constante.
+- El aprendizaje culinario de Max le da técnicas, pero Kenji las transforma al combinarlas con ingredientes, memoria y necesidades de Pequeño Zhong-Kyo. Su cocina se vuelve puente cultural, no copia de comida terrestre.
+- Casa del Puente y el Festival le permiten convertir cuidado doméstico, artificería y gastronomía en servicios para una comunidad que conserva su voz propia.
+- Influye en Ryu, Biro y visitantes al mostrar que la hospitalidad también es una forma de capacidad y de representación pública.

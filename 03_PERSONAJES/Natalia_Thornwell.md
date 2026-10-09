@@ -107,3 +107,10 @@ PDF, pp. 508-537, 621-639, 806-819, 889-942; [[RELATIONSHIPS]].
 ## ADDENDUM — 4–5 DE FLORIS, AÑO 3
 
 Natalia participa en la inspección de calidad y costes de Esmeralda junto a Elise y Vivienne. No se añade un importe al lote rechazado ni se inventan dividendos posteriores.
+
+## EVOLUCIÓN CAUSAL — DE ADMINISTRADORA A AUTORIDAD FINANCIERA
+
+- Gutiérrez Estate le dio una estructura que administrar; la expansión de talleres, teatro, Esmeralda y Festival la obligó a convertir la confianza personal de Max en presupuestos, salarios y fondos separados.
+- La ausencia prolongada de Max confirmó que su función no era “ordenar sus papeles”: sostuvo operaciones, preservó liquidez y evitó que un éxito cultural se confundiera con caja libre.
+- El cierre de Bruma y el salario de 800 oro para Natalia, Elise y Vivienne cambian su relación con Max: puede aceptar reconocimiento sin dejar de corregirlo cuando confunde patrimonio, flujo y dinero disponible.
+- Influye en Elise y Vivienne al mantener un frente profesional compartido; influye en Max al obligarlo a aprender que delegar también significa respetar un no contable.

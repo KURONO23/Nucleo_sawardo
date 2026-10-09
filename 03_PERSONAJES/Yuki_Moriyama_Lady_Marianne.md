@@ -72,3 +72,10 @@ Durante el boicot de otoño del Año 2, Yuki fue una de las encargadas de examin
 ## ADDENDUM — 4–5 DE FLORIS, AÑO 3
 
 Yuki compara el informe independiente de Mizuki con la cadena Max–Aria–Yuki después de que ambas investigaciones llegan a Veylan. Mantiene cautela política y personal: `BAKARINA` es una broma sobre Catarina Claes, no una red literal de pretendientes ni un cambio en sus relaciones. Solo hay dos terminales G1 certificados.
+
+## EVOLUCIÓN CAUSAL — DE OBSERVADORA NOBLE A DIRECTORA DE INVESTIGACIÓN
+
+- El teatro, las delegaciones y el Festival le enseñan que cultura y política se observan en reacciones pequeñas, no solo en decretos. Conserva su sensibilidad japonesa y su posición de Lady Marianne sin reducirse a una sola identidad.
+- Ravenwood, Veylan y la información de Mizuki la obligan a asumir un frente que no puede resolver Max desde fuera. Aprende a contrastar fuentes, proteger su casa y tomar decisiones con información incompleta.
+- La cobertura Marcos cambia su relación con Max: él acepta instrucciones y ella aprende a usar su capacidad sin dejar que domine el sentido de la operación.
+- Influye en Aria, Mizuki y la red de Ravenwood al hacer de la prudencia una acción concreta: comparar, esperar evidencia y decidir qué no revelar todavía.

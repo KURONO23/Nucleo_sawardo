@@ -80,3 +80,9 @@
 
 - Revisa rutas antes de la broma de Santa y reconoce a Max de inmediato; su reacción difiere de la risa de Kenji (`00_FUENTES/historia_original/AÑO_2/08_11_Noctalia_a_30_Noctalia_Año_2.md`, 12727–12829).
 - Conecta movilidad, delegaciones y suministros en Casa Puente sin absorber la identidad de Pequeño Zhong-Kyo (`FESTIVAL DE LA CERVEZA.md`, Casa Puente).
+
+## EVOLUCIÓN CAUSAL — DE HERMANO A REFERENTE COMUNITARIO
+
+- Zhong-Kyo y la adopción por Max le dan una familia, pero su crecimiento real nace de convertir ese vínculo en oficio: navegación, cartografía, logística y lectura de rutas.
+- La bienvenida de Biro y Los Ventura le muestra que puede entrar a una familia ya formada sin renunciar a su disciplina ni a su cultura. Aprende a enseñar y coordinar, no solo a obedecer.
+- Casa del Puente y el Festival convierten su conocimiento de rutas en acogida práctica para otras personas migrantes. Influye en Kenji y en la comunidad al demostrar que la representación no depende de que Max hable por ellos.

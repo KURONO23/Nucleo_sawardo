@@ -89,3 +89,10 @@ PDF, pp. 508-537, 616-639, 806-819, 889-942; [[RELATIONSHIPS]].
 ## ADDENDUM — 4–5 DE FLORIS, AÑO 3
 
 Vivienne concibió por iniciativa propia una gala noble-cultural benéfica auténtica. No hay fecha, invitados, presupuesto ni aprobación final; la broma futura de “señor pobre” no debe tratarse como insolvencia real.
+
+## EVOLUCIÓN CAUSAL — RUTAS QUE CONECTAN PERSONAS
+
+- La expansión de Gutiérrez Estate, Esmeralda, teatro y Festival transforma sus rutas mercantes en una red de circulación cultural y laboral. Aprende a mover bienes sin reducir las culturas que los producen a mercancía.
+- La autonomía demostrada durante las ausencias de Max confirma que puede negociar, distribuir y sostener oficinas por criterio propio. Su salario reconoce trabajo ya real, no una lealtad pasiva.
+- Austin Powers, las solicitudes internacionales y el Festival le enseñan a distinguir entusiasmo del público, capacidad logística y compromiso financiero. Esa disciplina protege a Goran, actores y delegaciones de promesas imposibles.
+- Influye en Natalia y Elise mediante información de terreno; influye en Max al mostrarle que una institución sobrevive porque alguien diseña rutas, contratos y descansos.

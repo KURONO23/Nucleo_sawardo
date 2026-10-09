@@ -60,3 +60,10 @@ El Día 500, Kazuki viajó personalmente a la capital de Aldoria bajo una identi
 
 - Trabaja sobre alcantarillado y baños sin esperar supervisión de Max (`00_FUENTES/historia_original/AÑO_2/08_11_Noctalia_a_30_Noctalia_Año_2.md`, 5303–5407).
 - Detecta el coste humano de representar Austin Powers y consolida el límite de dos funciones semanales (`isekai Día 588...`, 4124–4172).
+
+## EVOLUCIÓN CAUSAL — ESPEJO DE MAX Y LÍDER DE MINAS
+
+- El encuentro con Max le confirma que no es el único reencarnado ni el único capaz de leer estructuras complejas. La relación parte de cautela y se convierte en respeto intelectual, no subordinación.
+- Minas Quebradas, Hessa y el Festival le enseñan que una mejora técnica puede abrir identidad regional, oficios y vínculos diplomáticos. No reduce su tierra a recursos ni a un escenario para Max.
+- La investigación conjunta de Referencia Temporal y el Ancla le da un método propio para plantear límites a Sawardo. Su capacidad no copia poderes ni garantiza contención absoluta.
+- Austin Powers le revela el coste humano de una producción exitosa; por eso defiende el límite de funciones y traslada esa atención a su liderazgo.

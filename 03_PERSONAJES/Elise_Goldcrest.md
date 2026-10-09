@@ -94,3 +94,9 @@ PDF, pp. 508-537, 618-639, 806-819, 889-942; [[RELATIONSHIPS]].
 ## ADDENDUM — 4–5 DE FLORIS, AÑO 3
 
 Elise revisa calidad y costes del circuito de Cerveza Esmeralda junto a Natalia y Vivienne. El lote rechazado por Sayaka queda sin valoración económica hasta que una escena aporte cifra.
+
+## EVOLUCIÓN CAUSAL — OFICIO, TECNOLOGÍA Y CRITERIO
+
+- La llegada de la Seda de Acero Estelar la coloca ante un material que no podía resolver con habilidad artesanal aislada. La colaboración con Galwin la convierte en cocreadora de una solución mecánico-rúnica, no en receptora de una invención ajena.
+- El crecimiento de House Gutiérrez y los proyectos culturales le enseñan a defender calidad, coste y tiempo de trabajo frente a la urgencia de Max. Su criterio material evita que la innovación se vuelva espectáculo sin uso.
+- Al trabajar con Natalia y Vivienne, extiende su influencia desde la moda hacia compras, revisión de lotes y capacidad productiva. Mantiene su propia identidad de artesana y no se vuelve administradora genérica.

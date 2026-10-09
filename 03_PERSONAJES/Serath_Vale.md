@@ -141,3 +141,10 @@ PDF, pp. 919-942; [[CURRENT_STATE]].
 ## ADDENDUM — 5 DE FLORIS, AÑO 3
 
 Serath llega al desayuno con una evaluación autónoma sobre la duración de la infiltración de Marcos y la protección compartida. La conversación aún debe jugarse: conserva mando, criterio militar y capacidad de disentir; no es una portavoz de Max ni un simple detector de amenazas.
+
+## EVOLUCIÓN CAUSAL — AMOR, MANDO Y AUTONOMÍA
+
+- El vínculo con Max y el matrimonio del Día 260 no la convierten en apoyo decorativo: aprende a construir intimidad con alguien imprevisible sin ceder mando militar, secretos de Estado ni amistades propias.
+- Los arcos de Festival, Red y ausencias de Max prueban que puede proteger rutas, tomar decisiones y sostener su círculo sin esperar su regreso. A la vez, obliga a Max a considerar seguridad, consecuencias y tiempos de otras personas.
+- Influye en Aria, Yuki y el círculo de la Corona como modelo de autoridad que cuida sin absorber. Su evolución no consiste en “ablandarse”, sino en integrar afecto, estrategia y límites claros.
+- La infiltración Marcos mantiene una tensión pendiente: su evaluación de riesgo importa tanto como el deseo de Max de continuar. Ninguna decisión futura se presupone tomada.

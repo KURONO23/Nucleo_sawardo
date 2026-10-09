@@ -44,3 +44,10 @@ La cadena 20 oro → copistas → amenaza → desnudez pública → 5 oro para p
 ## ADDENDUM — 4–5 DE FLORIS, AÑO 3
 
 En el proyecto de *La tragedia del último barril*, Goran conserva el papel de asesor: señala problemas de ritmo y coherencia, pero deja que Biro encuentre su propio final. No debe narrarse como coautor ni anunciarse un estreno antes de una escena que lo confirme.
+
+## EVOLUCIÓN CAUSAL — DEL OYENTE AL DIRECTOR QUE FORMA AUTORES
+
+- Escuchar a Max contar *Juego de Tronos* en bares le enseñó a registrar versiones, rumores y puntos de vista. La amenaza contra los escribas le mostró que la cultura necesita protección material, organización y personas que puedan continuar el trabajo.
+- La confianza de Max, las revisiones de Jasmine y la experiencia de coordinar copistas lo convierten en editor y director; no se limita a reproducir historias terrestres, aprende a adaptarlas para Aldoria.
+- Austin Powers y el Festival amplían su escala: debe cuidar reparto, ritmo, salud del elenco y recepción social, no solo escribir una escena que funcione.
+- Su influencia sobre Biro es deliberadamente limitada: transmite oficio, pero protege que *La tragedia del último barril* conserve autoría de Biro. Esa decisión demuestra su propio crecimiento como formador.

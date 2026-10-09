@@ -160,3 +160,10 @@ Corrección autoral; PDF, pp. 26-100.
 ## ADDENDUM — 5 DE FLORIS, AÑO 3
 
 Aria puede iniciar una vigilancia exterior discreta alrededor de Gutiérrez Estate, con límites y reportes prudentes. Conoce *Frieren*, *Mob Psycho 100*, *Kaguya-sama* y *KonoSuba* porque exploró archivos audiovisuales del S25 privado de Max mientras él dormía; el S25 no es una red aldoriana y Aria no es una IA. Prefiere a Megumin y Wiz; no aceptar la comparación con Aqua como rasgo de personalidad.
+
+## EVOLUCIÓN CAUSAL — VÍNCULO, LÍMITES E INFLUENCIA
+
+- El paso de Max por una crisis de ánimo en la Torre le enseñó a acompañarlo sin intentar resolver, vigilar ni apropiarse de su decisión. Escuchó su necesidad de estar solo, señaló con honestidad que irse sin avisar la preocupó y ayudó a transformar el hallazgo de la Aguja Muerta en un frente compartido.
+- La Red de Nodos amplía su papel: no es la solución mágica del equipo, sino quien traduce señales elementales, recuerda límites y pide que las ideas de Max, Galwin o Haruto pasen por personas y protocolos.
+- La convivencia con Serath, Natalia y el elenco la vuelve una presencia de enlace: conserva intimidad con Max, pero sostiene también relaciones y criterio propios cuando él está ausente.
+- Su influencia persistente es cultural y emocional: protege que los proyectos no borren a las personas que los hacen posibles.

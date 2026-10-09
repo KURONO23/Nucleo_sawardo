@@ -95,3 +95,10 @@ Kira no deja de ser la exaventurera de clase/rango S que dirige el Gremio. La fu
 - **Continuidad pendiente:** cualquier nuevo informe, reforma, reparto del fondo o misión que Kira decida debe aparecer en una escena o fuente posterior. Esta ficha no lo da por ocurrido.
 
 Fuentes: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`, 1662; `00_FUENTES/historia_original/AÑO_1/03_19_Bruma_a_04_Solalto_Año_1.md`, 16551–16780 y 17026–17030; `00_FUENTES/historia_original/AÑO_1/04_09_Solalto_Año_1_a_25_Solalto_Año_2.md`, 26702.
+
+## EVOLUCIÓN CAUSAL — GREMIO, FONDOS Y AUTORIDAD PROPIA
+
+- Blackpeak le demuestra que el crecimiento extraordinario de un aventurero puede desestabilizar rangos, reputación y seguridad institucional. Por eso conserva información sensible sin convertir el Gremio en extensión de Max.
+- Los aportes de Max al Gremio y al fondo de veteranos le dan recursos, pero también la obligación de crear tutorías, enfermería y control de destino. El dinero no compra su autoridad ni vuelve a Max dueño de las misiones.
+- V. Sable y Jasmine amplían su función desde administradora de contratos a protectora de cadena de custodia, testigos y límites de investigación.
+- Influye en Ventura, Vigilia y Max al recordar que una misión solo existe formalmente cuando ella la clasifica entre F y S.

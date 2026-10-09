@@ -62,3 +62,10 @@ Su próxima evolución es cooperativa: proteger sin sobreproteger y dejar que lo
 ## ADDENDUM — 4–5 DE FLORIS, AÑO 3
 
 Haruto acepta la disculpa de Mizuki sin conceder perdón completo. Mantiene su pareja formal con Liora y conversa con ella sobre cómo procesar la reparación; ninguna de esas conversaciones convierte automáticamente el vínculo en compromiso nuevo.
+
+## EVOLUCIÓN CAUSAL — PERTENENCIA Y RESPONSABILIDAD DE CAMPO
+
+- El vínculo con Max, Zhong-Kyo y Los Cinco del Barril le da pertenencia sin obligarlo a borrar su origen de la Tierra. Aprende a ser compañero, no solo otro reencarnado comparado con Max.
+- La Red de Nodos y la crisis de la Torre lo sitúan junto a Aria y Amane en un descubrimiento que exige adaptación, cautela y trabajo colectivo. Su fuerza se vuelve útil cuando acepta protocolos ajenos.
+- Liora, Ren y Leo amplían su función: protege y enseña retirada, pero deja decisiones acotadas a los jóvenes. No sustituye a Amane ni a Leo.
+- Su respuesta a Mizuki conserva un límite emocional propio: puede escuchar una reparación sin regalar perdón ni permitir que otra persona escriba su historia por él.
