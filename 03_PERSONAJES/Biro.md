@@ -90,6 +90,14 @@ Forma de hablar en intimidad: reduce volumen, elimina fanfarronería y formula s
 - **Influencia ejercida:** su obra obliga a Goran a tratar a los actores como autores, da a Los Cinco un conflicto creativo propio y ofrece a Aldoria una comedia con mensaje nacido de experiencias locales.
 - **Persistencia autónoma:** continúa reescribiendo aunque Max no esté presente. El estreno sigue sin confirmarse; no se convierte el proceso en éxito anticipado.
 
+### Crecimiento derivado de puntos de inflexión anteriores
+
+- **Zhong-Kyo y la llegada de Ryu y Kenji:** Biro no se limita a aceptar a los nuevos hermanos de Max como visitantes exóticos. Los recibe como parte de la familia, entrena con ellos y aprende a reconocer progreso que no se parece a su propia fuerza. Cuando Kenji usa el retroceso cinético y lo desplaza dos metros, Biro responde con orgullo, curiosidad y deseo de aprender la técnica, no con humillación ni competencia amarga. Desde entonces su identidad de “muro” incluye ser referencia y compañero de crecimiento para los dos jóvenes.
+- **Influencia sobre Ryu y Kenji:** su humor, entrenamiento físico y bienvenida social les dan un primer puente informal con Los Ventura. Kenji puede mostrar una técnica nueva sin ser reducido a novato; Ryu encuentra un adulto que respeta su lectura analítica del combate. La familia se vuelve práctica, no solo declarativa.
+- **Austin Powers:** Biro es parte del núcleo creativo de Los Cinco del Barril junto a Max, Goran, Haruto y Darian. Aunque Nilo interprete a Austin en escena, Biro participa en la construcción cómica, el baile y la lógica de la obra. Aprende que puede crear personajes y ritmos sin abandonar su voz corporal de tanque; el teatro deja de ser una actividad social y se convierte en otra forma de combate coordinado.
+- **Influencia de Austin:** el trabajo escénico amplía su repertorio emocional. Biro conserva la carcajada y la franqueza, pero aprende a sostener una pausa, leer una reacción del público y exagerar un gesto con intención. Esa disciplina alimenta después su escritura de *La tragedia del último barril*.
+- **Persistencia:** estas mejoras no dependen de que Max lo dirija en cada ensayo. Biro conserva entrenamiento, humor, vínculo con Ryu/Kenji y criterio autoral mientras la compañía prepara nuevas obras.
+
 ## ÚLTIMO ESTADO CONOCIDO
 
 En el salón privado de una taberna del distrito alto con Max y sus amigos; participa en la comida, el brindis y las bromas posteriores a la audiencia. Rango oficial A (DELTA-RP-001).
