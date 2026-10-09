@@ -1,5 +1,13 @@
 # Aria
 
+> **Estado narrativo:** 5 de Floris, Año 3. Undine ancestral y partner independiente de Max; participa en el enlace de la operación Marcos y puede exigir retirada. Nunca es una herramienta de Sawardo.
+
+## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+
+- Mantiene comunicación disciplinada con Max y Yuki durante la operación, sin sustituir las decisiones de ninguno.
+- Protege consentimiento, límites de Sawardo y el carácter comunitario de Pequeño Zhong-Kyo.
+- La causa de su marca antigua, los límites finales de su manifestación y toda solución respecto a Mizuki siguen abiertos.
+
 ## ADENDA — ENLACE OPERATIVO Y FRENO ÉTICO, 1–4 DE FLORIS
 
 - Participa en la prueba G1 sin reducirse a batería o mensajera: cuestiona riesgos, interpreta la anomalía y exige límites.
@@ -33,7 +41,7 @@ Aria es una Undine ancestral y una persona independiente. `Undine` describe su n
 
 ## APARIENCIA
 
-La manifestación inicial mostrada es humanoide, de agua cristalina, aproximadamente de cinco pies, con dos luces azul pálido como ojos y patrones negros en su cuerpo acuoso (PDF, p. 28). Su apariencia definitiva requiere revisar su evolución.
+La manifestación inicial mostrada es humanoide, de agua cristalina, aproximadamente de cinco pies, con dos luces azul pálido como ojos y patrones negros en su cuerpo acuoso (fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`). Su apariencia definitiva requiere revisar su evolución.
 
 ## PERSONALIDAD
 
@@ -41,9 +49,9 @@ En la aparición temprana es formal, analítica, protectora y muy orientada al s
 
 ## FORMA DE HABLAR
 
-Inicialmente usa formulaciones técnicas, respuestas binarias y tratamiento «Master/Bearer»; explica hipótesis de manera ordenada y expresa cautela ante riesgos (PDF, pp. 27-32, 54-100). Debe verificarse cuándo adopta nombre y voz más personales.
+Inicialmente usa formulaciones técnicas, respuestas binarias y tratamiento «Master/Bearer»; explica hipótesis de manera ordenada y expresa cautela ante riesgos (fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`). Debe verificarse cuándo adopta nombre y voz más personales.
 
-Desde p. 143 alterna «Contractor» con tratamientos previos, otra variación que requiere seguimiento.
+En el tramo inicial alterna «Contractor» con tratamientos previos, otra variación que requiere seguimiento.
 
 ## MOTIVACIONES
 
@@ -55,16 +63,16 @@ Undine ancestral y asesora/partner por elección actual. No es clase, habilidad 
 
 ## HABILIDADES
 
-- Manipulación ofensiva y defensiva de agua: escudo, proyectiles de alta presión y lluvia localizada (PDF, pp. 29-30, 66).
-- Manifestación y compresión de forma; viaje sin agua inmediata, aunque se recomienda proximidad (PDF, pp. 32-36).
-- Detección aproximada de 200 m cuando hay fuentes de agua (afirmación propia, p. 32).
-- Se mueve durante la detención total de Sawardo; la causa exacta no está establecida de forma fiable (PDF, pp. 55-60).
-- Crea señuelos acuáticos, elimina olores y rastros, forma plataformas de agua y vigila energía temporal (PDF, pp. 143-200).
-- `CANON_CONFIRMADO`: realiza escaneo amplio en la meseta, se desplaza a través de roca, crea ataques acuáticos de gran alcance y arrastra cuerpos a una cavidad subterránea (PDF, pp. 278-285). Son poderes de Aria, no de Max.
+- Manipulación ofensiva y defensiva de agua: escudo, proyectiles de alta presión y lluvia localizada (fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
+- Manifestación y compresión de forma; viaje sin agua inmediata, aunque se recomienda proximidad (misma fuente primaria).
+- Detección aproximada de 200 m cuando hay fuentes de agua (afirmación propia en la misma fuente).
+- Se mueve durante la detención total de Sawardo; la causa exacta no está establecida de forma fiable (misma fuente primaria).
+- Crea señuelos acuáticos, elimina olores y rastros, forma plataformas de agua y vigila energía temporal (misma fuente primaria).
+- `CANON_CONFIRMADO`: realiza escaneo amplio en la meseta, se desplaza a través de roca, crea ataques acuáticos de gran alcance y arrastra cuerpos a una cavidad subterránea (misma fuente primaria). Son poderes de Aria, no de Max.
 
 ## RANGO
 
-Jasmine estima B o superior tras una demostración; es evaluación, no registro oficial (PDF, p. 30).
+Jasmine estima B o superior tras una demostración; es evaluación, no registro oficial (fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
 ## RELACIONES
 
@@ -78,46 +86,48 @@ Observa las pruebas de Sawardo y formula teorías. Sus afirmaciones sobre alcanc
 
 Origen anterior a la piedra y siglos de experiencia: afirmados de manera general, aún sin corroboración narrativa suficiente.
 
-## EVOLUCIÓN
+## CRONOLOGÍA CANÓNICA
+
+### Año 1 — identidad, Sawardo y elección de ser partner
 
 Continúa actuando con lenguaje técnico y táctico. Sigue pendiente localizar cuándo adopta o revela el nombre Aria y una voz más personal.
 
-Entre pp. 301-320 guía la ruta con una senda acuática luminosa y formula análisis sobre Sawardo, espíritus, inventario y carne de wyvern. La senda es una aplicación propia demostrada; expresiones como «editar la línea temporal», detección de cuatro campamentos, transmisión a un mapa mental y efectos biológicos de la carne siguen siendo afirmaciones o hipótesis, no autoridad canónica automática. Su voz permanece impersonal y protocolaria, sin revelar todavía el nombre Aria.
+En la extracción inicial guía la ruta con una senda acuática luminosa y formula análisis sobre Sawardo, espíritus, inventario y carne de wyvern. La senda es una aplicación propia demostrada; expresiones como «editar la línea temporal», detección de cuatro campamentos, transmisión a un mapa mental y efectos biológicos de la carne siguen siendo afirmaciones o hipótesis, no autoridad canónica automática. Su voz permanece impersonal y protocolaria, sin revelar todavía el nombre Aria.
 
-En pp. 458-460 la narración la llama primero Sawardo; el autor corrige inmediatamente que Sawardo es la habilidad y se dirige a ella como Undine. La intervención conservada cuestiona con calma la despedida y valora los vínculos de Max. Esto añade preocupación relacional a su voz todavía formal, pero aún no aparece el nombre Aria dentro de la historia fuente.
+En el tramo posterior la narración la llama primero Sawardo; el autor corrige inmediatamente que Sawardo es la habilidad y se dirige a ella como Undine. La intervención conservada cuestiona con calma la despedida y valora los vínculos de Max. Esto añade preocupación relacional a su voz todavía formal, pero aún no aparece el nombre Aria dentro de la historia fuente.
 
-Permanece con Max durante la pausa y se comunica telepáticamente. Teoriza sobre aceleración/deceleración sin prueba y después acepta que él descanse. En conversación romántica adopta un tono más juguetón y afirma que Misa y Amane sienten amor; esa lectura es `INFERENCIA_DE_ARIA`, no confirmación objetiva de ellas (PDF, pp. 489-499).
+Permanece con Max durante la pausa y se comunica telepáticamente. Teoriza sobre aceleración/deceleración sin prueba y después acepta que él descanse. En conversación romántica adopta un tono más juguetón y afirma que Misa y Amane sienten amor; esa lectura es `INFERENCIA_DE_ARIA`, no confirmación objetiva de ellas (fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
-En la torre escucha sin intentar resolver el duelo de Max, admite que no puede devolverlo a su mundo y lo invita a describir una comida perdida. Su voz se vuelve más pausada, íntima y honesta; conserva límites claros sobre lo que no puede hacer (PDF, pp. 577-580).
+En la torre escucha sin intentar resolver el duelo de Max, admite que no puede devolverlo a su mundo y lo invita a describir una comida perdida. Su voz se vuelve más pausada, íntima y honesta; conserva límites claros sobre lo que no puede hacer (fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
 ## REVELACIÓN DEL NOMBRE
 
-- Explica que `Undine` es su especie/clasificación y que su nombre es **Aria** (pp. 588-590).
-- Afirma haber vivido en ríos profundos de un mundo desaparecido y haber pasado más de ochocientos años ligada al servicio del System, guiando sucesivas almas reencarnadas (pp. 589-595). Es testimonio personal, pero su lectura como mera «función» no anula la corrección autoral: siempre es una persona independiente en dignidad y agencia.
-- Max decide no volver a llamarla Undine y la reconoce primero como amiga y luego partner. Aria acepta el término (pp. 586-598).
-- Tras esa declaración logra una manifestación parcial humanoide por un instante: figura translúcida, cabello acuático largo, ojos como pozas profundas y mano casi sólida (pp. 596-598). Causa exacta `DESCONOCIDA`; su hipótesis es un cambio en el vínculo.
+- Explica que `Undine` es su especie/clasificación y que su nombre es **Aria** (fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
+- Afirma haber vivido en ríos profundos de un mundo desaparecido y haber pasado más de ochocientos años ligada al servicio del System, guiando sucesivas almas reencarnadas. Es testimonio personal, pero su lectura como mera «función» no anula la corrección autoral: siempre es una persona independiente en dignidad y agencia.
+- Max decide no volver a llamarla Undine y la reconoce primero como amiga y luego partner. Aria acepta el término.
+- Tras esa declaración logra una manifestación parcial humanoide por un instante: figura translúcida, cabello acuático largo, ojos como pozas profundas y mano casi sólida. Causa exacta `DESCONOCIDA`; su hipótesis es un cambio en el vínculo.
 
 ## FORMA DE HABLAR — EVOLUCIÓN
 
-Desde la revelación usa más humor propio, preferencias y amenazas juguetonas; llama «engineer» a Max y puede expresar vulnerabilidad/alegría. Mantiene reflexión antigua y metáforas acuáticas. Esto reemplaza la idea de una voz eternamente protocolaria, sin borrar su etapa inicial (pp. 589-599).
+Desde la revelación usa más humor propio, preferencias y amenazas juguetonas; llama «engineer» a Max y puede expresar vulnerabilidad/alegría. Mantiene reflexión antigua y metáforas acuáticas. Esto reemplaza la idea de una voz eternamente protocolaria, sin borrar su etapa inicial.
 
-En el balcón puede mantener contacto casi físico con Max y afirma que permanecer a su lado ya se siente como elección. Disfruta participar en las conexiones del grupo. Las frases posteriores que la reducen a herramienta/programa de `Infinite Treasury` contradicen tanto la corrección fundacional como su revelación anterior y se excluyen; se conserva su elección y vivencia personal (PDF, pp. 732-738).
+En el balcón puede mantener contacto casi físico con Max y afirma que permanecer a su lado ya se siente como elección. Disfruta participar en las conexiones del grupo. Las frases posteriores que la reducen a herramienta/programa de `Infinite Treasury` contradicen tanto la corrección fundacional como su revelación anterior y se excluyen; se conserva su elección y vivencia personal (fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
 Explica que comprar la finca habría transferido nombre y título Velthris a Max. Es conocimiento jurídico declarado por Aria, pero el contrato de compra visto antes no mostró esa cláusula; queda pendiente de corroboración (`CONTR-100`).
 
-Max le atribuye capacidad trivial para producir vapor por ser espíritu de agua; Aria confirma que puede generar niebla/vapor teatral. Aún es un plan, no una ejecución observada. Durante el Sawardo multiusuario permanece activa y explica el montaje al equipo (PDF, pp. 767-780).
+Max le atribuye capacidad trivial para producir vapor por ser espíritu de agua; Aria confirma que puede generar niebla/vapor teatral. Aún es un plan, no una ejecución observada. Durante el Sawardo multiusuario permanece activa y explica el montaje al equipo (misma fuente primaria).
 
-Ejecuta públicamente una niebla luminosa coordinada con la liberación de Sawardo. Después se vuelve visible para todos y porta físicamente un plato hacia el observador, ampliando su manifestación desde contacto casi sólido a interacción material sostenida. Su desaparición/reaparición y diagnóstico exacto de Cassian se narran, pero método y certeza de leer «notas mentales» quedan `NO_CONFIRMADOS` (PDF, pp. 789-800).
+Ejecuta públicamente una niebla luminosa coordinada con la liberación de Sawardo. Después se vuelve visible para todos y porta físicamente un plato hacia el observador, ampliando su manifestación desde contacto casi sólido a interacción material sostenida. Su desaparición/reaparición y diagnóstico exacto de Cassian se narran, pero método y certeza de leer «notas mentales» quedan `NO_CONFIRMADOS` (misma fuente primaria).
 
-Observa y guía las primeras pruebas de rewind/fast-forward, recomienda límites y reconoce agotamiento. Sus proyecciones sobre curación, resurrección y reparación amplia siguen hipótesis. Permanece activa dentro de Sawardo y vigila mientras Max duerme cinco horas subjetivas (PDF, pp. 881-889).
+Observa y guía las primeras pruebas de rewind/fast-forward, recomienda límites y reconoce agotamiento. Sus proyecciones sobre curación, resurrección y reparación amplia siguen hipótesis. Permanece activa dentro de Sawardo y vigila mientras Max duerme cinco horas subjetivas (misma fuente primaria).
 
-## ÚLTIMO ESTADO CONOCIDO
+## ESTADO HISTÓRICO — cierre de DELTA-RP-001
 
 Acompaña a Max y sus amigos en el salón privado de una taberna del distrito alto de Aldoria. Participó en el brindis y comparó el respeto de Aldric por la libertad con sistemas que disfrazan órdenes de elecciones. Permanece como partner independiente (DELTA-RP-001).
 
 ## FUENTES
 
-Corrección autoral; PDF, pp. 26-100.
+Corrección autoral; fuente primaria inicial: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`.
 
 
 ---
