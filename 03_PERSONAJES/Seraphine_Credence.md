@@ -1,22 +1,24 @@
 # Lady Seraphine Credence — Ficha Canónica Completa
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Lady Seraphine Credence es matriarca de House Credence y figura de la nobleza comercial. Calculadora, implacable y protectora de privilegios textiles, fiscales y urbanos, es adversaria política de intereses independientes; los antecedentes que figuran como extensión pendiente no se elevan a fuente primaria sin cruce.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Su frente vigente es observar la cultura y redes comerciales que alteran incentivos en Aldoria. No se la vuelve aliada por haber reído o aprendido de *Austin Powers*.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- Año 2: recibe el programa de *Austin Powers*, organiza observadores y registra cómo la comedia altera reputaciones e incentivos.
+- Aprende del contraste entre Milo, Vesper, Isola y Varel sin abandonar su cálculo político.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Edmund Veinhardt y House Marlowe: vínculos tácticos de presión política documentados en esta ficha, con procedencia que debe respetarse.
+- Max, Tobias y Elise: frente económico y cultural adversarial; ningún desenlace está cerrado.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Usar observación e incentivos contra lo que percibe como amenaza a sus monopolios; cualquier acción debe aparecer en fuente y no se declara ya ejecutada.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+Autoridad final: `00_FUENTES/historia_original/`; conservar marcadores `EXTENSION_DEL_MUNDO_PENDIENTE_DE_CRUCE` de los hechos aún derivados.
 
 > **«El comercio de Aldoria no es una feria de caridad. Cada arancel, cada telar y cada vara de tela tienen dueño en esta ciudad, y nadie va a romper nuestros monopolios.»**  
 > — Lady Seraphine Credence defendiendo sus privilegios comerciales

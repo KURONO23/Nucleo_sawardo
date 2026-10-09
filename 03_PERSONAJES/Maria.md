@@ -1,25 +1,28 @@
 # Maria y Martha — Fichas Canónicas del Gremio y la Taberna
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Esta ficha reúne dos trabajadoras distintas sin confundirlas: Maria, jefa de recepción del Gremio de Thornhaven, y Martha, tabernera de The Silver Flagon. Maria sostiene protocolo, confidencialidad y circulación documental; Martha sostiene un refugio cotidiano para aventureros y mercaderes.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Maria continúa vinculada a la recepción del Gremio y Martha a la barra del Silver Flagon. No hay escena individual posterior que permita adjudicarles hechos nuevos.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- Maria procesa Blackpeak, certificados de wyvern y protocolos de reevaluación S con Kira, guardando confidencialidad.
+- Martha recibe a Max, conoce sus preferencias y reserva un lugar discreto para conversaciones no públicas.
+- La documentación de distribución confirma trabajo de lectura, ajuste y sellado que sostiene circulación legal de obras.
 
 ## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+La llegada de hechos extraordinarios no elimina el trabajo de base: Maria vuelve legible el reconocimiento institucional y Martha protege una normalidad donde los aventureros pueden descansar. Su impacto es cotidiano y no necesita aventuras inventadas.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Maria y Kira: cadena administrativa del Gremio.
+- Martha, Max, Aria, Biro y Jasmine: hospitalidad conocida, no parentesco ni acceso a secretos.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Maria puede mejorar trazabilidad de recepción y Martha preservar un espacio seguro de descanso; ninguna tarea se da por realizada sin escena.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+La fuente primaria de `00_FUENTES/historia_original/` tiene prioridad sobre cualquier expansión.
 
 ---
 

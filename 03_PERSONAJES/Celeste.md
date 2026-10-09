@@ -1,22 +1,25 @@
 # Celeste — Ficha Canónica Completa
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Celeste es coordinadora social sénior y anfitriona principal de Velvet Rose. Perspicaz, franca y hábil para leer motivaciones, conecta comerciantes sin hablar por ellos ni convertir su salón en apéndice de una casa poderosa.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Su estado vigente es conservar Velvet Rose como espacio social independiente y de observación; no hay escena posterior que permita fijar un proyecto nuevo.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- Año 1: actúa como nodo de enlace entre Max y los círculos mercantiles de Thornhaven.
+- Corrige sus prejuicios iniciales sobre mujeres de negocios y establece que interés comercial legítimo no invalida autenticidad personal.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Natalia, Vivienne y Elise: facilita conversaciones sin representar sus intereses.
+- Max: respeto y curiosidad mutua tras su corrección social; no romance confirmado.
+- Velvet Rose: deber profesional hacia invitadas, artistas y comerciantes.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Sostener Velvet Rose como espacio de encuentro y criterio social mientras la cultura de Thornhaven crece. No se inventa recepción ni decisión comercial nueva.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+La fuente primaria y [[MICROINTERACCIONES_PERSONAJES_A_I]] prevalecen.
 
 ## ADDENDUM — MICROINTERACCIONES Y CORRECCIÓN SOCIAL
 

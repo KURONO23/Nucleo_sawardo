@@ -1,16 +1,19 @@
 # Misa
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Misa es sanadora S de Los Ventura, compasiva, serena en crisis y valiente al proteger a otros. Estudia restauración, herbología y compuestos; su compasión no equivale a prometer curas que aún no ha demostrado.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
 No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Los Ventura: apoyo médico y pegamento emocional del equipo.
+- Jasmine: coordinación en seguridad y atención de personas rescatadas.
+- Torin y Amane: vínculos de trabajo y cuidado comunitario.
+- Max: apoyo y confianza sin romance confirmado ni revelación de su origen terrestre.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+La fuente de `00_FUENTES/historia_original/` prevalece; las simulaciones de Sawardo no demuestran curación real avanzada o resurrección.
 
 > **Estado narrativo:** 5 de Floris, Año 3. Sanadora S de Los Ventura; desarrolla un protocolo de atención de campo sin prometer curaciones que todavía no ha demostrado.
 

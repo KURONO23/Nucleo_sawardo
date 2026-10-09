@@ -1,22 +1,25 @@
 # SELENE VEYR
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Selene Veyr es noble y espía dravenniana, de presencia elegante y gótica, antigua asociada de Varnek y agente autónoma. Observa máscaras, continuidad y detalles antes de aceptar una explicación cómoda.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Tras el viaje de incógnito a Aldoria distingue a Nilo, actor de Austin, del espía real y guarda su deducción de Max/Austin sin pruebas públicas. El secreto afectivo de Dravenn permanece estrictamente privado; no se divulga a terceros.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- Dravenn: conoce a Austin/Jesse y preserva un vínculo afectivo secreto.
+- Ventisca–Noctalia, Año 2: viaja a Aldoria, presencia la función del 25, recibe sombrero y tarjeta, compara a Nilo con el espía y confronta a Max sin exposición pública.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Max/Austin: deducción privada y afecto secreto, sin confirmación pública ni derecho a revelar su identidad.
+- Astrid y Dravenn: marco político de su labor, sin adjudicarle una alianza nueva.
+- Vesper Noir: personaje teatral ficticio, no Selene.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Seguir investigando con discreción y decidir qué hace con una verdad que no puede probar sin poner a otros en riesgo. No existe nuevo estreno, encuentro o revelación confirmados.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+La fuente primaria de `00_FUENTES/historia_original/` y las restricciones expresas de secreto de esta ficha prevalecen.
 
 ## Identidad
 - Noble/espía de Dravenn.
