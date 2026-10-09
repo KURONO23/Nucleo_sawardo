@@ -1,16 +1,20 @@
 # Max38
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Max Josemar Gutiérrez tiene 39 años cronológicos, fue ingeniero terrestre y es aventurero rogue/espadachín de rango S. Sawardo es su habilidad, no una persona. El jugador conserva control exclusivo de sus decisiones, pensamientos, acciones y sentimientos; ninguna ficha puede decidir por él.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Aria: partner independiente, asesora y freno ético.
+- Serath: comparte el desayuno vigente y una confianza construida; no se asigna romance no confirmado.
+- Yuki: dirige estratégicamente su frente de operación Marcos; Max respeta esa autoridad.
+- Biro, Goran, Haruto, Kenji y Ryu: personas influidas por él pero con agencia y rutas propias.
+- Mizuki y Pequeño Zhong-Kyo: relación condicionada por consentimiento y reparación, sin absolución automática.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Seguir la operación Marcos sin sustituir a Yuki, completar el examen de la pista Veylan/Averne y sostener límites de consentimiento. Estos frentes siguen abiertos y el jugador elige toda decisión de Max.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+La fuente primaria en `00_FUENTES/historia_original/` es autoridad final; consultar además [[CURRENT_STATE_5_FLORIS_AÑO3]], [[FINANZAS_CANON_VIGENTE]] y [[PLOT_THREADS]]. Las correcciones autorales prevalecen.
 
 > **Estado narrativo:** 5 de Floris, Año 3. Max Josemar Gutiérrez, 39 años, actúa bajo la cobertura Marcos; el jugador conserva control exclusivo de sus decisiones, pensamientos y sentimientos.
 

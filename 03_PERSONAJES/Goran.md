@@ -1,16 +1,20 @@
 # Goran
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Goran es director escénico, dramaturgo, editor, empresario de la Compañía Teatral Goran y miembro de los Cinco del Barril. Su identidad nace como estudiante que transcribe historias oídas y madura en alguien que organiza, protege al elenco y forma autores sin apropiarse de sus voces.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Max: narrador inicial, colaborador cultural y apoyo material que no reemplaza la autoría de Goran.
+- Jasmine: revisa tempranamente los textos y presencia el origen oral de *Juego de Tronos*.
+- Nilo: cómplice de la sorpresa de cumpleaños y actor dirigido por él.
+- Biro: autor al que asesora en ritmo y estructura sin coescribir su obra.
+- Elenco de la compañía: responsabilidad de producción, turnos y salud laboral.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Sostener una compañía que cree obra aldoriana y evaluar cine o una comedia de convivencia cuando existan medios y texto. La película y la comedia siguen siendo aspiraciones, no producciones realizadas.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+La autoridad final es `00_FUENTES/historia_original/`; véanse también [[PUNTO_DE_GIRO_TORRE_Y_NODOS]] y [[MICROINTERACCIONES_PERSONAJES_A_I]]. Las correcciones autorales prevalecen.
 
 > **Estado narrativo:** 5 de Floris, Año 3. Director de compañía, editor y miembro de los Cinco del Barril. Asesora a Biro, mientras la obra de éste y la comedia de convivencia siguen `PENDIENTES`.
 

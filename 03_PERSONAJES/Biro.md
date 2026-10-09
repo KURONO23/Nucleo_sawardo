@@ -1,13 +1,16 @@
 # Biro
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Biro es aventurero, tanque oficial A de Los Ventura, miembro de los Cinco del Barril y autor en aprendizaje. Es corpulento, frontal, leal y cálido: el humor no le quita criterio cuando debe proteger o cuidar logística. Su voz sigue diciendo lo que piensa y dejando a los demás con un «¿qué?», ahora también al servicio de una obra propia.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Los Ventura: familia elegida, a la que protege como tanque y compañero práctico.
+- Max: mejor amigo y quien reconoce su autoría sin escribir por él.
+- Goran: mentor de estructura teatral, no coautor de *La tragedia del último barril*.
+- Darian y Haruto: compañeros del núcleo creativo; Ryu y Kenji reciben de él entrenamiento, humor y bienvenida familiar.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+La autoridad final es `00_FUENTES/historia_original/`, complementada por [[MICROINTERACCIONES_PERSONAJES_A_I]] y los puntos de inflexión ya preservados en esta ficha. Las correcciones autorales prevalecen.
 
 > **Estado narrativo:** 5 de Floris, Año 3. Tanque oficial A de Los Ventura, miembro de los Cinco del Barril y autor en desarrollo de *La tragedia del último barril*. Su estreno sigue `PENDIENTE`.
 

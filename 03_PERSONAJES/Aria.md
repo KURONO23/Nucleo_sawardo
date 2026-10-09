@@ -1,16 +1,19 @@
 # Aria
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Aria es una Undine ancestral de más de ochocientos años y persona independiente; `Undine` nombra su naturaleza, no sustituye su nombre. Es partner y asesora de Max por elección, con poderes propios de agua, criterio técnico y límites éticos. Nunca es interfaz, batería, mascota ni herramienta de Sawardo.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Max: partner y amiga; sostiene la autonomía mutua y puede exigir retirada.
+- Yuki: enlace disciplinado durante la operación Marcos, sin sustituir su dirección estratégica.
+- Mizuki y Pequeño Zhong-Kyo: protege consentimiento, límites comunitarios y el derecho a no ser objeto de estudio.
+- Serath, Natalia, Elise y Vivienne: complicidad social confirmada en la Operación «Somos Pobres», sin adjudicar romances.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Seguir definiendo su voz, límites de manifestación y criterio ante las anomalías de Sawardo/G1 sin ceder su agencia. La investigación de Mizuki y el origen de su marca siguen abiertos; no se inventa una solución.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+La fuente primaria de `00_FUENTES/historia_original/` prevalece, junto con [[MICROINTERACCIONES_PERSONAJES_A_I]] y [[PUNTO_DE_GIRO_TORRE_Y_NODOS]]. Las correcciones autorales prevalecen.
 
 > **Estado narrativo:** 5 de Floris, Año 3. Undine ancestral y partner independiente de Max; participa en el enlace de la operación Marcos y puede exigir retirada. Nunca es una herramienta de Sawardo.
 
