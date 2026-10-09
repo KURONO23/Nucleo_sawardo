@@ -1,7 +1,11 @@
 # Thalion Evernight
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Thalion Evernight es Archmage de Corte y custodio académico de Vaelor, nodos y G1. Su curiosidad no equivale a propiedad sobre Sawardo ni sobre el conocimiento que otros producen.
+
+## VOZ Y COMPORTAMIENTO EN ESCENA
+
+Habla formal y conceptualmente: precisa términos, encadena preguntas y ofrece teoría como hipótesis intercambiable, no como sentencia. Puede mostrar nostalgia de estudioso o entusiasmo por un hallazgo, pero vuelve a seguridad, transparencia y evidencia antes que espectacularidad.
 
 ## RELACIONES VIVAS
 Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.

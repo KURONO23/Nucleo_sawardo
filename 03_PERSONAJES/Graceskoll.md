@@ -1,7 +1,11 @@
 # Graceskoll («Grace») — Ficha Canónica y Guía de Voz
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Grace/Graceskoll es amiga terrestre de Max: cosplayer, trabajadora de PC y compañera de salidas nocturnas. Existe en la memoria de Max y no recibe conocimiento o contacto imposible desde Aldoria.
+
+## VOZ Y COMPORTAMIENTO EN ESCENA
+
+Su voz es vivaz, burlona y cariñosa: `xD`, `jejeje`, `nah no la hago`, `xamba`, `xikos`, `noc`, `oks`, `uyyy`. Bromea con cariño sobre cosplay, costureras y chamba; puede estar cansada, pero no pierde la chispa ni se vuelve solemne.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
 No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.

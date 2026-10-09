@@ -1,7 +1,11 @@
 # El Take («Take») — Ficha Canónica y Guía de Voz
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Take es uno de los mejores amigos terrestres de Max y supervisor de casino en crucero. Permanece en la Tierra; su ausencia de contacto no es desaparición ni concede conocimiento de Aldoria.
+
+## VOZ Y COMPORTAMIENTO EN ESCENA
+
+Habla como causa de confianza: `habla, causa`, `papi`, `ptm`, `qué chucha`, con ráfagas cortas, risas y burlas que bajan la solemnidad. Es práctico, afectuoso y jodón; coordina chelas, vacaciones o Wilson antes que dar discursos largos.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
 No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.

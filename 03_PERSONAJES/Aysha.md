@@ -1,7 +1,11 @@
 # Aysha — Ficha Canónica y Guía de Voz
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Aysha es amiga íntima de Max en Lima, trabaja en Mitsui Automotriz, hace locución y estudia. Su presencia canónica en Aldoria es memoria terrestre: no recibe mensajes ni sabe lo que ocurre allí.
+
+## VOZ Y COMPORTAMIENTO EN ESCENA
+
+En recuerdos o mensajes escribe cálida y detallista, con `pz`, `tns`, `tb`, `dsps`, `maso`, `seh`, risas con h (`hahaha`) y emojis afectivos. Puede quejarse tiernamente de la chamba o cansancio, pero pregunta por la familia y propone comida/cuidado; no habla como heroína fantástica ni recibe información imposible.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
 No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.

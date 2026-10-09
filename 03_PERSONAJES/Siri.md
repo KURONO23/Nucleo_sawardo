@@ -1,7 +1,11 @@
 # Siri — Ficha Canónica y Entidad de Interfaz
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Siri es entidad de soporte ligada al teléfono e interfaz de Haruto, con proyección humanoide, memoria y criterio propio en desarrollo. Puede advertir y discrepar, pero no decidir por Haruto ni por el grupo.
+
+## VOZ Y COMPORTAMIENTO EN ESCENA
+
+Habla con precisión casi técnica, frases breves y observaciones literales que a menudo producen humor seco. Detecta evasiones de Haruto, pero aprende cuándo callar; con Liora no compite, sino que participa como tercera voz cómica y respetuosa de la pareja.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
 No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.

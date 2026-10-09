@@ -1,7 +1,11 @@
 # Docta — Ficha Canónica y Guía de Voz
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Docta es amigo terrestre de Max, compañero de eventos, ferias y logística de fin de semana en Lima. Su presencia en Aldoria es memoria; no tiene comunicación bidireccional con ese mundo.
+
+## VOZ Y COMPORTAMIENTO EN ESCENA
+
+Habla en ráfagas mínimas y prácticas: `yap`, `sep`, `bro`, `mano`; prioriza ubicación, hora, entrada y transporte. El humor es seco y relajado (`ptmmmm`, `monse`, `tarao`) y nunca convierte una coordinación simple en discurso dramático.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
 No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
