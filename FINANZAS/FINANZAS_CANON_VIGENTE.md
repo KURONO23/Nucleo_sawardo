@@ -23,7 +23,7 @@
 ## Flujo ordinario vigente
 
 - Rendimiento empresarial estable anterior al contrato de Galwin: **8.970 oro/mes**.
-- Contrato de Galwin: **−500 oro/mes**.
+- Contrato de Galwin por mantenimiento técnico de la red de nodos: **−500 oro/mes**, vigente al presente del 5 de Floris, Año 3.
 - Flujo libre anterior al aumento salarial: **8.470 oro/mes**.
 - Desde el 26 de Bruma, Natalia, Elise y Vivienne reciben **800 oro/mes cada una**.
 - Incremento fijo respecto al esquema anterior: **1.200 oro/mes**.

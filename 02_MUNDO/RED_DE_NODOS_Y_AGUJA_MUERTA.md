@@ -37,6 +37,7 @@ El proyecto fue formalizado en persona ante el **Rey Aldric Theron** con tareas 
 
 ### C. Ingeniería, Mantenimiento y Prototipos
 - **Maestro Galwin Gearwright:** Responsable técnico de ingeniería, desarrollo de prototipos y mantenimiento de los sistemas de la red (para no depender exclusivamente de la magia temporal de Reversi). Diseña el primer prototipo de comunicación de texto. Conserva su contrato de 500 oro/mes con House Gutiérrez más fondos de la Corona.
+  - **Movilidad técnica autorizada:** puede desplazarse entre los nodos habilitados y el taller de mantenimiento para inspección, reparación, calibración y transporte de herramientas. Este permiso pertenece a su función técnica y no equivale a acceso público ni a autoridad para abrir o gobernar la red.
 
 ### D. Equipo Técnico de Campo e Investigación
 - **Daichi:** Jefe de trabajo de campo, topografía de estructuras, análisis de riesgos y exploración táctica de ruinas.

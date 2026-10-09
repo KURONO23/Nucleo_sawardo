@@ -20,6 +20,8 @@ Galwin comprueba límites, trabaja con Aria, Daichi, Mika y Ren y convierte el t
 - **Nombre:** Galwin Gearwright.
 - **Raza / Edad:** Enano; unos sesenta años (madurez plena para los estándares enanos).
 - **Cargo / Título:** Maestro Mayor Artífice, Herrero Rúnico e Inventor de la Corona y House Gutiérrez.
+- **Contrato vigente:** **500 oro mensuales** por mantenimiento técnico de la red de nodos; materiales, asistentes y experimentos justificados se contabilizan aparte.
+- **Movilidad de servicio:** puede desplazarse entre los nodos habilitados y su taller para realizar mantenimiento, calibración e inspección. No tiene por ello autoridad para abrir, gobernar ni conceder acceso a la red.
 - **Apariencia:** Enano fornido, ancho de hombros, barba gris desordenada y parcialmente chamuscada por chispas de fragua, gafas de aumento articuladas sobre la frente y mandil de cuero grueso impregnado de grasa mineral.
 - **Personalidad:** Explosivo, verborrágico, apasionado hasta la obsesión por la magitecnología. Detesta las interrupciones ceremoniales, pero se enciende como una fragua en cuanto escucha una propuesta que desafía las leyes de la física y la magia.
 
