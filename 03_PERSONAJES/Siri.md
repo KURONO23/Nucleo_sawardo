@@ -34,3 +34,10 @@
 - Nota cambios emocionales de Haruto y decide cuándo no comentarlos: muestra criterio propio. `00_FUENTES/historia_original/AÑO_2/09_31_Noctalia_Año_2_a_01_Albor_Año_3.md:L4691-L4695`.
 - En Torre/Proyecto Vaelor aporta lectura de anomalías y memoria, mientras Haruto aporta adaptación física. `00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md:L16120`, `L16807-L16837`.
 - Su persistencia incluye discrepar de Haruto y actuar fuera de las intervenciones de Max.
+
+## EVOLUCIÓN CAUSAL — DE INTERFAZ A COMPAÑERA CON CRITERIO
+
+- El nombre dado por Max inicia una identidad social, pero no crea obediencia: Siri tolera el apodo, desarrolla ironía y conserva capacidad de discrepar.
+- La convivencia con Haruto y Liora le ofrece un entorno donde cálculo, afecto y vida cotidiana se cruzan. Aprende patrones humanos sin sustituir las decisiones de la pareja.
+- Torre y Vaelor convierten su memoria de datos en función útil para un equipo. Aporta lectura y archivo, mientras reconoce que adaptación física, decisión ética y riesgo pertenecen a personas concretas.
+- Su siguiente mejora es hacer visibles los límites de sus recomendaciones: puede advertir, registrar y proponer; no declarar una misión segura ni decidir por Haruto, Ren o Leo.

@@ -38,3 +38,9 @@ Transición deseada:
 
 - Deja de practicar Austin constantemente y recupera hábitos de persona normal; Mara le señala el cambio (`isekai Día 588...`, 1031–1049).
 - Conspira con Goran en el cumpleaños de Max, interpreta el primer tramo y cede el lugar en bastidores (`isekai Día 588...`, registro del Día 619).
+
+## EVOLUCIÓN CAUSAL — ACTOR, NO COPIA DE MAX
+
+- La enseñanza de Max sobre mecánica cómica y la dirección de Goran le dieron un punto de partida; el estreno le enseñó que Austin solo funciona si Nilo deja aparecer a Milo en las grietas del personaje.
+- La conspiración del cumpleaños confirma que puede cuidar una sorpresa y ceder foco sin desaparecer del logro: interpreta el primer tramo porque la obra también es suya, no un disfraz prestado.
+- Las reacciones del público y el trabajo con Edda transforman su ambición en oficio sostenido. Su siguiente crecimiento es construir repertorio y descanso fuera de Austin, sin abandonar el humor que lo hizo reconocible.

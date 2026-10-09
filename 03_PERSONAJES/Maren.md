@@ -16,6 +16,12 @@
 
 - **El Gran Banquete de la Finca:** Tanto Oskar como Maren fueron contratados por Max para apoyar en la preparación de los grandes banquetes populares de House Gutiérrez.
 - **El Intercambio de Técnicas:** Max les enseñó técnicas de cocina criolla y marina (como el sellado rápido de carnes, frituras crujientes y bases de aderezo). Maren aportó su experiencia en el tratamiento del pescado fresco de Tornhaven, mientras Oskar coordinó los hornos pesados para alimentar a cientos de personas.
+
+## EVOLUCIÓN CAUSAL — TRADUCIR NOVEDAD EN OFICIO COSTERO
+
+- La invitación al banquete no la vuelve ayudante de una receta extranjera: su manejo de pescado y suministros de Tornhaven da a las técnicas nuevas una base que Aldoria puede repetir.
+- Trabajar con Oskar demuestra que una cocina popular necesita cadena de frío, limpieza, hornos y ritmo, además de una idea llamativa. Esa lección la vuelve interlocutora técnica, no simple ejecutora.
+- Su meta es que los platos lleguen a mesas de puerto con ingredientes locales y márgenes honestos. Puede modificar un método de Max si el producto local, la temporada o la seguridad lo exigen.
 - Ambos son el puente gastronómico popular que precedió a la posterior consagración de **La Bruma Azul** en Tornhaven.
 
 ## ADDENDUM — CIERRE DE MICROINTERACCIONES

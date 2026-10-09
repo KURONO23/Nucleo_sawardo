@@ -25,3 +25,9 @@ Cuando Max compró la finca abandonada de Dorian Velthris para fundar **Gutiérr
 - Max sorprendió a Dorren desde el primer día: no solo le pagó salarios muy por encima del promedio del reino, sino que exigió que sus hombres tuvieran comida abundante (papas fritas, carne asada y cerveza fresca) durante las jornadas.
 - Dorren dirigió la remodelación completa: reforzó muros maestros, amplió los establos, construyó la herrería para Galwin y diseñó las defensas perimetrales que luego protegerían la propiedad.
 - Defendió a Max ante las amenazas de Veinhardt, asegurando que jamás había trabajado para un señor más generoso y respetuoso de los artesanos.
+
+## EVOLUCIÓN CAUSAL — CONSTRUCTOR CON VOZ PROPIA
+
+- El trato justo en la finca prueba para Dorren que un cliente poderoso puede respetar salario, comida y seguridad. Por eso su defensa frente a Veinhardt nace de experiencia laboral, no de servilismo.
+- La presión nobiliaria le enseña que su cuadrilla también necesita condiciones claras y solidaridad entre oficios. Su trabajo deja de ser solo levantar piedra: incluye proteger a quienes dependen de sus jornadas.
+- La convivencia con Galwin abre una colaboración entre piedra, metal e infraestructura. Dorren puede evaluar qué parte de una innovación cabe realmente en una obra, sin aceptar planos imposibles por entusiasmo ajeno.

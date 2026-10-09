@@ -64,3 +64,9 @@ Todo esto sigue como posibilidad, no hecho.
 - No acepta la obra como comedia simple: compara identidad, máscara y continuidad de Vesper. `00_FUENTES/historia_original/AÑO_2/07_25_Ambar_a_10_Noctalia_Año_2.md:L4266-L4484`.
 - Decide guardar su deducción sobre Max sin exponerlo sin pruebas; su investigación continúa por iniciativa propia.
 - El beso secreto de Dravenn y la hipótesis Max/Austin persisten como conocimiento privado; no convertirla automáticamente en informante.
+
+## EVOLUCIÓN CAUSAL — CURIOSIDAD QUE ELIGE DISCRECIÓN
+
+- El episodio de Dravenn dejó una memoria afectiva y una pregunta, no una identidad revelada públicamente. Su viaje a Aldoria nace de esa necesidad de comprobar, no de una misión recibida.
+- La actuación de Nilo, el sombrero y la tarjeta le permiten separar actor de espía. Esa distinción prueba que observa detalles y resiste la explicación más cómoda.
+- Al confrontar a Max sin pruebas documentales, decide no convertir una deducción íntima en acusación. Su avance es sostener un secreto propio y seguir investigando con prudencia, no entrar automáticamente al círculo de House Gutiérrez.

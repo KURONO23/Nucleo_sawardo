@@ -55,3 +55,9 @@ En su forja de Thornhaven.
 ## FUENTES
 
 PDF, pp. 128-144.
+
+## EVOLUCIÓN CAUSAL — ARTESANO ANTE UN MATERIAL QUE NO COMPRENDE DEL TODO
+
+- El contrato por dagas y talones de wyvern le abre una oportunidad técnica, pero también un límite: reconocer valor y origen de un material no equivale a conocer la mecánica temporal de Max.
+- El interés por estudiar las piezas puede volverlo mejor forjador de materiales monstruosos si documenta pruebas, fallos y seguridad, en vez de prometer reproducciones imposibles.
+- Su siguiente avance autónomo es decidir qué aprendizaje comparte con otros artesanos y qué encargo rechaza por no poder garantizar su resultado. La etiqueta «Time Mage» permanece como conocimiento de origen no confirmado.

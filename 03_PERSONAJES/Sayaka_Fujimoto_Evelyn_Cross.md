@@ -65,3 +65,10 @@
 ## ADDENDUM — 4–5 DE FLORIS, AÑO 3
 
 Sayaka rechazó un lote defectuoso de Cerveza Esmeralda. El hecho confirma su veto de calidad; cantidad, coste, proveedor y pérdida permanecen sin cifra y no deben inventarse.
+
+## EVOLUCIÓN CAUSAL — DE RIVALIDAD Y DEUDA A AUTORIDAD EMPRESARIAL
+
+- La ayuda de Max después de la subasta no la convierte en subordinada: su condición explícita de no exigir sumisión es lo que permitió que Sayaka aceptara una alianza sin perder orgullo.
+- Diseñar producción con Galwin y defender contratos frente a Max fijó su autoridad operativa. El veto de calidad y el rechazo del lote defectuoso son consecuencia directa: la marca vale más que una venta inmediata.
+- El Festival y la expansión de Esmeralda convierten su antigua sobreexigencia en un problema consciente. Aprende a repartir tareas y conservar rutinas propias, sin que el cuidado recibido se vuelva una licencia para que otros gobiernen su trabajo.
+- Su ambición vigente es una cervecería estable que forme personal y mantenga calidad bajo presión; los dividendos y porcentajes se rigen por la distribución documentada, no por afectos personales.

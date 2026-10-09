@@ -32,4 +32,10 @@ Hessa organiza la delegación, contradice cuando la logística lo exige y partic
 - `00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md`
 - [[FESTIVAL_CERVEZA_HISTORIA_ANUAL]]
 - [[REGISTRO_FESTIVAL_CERVEZA_JUECES_Y_GANADORES]]
+
+## EVOLUCIÓN CAUSAL — REPRESENTAR A MINAS QUEBRADAS SIN PERDER SU VOZ
+
+- Preparar la delegación y competir con Kazuki le confirma que coordinar no es seguirle el paso a un recién llegado: su función es aterrizar ideas en transporte, turnos, recursos y personas concretas.
+- Los resultados colectivos del Festival cambian la mirada externa sobre las Minas. Hessa aprende a convertir visibilidad en responsabilidad, evitando atribuirse en solitario el segundo y tercer lugar de una comunidad entera.
+- La fricción con Kazuki sigue siendo productiva porque ambos pueden contradecirse. La pareja de Afrodita no vuelve romántico el vínculo; el desarrollo afectivo requeriría escenas y consentimiento propios.
 - [[Kazuki]]

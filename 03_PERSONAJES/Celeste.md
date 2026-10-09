@@ -23,3 +23,9 @@ Celeste enlaza a Max con comerciantes y lo corrige cuando prejuzga a mujeres de 
 - **Guía Social de Max:** Cuando Max comenzó a interactuar con los círculos de comerciantes y damas de negocios en Thornhaven (Elise Goldcrest, Natalia Thornwell, Vivienne), Celeste actuó como su nodo de enlace social.
 - **Criterio Ético:** Corrigió con franqueza a Max cuando sus pruebas iniciales prejuzgaban a las mujeres de negocios locales, demostrándole que el interés comercial legítimo no anula la sinceridad personal.
 - Mantiene una relación de respeto y mutua curiosidad con Max, siendo una de las figuras más sofisticadas de la vida nocturna y social de la costa.
+
+## EVOLUCIÓN CAUSAL — ANFITRIONA QUE CONVIERTE JUICIO EN CRITERIO
+
+- El ingreso de Max a los círculos mercantiles le permite comprobar que una presentación brillante puede ocultar prejuicio. Al corregirlo, protege la dignidad de sus invitadas y fija un estándar social propio.
+- Sus vínculos con Elise, Natalia y Vivienne la vuelven puente, no portavoz de ninguna de ellas. Aprende a abrir una conversación sin apropiarse de las decisiones comerciales o afectivas ajenas.
+- El crecimiento de la cultura de Thornhaven amplía su papel: Velvet Rose puede seguir siendo espacio de encuentro y observación sin convertirse en extensión de House Gutiérrez.

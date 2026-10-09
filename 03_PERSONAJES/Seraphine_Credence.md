@@ -56,3 +56,9 @@ Tras el enlace matrimonial de Max y Serath (Día 260):
 - Empieza a anticipar chistes, se avergüenza y termina aceptando que el público completa parte del significado de la obra.
 - Conserva la idea de que las personas cambian cuando cambian sus incentivos, no solo por discursos.
 - Fuente: `00_FUENTES/historia_original/AÑO_2/06_15_Ambar_a_25_Ambar_Año_2.md`, líneas 369–411, 11811–11829, 12754–12800 y POV posteriores.
+
+## EVOLUCIÓN CAUSAL — ANTAGONISMO QUE APRENDE A LEER LA CULTURA
+
+- La humillación de la incursión a la finca fortalece su oposición política, pero la respuesta no se reduce a rabia: usa observadores, financia presión y trata de comprender qué está moviendo a comerciantes y público.
+- *Austin Powers* la obliga a reconocer que la comedia puede cambiar incentivos y reputaciones. Aprende de Milo, Vesper, Isola y Varel sin que eso la vuelva aliada ni borre sus objetivos de clase.
+- Su siguiente movimiento conserva ambigüedad moral: puede intentar usar ese aprendizaje contra el proyecto cultural de Max, Tobias y Elise, mientras estos siguen teniendo derecho a responder. Nada de ello se declara resuelto fuera de escena.

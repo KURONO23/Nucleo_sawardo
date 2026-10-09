@@ -26,3 +26,9 @@
 ## ADDENDUM — CIERRE DE MICROINTERACCIONES
 
 - Lyra se presenta como arquera de rango B y responde con humor/interés al encuentro; queda diferenciada de Lyssa (`00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`, 18541–18563).
+
+## EVOLUCIÓN CAUSAL — EXPLORADORA QUE CONSERVA SU PROPIO BLANCO
+
+- El contacto con el círculo de Biro y Max amplía sus referencias, pero su habilidad sigue siendo exploración y tiro de cobertura de rango B, no una réplica de talentos ajenos.
+- La convivencia profesional con Marcus y las misiones perimetrales refuerzan el valor de observar primero: su humor y curiosidad no sustituyen una lectura de ruta.
+- Mantener la distinción con Lyssa protege dos trayectorias reales. Lyra puede crecer mediante exploraciones y decisiones propias sin absorber la ascensión, la Vigilia o la historia de la guardiana de la finca.
