@@ -12,6 +12,8 @@ Memoria canónica y sistema modular para el roleplay de **Los Ventura**.
 
 > **Presente narrativo real:** **5 de Floris, Año 3**. Los estados del Día 654, 26 de Bruma y 4 de Floris se conservan como fotografías históricas. La escena se reanuda en el desayuno de Gutiérrez Estate con Max, Serath y Aria.
 
+> **REGLA DE ARRANQUE OBLIGATORIA:** el Día 634 **no es el presente**. Es un corte histórico de Año 2 y solo se consulta para reconstruir antecedentes. Toda sesión nueva debe comenzar en [[CURRENT_STATE_5_FLORIS_AÑO3]] y usar las referencias de la sección **Inicio rápido vigente**. No abrir [[CURRENT_STATE]] para reanudar la historia.
+
 ## Referencias prioritarias nuevas
 
 - Economía: [[FINANZAS_CANON_VIGENTE]].
@@ -22,7 +24,7 @@ Memoria canónica y sistema modular para el roleplay de **Los Ventura**.
 - Cumpleaños y alertas de salto temporal: [[CALENDARIO_CUMPLEANOS_CIRCULO_DE_MAX]]. Próximo: **Ryu, 8 de Floris**.
 - Misiones, autoridad de Kira y aportes: [[MISIONES_PROPUESTAS_POR_NPC_AÑO3]] y [[AUDITORIA_GREMIO_FONDO_VETERANOS_AÑO3]].
 
-## Estado anterior consolidado — corte histórico del Día 634
+## Archivo histórico — corte del Día 634 (no vigente)
 
 - **Fecha narrativa:** **10 de Noctalia, Año 2 (DÍA 634 continuo)**.
 - **Estación:** Invierno en Aldoria.
@@ -34,10 +36,10 @@ Memoria canónica y sistema modular para el roleplay de **Los Ventura**.
   - Flujo ordinario base en aquel corte: **8,470 oro/mes**. El vigente desde el 26 de Bruma es **7,270 oro/mes**, antes de dividendos variables de Esmeralda.
   - Cupo de gasto mensual discrecional: hasta **5,000 oro/mes** (financia Luminarias).
 
-## Inicio rápido histórico — Día 634
+## Consulta histórica — Día 634 (no iniciar sesiones desde aquí)
 
-1. Consultar el corte histórico conservado en [[CURRENT_STATE]].
-2. Abrir [[CURRENT_STATE]] (situado en el Día 634).
+1. Consultar el corte histórico conservado en [[CURRENT_STATE]] solo si se necesita recuperar antecedentes.
+2. No usar [[CURRENT_STATE]] como punto de reanudación: sus cifras, hilos y estado pertenecen al Día 634.
 3. Seguir las directrices históricas conservadas en [[DIRECTRICES_MAESTRAS_ROLEPLAY]].
 4. Consultar fuentes primarias directas en `00_FUENTES/historia_original/`.
 
