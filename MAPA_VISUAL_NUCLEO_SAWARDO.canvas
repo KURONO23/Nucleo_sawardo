@@ -1,0 +1,178 @@
+{
+  "nodes": [
+    {
+      "id": "node_max",
+      "x": 0,
+      "y": 0,
+      "width": 320,
+      "height": 200,
+      "type": "file",
+      "file": "03_PERSONAJES/Max38.md",
+      "color": "4"
+    },
+    {
+      "id": "node_serath",
+      "x": -420,
+      "y": -160,
+      "width": 300,
+      "height": 220,
+      "type": "file",
+      "file": "03_PERSONAJES/Serath_Vale.md",
+      "color": "4"
+    },
+    {
+      "id": "node_aria",
+      "x": -420,
+      "y": 140,
+      "width": 300,
+      "height": 200,
+      "type": "file",
+      "file": "03_PERSONAJES/Aria.md",
+      "color": "5"
+    },
+    {
+      "id": "node_hermanos",
+      "x": -420,
+      "y": 400,
+      "width": 300,
+      "height": 180,
+      "type": "text",
+      "text": "### \ud83c\udfe0 Ryu y Kenji Guti\u00e9rrez\\n- **Ryu (18a):** Primer oficial naval, explorador fluvial.\\n- **Kenji (16a):** Cocinero en formaci\u00f3n, estuche propio.\\n- Pr\u00f3ximo cumple: Ryu (8 Floris, \u00a14 d\u00edas!).",
+      "color": "4"
+    },
+    {
+      "id": "node_current_state",
+      "x": 420,
+      "y": -220,
+      "width": 340,
+      "height": 240,
+      "type": "file",
+      "file": "05_CONTINUIDAD/CURRENT_STATE_4_FLORIS_A\u00d1O3.md",
+      "color": "3"
+    },
+    {
+      "id": "node_finanzas",
+      "x": 420,
+      "y": 80,
+      "width": 320,
+      "height": 220,
+      "type": "file",
+      "file": "FINANZAS/FINANZAS_CANON_VIGENTE.md",
+      "color": "2"
+    },
+    {
+      "id": "node_natalia_kael",
+      "x": 420,
+      "y": 360,
+      "width": 320,
+      "height": 220,
+      "type": "text",
+      "text": "### \ud83c\udf38 Natalia Thornwell & Kael Ironheart\\n- **Inter\u00e9s mutuo en desarrollo aut\u00f3nomo.**\\n- Comidas, paseos, bromas de terceros y celos leves de Kael hacia Leo Mercer.\\n- N\u00f3mina de Natalia: 800 oro/mes.\\n- Consulta: [[05_CONTINUIDAD/ESTADO_RELACIONES_Y_ROMANCES_A\u00d1O3]]",
+      "color": "6"
+    },
+    {
+      "id": "node_ventura",
+      "x": -40,
+      "y": 360,
+      "width": 360,
+      "height": 200,
+      "type": "file",
+      "file": "03_PERSONAJES/Los_Ventura.md",
+      "color": "1"
+    },
+    {
+      "id": "node_isekai",
+      "x": -40,
+      "y": -360,
+      "width": 360,
+      "height": 220,
+      "type": "text",
+      "text": "### \u26a1 C\u00edrculo Isekai & Modernidad\\n- **Haruto & Liora:** Pareja oficial consolidada.\\n- **Ren & Amane:** Tutor\u00eda y aprendizaje t\u00e9cnico.\\n- **Siri:** IA de Haruto en smartphone/humanoide.\\n- **Leo Mercer:** Aprendiz administrativo de Natalia.",
+      "color": "5"
+    },
+    {
+      "id": "node_roleplay",
+      "x": 840,
+      "y": -60,
+      "width": 320,
+      "height": 220,
+      "type": "file",
+      "file": "07_ROLEPLAY/DIRECTRICES_MAESTRAS_ROLEPLAY.md",
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_max_serath",
+      "fromNode": "node_max",
+      "fromSide": "left",
+      "toNode": "node_serath",
+      "toSide": "right",
+      "label": "Matrimonio (D\u00eda 260)"
+    },
+    {
+      "id": "e_max_aria",
+      "fromNode": "node_max",
+      "fromSide": "left",
+      "toNode": "node_aria",
+      "toSide": "right",
+      "label": "Socia y mejor amiga"
+    },
+    {
+      "id": "e_max_hermanos",
+      "fromNode": "node_max",
+      "fromSide": "bottom",
+      "toNode": "node_hermanos",
+      "toSide": "top",
+      "label": "Hermanos adoptados"
+    },
+    {
+      "id": "e_max_current",
+      "fromNode": "node_max",
+      "fromSide": "right",
+      "toNode": "node_current_state",
+      "toSide": "left",
+      "label": "Marcos encubierto"
+    },
+    {
+      "id": "e_max_finanzas",
+      "fromNode": "node_max",
+      "fromSide": "right",
+      "toNode": "node_finanzas",
+      "toSide": "left",
+      "label": "905,905 Oro en caja"
+    },
+    {
+      "id": "e_finanzas_natalia",
+      "fromNode": "node_finanzas",
+      "fromSide": "bottom",
+      "toNode": "node_natalia_kael",
+      "toSide": "top",
+      "label": "Gesti\u00f3n de libros"
+    },
+    {
+      "id": "e_max_ventura",
+      "fromNode": "node_max",
+      "fromSide": "bottom",
+      "toNode": "node_ventura",
+      "toSide": "top",
+      "label": "Familia de armas"
+    },
+    {
+      "id": "e_max_isekai",
+      "fromNode": "node_max",
+      "fromSide": "top",
+      "toNode": "node_isekai",
+      "toSide": "bottom",
+      "label": "Compadres de otro mundo"
+    },
+    {
+      "id": "e_current_roleplay",
+      "fromNode": "node_current_state",
+      "fromSide": "right",
+      "toNode": "node_roleplay",
+      "toSide": "left",
+      "label": "Reglas de escena"
+    }
+  ]
+}

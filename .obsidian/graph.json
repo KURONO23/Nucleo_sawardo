@@ -1,0 +1,93 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:01_CANON",
+      "color": {
+        "a": 1,
+        "rgb": 15383560
+      }
+    },
+    {
+      "query": "path:02_MUNDO",
+      "color": {
+        "a": 1,
+        "rgb": 440020
+      }
+    },
+    {
+      "query": "path:03_PERSONAJES",
+      "color": {
+        "a": 1,
+        "rgb": 1096065
+      }
+    },
+    {
+      "query": "path:04_SISTEMAS",
+      "color": {
+        "a": 1,
+        "rgb": 9133302
+      }
+    },
+    {
+      "query": "path:05_CONTINUIDAD",
+      "color": {
+        "a": 1,
+        "rgb": 16109067
+      }
+    },
+    {
+      "query": "path:06_AGENTES",
+      "color": {
+        "a": 1,
+        "rgb": 15680580
+      }
+    },
+    {
+      "query": "path:07_ROLEPLAY",
+      "color": {
+        "a": 1,
+        "rgb": 6514417
+      }
+    },
+    {
+      "query": "path:FINANZAS",
+      "color": {
+        "a": 1,
+        "rgb": 8699158
+      }
+    },
+    {
+      "query": "path:AMISTADES_DE_LA_TIERRA_DE_MAX",
+      "color": {
+        "a": 1,
+        "rgb": 3899894
+      }
+    },
+    {
+      "query": "path:00_FUENTES",
+      "color": {
+        "a": 1,
+        "rgb": 6579307
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.15,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.55,
+  "repelStrength": 12,
+  "linkStrength": 1,
+  "linkDistance": 220,
+  "scale": 0.20707092497452975,
+  "close": true
+}

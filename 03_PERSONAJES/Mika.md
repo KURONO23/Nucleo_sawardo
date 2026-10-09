@@ -1,0 +1,48 @@
+# Mika — Ficha Canónica
+
+> **«—¿Explota? —Esta vez no... es un terminal portátil para notas y mapas. —Es práctico. —Exacto.»**  
+> — Conversación entre Mika y Max en su cumpleaños (24 de Ámbar, Día 587)
+
+---
+
+## 1. IDENTIDAD Y PERFIL
+
+- **Nombre:** Mika.
+- **Condición:** Reencarnada / Llegada de otro mundo; forma equipo con Daichi y Ren.
+- **Cumpleaños Canónico:** **24 de Ámbar (Día 587)**.
+- **Rol:** Investigadora de campo de la Corona de Aldoria especializada en mapeo de nodos y análisis de artefactos antiguos.
+- **Personalidad:** Directa, práctica, un poco cínica pero extremadamente leal. No le gustan las complicaciones innecesarias ni los discursos solemnes.
+
+---
+
+## 2. HITOS Y EQUIPAMIENTO
+
+- **El Misterioso Artefacto Compartido:** Custodia junto a Daichi un objeto antiguo no identificado recuperado antes de contactar a Max, el cual mantuvieron bajo estricta observación antes de conectarlo a la Torre.
+- **El Regalo de Max (24 de Ámbar):** En su cumpleaños, Max le obsequió un **terminal portátil reforzado** diseñado para notas, mapas locales y comunicación corta sin sobrecargar la red, solucionando su costumbre de cargar mapas y pergaminos desordenados.
+- **Proyecto Vaelor (Noctalia, Año 2):** Pieza operativa clave en la identificación de las coordenadas del sitio ACF-3.
+
+---
+
+## EVOLUCIÓN — ALBOR A BRUMA, AÑO 3
+
+- En su vida anterior trabajó con **archivo documental universitario**, especialmente en digitalización, catalogación y recuperación de información. Esa experiencia explica su rigor con mapas, registros y versiones, sin convertirla en experta universal.
+- Manifiesta **Ancla de Tránsito**: puede conservar continuidad física durante determinados traslados anómalos. No le permite viajar voluntariamente entre mundos ni escoger destino.
+- Posee **Resonancia de Nodo** en grado limitado: percibe o contrasta ciertas respuestas de estructuras antiguas, pero no puede abrir, gobernar ni reprogramar una red de nodos por sí sola. Véase [[RESONANCIA_DE_NODO|Resonancia de Nodo]].
+- Trabaja con Kazuki, Daichi y Ren en la comparación de mecanismos de llegada. Sus capacidades son necesarias para validar el proyecto G1-A, pero no sustituyen el análisis de Daichi ni la referencia de Kazuki.
+- **Estado al 26 de Bruma, corte histórico:** disponible como parte del equipo requerido para una futura prueba controlada; todavía no existía autorización para activar G1-A. Las pruebas funcionales posteriores se registran en [[PROYECTO_G1_TERMINAL_REGIONAL]] sin atribuirle automáticamente presencia o acciones no narradas.
+
+## ADDENDUM — MICROINTERACCIONES Y VIDA AUTÓNOMA
+
+- Pregunta si el terminal explota, sospecha y solo lo acepta tras comprobar su alcance práctico (`00_FUENTES/historia_original/AÑO_2/07_25_Ambar_a_10_Noctalia_Año_2.md`, 103–143).
+- Continúa revisando notas de la Torre y desarrolla criterio propio; el regalo abre herramienta, no sustituye iniciativa (`isekai Día 588...`, 103–321).
+
+## EVOLUCIÓN AUTÓNOMA — PROTOCOLO DE RUINAS Y PUENTE HACIA G2
+
+Desde el 4 de Floris, Mika deja de ser solo la persona que “sabe leer mapas”. Diseña un protocolo de campo para que una observación pueda repetirse sin depender de su intuición:
+
+- prepara una **hoja de calibración** para cada visita (hora, estado del nodo, respuesta percibida, testigo independiente y retirada);
+- clasifica las ruinas como activas, pasivas, repetidoras, desconocidas o prohibidas y registra también los falsos positivos;
+- trabaja con Daichi para separar una Resonancia de Nodo auténtica de la respuesta de un artefacto cercano;
+- empieza a redactar una capa de compatibilidad para G2, pero no promete que la tecnología antigua sea compatible con el G1.
+
+Su primera mejora tendrá un coste: un falso positivo obligará al equipo a repetir una medición y retrasará una entrega. Mika aprenderá a defender la demora como resultado científico, no como fracaso personal.

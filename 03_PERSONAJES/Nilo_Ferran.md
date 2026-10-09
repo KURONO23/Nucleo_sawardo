@@ -1,0 +1,40 @@
+# NILO FERRAN
+
+## Identidad
+- Actor/narrador-comediante seleccionado mediante convocatoria abierta.
+- Actor principal de `AUSTIN POWERS: EL ESPÍA SEDUCTOR`.
+
+## Papeles
+- Milo Trent.
+- Austin Powers.
+- Jesse Fox.
+
+## Fortalezas detectadas
+- Buen equilibrio entre los tres registros.
+- Timing natural y control de pausa.
+- Austin ridículo sin pedir perdón al público.
+- Jesse seco: no busca la risa.
+- Reacciona a la música haciendo **menos**, no sobreactuando.
+- Sabe mostrar microfracturas donde aparece Milo debajo de Austin.
+
+## Dirección
+Nilo NO debe copiar a Max.
+Max guía mecánica/psicología de Austin y Jesse, pero Nilo construye su propia versión.
+Transición deseada:
+**cuerpo → respiración → mirada → voz**, antes que vestuario.
+
+## Relaciones escénicas
+- Mara Quill/Vesper: química alta, duelo verbal y transición seria sólida.
+- Edda Sol/Isola: comedia distinta; Austin se desordena cuando Isola le sigue parcialmente el juego.
+
+---
+
+# EVOLUCIÓN CANÓNICA — LA COMPLICIDAD DEL CUMPLEAÑOS Y EL TEATRO (AÑO 2)
+
+- **La Conspiración del Día 619 (25 de Ventisca):** Nilo y Goran conspiraron en secreto para el cumpleaños de Max. Durante la función, Nilo interpretó el primer tramo de la obra para luego ceder discretamente su lugar a Max en los bastidores con Sawardo, permitiendo a Max actuar frente a Selene Veyr y devolverle el sombrero verde lima con la tarjeta «Nunca te olvidaré».
+- **Maestría Comediante:** Consagrado como el rostro indiscutible de Austin Powers para el público general de Aldoria, respetando siempre el principio de dirección: construir a Austin con su propia presencia física sin imitar servilmente a Max.
+
+## ADDENDUM — MICROINTERACCIONES Y VIDA AUTÓNOMA
+
+- Deja de practicar Austin constantemente y recupera hábitos de persona normal; Mara le señala el cambio (`isekai Día 588...`, 1031–1049).
+- Conspira con Goran en el cumpleaños de Max, interpreta el primer tramo y cede el lugar en bastidores (`isekai Día 588...`, registro del Día 619).

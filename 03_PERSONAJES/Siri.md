@@ -1,0 +1,36 @@
+# Siri — Ficha Canónica y Entidad de Interfaz
+
+> **«—La temperatura del fuego es excesiva. —Lo sé. —Entonces reduzca la... —Siri, déjame equivocarme. —...Entendido.»**  
+> — Siri asistiendo a Haruto mientras cocina en casa de Liora
+
+---
+
+## 1. NATURALEZA Y ORIGEN
+
+- **Identidad:** Inteligencia artificial / entidad de soporte ligada originalmente al smartphone japonés e interfaz del reencarnado **Haruto Kazagami**.
+- **El Bautizo de Max:** Max la llamó informalmente **«Siri»** (en broma por el iPhone de Haruto en contraste con su propio teléfono de la Tierra), nombre que la entidad aceptó como *"temporalmente tolerable"* y que terminó arraigándose como su identidad oficial.
+- **Evolución:** Pasó de ser un simple menú de datos de texto y cálculo de daño a una conciencia individual con sentido de la ironía, curiosidad sobre la experiencia humana y capacidad de manifestarse en una **forma humanoide** semitranslúcida o visible según lo requiera la situación.
+
+---
+
+## 2. PERSONALIDAD Y DINÁMICA
+
+- **Tono:** Preciso, analítico, imperturbable, pero con un humor seco involuntario (o muy voluntario) que saca de quicio a Haruto.
+- **Interacción con Aria:** Mantiene una fascinación respetuosa por Aria. Siri observa cómo la Undine ancestral trascendió su naturaleza para convertirse en una persona libre, y busca entender cómo construir gustos y opiniones propias. Lleva un registro personal de vivencias que funciona como su diario.
+- **El Rol en la Pareja de Haruto y Liora:** Es la tercera en discordia en los momentos más cómicos. Analiza las miradas de Liora (*«Está coqueteando contigo»*), critica los puntos de cocción de Haruto y opina sobre las decisiones sociales del grupo.
+
+---
+
+## 3. CAPACIDADES
+
+- Cálculo táctico y análisis de fallas en combate.
+- Monitoreo de la habilidad 《Adaptación》 de Haruto.
+- Proyección visual holográfica / humanoide.
+- Registro y memoria de datos arqueológicos de la Torre y los nodos de Aldoria.
+
+## ADENDA DE MICROINTERACCIONES Y CRECIMIENTO — AUDITORÍA S–Z
+
+- Se lleva bien con Haruto; detecta sus evasiones y las comenta con humor técnico, sin rivalidad con Liora. `00_FUENTES/historia_original/AÑO_2/09_31_Noctalia_Año_2_a_01_Albor_Año_3.md:L200`, `L580-L592`.
+- Nota cambios emocionales de Haruto y decide cuándo no comentarlos: muestra criterio propio. `00_FUENTES/historia_original/AÑO_2/09_31_Noctalia_Año_2_a_01_Albor_Año_3.md:L4691-L4695`.
+- En Torre/Proyecto Vaelor aporta lectura de anomalías y memoria, mientras Haruto aporta adaptación física. `00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md:L16120`, `L16807-L16837`.
+- Su persistencia incluye discrepar de Haruto y actuar fuera de las intervenciones de Max.

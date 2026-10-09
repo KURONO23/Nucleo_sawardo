@@ -1,0 +1,17 @@
+# Temporales y paquetes de intercambio; no forman parte del Núcleo PC.
+tmp/
+*.rar
+*.zip
+
+# Estado local de Obsidian y cachés de la aplicación.
+.obsidian/workspace*.json
+.obsidian/cache/
+.obsidian/.trash/
+
+# Secretos y archivos locales que nunca deben publicarse.
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+secrets.json
