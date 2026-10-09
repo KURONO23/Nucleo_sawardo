@@ -1,13 +1,15 @@
 # Vivienne Silverstream
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Vivienne Silverstream gestiona comercio exterior, logística y redes de Casa Gutiérrez. Es cálida, observadora, negociadora y sensible a ser tratada como adorno. Su estatus familiar no reemplaza su competencia de rutas, contratos y distribución.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Natalia y Elise: amigas de infancia y equipo de la Casa.
+- Max: amiga explícita y colaboradora, sin romance confirmado.
+- Casa Gutiérrez, capitanes y viajeros: red profesional de rutas y distribución.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+La fuente primaria y [[FINANZAS_CANON_VIGENTE]] prevalecen. La futura gala y recepción siguen como semillas, no eventos ya programados.
 
 > **Estado narrativo:** 5 de Floris, Año 3. Responsable de comercio exterior y redes de Casa Gutiérrez; prepara una gala noble-cultural benéfica como `SEMILLA`, no como evento confirmado.
 

@@ -1,22 +1,26 @@
 # Elise Goldcrest
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Elise Goldcrest es artesana y comerciante textil vinculada a Casa Gutiérrez. Cálida, entusiasta y conciliadora, combina sensibilidad social con persistencia técnica: aprende de fallos materiales y los convierte en colaboración, en vez de quedar definida por ingenuidad.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Su trabajo de taller, inventario y fabricación siguió sosteniendo la Casa durante la ausencia de Max; recibe 800 oro mensuales desde el 26 de Bruma, sin retroactividad.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- Año 1: entra desde Velvet Rose y mantiene red artística, social y textil.
+- Año 2–3: transforma una dificultad con seda en colaboración técnica con Galwin y desarrolla máquina de coser.
+- 26 de Bruma–1 de Floris: reconoce formalmente su aumento por trabajo autónomo.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Natalia y Vivienne: amigas de infancia y equipo administrativo.
+- Galwin: colaboración técnica ante fallos de material.
+- Max: amistad y reconocimiento laboral; no romance confirmado.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Continuar fabricación y diseño estético sin que la recepción futura sustituya su oficio. La recepción aún no tiene fecha ni ejecución.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+La fuente primaria y [[MICROINTERACCIONES_PERSONAJES_A_I]] prevalecen.
 
 ## ADENDA — 26 DE BRUMA, AÑO 3
 

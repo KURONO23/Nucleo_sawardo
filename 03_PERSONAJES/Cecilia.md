@@ -1,25 +1,29 @@
 # Cecilia — Ficha Canónica y Perfil de Observación
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Cecilia y Mizuki Takahashi son la misma persona: reencarnada de Osaka, antigua falsa santa y analista de redes humanas. Cecilia es su identidad pública histórica; Mizuki, su nombre recuperado en círculo restringido. Su poder Ecclesia percibe vínculos y estructuras, pero no lee mentes, controla personas ni fabrica relaciones.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Investiga fuera de Casa Ardel sin enlace en tiempo real y llega por sí misma a la pista Veylan. Su reparación con Haruto comenzó, pero no borra su manipulación previa ni le concede perdón.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- Antes de Floris: usa conocimiento de necesidades de Haruto para empujarlo; es manipulación consciente, no control mental.
+- 3–4 de Floris: entra a Sawardo con consentimiento, comparte análisis de Casa Ardel, visita Pequeño Zhong-Kyo como Mizuki y se disculpa con Haruto.
+- 4 de Floris: acepta que la disculpa no compra perdón y continúa investigación independiente.
 
 ## EVOLUCIÓN CAUSAL
-No se añade un cambio causal sin escena o fuente verificable. Las influencias confirmadas se incorporarán aquí de forma aditiva, sin sustituir personalidad ni hechos previos.
+Deja de tratar las relaciones como objeto de experimento y empieza a aceptar consentimiento, límite y consecuencia como datos que no puede manipular. Su capacidad de observación puede ayudar a una investigación, pero debe permanecer sometida a evidencia y autonomía ajena.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Haruto: daño histórico, disculpa recibida y límite de no perdón total.
+- Max, Aria y Pequeño Zhong-Kyo: acceso condicionado a consentimiento, reglas comunitarias y no apropiación cultural.
+- Casa Ardel / Veylan: frente investigativo, no afiliación operativa.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Contrastar la pista Veylan sin contaminar evidencia ni convertir su lectura social en veredicto. La red, el financiador y toda resolución siguen abiertos.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+La fuente primaria de `00_FUENTES/historia_original/` prevalece, así como los límites de Ecclesia registrados en esta ficha.
 
 ## ADENDA DE IDENTIDAD — MIZUKI TAKAHASHI, 3–4 DE FLORIS, AÑO 3
 

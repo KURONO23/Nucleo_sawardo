@@ -1,16 +1,19 @@
 # Natalia Thornwell
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Natalia Thornwell es Administradora General de Casa Gutiérrez: estratégica, directa y práctica, custodio de caja, nómina y conciliaciones. Su competencia financiera incluye distinguir liquidez, patrimonio, flujo y dividendo; no es una excusa para que otros usen su nombre sin consentimiento.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Elise y Vivienne: equipo administrativo y amistades de infancia con salarios equiparados desde el 26 de Bruma.
+- Max: empleador y contrapunto financiero; Natalia conserva criterio independiente.
+- Kael: interés mutuo no formalizado que necesita escenas recíprocas.
+- Casa Gutiérrez y trabajadores post-Festival: seguimiento laboral que no se reduce a caja.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Cerrar Esmeralda y medir impacto laboral del Festival a tres meses: candidatos, contrato, oficio, pago y continuidad. No hay resultado de esa evaluación ni consentimiento de Natalia a «Somos Pobres».
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+Fuente final: `00_FUENTES/historia_original/`, [[FINANZAS_CANON_VIGENTE]] y la cronología preservada abajo.
 
 > **Estado narrativo:** 5 de Floris, Año 3. Administradora General de Casa Gutiérrez; custodia caja, nómina, conciliaciones y el impacto laboral del Festival. Su interés mutuo con Kael sigue sin formalizar.
 

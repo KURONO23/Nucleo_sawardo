@@ -1,22 +1,27 @@
 # Sayaka Fujimoto / Evelyn Cross — Ficha Canónica Completa
 
 ## Identidad estable
-Los datos confirmados de nombre, apariencia, voz, oficio, rango, habilidades y límites se conservan en las secciones históricas posteriores; esta ficha no autoriza completar ausencias por arquetipo.
+Sayaka Fujimoto y Evelyn Cross son la misma persona: reencarnada japonesa, maestra cervecera, empresaria y socia industrial de Cervecería Esmeralda. Su identidad social es Evelyn; su nombre terrestre no crea otra ficha ni duplica edad. Es metódica, orgullosa y celosa de su autonomía, con control operativo y veto de calidad.
 
 ## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+Tiene 28 años tras su cumpleaños del 30 de Solalto, Año 2. Mantiene 30% societario vigente, control operativo y veto de calidad de Esmeralda; la estructura 50/30/20 quedó como fase histórica.
 
 ## CRONOLOGÍA CANÓNICA
-Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
+- Tierra: muere por karoshi; esa experiencia explica su riesgo de sobretrabajo, no la define eternamente.
+- Año 2: funda Esmeralda con dirección técnica, Galwin y Max; elige calidad y contratos por encima de un pedido extra de Max.
+- Después: aprende a detener jornada y continuar al día siguiente; el equilibrio no borra ambición empresarial.
 
 ## RELACIONES VIVAS
-Conservar solo vínculos expresamente descritos en esta ficha o en la fuente primaria. Una cercanía, una dupla de trabajo o una broma no establece romance ni parentesco.
+- Max: socio y confidente de origen terrestre que respeta su veto de calidad.
+- Galwin: colaborador de calderas y producción.
+- Natalia, Goran, Darian, Haruto y Biro: socios conforme a distribución vigente, cada uno con porcentajes ya consolidados.
+- Yuki: compañera de palcos y festividades; no sustituye su vida profesional.
 
-## RUTA AUTÓNOMA — `PENDIENTE`
-Meta, ambición y siguiente hito todavía no individualizados por una fuente. No convertir esta ausencia de datos en una acción realizada fuera de escena.
+## RUTA AUTÓNOMA — `SEMILLA`
+Sostener calidad, distribución y descanso sin repetir el patrón de karoshi. Los resultados posteriores de Esmeralda deben aparecer en balances o escenas, no inventarse.
 
 ## FUENTES Y CORRECCIONES
-La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
+Fuente final: `00_FUENTES/historia_original/`, [[HISTORIA_CERVEZA_ESMERALDA]] y [[HISTORIAL_ECONOMICO_CONCILIADO]].
 
 ## ADDENDUM DE EDAD — 26 DE BRUMA, AÑO 3
 
