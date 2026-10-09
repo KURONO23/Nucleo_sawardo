@@ -24,7 +24,7 @@ No aplica; personaje introducido en Velvet Rose.
 
 ## APARIENCIA
 
-Aproximadamente 1,63 m, cabello castaño rojizo, ojos verdes y vestido borgoña. La presentación inicial prevalece sobre cambios posteriores (PDF, pp. 508-510).
+Aproximadamente 1,63 m, cabello castaño rojizo, ojos verdes y vestido borgoña. La presentación inicial prevalece sobre cambios posteriores (fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
 ## PERSONALIDAD
 
@@ -68,7 +68,7 @@ Salón privado de una taberna del distrito alto de Aldoria, después de 13:36. C
 
 ## REFERENCIAS
 
-PDF, pp. 508-537, 618-639, 806-819, 889-942; [[RELATIONSHIPS]].
+Fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`; [[RELATIONSHIPS]].
 
 
 ---

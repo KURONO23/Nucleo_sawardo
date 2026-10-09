@@ -54,7 +54,7 @@ Asignado con Torin y Lyssa a la protección de Gutiérrez Estate durante el viaj
 
 ## REFERENCIAS
 
-PDF, pp. 559-570, 857-903; corrección autoral post-FASE 2; [[CURRENT_STATE]], [[RELATIONSHIPS]], [[KNOWLEDGE]].
+Fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`; corrección autoral post-FASE 2; [[CURRENT_STATE_5_FLORIS_AÑO3]], [[RELATIONSHIPS]], [[KNOWLEDGE]].
 
 
 ---

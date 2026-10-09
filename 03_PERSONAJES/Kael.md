@@ -6,7 +6,7 @@ No aplica.
 
 ## APARIENCIA
 
-Mujer de comienzos de sus cuarenta, ojos cansados y cicatriz de quemadura en el cuello; insignia A parcialmente oculta (PDF, pp. 138-140).
+Mujer de comienzos de sus cuarenta, ojos cansados y cicatriz de quemadura en el cuello; insignia A parcialmente oculta (fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
 ## PERSONALIDAD
 
@@ -50,7 +50,7 @@ En The Cracked Shield, Thornhaven.
 
 ## FUENTES
 
-PDF, pp. 137-141.
+Fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`.
 
 ## ADDENDUM — CIERRE DE IDENTIDAD
 

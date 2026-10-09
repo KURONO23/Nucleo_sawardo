@@ -12,7 +12,7 @@ No aplica; personaje introducido en escena.
 
 ## APARIENCIA
 
-Mujer de finales de sus cincuenta, cabello plateado recogido, armadura de cuero cuidada y espada larga. Perdió el ojo izquierdo (PDF, pp. 45-46).
+Mujer de finales de sus cincuenta, cabello plateado recogido, armadura de cuero cuidada y espada larga. Perdió el ojo izquierdo (fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
 ## PERSONALIDAD
 
@@ -48,7 +48,7 @@ Registra a Max como S y le ofrece consejo profesional; no existe todavía lealta
 
 Deduce que Max es reencarnado y conoce el resultado del cristal y el testimonio sobre los orcos. No conoce el mecanismo de Sawardo.
 
-Tras la entrega sabe que diez días externos bastaron para completar Blackpeak y que las capacidades del grupo crecieron de forma anómala. Max le confirma en privado que hubo manipulación temporal y métodos intensivos, pero conserva en secreto los detalles (PDF, pp. 446-449).
+Tras la entrega sabe que diez días externos bastaron para completar Blackpeak y que las capacidades del grupo crecieron de forma anómala. Max le confirma en privado que hubo manipulación temporal y métodos intensivos, pero conserva en secreto los detalles (fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
 ## SECRETOS
 
@@ -56,19 +56,19 @@ Tras la entrega sabe que diez días externos bastaron para completar Blackpeak y
 
 ## EVOLUCIÓN
 
-Una corrección explícita elimina al guildmaster Torvan y restituye a Kira como responsable. Advierte a Max sobre conscripción, intrigas nobiliarias, rivalidad de gremios y riesgo de eliminación; acepta mantener confidencial la explicación parcial (PDF, pp. 446-449). Su presencia en otra supuesta sucursal del `Trade Kingdom` es una reconciliación narrativa no confirmada.
+Una corrección explícita elimina al guildmaster Torvan y restituye a Kira como responsable. Advierte a Max sobre conscripción, intrigas nobiliarias, rivalidad de gremios y riesgo de eliminación; acepta mantener confidencial la explicación parcial (fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`). Su presencia en otra supuesta sucursal del `Trade Kingdom` es una reconciliación narrativa no confirmada.
 
-En el día 26 llega con cuatro agentes para entregar quejas formales de Marlowe, Credence y Veinhardt. No intenta imponerlas: valida legalmente salarios, fiesta y origen gremial de la riqueza; recomienda que Max continúe y ofrece respaldo público. Acepta asistir con músicos y cuatro barriles de hidromiel, combinando protección institucional y curiosidad personal por la comida (PDF, pp. 744-755).
+En el día 26 llega con cuatro agentes para entregar quejas formales de Marlowe, Credence y Veinhardt. No intenta imponerlas: valida legalmente salarios, fiesta y origen gremial de la riqueza; recomienda que Max continúe y ofrece respaldo público. Acepta asistir con músicos y cuatro barriles de hidromiel, combinando protección institucional y curiosidad personal por la comida (misma fuente primaria).
 
-Llega a la fiesta a las 18:02, conversa con Max, prueba la celebración y respalda su efecto social fuera de registro. La narración cambia su aporte prometido a tres músicos y dos barriles con otra marca; esos detalles no sustituyen el acuerdo original. Se retira aproximadamente una hora antes de las 21:50 (PDF, pp. 802-819).
+Llega a la fiesta a las 18:02, conversa con Max, prueba la celebración y respalda su efecto social fuera de registro. La narración cambia su aporte prometido a tres músicos y dos barriles con otra marca; esos detalles no sustituyen el acuerdo original. Se retira aproximadamente una hora antes de las 21:50 (misma fuente primaria).
 
 ## ÚLTIMO ESTADO CONOCIDO
 
-Guildmaster de Thornhaven y enlace gremial propuesto por Max ante la Corona. No viaja en la comitiva de Aldoria; su última presencia directa fue la fiesta de la finca del día 27. Aldric acepta que futuras solicitudes dirigidas a Max pasen por ella (PDF, pp. 802-819, 925-930).
+Guildmaster de Thornhaven y enlace gremial propuesto por Max ante la Corona. No viaja en la comitiva de Aldoria; su última presencia directa fue la fiesta de la finca del día 27. Aldric acepta que futuras solicitudes dirigidas a Max pasen por ella (misma fuente primaria).
 
 ## REFERENCIAS
 
-PDF, pp. 45-49.
+Fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`.
 
 ## ADDENDUM — CIERRE DE MICROINTERACCIONES
 

@@ -36,4 +36,4 @@ Las menciones antiguas al nombre “Kael” que correspondían a esta explorador
 
 ## FUENTE
 
-Ficha anterior `03_PERSONAJES/Kael_Exploradora_Blackpeak.md`, PDF, pp. 137–141.
+Ficha anterior `03_PERSONAJES/Kael_Exploradora_Blackpeak.md`; fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`.

@@ -47,7 +47,7 @@ No aplica; personaje introducido en el palacio de Aldoria.
 
 ## APARIENCIA
 
-Mujer adulta con armadura plateada y gran espada; se mantiene a la derecha del trono (PDF, pp. 919-920).
+Mujer adulta con armadura plateada y gran espada; se mantiene a la derecha del trono (fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
 ## PERSONALIDAD
 
@@ -96,7 +96,7 @@ En el entorno del Palacio Real. Su entrevista privada se realizó formalmente; c
 
 ## REFERENCIAS
 
-PDF, pp. 919-942; [[CURRENT_STATE]].
+Fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`; [[CURRENT_STATE_5_FLORIS_AÑO3]].
 
 
 ---

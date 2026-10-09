@@ -10,7 +10,7 @@ No aplica.
 
 ## APARIENCIA
 
-Hombre musculoso de mediana edad, calvo, barba negra gruesa y cicatrices de quemadura en ambos antebrazos (PDF, p. 129).
+Hombre musculoso de mediana edad, calvo, barba negra gruesa y cicatrices de quemadura en ambos antebrazos (fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
 ## PERSONALIDAD
 
@@ -54,7 +54,7 @@ En su forja de Thornhaven.
 
 ## FUENTES
 
-PDF, pp. 128-144.
+Fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`.
 
 ## EVOLUCIÓN CAUSAL — ARTESANO ANTE UN MATERIAL QUE NO COMPRENDE DEL TODO
 

@@ -54,7 +54,7 @@ Asignada a la protección de Gutiérrez Estate durante el viaje.
 
 ## REFERENCIAS
 
-PDF, pp. 857-903; [[CURRENT_STATE]].
+Fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`; [[CURRENT_STATE_5_FLORIS_AÑO3]].
 
 
 ---
