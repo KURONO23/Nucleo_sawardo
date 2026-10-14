@@ -17,7 +17,7 @@
   > «Llevo más de treinta años vistiendo y amueblando las residencias más exigentes de este reino; sé distinguir a un cliente que busca apariencias de uno que busca un hogar verdadero.»  
   — Marissa Goldweave recibiendo a Max en The Golden Hearth (`00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`, líneas 16210–16268).
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** The Golden Hearth, Distrito de Artesanos de Aldoria.
 - **Responsabilidad actual:** Dirección de talleres de carpintería y ebanistería fina, atención a residencias distinguidas y proveedora de mobiliario para proyectos del Consorcio.
@@ -91,3 +91,12 @@
 ## ADDENDUM — CIERRE DE MICROINTERACCIONES
 
 - Recibe a Max, calcula la escala del encargo y se recompone profesionalmente antes de coordinar el mobiliario (`00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`, 16210–16268).
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` mejorar muebles, telas y ergonomía. `Ambición:` convertir su taller en escuela artesanal. `Vínculo:` clientes y proveedores. `Obstáculo / hito:` rechazar una copia de baja calidad y explicar por qué.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

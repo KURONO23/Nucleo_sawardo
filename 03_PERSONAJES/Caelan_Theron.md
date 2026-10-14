@@ -3,8 +3,8 @@
 ## Identidad estable
 Caelan Theron es príncipe heredero, hijo mayor de Aldric y hermano de Rowan. Es formal, disciplinado, competente en lo militar y paciente en diplomacia. Ignora el secreto de que Serath es su medio hermana biológica mayor; ese dato no puede guiar su conducta.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-Su estado confirmado incluye el servicio de Dravenn y apoyo a la estabilidad de Aldoria; no hay escena individual posterior al 5 de Floris que fije una nueva acción.
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
+Su estado confirmado incluye el servicio de Dravenn y apoyo a la estabilidad de Aldoria; no hay escena individual posterior al 5 de Verdalia que fije una nueva acción.
 
 ## CRONOLOGÍA CANÓNICA
 - Otoño, Año 2: coordina con Astrid en Dravenn y formaliza arrestos de Varnek Draal y Voren Haal, evitando guerra civil.
@@ -49,3 +49,12 @@ En Dravenn combina coordinación con procedimiento: trabaja con Astrid y formali
 - **La Misión en Dravenn (Otoño, Año 2):** Enviado por el Rey Aldric al Reino de Dravenn para investigar la movilización sospechosa en la frontera norte. Allí coordinó con **Lady Astrid Varkhenn** y presenció el caos generado por "Austin Powers" y los supuestos "Illuminati". Caelan formalizó el arresto de Lord Varnek Draal y del Capitán Voren Haal, evitando que estallara una guerra civil.
 - **Fan del Teatro de Goran:** Asistió al estreno de *Austin Powers: El Espía Seductor*. En la función especial del 25 de Ventisca, aplaudió de pie con los brazos en alto cuando descubrió que Max había reemplazado a Nilo en el escenario.
 - **Relación con Max:** Gran aprecio mutuo. Caelan ve a Max como un genio excéntrico y leal que fortalece a Aldoria con ideas extravagantes pero efectivas.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Propuso revisar el efecto de una disposición comercial sobre pequeños comerciantes. Su crecimiento como heredero pasa por evaluar consecuencias fuera de la corte antes de defender una medida.
+- **Ruta autónoma vigente:** `Meta:` aprender administración y escuchar a sectores que no son corte. `Ambición:` ser heredero con criterio propio, no una copia de Aldric. `Vínculo:` Rowan y tutores políticos. `Obstáculo / hito:` defender una propuesta ante un consejo dividido.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

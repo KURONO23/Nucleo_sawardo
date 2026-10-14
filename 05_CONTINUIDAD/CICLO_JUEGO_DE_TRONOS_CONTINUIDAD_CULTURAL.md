@@ -129,7 +129,7 @@ Las “reposiciones” fundacionales fueron nuevas noches de bar y lecturas de t
 - Confirmación posterior de que Goran conoce todo el ciclo por transcribirlo: `00_FUENTES/historia_original/AÑO_1/04_09_Solalto_Año_1_a_25_Solalto_Año_2.md`, alrededor de línea 285423.
 - Recuerdo del origen casual con Jasmine: misma fuente, alrededor de líneas 51533, 102267–102545 y 297010.
 - Conexión con el epílogo: misma fuente, encabezados `EL ÚLTIMO DUNK Y EGG`, `EGG COMO REY` y `DUNK CON CAPA BLANCA`, alrededor de 284387–284700.
-- Referencias retrospectivas: `00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md`, bloque cultural alrededor de líneas 849–886.
+- Referencias retrospectivas: `00_FUENTES/historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`, bloque cultural alrededor de líneas 849–886.
 
 **Estado de extracción:** ciclo oral completo y publicación consolidados. El casting y los ensayos no faltan de la fase fundacional: **no aplican**, porque la obra nació como relato de bar. Solo un montaje teatral independiente posterior permanece sin documentación integral.
 

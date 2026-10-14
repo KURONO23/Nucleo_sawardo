@@ -19,10 +19,10 @@
   - Voz cercana, afectuosa, madura y cómplice. Llama a Max invariablemente **«Max»**, con una cadencia que equilibra ternura y firmeza conyugal.
   - Humor seco y doméstico: disfruta pinchar a Max cuando este intenta esquivar compromisos sociales o inventa justificaciones ridículas (*«Max... define "varias veces"»*).
   - Complicidad conyugal plena: apoya las iniciativas culturales y la Operación «Somos Pobres», pero impone límites sensatos para que el hogar no se vuelva un circo.
-  - En el entrenamiento de servicio doméstico (Floris, Año 3): se divirtió utilizando su porte y exigencia de corte para elevar la dificultad de la cobertura de Max como «Marcos».
+  - En el entrenamiento de servicio doméstico (Verdalia, Año 3): se divirtió utilizando su porte y exigencia de corte para elevar la dificultad de la cobertura de Max como «Marcos».
 - **Reacción emocional confirmada:** Ante Darian y su círculo íntimo, Serath habla de Max con serenidad y orgullo sobrio, dejando claro que su elección matrimonial fue un acto de soberanía personal y amor correspondido.
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Estado histórico — 18 de Verdalia, Año 3
 
 - **Ubicación:** Cuartel General de la Guardia Real en Aldoria y alcobas conyugales de Casa Gutiérrez.
 - **Responsabilidad actual:** Mando supremo de la seguridad del reino, evaluación de los movimientos de casas patricias tras el Festival y coordinación con la Cancillería.
@@ -37,13 +37,14 @@
 
 ### Año 2
 - Matrimonio canónico con Max Josemar Gutiérrez; integración de sus vidas sin renunciar a su mando militar supremo ni a su apellido.
+- El primer aniversario, **17 de Cosecha**, pasó inadvertido: Serath y Max estaban completamente ocupados y ninguno recordó la fecha. No se inventa una discusión, celebración tardía ni agravio entre ellos.
 - Participación en palcos reales de las obras de Editorial Estrella Verde (*Austin Powers*, *¿Qué pasó ayer?*).
 - Cumpleaños de 33 años el 31 de Floris.
 
-### Año 3 (Bruma a Floris)
+### Año 3 (Bruma a Verdalia)
 - Respaldo a la culminación del Festival Internacional de la Cerveza.
 - Cierre financiero del 26 de Bruma: valida la autonomía de Natalia, Elise y Vivienne (salarios de 800 oro/mes) y disfruta la broma de «Somos Pobres».
-- 1–4 de Floris: Participa en el adiestramiento de Max para la infiltración en Casa Ardel, respaldando el liderazgo operativo de Lady Marianne (Yuki).
+- 1–4 de Verdalia: Participa en el adiestramiento de Max para la infiltración en Casa Ardel, respaldando el liderazgo operativo de Lady Marianne (Yuki).
 
 ## 4. Evolución causal
 
@@ -53,7 +54,7 @@
 - **Cambio:** Integró su matrimonio sin ceder un milímetro de su autoridad como Comandante Suprema de la Guardia Real.
 - **Conducta vigente:** Gobierna su vida marcial, protege su hogar y se permite disfrutar del humor y la complicidad sin perder su mirada penetrante.
 - **Influencia:** Es el ancla de estabilidad suprema de Aldoria y el contrapeso de sensatez de Max ante cualquier delirio de poder.
-- **Fuente:** `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md` y `AÑO_3/11_26_Bruma_Año_3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md` y `AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`.
 
 ## 5. Relaciones vivas
 
@@ -77,9 +78,9 @@
 
 - `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`
 - `00_FUENTES/historia_original/AÑO_2/05_26_Solalto_a_14_Ambar_Año_2.md`
-- `00_FUENTES/historia_original/AÑO_3/11_26_Bruma_Año_3.md`, líneas 1–1539.
-- `00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md`
-- [[CURRENT_STATE_5_FLORIS_AÑO3]]
+- `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`, líneas 1–1539.
+- `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md`
+- [[CURRENT_STATE_5_VERDALIA_AÑO3]]
 - **Canon autoral explícito:** Luce exactamente con el peinado de **Ada Wong de Resident Evil** (corte bob asimétrico elegante/táctico), mismo color de cabello **negro azabache** y esa misma mirada penetrante, inteligente y serena.
 
 ---
@@ -90,16 +91,16 @@
 - No objetó el aumento salarial a Natalia, Elise y Vivienne, señal de reconocimiento a su trabajo autónomo.
 - Max pretende decir ante socialites que puede gastar cuando «Serath le da permiso»; esto es una broma planeada, no una regla económica ni consentimiento ya concedido.
 - En el primer tramo de la mañana Serath todavía no había recibido el manual completo. Al atardecer del 26 de Bruma, Max le explicó personalmente el plan y ella comprendió y disfrutó la broma; esta escena posterior desplaza el pendiente anterior.
-- Fuente: `00_FUENTES/historia_original/AÑO_3/11_26_Bruma_Año_3.md`, líneas 1–1539.
+- Fuente: `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`, líneas 1–1539.
 
-## ADENDA — ENTRENAMIENTO E INFILTRACIÓN, 1–4 DE FLORIS
+## ADENDA — ENTRENAMIENTO E INFILTRACIÓN, 1–4 DE VERDALIA
 
 - Participó en la práctica de servicio de Max y se divirtió usando su autoridad y etiqueta para elevar la dificultad.
 - Respeta que Yuki dirija su propio arco y que Max opere como apoyo infiltrado, no como salvador.
 - Conoce la cobertura general y evalúa riesgos sin absorber la operación política de Ravenwood.
 - Conserva vida militar y matrimonial propia mientras Max actúa como Marcos.
 
-## EVOLUCIÓN AUTÓNOMA — SERATH AL 4 DE FLORIS, AÑO 3
+## EVOLUCIÓN AUTÓNOMA — SERATH AL 4 DE VERDALIA, AÑO 3
 
 ### Cambios ya confirmados
 - Pasó de evaluar a Max como una amenaza extraordinaria a construir con él un matrimonio sin abandonar su rango, su nombre ni su mando.
@@ -120,3 +121,20 @@
 - Edad comprobada en el tramo inicial: **32 años**.
 - Tras su cumpleaños del 31 de Floris del Año 2: **33 años**.
 - El siguiente 31 de Floris todavía no ha ocurrido. Véase [[REGISTRO_DE_EDADES_Y_CUMPLEANOS]].
+
+
+## ADENDA — VIGILANCIA REAL Y CONSEJO CONYUGAL (1 AL 18 DE VERDALIA, AÑO 3)
+
+- **Seguridad durante la infiltración de Marcos:** Mantuvo la seguridad de Gutiérrez Estate y coordinó con la administración sin abandonar sus responsabilidades en la Guardia Real. La fuente no confirma destacamentos exteriores alrededor de Casa Ardel.
+- **El respaldo al viaje de Thornhaven (8 de Verdalia):** Apoyó plenamente que Max pidiera el día libre para visitar a sus hermanos Ryu y Kenji: *«Primero la familia, Max. Disfruta con tus hermanos»*.
+- **Complicidad doméstica en Gutiérrez Estate:** Compartió con Max las mañanas de desayuno y la sorpresa para Liora (16–17 de Verdalia), riéndose de la broma afectuosa de Max con el **estuche con cuaderno y las orejas artesanales**.
+- **El consejo del 18 de Verdalia (22:30):** En ropa cómoda en la sala privada, evaluó las posibles responsabilidades de Corven Marr y pidió esperar la resolución, separar intención de prueba y no tomar una decisión irreversible esa noche.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Aplicó en la Guardia un sistema supervisado de turnos y descansos, mantuvo operativas las rutas de abastecimiento y decidió responder a Ravenwood con prudencia y pruebas, no con una movilización basada en rumores. Su matrimonio con Max permanece estable y su mando no depende de él.
+- **Ruta autónoma vigente:** `Meta:` mantener el mando de la Guardia, revisar seguridad y proteger su tiempo privado. `Ambición:` modernizar la defensa sin perder autoridad humana. `Vínculo:` Elara, Maelis, Celene y Mara sostienen su propio círculo; su matrimonio no absorbe sus carreras. `Obstáculo / hito:` una inspección o decisión de corte que deba tomar sin consultar a Max.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

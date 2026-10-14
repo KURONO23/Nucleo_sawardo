@@ -36,26 +36,22 @@ Las descripciones detalladas permanecen sujetas a las correcciones canónicas ex
 - No se detectaron otras fuentes dentro de `00_FUENTES/` durante el inventario inicial.
 - Los índices y extractos de análisis son material temporal y no sustituyen al PDF.
 
-## Ampliación del inventario — integración hasta 26 de Bruma, Año 3
+## Ampliación del inventario — Año 3 hasta 1 de Lluvia
 
 La frase “no se detectaron otras fuentes” describe únicamente el inventario inicial de septiembre de 2026. Desde entonces se incorporaron fuentes narrativas adicionales que deben conservarse y consultarse por tramo temporal.
 
 | Fuente | Tramo principal | Uso |
 |---|---|---|
-| `historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md` | 4 de Albor–mañana del 26 de Bruma, Año 3 | Fuente primaria del estado actual, Minas Quebradas, Elaris, Festival, Kazuki y proyecto G1-A |
+| `historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` | 1–31 de Albor, Año 3 | Fuente primaria del tramo de Albor |
+| `historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` | 1–28 de Bruma, Año 3 | Minas Quebradas, Elaris, Festival, G1-A, cierre financiero y Operación «Somos Pobres» |
+| `historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md` | 1 de Verdalia–1 de Lluvia, Año 3 | Fuente narrativa del arco de Verdalia, la infiltración de Marcos, el arco autónomo de Haruto y el retorno del control de Max |
 | `04_SISTEMAS/FESTIVAL DE LA CERVEZA TEATRO.md` | Origen teatral y desarrollo cultural del festival | Transcripción temática conservada fuera de `00_FUENTES`; debe tratarse como fuente histórica separada hasta resolver su ubicación matriz |
 
-## Ampliación del inventario — integración hasta 4 de Floris, Año 3
-
-| Fuente | Tramo principal | Uso |
-|---|---|---|
-| `historia_original/AÑO_3/11_26_Bruma_Año_3.md` | Mañana del 26 de Bruma | Cierre financiero y Operación «Somos Pobres» |
-| `historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md` | 26 de Bruma–4 de Floris | Biro/Goran, G1 funcional, Ravenwood/Ardel, Mizuki, Pequeño Zhong-Kyo, AVANCES y Casa Veylan |
-
-El segundo nombre termina en «3 de Floris», pero el contenido alcanza el 4 de Floris y termina durante una lista de alternativas. Se documenta la incidencia sin renombrar ni modificar la fuente.
+Los tres nombres anteriores que mezclaban Albor, Bruma y Floris fueron retirados del inventario activo. Sus copias históricas se conservan bajo `historia_original/_RESPALDOS/`; no deben citarse como fuentes vigentes.
 
 ### Regla de uso
 
-- Para el punto de reanudación prevalece el cierre cronológico más reciente: [[CURRENT_STATE_4_FLORIS_AÑO3]], salvo corrección explícita del usuario.
+- Para el punto de reanudación prevalece [[CURRENT_STATE_1_LLUVIA_AÑO3]]: 1 de Lluvia, Año 3 (Día global 746).
+- El tramo 18–31 de Verdalia y la transición al 1 de Lluvia se integran mediante [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]]. El archivo de fuente contiene material conversacional y duplicados históricos: no tratar cada opción, rumor o repetición como un hecho adicional.
 - Los documentos de `05_CONTINUIDAD/` son índices y síntesis navegables; no sustituyen el diálogo y las reacciones de las fuentes originales.
 - No modificar ni reemplazar las fuentes originales. Toda corrección o enriquecimiento debe añadirse a canon, sistemas, personajes o continuidad con trazabilidad.

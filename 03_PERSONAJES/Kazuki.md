@@ -3,7 +3,7 @@
 ## Identidad estable
 Kazuki es reencarnado japonés, líder de Minas Quebradas y estratega técnico. Su capacidad, comprensión estructural o *Intuitive Aptitude*, analiza componentes, relaciones y fallos; no copia poderes ni roba habilidades. Su modelo inicial de centralización contrasta con el trabajo en red de Max, sin volverlo antagonista violento.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
 Tras colaborar con Aldoria en Torre/G1, está en su último día de visita y debe decidir qué información puede llevar a Minas Quebradas. No hay decisión posterior fijada.
 
 ## CRONOLOGÍA CANÓNICA
@@ -91,3 +91,12 @@ El Día 500, Kazuki viajó personalmente a la capital de Aldoria bajo una identi
 - Minas Quebradas, Hessa y el Festival le enseñan que una mejora técnica puede abrir identidad regional, oficios y vínculos diplomáticos. No reduce su tierra a recursos ni a un escenario para Max.
 - La investigación conjunta de Referencia Temporal y el Ancla le da un método propio para plantear límites a Sawardo. Su capacidad no copia poderes ni garantiza contención absoluta.
 - Austin Powers le revela el coste humano de una producción exitosa; por eso defiende el límite de funciones y traslada esa atención a su liderazgo.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Continuó ordenando Minas Quebradas mediante responsables, drenaje y repuestos. La visita de Max y Aria reforzó su ruta hacia delegar sin dejar que su orgullo convierta cada problema en carga personal.
+- **Ruta autónoma vigente:** `Meta:` ordenar Minas Quebradas, drenaje, repuestos y responsables. `Ambición:` construir una comunidad que sobreviva a su ausencia y a su orgullo. `Vínculo:` Hessa, mineros y equipos de la Corona. `Obstáculo / hito:` delegar una decisión técnica sin corregirla por reflejo.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

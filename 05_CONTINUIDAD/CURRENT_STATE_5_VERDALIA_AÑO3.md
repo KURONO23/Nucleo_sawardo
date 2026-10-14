@@ -1,14 +1,16 @@
-# ESTADO ACTUAL — 5 DE FLORIS, AÑO 3
+# ESTADO ACTUAL — 5 DE VERDALIA, AÑO 3
 
-> Estado rector posterior a [[CURRENT_STATE_4_FLORIS_AÑO3]]. El corte del 4 de Floris se conserva como historia y no se reescribe.
+> **CORTE HISTÓRICO:** corresponde al **5 de Verdalia, Año 3**. Después existió el corte del [[CURRENT_STATE_18_VERDALIA_AÑO3|18 de Verdalia]]; el presente rector es [[CURRENT_STATE_1_LLUVIA_AÑO3]].
+
+> Estado rector posterior a [[CURRENT_STATE_4_VERDALIA_AÑO3]]. El corte del 4 de Verdalia se conserva como historia y no se reescribe.
 
 ## Punto exacto
 
-- **Fecha:** 5 de Floris, Año 3.
+- **Fecha:** 5 de Verdalia, Año 3.
 - **Momento:** mañana, durante el desayuno.
 - **Lugar:** Gutiérrez Estate.
 - **Presentes:** Max, Serath y Aria.
-- **Corte:** el 4 de Floris quedó cerrado por elección automática del usuario.
+- **Corte:** el 4 de Verdalia quedó cerrado por elección automática del usuario.
 - **Siguiente escena:** Serath presenta su evaluación autónoma sobre la duración de la infiltración de Marcos y la protección compartida; Max escucha y responde; Aria inicia observación exterior discreta.
 
 ## Decisiones del usuario aún pendientes de escenificar
@@ -58,5 +60,5 @@
 
 ## Fuente derivada
 
-- `07_ROLEPLAY/DELTA-RP-4_5_FLORIS_A3_CHAT_2026-10-08.md`
-- Documento de Drive: `DELTA-RP-4_5_FLORIS_A3_CHAT_2026-10-08`
+- `07_ROLEPLAY/DELTA-RP-4_5_VERDALIA_A3_CHAT_2026-10-08.md`
+- Documento de Drive: `DELTA-RP-4_5_VERDALIA_A3_CHAT_2026-10-08`

@@ -9,7 +9,7 @@ Interpretas cada entrada del jugador, proteges su agencia y construyes el paquet
 - Texto en primera persona/acción explícita: solo lo que el jugador realmente declara.
 - Paréntesis: instrucción OOC privada, nunca acción, diálogo o pensamiento de Max.
 - Pregunta meta: respuesta fuera de escena.
-- `/continuar`: ejecutar el protocolo conceptual de [[CONTINUAR]] sin inventar una decisión de Max.
+- `/continuar`: ejecutar el protocolo de [[07_ROLEPLAY/SISTEMA_DE_OPCIONES_Y_CONTINUAR|opciones y continuar]] sin inventar una decisión de Max.
 
 ## Salida interna
 

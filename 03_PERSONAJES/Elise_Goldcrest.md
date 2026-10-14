@@ -3,13 +3,13 @@
 ## Identidad estable
 Elise Goldcrest es artesana y comerciante textil vinculada a Casa Gutiérrez. Cálida, entusiasta y conciliadora, combina sensibilidad social con persistencia técnica: aprende de fallos materiales y los convierte en colaboración, en vez de quedar definida por ingenuidad.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
 Su trabajo de taller, inventario y fabricación siguió sosteniendo la Casa durante la ausencia de Max; recibe 800 oro mensuales desde el 26 de Bruma, sin retroactividad.
 
 ## CRONOLOGÍA CANÓNICA
 - Año 1: entra desde Velvet Rose y mantiene red artística, social y textil.
 - Año 2–3: transforma una dificultad con seda en colaboración técnica con Galwin y desarrolla máquina de coser.
-- 26 de Bruma–1 de Floris: reconoce formalmente su aumento por trabajo autónomo.
+- 26 de Bruma–1 de Verdalia: reconoce formalmente su aumento por trabajo autónomo.
 
 ## RELACIONES VIVAS
 - Natalia y Vivienne: amigas de infancia y equipo administrativo.
@@ -28,9 +28,9 @@ La fuente primaria y [[MICROINTERACCIONES_PERSONAJES_A_I]] prevalecen.
 - Participó voluntariamente en el diseño de respuestas técnicamente verdaderas de la Operación «Somos Pobres».
 - Función que Max le atribuye dentro del equipo: hacer que las ideas y estupideces se vean bien; el comentario revela reconocimiento de su oficio estético, aunque sea humorístico.
 - Quiere asistir a la próxima recepción para observar la reacción de Serath y los nobles; la recepción aún no está fijada.
-- Fuente: `00_FUENTES/historia_original/AÑO_3/11_26_Bruma_Año_3.md`, líneas 379–1539.
+- Fuente: `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`, líneas 379–1539.
 
-## ADENDA — 1 DE FLORIS, AÑO 3
+## ADENDA — 1 DE VERDALIA, AÑO 3
 
 - Descubrió formalmente en el cierre mensual que su remuneración había aumentado a 800 oro desde el 26 de Bruma.
 - Su sorpresa y agradecimiento no anulan su competencia ni convierten el aumento en caridad: Max lo vinculó al trabajo que sostuvo la Casa durante su ausencia.
@@ -113,7 +113,7 @@ Fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Añ
 - **Creación de los Chalecos Blindados:** Confeccionó los chalecos de protección invisible para Max y para Serath Vale, sometiéndolos a pruebas de impacto con Jasmine, Torin y Biro.
 - **Co-desarrollo de la Máquina de Coser:** La extrema dureza y resistencia de la seda motivó a Elise a colaborar con Galwin Gearwright para inventar la **primera máquina de coser mecánica rúnica**, industrializando la producción de prendas de alta gama y consolidando su liderazgo en la moda de Aldoria y Tornhaven.
 
-## ADDENDUM — 4–5 DE FLORIS, AÑO 3
+## ADDENDUM — 4–5 DE VERDALIA, AÑO 3
 
 Elise revisa calidad y costes del circuito de Cerveza Esmeralda junto a Natalia y Vivienne. El lote rechazado por Sayaka queda sin valoración económica hasta que una escena aporte cifra.
 
@@ -122,3 +122,12 @@ Elise revisa calidad y costes del circuito de Cerveza Esmeralda junto a Natalia 
 - La llegada de la Seda de Acero Estelar la coloca ante un material que no podía resolver con habilidad artesanal aislada. La colaboración con Galwin la convierte en cocreadora de una solución mecánico-rúnica, no en receptora de una invención ajena.
 - El crecimiento de House Gutiérrez y los proyectos culturales le enseñan a defender calidad, coste y tiempo de trabajo frente a la urgencia de Max. Su criterio material evita que la innovación se vuelva espectáculo sin uso.
 - Al trabajar con Natalia y Vivienne, extiende su influencia desde la moda hacia compras, revisión de lotes y capacidad productiva. Mantiene su propia identidad de artesana y no se vuelve administradora genérica.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Sostuvo compras, calidad, costes y tiempos junto a Natalia y Vivienne, sin convertirse en extensión de ninguna de ellas. Continúa transformando prototipos en oficios y estándares transferibles.
+- **Ruta autónoma vigente:** `Meta:` convertir prototipos en manuales, repuestos y oficios transferibles. `Ambición:` que los talleres sobrevivan aunque cambien los mecenas. `Vínculo:` Natalia, Galwin y artesanos. `Obstáculo / hito:` elegir qué estándar proteger cuando una imitación barata llegue al mercado.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

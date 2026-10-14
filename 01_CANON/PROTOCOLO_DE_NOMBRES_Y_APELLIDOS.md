@@ -1,6 +1,6 @@
 # Protocolo de nombres y apellidos para personajes nuevos
 
-**Estado:** vigente desde 5 de Floris, Año 3.  
+**Estado:** vigente desde 5 de Verdalia, Año 3.
 **Alcance:** personajes nuevos creados durante la continuación, fichas derivadas y escenas de vida autónoma.
 
 ## Regla autoral

@@ -57,24 +57,37 @@ Cada vez que concluye un día narrativo o Max se va a dormir, el turno de cierre
 
 ---
 
-## 5. PUNTO TEMPORAL ACTIVO DEL ROL
-- **Fecha y Momento Actual:** **Madrugada posterior a la Gran Noche de Luminarias, 30 DE NOCTALIA, AÑO 2 (DÍA 654 CONTINUO)**.
-- Consulta siempre [**`CURRENT_STATE.md`**](file:///c:/Users/Max/Documents/Codex/Nucleo_sawardo/05_CONTINUIDAD/CURRENT_STATE.md) para conocer la escena exacta donde se reanuda la historia.
+## 5. PUNTO TEMPORAL HISTÓRICO — NO ES EL PRESENTE
+
+> Esta sección conserva el antiguo punto de reanudación para consultar antecedentes. **No debe usarse como fecha activa ni como próximo evento.**
+
+- **Fecha histórica:** **Madrugada posterior a la Gran Noche de Luminarias, 30 de Noctalia, Año 2 (Día 654 continuo)**.
+- Para el presente y la escena exacta de reanudación, consultar siempre [**`CURRENT_STATE_1_LLUVIA_AÑO3.md`**](file:///c:/Users/Max/Documents/Codex/Nucleo_sawardo/05_CONTINUIDAD/CURRENT_STATE_1_LLUVIA_AÑO3.md) y [[CURRENT_STATE]].
 
 ---
 
-## 6. ACTUALIZACIÓN VIGENTE — MAÑANA DEL 26 DE BRUMA, AÑO 3
+## 6. ACTUALIZACIÓN VIGENTE — 1 DE LLUVIA, AÑO 3
 
-La sección anterior se conserva como registro del antiguo punto de reanudación. Desde la integración de Albor–Bruma, el punto activo es [[CURRENT_STATE_26_BRUMA_AÑO3]].
+Las secciones históricas anteriores se conservan para trazabilidad. El punto activo es [[CURRENT_STATE_1_LLUVIA_AÑO3]].
 
-- **Lugar:** Gutiérrez Estate.
-- **Presentes confirmados:** Max, Serath, Aria y Natalia; Kazuki se encuentra preparando su partida. No introducir otros presentes hasta que entren en escena.
-- **Corte histórico del 26 de Bruma:** las carpetas posteriores de Natalia, la salida de Kazuki, G1-A sin prueba y la recepción formal eran pendientes en ese momento.
-- **Estado vigente, 5 de Floris:** G1 tiene dos terminales funcionales limitados; Max opera como Marcos dentro de Casa Ardel; Mizuki investiga Veylan desde fuera sin enlace en tiempo real. La escena se reanuda en el desayuno de Gutiérrez Estate con Serath y Aria. Corven solo tiene un intento futuro de infiltración por proveedores/servicios/contratos plausibles.
-- **Control obligatorio de cumpleaños:** antes de cualquier salto temporal consultar [[CALENDARIO_CUMPLEANOS_CIRCULO_DE_MAX]]. Al 5 de Floris, Ryu cumple en tres días. Serath y Aria son fechas de máxima prioridad; las demás generan aviso y, si el usuario no solicita preparación especial, celebración automática coherente.
+- **Lugar previsto:** Gutiérrez Estate, Aldoria.
+- **Presentes funcionales:** Max, Serath, Aria y Natalia según la apertura que el usuario elija. No introducir a nadie más sin entrada de escena.
+- **Estado vigente:** Max recupera el control exclusivo después del arco autónomo de Haruto, Ren y Leo. Natalia prepara el cierre financiero del mes.
+- **Ravenwood–Ardel:** la revisión formal avanzó, pero no existe victoria definitiva ni patrocinador final identificado. Corven y Verrick están fracturados; Halven conserva registros y protege al personal.
+- **Casa Ardel:** Max completó la fase útil de cobertura como Marcos y preparó una salida ordenada. Su identidad real continúa intacta; no narrarlo como empleado permanente.
+- **Control obligatorio de cumpleaños:** antes de cualquier salto temporal consultar [[CALENDARIO_CUMPLEANOS_CIRCULO_DE_MAX]]. El próximo cumpleaños es Aldric, 5 de Lluvia. Ofrecer a Max la celebración automática, pero no asumirla sin su deseo o preferencia vigente; Serath y Aria son prioritarios y requieren decisión expresa. Los regalos espontáneos de Verdalia no adelantan cumpleaños.
 - **Control del jugador:** no narrar que Max abre la carpeta, aprueba la prueba, despide a Kazuki o responde a la conversación hasta que el usuario lo decida.
 - **Economía:** el saldo de `8270000` mostrado por una interfaz ajena no sustituye los libros del núcleo. Usar [[FINANZAS_CANON_VIGENTE]] y expresar por separado saldo confirmado, reconstrucción y partidas pendientes.
 - **Cultura viva:** cuando una obra, receta, cerveza o festival reaparezca, recuperar sus reacciones, vocabulario y apropiaciones locales desde [[CULTURA_DE_ALDORIA_INDICE]]; no tratar las obras como simples títulos sin consecuencias sociales.
+- **Humor y códigos que deben persistir:** conservar el chiste afectuoso de Max llamando **«Mamá Natalia»** a Natalia porque ella controla sus cuentas, exige recibos y le administra la “propina”; no interpretarlo literalmente ni borrar la autoridad profesional de Natalia. Mantener también el trío cultural **`BAKARINA` (Yuki), `FRIEREN` (Mizuki/Cecilia) y `BAZUMA` (Max/Kazuma Satou)**. Son apodos y bromas de confianza construidos en escena: no cambian identidades, no crean romances ni autorizan a decidir diálogos o sentimientos del jugador.
+
+### Integración de foco y crecimiento fuera de cámara
+
+- El foco puede desplazarse a Haruto, Ren, Leo u otra persona sin congelar las tramas de Max. El personaje que no ocupa la cámara debe conservar trabajo, consecuencias, relaciones y decisiones compatibles con sus límites.
+- Cuando Max trabaja, investiga o permanece encubierto, sus avances fuera de cámara se registran como hechos concretos —no como resolución automática— con responsable, evidencia y siguiente paso.
+- Un arco autónomo puede cerrar una etapa de crecimiento de un personaje, pero no debe decidir por Max ni resolver misterios que la fuente dejó abiertos.
+- Al regresar el foco a Max, presentar un resumen operativo breve de lo ocurrido fuera de cámara y devolverle el control antes de cualquier decisión mayor.
+- El resumen debe incluir también los frentes propios de Max: cierre con Halven, Ravenwood, Cecilia/Mizuki, G1 y cámara histórica, Gremio/Kira, economía y vida con Serath. Casa Ardel no sustituye esos frentes.
 
 ---
 

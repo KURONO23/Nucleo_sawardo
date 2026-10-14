@@ -16,7 +16,7 @@
 - **En combate:** Silenciosa, concentrada y letal. Se comunica con silbidos cortos o señas de mano con Marcus Ashford.
 - **Comportamiento en escena confirmado:** Se presenta como arquera de rango B y responde con humor e interés genuino al primer encuentro con Max (`00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`, líneas 18541–18563).
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Puestos fronterizos y tabernas gremiales de Aldoria.
 - **Responsabilidad actual:** Rastreo y tiro de cobertura en misiones de rango B en conjunto con Marcus Ashford.
@@ -99,3 +99,12 @@
 - El contacto con el círculo de Biro y Max amplía sus referencias, pero su habilidad sigue siendo exploración y tiro de cobertura de rango B, no una réplica de talentos ajenos.
 - La convivencia profesional con Marcus y las misiones perimetrales refuerzan el valor de observar primero: su humor y curiosidad no sustituyen una lectura de ruta.
 - Mantener la distinción con Lyssa protege dos trayectorias reales. Lyra puede crecer mediante exploraciones y decisiones propias sin absorber la ascensión, la Vigilia o la historia de la guardiana de la finca.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` sostener movilidad y apoyo en incursiones. `Ambición:` ser reconocida por su lectura de rutas, no solo por acompañar a Marcus. `Vínculo:` Marcus, Gareth y Biro. `Obstáculo / hito:` proponer una ruta propia con retirada clara.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

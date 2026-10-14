@@ -19,7 +19,7 @@
   - En escena confirmada: Se acerca a Max sin miedo, le entrega con sus manitas un pedazo de papel rústico con un dibujo de carbón donde retrata a Max caminando a través de la niebla como una figura protectora y luminosa (`00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`, líneas 27774–27777).
 - **Tratamiento:** Elena se dirige a Max como «señor Max» con profunda devoción popular.
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Puestos populares del mercado central de Aldoria.
 - **Responsabilidad actual:** Venta pacífica de sus productos en el mercado protegido y asistencia de Suri a juegos y actividades infantiles.
@@ -94,3 +94,12 @@
 - Suri entrega a Max un dibujo de carbón; el gesto infantil transforma una intervención económica en memoria cultural. `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md:L27774-L27777`.
 - No recibe una misión de Max: observa, interpreta y actúa por iniciativa propia.
 - Las fuentes no documentan edad, oficio posterior ni nuevas decisiones; no inventar crecimiento adicional.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` aprender y cuidar su relación con Elena. `Ambición:` desarrollar una habilidad o interés propio. `Vínculo:` Elena y su entorno. `Obstáculo / hito:` tomar una iniciativa pequeña sin esperar permiso.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

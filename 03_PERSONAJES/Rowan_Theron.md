@@ -18,7 +18,7 @@
   — Rowan señalando al escenario muerto de la risa.
 - **Criterio político en escena confirmada:** Durante la audiencia con el Rey Aldric demostró un agudo sentido analítico, distinguiendo con precisión entre quién hace más ruido cortesano y quién representa una amenaza real (`isekai Día 588...`, líneas 576–628).
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Palacio Real de Aldoria y distritos culturales de la ciudad.
 - **Responsabilidad actual:** Representación cultural de la Corona, mecenas de las iniciativas recreativas juveniles y enlace con los talleres del Consorcio.
@@ -95,3 +95,12 @@
 ## ADDENDUM — CIERRE DE MICROINTERACCIONES
 
 - Durante la audiencia con Aldric distingue entre quien hace más ruido y quien es más peligroso; aporta criterio político propio (`isekai Día 588...`, 576–628).
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Pidió que las iniciativas culturales fueran evaluadas también por su continuidad financiera. Evoluciona de mecenas entusiasta hacia patrocinador responsable.
+- **Ruta autónoma vigente:** `Meta:` apoyar artes, ingeniería y festividades sin convertirlas en adorno real. `Ambición:` ser mecenas cultural con responsabilidad pública. `Vínculo:` artistas, Galwin y estudiantes. `Obstáculo / hito:` financiar un proyecto que pueda sobrevivir sin la Corona.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

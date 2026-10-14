@@ -10,9 +10,9 @@
 
 Memoria canónica y sistema modular para el roleplay de **Los Ventura**.
 
-> **Presente narrativo real:** **5 de Floris, Año 3**. Los estados del Día 654, 26 de Bruma y 4 de Floris se conservan como fotografías históricas. La escena se reanuda en el desayuno de Gutiérrez Estate con Max, Serath y Aria.
+> **Presente narrativo real:** **1 de Lluvia, Año 3, Día continuo 746**. El corte del 18 de Verdalia, el Día 654, 26 de Bruma y los antiguos 4–5 de «Floris» se conservan como fotografías históricas; en ese tramo, Floris era un rótulo erróneo de Verdalia.
 
-> **REGLA DE ARRANQUE OBLIGATORIA:** el Día 634 **no es el presente**. Es un corte histórico de Año 2 y solo se consulta para reconstruir antecedentes. Toda sesión nueva debe comenzar en [[CURRENT_STATE_5_FLORIS_AÑO3]] y usar las referencias de la sección **Inicio rápido vigente**. No abrir [[CURRENT_STATE]] para reanudar la historia.
+> **REGLA DE ARRANQUE OBLIGATORIA:** toda sesión nueva comienza en [[CURRENT_STATE_1_LLUVIA_AÑO3]] o en el resumen [[CURRENT_STATE]].
 
 ## Referencias prioritarias nuevas
 
@@ -21,17 +21,16 @@ Memoria canónica y sistema modular para el roleplay de **Los Ventura**.
 - Evolución individual e influencia entre personajes: [[ENRIQUECIMIENTO_CAUSAL_DEL_ELENCO]].
 - Cultura y adopciones: [[LEGADO_CULTURAL_DE_MAX]].
 - Expedientes por obra, Cerveza Esmeralda y Festival: [[CULTURA_DE_ALDORIA_INDICE]].
-- Fuente corriente más reciente integrada: delta RP `07_ROLEPLAY/DELTA-RP-4_5_FLORIS_A3_CHAT_2026-10-08.md`; la matriz original continúa siendo intocable.
+- Fuente corriente más reciente: `00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md`.
 - Liquidez actual conciliada: **905,905 oro**.
-- Cumpleaños y alertas de salto temporal: [[CALENDARIO_CUMPLEANOS_CIRCULO_DE_MAX]]. Próximo: **Ryu, 8 de Floris**.
+- Cumpleaños y alertas de salto temporal: [[CALENDARIO_CUMPLEANOS_CIRCULO_DE_MAX]]. Próximo: **Aldric, 5 de Lluvia**.
 - Misiones, autoridad de Kira y aportes: [[MISIONES_PROPUESTAS_POR_NPC_AÑO3]] y [[AUDITORIA_GREMIO_FONDO_VETERANOS_AÑO3]].
 
-## Archivo histórico actualizado — corte del 1 de Floris, Año 3 (no vigente)
+## Archivo histórico actualizado — corte del 1 de Verdalia, Año 3 (no vigente)
 
-- **Fecha narrativa:** **1 de Floris, Año 3**. Este corte es posterior al Día 634 y anterior al presente rector del 5 de Floris.
-- **Situación:** Natalia abre el cierre de Bruma, la nómina y los resultados de Cervecería Esmeralda junto a Vivienne y Elise. El cumpleaños de Haruto ya ocurrió fuera de cámara: tiene **19 años**.
+- **Fecha narrativa corregida:** **1 de Verdalia, Año 3**. El archivo heredado la llamó Floris por error. Haruto todavía tiene **18 años**.
 - **Finanzas verificadas en la escena:**
-  - Último saldo líquido conciliado conocido: **905,905 oro**, correspondiente al cierre del 26 de Bruma y arrastrado como base al 1 de Floris.
+  - Último saldo líquido conciliado conocido: **905,905 oro**, correspondiente al cierre del 26 de Bruma y arrastrado como base al 1 de Verdalia.
   - Nueva remuneración ordinaria: **800 oro mensuales para Natalia, Elise y Vivienne**, vigente desde el 26 de Bruma.
   - Flujo estructural hacia adelante: **7,270 oro/mes** bajo la nueva nómina; no se recalcula todo Bruma retroactivamente con ese coste.
   - **Cervecería Esmeralda:** rentable, con dividendos activos e impacto positivo del Festival; el importe exacto acumulado todavía no está fijado canónicamente.
@@ -39,8 +38,8 @@ Memoria canónica y sistema modular para el roleplay de **Los Ventura**.
 
 ## Consulta histórica — Día 634 (no iniciar sesiones desde aquí)
 
-1. Consultar el corte del Día 634 conservado en [[CURRENT_STATE]] solo si se necesita recuperar antecedentes.
-2. No usar [[CURRENT_STATE]] como punto de reanudación: sus cifras, hilos y estado pertenecen al Día 634 y ya fueron superados por el corte del 1 de Floris.
+1. Consultar [[TIMELINE]] o los estados históricos específicos si se necesitan antecedentes del Día 634.
+2. [[CURRENT_STATE]] es el resumen operativo vigente del 1 de Lluvia; sí puede utilizarse para reanudar la historia.
 3. Seguir las directrices históricas conservadas en [[DIRECTRICES_MAESTRAS_ROLEPLAY]].
 4. Consultar fuentes primarias directas en `00_FUENTES/historia_original/`.
 
@@ -48,18 +47,18 @@ Este proyecto creativo permanece estrictamente separado de cualquier núcleo hid
 
 ---
 
-## Inicio rápido vigente — 5 de Floris, Año 3
+## Inicio rápido vigente — 1 de Lluvia, Año 3
 
 La sección anterior se conserva como corte histórico. Para una sesión nueva usar, en este orden:
 
-1. [[CURRENT_STATE_5_FLORIS_AÑO3]].
-2. [[DELTA-RP-4_5_FLORIS_A3_CHAT_2026-10-08]].
+1. [[CURRENT_STATE_1_LLUVIA_AÑO3]].
+2. [[CURRENT_STATE]].
 3. [[FINANZAS_CANON_VIGENTE]].
 4. [[PLOT_THREADS]] y sus hilos añadidos al Año 3.
 5. [[CULTURA_DE_ALDORIA_INDICE]] cuando la escena involucre teatro, relatos, cerveza o festivales.
 6. [[REGISTRO_DE_VIDA_AUTONOMA_Y_METAS_AÑO3]] para saber qué hace cada personaje cuando Max no está presente.
 
-**Punto vigente:** 5 de Floris, Año 3; desayuno en Gutiérrez Estate; Max sigue bajo la cobertura Marcos; Veylan/Averne continúa como pista provisional; Mizuki investiga desde fuera sin comunicación en tiempo real. Véase [[CURRENT_STATE_5_FLORIS_AÑO3]].
+**Punto vigente:** 1 de Lluvia, Año 3; Max recupera el control después del arco autónomo de Haruto, Ren y Leo. Natalia prepara el cierre financiero y el desenlace de Ravenwood sigue pendiente. Véase [[CURRENT_STATE_1_LLUVIA_AÑO3]].
 
 ## Entrada modular de bajo consumo
 

@@ -17,7 +17,7 @@
   > «Por mandato soberano de Su Majestad, se extiende la presente invitación formal para presentarse en el Gran Salón de Audiencias del Palacio de Aldoria.»  
   — Sello, firma y proclamación formal de Lord Chamberlain Oswin Greaves convocando a Max Gutiérrez.
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Palacio Real de Aldoria.
 - **Responsabilidad actual:** Gestión de audiencias reales, supervisión de la etiqueta cortesana para la temporada de primavera y registro de visitas oficiales.
@@ -84,3 +84,12 @@
 ## ADDENDUM — CIERRE DE MICROINTERACCIONES
 
 - Preserva la solemnidad monárquica en cada interacción y garantiza la validez ritual del ascenso de los héroes ante el reino.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` custodiar audiencias, proclamas y registros. `Ambición:` dejar un protocolo de palacio claro para la siguiente generación. `Vínculo:` Aldric y escribientes. `Obstáculo / hito:` resolver una anomalía de archivo sin dañar la confianza institucional.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

@@ -1,6 +1,6 @@
 # Agent Registry
 
-> **Estado operativo:** 5 de Floris, Año 3. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]]; [[CURRENT_STATE_4_FLORIS_AÑO3]] y cualquier arranque del 26 de Bruma o del Año 2 son cortes históricos.
+> **Estado operativo global:** 18 de Verdalia, Año 3. Usar [[CURRENT_STATE]]; [[CURRENT_STATE_5_VERDALIA_AÑO3]], [[CURRENT_STATE_4_VERDALIA_AÑO3]] y cualquier arranque del 26 de Bruma o del Año 2 son cortes históricos.
 
 | NOMBRE | MISIÓN | PRIORIDAD | CUÁNDO SE ACTIVA | ENTRADAS | ARCHIVOS PERMITIDOS | ARCHIVOS MODIFICABLES | SALIDA | RESTRICCIONES | DEPENDENCIAS | AUTORIDAD | DESACTIVACIÓN |
 |---|---|---:|---|---|---|---|---|---|---|---|---|
@@ -67,12 +67,12 @@ Toda actualización del núcleo es **aditiva**: enriquecer mediante secciones, a
 
 ## Actualización histórica de arranque — 26 de Bruma, Año 3
 
-- Este bloque conserva el arranque de [[CURRENT_STATE_26_BRUMA_AÑO3]]. El estado operativo vigente es [[CURRENT_STATE_5_FLORIS_AÑO3]]; [[CURRENT_STATE_4_FLORIS_AÑO3]] y `CURRENT_STATE.md` conservan cortes históricos anteriores.
+- Este bloque conserva el arranque de [[CURRENT_STATE_26_BRUMA_AÑO3]]. El estado operativo vigente es [[CURRENT_STATE_5_VERDALIA_AÑO3]]; [[CURRENT_STATE_4_VERDALIA_AÑO3]] y `CURRENT_STATE.md` conservan cortes históricos anteriores.
 - Antes de continuar rol, cargar también [[DELTA-RP-026_INTEGRACION_ALBOR_BRUMA_AÑO3]], [[RELACIONES_ADDENDUM_26_BRUMA_AÑO3]] y [[CONOCIMIENTO_ADDENDUM_26_BRUMA_AÑO3]].
 - Para economía, no improvisar el saldo mostrado por interfaces antiguas: usar [[FINANZAS_CANON_VIGENTE]] y mantener como pendientes las compras de Elaris y el contenido no abierto de la carpeta de Natalia.
 - Para cultura, consultar [[CULTURA_DE_ALDORIA_INDICE]] y [[LEGADO_CULTURAL_DE_MAX]] antes de crear reacciones o vocabulario derivado de obras.
 - **Regla histórica del 26 de Bruma:** el Director no debía decidir si Max abría la carpeta o probaba G1-A; esas decisiones ya fueron superadas por escenas posteriores.
-- **Regla vigente del 4 de Floris:** el Director no debe decidir por Max cuándo cerrar el turno de Marcos, ni hacer que Mizuki conozca los informes internos antes de la comparación. Tampoco debe revelar al financiador final, la identidad de Marcos ante Corven o el sentido de las tablillas sin evidencia narrativa.
-- Antes de aprobar cualquier salto temporal, el Guardián de Canon debe consultar [[CALENDARIO_CUMPLEANOS_CIRCULO_DE_MAX]]. Si el salto cruza una fecha, se detiene y avisa al usuario; sin instrucción especial se aplica la celebración automática ya autorizada, excepto Serath y Aria, que requieren aviso prioritario.
+- **Regla fijada el 4 de Verdalia:** el Director no debe decidir por Max cuándo cerrar el turno de Marcos, ni hacer que Mizuki conozca los informes internos antes de la comparación. Tampoco debe revelar al financiador final, la identidad de Marcos ante Corven o el sentido de las tablillas sin evidencia narrativa.
+- Antes de aprobar cualquier salto temporal, el Guardián de Canon debe consultar [[CALENDARIO_CUMPLEANOS_CIRCULO_DE_MAX]]. Si el salto cruza una fecha, se detiene y avisa al usuario. La celebración automática solo se aplica si Max la desea o existe una preferencia vigente que la autorice; Serath y Aria siempre requieren aviso y decisión expresa por su prioridad.
 - Para preguntas históricas sobre amenazas, deudas o conflictos, Guardián del Canon y Cronista Social deben recuperar la **cadena causal completa**, no solo la primera mención. Ejemplo rector: mercenarios amenazan tras las 20 monedas de Goran → Max usa Sawardo y los deja desnudos → les paga cinco oro para proteger a los escribas → «Un Lannister siempre paga sus deudas».
 - Aplicar siempre [[DOCTRINA_DE_ENRIQUECIMIENTO_Y_VIDA_AUTONOMA]]. Toda acción directa o indirecta de Max que produzca crecimiento, transmisión o persistencia debe dirigirse al Custodio de Impacto y al archivo de destino apropiado.

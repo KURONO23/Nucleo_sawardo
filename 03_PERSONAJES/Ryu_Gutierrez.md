@@ -19,7 +19,7 @@
   > «¡Tiene una presión física impresionante y lee el contacto como pocos! En cuanto aprenda a no malgastar energía cuando se divierte contra tipos fuertes, estará tocando la puerta de la Clase S.»  
   — Dictamen de Guildmaster Kira y Serath Vale en el examen oficial de Ryu (Día 426).
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Estado histórico — 18 de Verdalia, Año 3
 
 - **Ubicación:** Thornhaven / Pequeño Zhong-Kyo (puerto base del *Serath-Maru* y Casa Puente).
 - **Responsabilidad actual:** Coordinación de la seguridad naval y costera del *Serath-Maru*, enlace de Casa Puente junto a Kenji y protección de las familias migrantes.
@@ -39,7 +39,7 @@
 
 ### Año 3 (Bruma a Floris)
 - Cofunda y sostiene **Casa Puente** en Pequeño Zhong-Kyo.
-- 3 de Floris: Recibe a Max, Aria y Mizuki en Pequeño Zhong-Kyo, facilitando el diálogo sobre memoria e historia local.
+- 3 de Verdalia: Recibe a Max, Aria y Mizuki en Pequeño Zhong-Kyo, facilitando el diálogo sobre memoria e historia local.
 
 ## 4. Evolución causal
 
@@ -49,7 +49,7 @@
 - **Cambio:** Aprendió a canalizar su presión física en liderazgo táctico y responsabilidad colectiva.
 - **Conducta vigente:** Protege a los marineros y a la comunidad de Pequeño Zhong-Kyo sin buscar peleas innecesarias.
 - **Influencia:** Es el brazo naval y de vanguardia de Casa Gutiérrez en Thornhaven.
-- **Fuente:** `00_FUENTES/historia_original/AÑO_2/08_11_Noctalia_a_30_Noctalia_Año_2.md` y `AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_2/08_11_Noctalia_a_30_Noctalia_Año_2.md` y `AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` y `AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md`.
 
 ## 5. Relaciones vivas
 
@@ -70,13 +70,13 @@
 ## 7. Fuentes y correcciones
 
 - `00_FUENTES/historia_original/AÑO_2/08_11_Noctalia_a_30_Noctalia_Año_2.md`
-- `00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md`
-- [[CURRENT_STATE_5_FLORIS_AÑO3]]
+- `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md`
+- [[CURRENT_STATE_5_VERDALIA_AÑO3]]
 - **Corrección autoral:** Hermano adoptivo de Max; Rango Oficial Clase A Alta.
 
 ---
 
-## ADENDA — PEQUEÑO ZHONG-KYO, 3 DE FLORIS, AÑO 3
+## ADENDA — PEQUEÑO ZHONG-KYO, 3 DE VERDALIA, AÑO 3
 
 - Actúa con Kenji como enlace comunitario durante la investigación de comida, lengua y relatos antiguos.
 - No entrega autoridad sobre el templo ni los originales: Hwan-Rei y la comunidad conservan control.
@@ -137,3 +137,20 @@
    - Navegación transoceánica como timonel y oficial de cubierta.
 4. **El Examen de los Dos contra Tres (Día 426):**
    - Combatió junto a Kenji ante tres examinadores de Clase A, ganando su rango con honores.
+
+
+## ADENDA — VISITA FRATERNAL EN THORNHAVEN (8 DE VERDALIA, AÑO 3)
+
+- **El reencuentro de hermanos:** El 8 de Verdalia, Max pidió un día libre en su cobertura de Casa Ardel para viajar exclusivamente a Thornhaven y pasar tiempo con Ryu y Kenji.
+- **El regalo de exploración:** Max le entregó un cuaderno de cuero artesanal para cartografía y notas de campo: *«Ryu, que nunca te falten historias por descubrir. Y cuando encuentres algo interesante, acuérdate de contármelo»*.
+- **Día de familia:** Pasaron la jornada cocinando y conversando; Max impuso la orden cariñosa de que quedaba prohibido trabajar.
+- **Calendario de cumpleaños:** Su cumpleaños canónico oficial se mantiene el **8 de Floris**.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Continuó rutas, cartografía, Casa del Puente y responsabilidades del Serath-Maru fuera del foco principal. Su cumpleaños permanece el 8 de Floris y no se adelanta.
+- **Ruta autónoma vigente:** `Meta:` consolidar rutas, cartografía y el trabajo del *Serath-Maru*. `Ambición:` convertirse en navegante y constructor de una red de acogida que no dependa de la Casa. `Vínculo:` Kenji, Hwan-Rei y los trabajadores de Casa del Puente. `Obstáculo / hito:` equilibrar liderazgo de cubierta con la libreta comunitaria de trabajadores.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

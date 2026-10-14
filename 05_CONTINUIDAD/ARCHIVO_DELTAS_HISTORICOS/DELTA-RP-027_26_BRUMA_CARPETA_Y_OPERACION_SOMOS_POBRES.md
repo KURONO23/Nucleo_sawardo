@@ -2,7 +2,7 @@
 
 ## Fuente incorporada
 
-`00_FUENTES/historia_original/AÑO_3/11_26_Bruma_Año_3.md` — matriz de solo lectura.
+`00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` — matriz de solo lectura.
 
 - Tamaño comprobado: 28.915 bytes.
 - SHA-256 al integrar: `161AD0ECDA0E09655879545065655BA581260A94D7E37D815A40D512043B9ACA`.

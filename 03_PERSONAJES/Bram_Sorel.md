@@ -3,7 +3,7 @@
 ## Identidad estable
 Actor dramático veterano de la Compañía Teatral Goran. De porte solemne, voz barítona y técnica de economía: usa el silencio y el movimiento mínimo para construir autoridad. Creó a Lord Corvin Varel, villano ideológico y burocrático, no una caricatura gritona.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
 Integra el circuito teatral vigente como intérprete de Varel. No hay escena individual posterior consolidada que autorice situarlo o darle una acción nueva.
 
 ## CRONOLOGÍA CANÓNICA
@@ -47,3 +47,12 @@ Bram defiende la literatura seria del grupo y sostiene una voz dramática propia
 
 - **La Concepción de Varel:** Bajo la dirección de Max y Goran, Bram dio vida al villano que personifica el monopolio y la centralización despiadada de rutas mercantes. Su interpretación contrastó brutalmente con la música de *Lacrimosa*, convirtiendo a Varel en una figura temible y memorable para el público de Aldoria y Dravenn.
 - **Aclamación Crítica:** Los nobles de la corte (incluidos Caelan y Rowan Theron) elogiaron su capacidad para encarnar la tiranía administrativa sin caer en la caricatura.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` perfeccionar Lord Corvin Varel y mentorizar actores jóvenes. `Ambición:` dejar escuela de interpretación dramática. `Vínculo:` Nilo y Goran. `Obstáculo / hito:` aceptar una crítica que no provenga de Max.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

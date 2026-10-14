@@ -25,7 +25,7 @@ Integra sin borrar los cortes anteriores: Casa del Puente, Minas Quebradas, Refe
 ## Fuentes
 
 - `00_FUENTES/historia_original/AÑO_2/09_31_Noctalia_Año_2_a_01_Albor_Año_3.md`.
-- `00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md`.
+- `00_FUENTES/historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`.
 
 ## Archivos rectores derivados
 

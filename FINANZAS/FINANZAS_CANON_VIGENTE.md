@@ -4,9 +4,10 @@
 
 ## Corte narrativo
 
-- **Presente:** 4 de Floris, Año 3.
+- **Presente financiero de auditoría:** 1 de Lluvia, Año 3. El último cierre contable completo sigue siendo el del 26 de Bruma; Verdalia y el inicio de Lluvia requieren cierre posterior.
 - **Último cierre líquido exacto jugado:** 26 de Bruma, Año 3.
 - **Tesorería personal líquida confirmada:** **905.905 oro**.
+- **Advertencia temporal:** que hayan transcurrido Albor, Bruma y Verdalia no autoriza a sumar tres meses automáticamente. Solo Albor quedó acreditado en una cuenta; Bruma quedó proyectado y Verdalia quedó pendiente de presentación.
 - No volver a usar 824.000, 827.000, 827.695, 890.935, 898.955, 899.895, 908.365 o 914.375 como saldo presente. Son bases, cortes, subtotales o proyecciones históricas explicadas en el historial.
 
 ## Conciliación que produce 905.905
@@ -23,12 +24,31 @@
 ## Flujo ordinario vigente
 
 - Rendimiento empresarial estable anterior al contrato de Galwin: **8.970 oro/mes**.
-- Contrato de Galwin por mantenimiento técnico de la red de nodos: **−500 oro/mes**, vigente al presente del 5 de Floris, Año 3.
+- Contrato de Galwin por mantenimiento técnico de la red de nodos: **−500 oro/mes**, vigente hasta el último cierre auditado; cualquier cambio posterior requiere asiento.
 - Flujo libre anterior al aumento salarial: **8.470 oro/mes**.
 - Desde el 26 de Bruma, Natalia, Elise y Vivienne reciben **800 oro/mes cada una**.
 - Incremento fijo respecto al esquema anterior: **1.200 oro/mes**.
 - **Flujo ordinario estructural vigente: 7.270 oro/mes**, antes de dividendos variables e ingresos extraordinarios.
 - El aumento comenzó el 26 de Bruma: no aplicar 7.270 retroactivamente a todo ese mes.
+
+### Desglose empresarial auditado
+
+La fuente financiera del Año 2 fija un bloque recurrente histórico de **8.970 oro/mes**: Thornhaven 2.870, Dragón de Oro 4.000, Editorial/Estrella Verde 750 y participaciones mercantes 1.350. El total y las cuatro categorías están confirmados; el rótulo «Thornhaven» no especifica si esos 2.870 son exclusivamente la sede fundacional del Dragón de Oro o un bloque comercial más amplio de Thornhaven. Por tanto, no se reasigna esa cifra sin un asiento posterior.
+
+- **Dragón de Oro:** dos sedes canónicas, Tornhaven y Aldoria. La sede de Aldoria tiene **4.000 oro netos/mes** explicitados en el documento de cocina; el rendimiento mensual separado de la sede de Tornhaven queda `DESGLOSE_NO_CONFIRMADO`.
+- **Editorial Estrella Verde:** **750 oro/mes** como ingreso recurrente histórico; no existe un cierre individual más reciente que actualice esa cifra.
+- **Participaciones mercantes:** **1.350 oro/mes** en el bloque histórico; no se ha presentado un libro individual actualizado.
+- **Cervecería Esmeralda:** rentable, con dividendos periódicos activos y variables. No existe dividendo mensual fijo ni cifra acumulada conciliada; no se suma al 7.270 hasta el cierre de Natalia.
+- **Thornhaven:** mantiene actividad comercial y la sede fundacional del Dragón de Oro, pero la tabla financiera no permite separar con seguridad el importe de 2.870.
+
+## Seguimiento de los tres meses del Año 3
+
+| Tramo | Estado contable | Tratamiento correcto |
+|---|---|---|
+| Albor | Cierre acreditado: +8.470; después de recompensa, hospedaje, materiales y compras de Elaris, saldo 905.905 | Ya incluido en el saldo confirmado |
+| Bruma | +8.470 fue una proyección; el aumento salarial del día 26 cambia el flujo futuro a 7.270/mes | No sumar como caja hasta cerrar fechas y gastos |
+| Verdalia | Las empresas siguieron operando; Esmeralda mantuvo dividendos activos, pero no se fijó importe. No hay cierre mensual presentado | Mantener ingresos, dividendos y gastos como `PENDIENTE_DE_CONCILIAR` |
+| 1 de Lluvia | Natalia está preparada para presentar el cierre | No inventar saldo posterior ni declarar que quedó igual por ausencia de escena |
 
 ## Cervecería Esmeralda
 
@@ -71,7 +91,7 @@ El saldo actual del fondo no se infiere de esos depósitos históricos: pensione
 ## Patrimonio
 
 - Última tasación histórica cerrada, al final de Noctalia Año 2: **1.497.455 oro**.
-- Esta cifra **no es el patrimonio vigente del 4 de Floris**: faltan tasaciones del Año 3.
+- Esta cifra **no es el patrimonio vigente del 1 de Lluvia**: faltan tasaciones del Año 3.
 - Propiedades, infraestructura, equipos, inventarios, privilegios y participaciones hacen que la fortuna total sea mayor que la liquidez, pero no se inventará una valoración actual.
 - **Patrimonio vigente exacto:** `PENDIENTE_DE_TASACION`.
 
@@ -96,7 +116,8 @@ El saldo actual del fondo no se infiere de esos depósitos históricos: pensione
 
 ## Fuentes rectoras
 
-- `00_FUENTES/historia_original/AÑO_3/11_26_Bruma_Año_3.md`.
-- `00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md`.
+- `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`.
+- `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md`.
 - Para reconstrucción anterior: [[HISTORIAL_FINANCIERO_CONSOLIDADO]].
+- Para la auditoría de los tres meses: [[AUDITORIA_FINANCIERA_AÑO3_1_LLUVIA]].
 

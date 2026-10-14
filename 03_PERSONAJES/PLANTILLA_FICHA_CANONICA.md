@@ -17,7 +17,7 @@
 - La voz se extrae de diálogo y conducta de la fuente; si no existe prueba, registrar `VOZ AÚN NO LOCALIZADA` y nunca rellenar con un arquetipo.
 - No resumir a nadie como "analítico", "cálido" o "noble" sin explicar cómo se manifiesta al hablar y responder.
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Estado vigente — [FECHA DEL PRESENTE GLOBAL]
 
 - Ubicación o frente actual, responsabilidad, conocimiento operativo y asunto abierto.
 - Solo hechos ya narrados. El lector debe poder iniciar una escena desde este bloque.
@@ -34,7 +34,7 @@ Hechos e interacciones confirmados, con fuentes Markdown.
 
 ### Año 3
 
-Hechos e interacciones confirmados hasta el 5 de Floris.
+Hechos e interacciones confirmados hasta la última fuente auditada. Si no hay escena reciente, indicar expresamente la fecha del último estado individual confirmado.
 
 ## 4. Evolución causal
 

@@ -1,6 +1,6 @@
 # Registro de vida autónoma, metas y ambiciones — Año 3
 
-> Tablero rector para que ninguna persona recurrente quede congelada cuando Max no está presente. Estado de referencia: **5 de Floris, Año 3**.
+> Tablero rector para que ninguna persona recurrente quede congelada cuando Max no está presente. Estado de referencia: **1 de Lluvia, Año 3**. El crecimiento del 19–31 de Verdalia está integrado; las metas posteriores siguen siendo semillas.
 
 ## Cómo leer este registro
 
@@ -100,6 +100,9 @@
 - **Maeve Roth** — `Meta:` conservar informes y pruebas de Dravenn. `Ambición:` que los archivos no vuelvan a desaparecer bajo intrigas. `Vínculo:` Astrid y archivistas. `Obstáculo / hito:` crear una copia segura con cadena de custodia.
 - **Celeste** — `Meta:` mantener Velvet Rose Lounge y filtrar oportunistas. `Ambición:` ser dueña real de su espacio social. `Vínculo:` clientela, artistas y proveedores. `Obstáculo / hito:` resolver una tensión de salón sin recurrir a una casa noble.
 - **Liora** — `Meta:` dirigir La Rosa de Medianoche y sostener su vida con Haruto. `Ambición:` ampliar su autonomía económica y social. `Vínculo:` Haruto, Leo, Ren, Siri y trabajadores del club. `Obstáculo / hito:` enseñar a los jóvenes a vivir sin convertirse en su tutora permanente; un compromiso con Haruto solo puede nacer de una decisión recíproca y una escena verificable.
+- **Elena Weissmann** — `Meta:` continuar su aprendizaje en la Botica Weissmann y contrastar observaciones vegetales del valle. `Ambición:` integrar botánica, dibujo de campo y herbología aplicada con criterio propio. `Vínculo:` Liora, Greta, Nadia, Ren y el contacto naciente con Misa. `Obstáculo / hito:` identificar o descartar una muestra sin convertir una coincidencia en prueba; su cercanía con Ren sigue abierta.
+- **Greta Hoffmann** — `Meta:` sostener su trabajo comercial y la partida pendiente con Leo. `Ambición:` crecer como negociadora que comprende documentos y personas sin convertirse en tutora social de nadie. `Vínculo:` Liora, Elena Weissmann, Nadia y Leo. `Obstáculo / hito:` resolver un problema de proveedor o elegir un encuentro por gusto; no existe noviazgo confirmado. «Mara» queda descartado como nombre.
+- **Nadia Falkenberg** — `Meta:` preparar su siguiente composición y presentación. `Ambición:` consolidar una voz musical independiente fuera de la Compañía Goran. `Vínculo:` Liora, Elena Weissmann, Greta y el nuevo círculo social. `Obstáculo / hito:` equilibrar compromisos artísticos y amistad; no tiene emparejamiento predeterminado.
 
 ## Redes exteriores, amistades de la Tierra y apoyo
 
@@ -136,7 +139,7 @@ En cada nuevo tramo temporal, el [[MOTOR_DE_VIDA_AUTONOMA]] debe actualizar al m
 
 **Max** no recibe una meta autónoma en este tablero: sus decisiones pertenecen al jugador. El resto del mundo sí puede avanzar, cambiar de prioridad o cerrar una rutina mientras él está ausente.
 
-## Actualización autónoma — 5 de Floris, Año 3
+## Actualización autónoma — 5 de Verdalia, Año 3
 
 - **Serath:** prepara una evaluación propia sobre seguridad e infiltración para presentarla en el desayuno; no espera a que Max le dicte el diagnóstico.
 - **Aria:** inicia una línea de observación exterior prudente, con reportes limitados y sin asumir poderes de red moderna.
@@ -145,3 +148,28 @@ En cada nuevo tramo temporal, el [[MOTOR_DE_VIDA_AUTONOMA]] debe actualizar al m
 - **Sayaka/Natalia/Elise/Vivienne:** mantienen control de calidad y costes del circuito Esmeralda; un lote fue rechazado, pero el importe no está fijado.
 - **Vivienne:** desarrolla por iniciativa propia la idea de una gala noble-cultural benéfica; fecha, invitados y presupuesto siguen abiertos.
 - **Mizuki/Yuki:** comparan investigaciones sin cerrar la identidad del patrocinador final.
+
+## Integración de crecimiento — 19 de Verdalia a 1 de Lluvia, Año 3
+
+| Persona o frente | Avance confirmado fuera de cámara | Estado siguiente |
+|---|---|---|
+| Max / frentes propios | Completó la fase útil de Marcos, ganó confianza de Halven, avanzó con Cecilia/Mizuki y Kira, participó en la revisión de Ravenwood y en la reunión técnica de G1, y volvió a su vida con Serath. | Recupera el control el 1 de Lluvia; debe decidir el cierre con Halven, el balance con Natalia, el apoyo externo a Ravenwood y los siguientes pasos de G1/ruinas. |
+| Serath | Aplicó un sistema supervisado de turnos y descansos en la Guardia. | Medir resultados y ajustar con sus oficiales. |
+| Aria | Mantuvo enlace G1, análisis elemental y límites propios. | Revisar con Max qué información compartir. |
+| Yuki / Marianne | Dirigió la revisión Ravenwood con autonomía política y documental. | Solicitar y contrastar nuevos documentos. |
+| Mizuki / Cecilia | Aportó una pista externa mediante Ecclesia sin exigir perdón a Haruto. | Continuar reparación e investigación independiente. |
+| Corven / Verrick / Halven | Corven y Verrick se fracturaron; Halven empezó a proteger al personal y ordenar el archivo. | Ningún patrocinador final confirmado. |
+| Haruto | Lideró el arco joven, aprendió a delegar y terminó en nivel 39. | Mantener liderazgo sin sustituir al equipo. |
+| Ren | Desarrolló magia terrestre ofensiva y registro de límites; nivel 23. | Seguir como alumno de Amane y compañero de campo. |
+| Leo | Convirtió Quest Log en apoyo con evidencia y retirada; nivel 20. | Coordinar sin obedecer ciegamente al sistema. |
+| Amane | Se consolidó como maestra que produce autonomía; nivel 82. | Supervisar sin monopolizar el aprendizaje. |
+| Misa | Diseñó seguimiento médico, nutricional y de recuperación. | Validar cargas antes de entrenar. |
+| Biro | Encontró el núcleo emocional de su obra y aceptó enseñar defensa. | Revisar manuscrito; no anunciar estreno. |
+| Jasmine | Aceptó enseñar movilidad y táctica; delimitó una discrepancia de V. Sable. | Mantener investigación separada y sesiones selectivas. |
+| Liora | Sostuvo La Rosa y apoyó a Haruto durante su liderazgo. | Mantener vida propia y pareja estable. |
+| Elena Weissmann / Greta Hoffmann / Nadia Falkenberg | Elena colaboró con Ren en botánica; Greta fortaleció su confianza con Leo; Nadia preparó una pieza y mantuvo compromisos musicales propios. | Dejar que los vínculos definan su ritmo, conservar la carrera de Nadia y no imponer romances. |
+| Natalia / Elise / Vivienne | Mantuvieron operaciones autónomas y prepararon el cierre financiero de Lluvia. | Presentar cifras verificables, sin inventar partidas. |
+| Galwin / Mika / Daichi | Convirtieron G1 en pruebas reproducibles y preservaron límites de ruinas. | No pasar a G2 sin más controles. |
+| Kazuki / Ryu / Kenji | Continuaron metodología de Minas y formación comunitaria en Casa del Puente. | Delegar y enseñar sin depender de Max. |
+
+La autonomía no significa que cada hilo esté resuelto. Significa que cada persona produjo una consecuencia, asumió una responsabilidad o modificó su relación con el mundo mientras Max no ocupaba el centro de la escena.

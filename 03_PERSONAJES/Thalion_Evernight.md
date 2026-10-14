@@ -16,9 +16,9 @@ Meta, ambición y siguiente hito todavía no individualizados por una fuente. No
 ## FUENTES Y CORRECCIONES
 La autoridad final es `00_FUENTES/historia_original/`. Las correcciones autorales explícitas prevalecen sobre una contradicción o una versión derivada.
 
-> **Estado narrativo:** 5 de Floris, Año 3. Archmage de Corte y aliado científico con autonomía académica; Vaelor, nodos y G1 son investigación con límites, no propiedad de Max.
+> **Corte histórico de este bloque:** 5 de Verdalia, Año 3. Archmage de Corte y aliado científico con autonomía académica; Vaelor, nodos y G1 son investigación con límites, no propiedad de Max.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
 
 - Continúa como Archmage de la Corte y dirige investigación y preservación de conocimiento con vida académica propia.
 - El Proyecto Vaelor ya fue reactivado como regalo de cumpleaños; no vuelve a figurar como evento pendiente.
@@ -81,7 +81,7 @@ En el Palacio Real. Su conversación de teoría temporal se completó con éxito
 
 ## REFERENCIAS
 
-Fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`; [[CURRENT_STATE_5_FLORIS_AÑO3]].
+Fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`; [[CURRENT_STATE_5_VERDALIA_AÑO3]].
 
 
 ---
@@ -95,7 +95,7 @@ Fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Añ
 ## Cumpleaños — 12 de Noctalia, Año 2
 - **Situación histórica del Día 634:** Natalia advirtió que su cumpleaños se celebraría en **48 horas** y Max preparó una sorpresa personal.
 - **Resolución:** el cumpleaños del 12 de Noctalia ya ocurrió. Max le entregó la reactivación del **Proyecto Vaelor** como regalo; no debe volver a tratarse como acontecimiento pendiente.
-- **Estado al 4 de Floris, Año 3:** continúa como Archmage de la Corte y aliado científico con vida académica propia. Su siguiente cumpleaños será el 12 de Noctalia del Año 3.
+- **Estado al 4 de Verdalia, Año 3:** continúa como Archmage de la Corte y aliado científico con vida académica propia. Su siguiente cumpleaños será el 12 de Noctalia del Año 3.
 
 ## MICROINTERACCIONES CONFIRMADAS
 
@@ -110,3 +110,12 @@ Fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Añ
 - El recuerdo de Vaelor transforma nostalgia personal en investigación pública. Su cumpleaños y el proyecto reactivado no son un capricho de Max, sino un punto de partida para trabajo académico que Thalion puede dirigir.
 - El Festival le confirma que la cultura también necesita criterios técnicos: seguridad y transparencia antes que espectacularidad. Esa misma lógica guía su papel ante artefactos, nodos y propuestas de G1/G2.
 - Su crecimiento consiste en construir instituciones que puedan debatir con Max, no en convertirse en su intérprete exclusivo.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` enseñar, investigar nodos y preservar archivos. `Ambición:` que la ciencia de Aldoria sobreviva a los nombres actuales. `Vínculo:` Daichi, Mika, Ren, Galwin y colegas. `Obstáculo / hito:` publicar un criterio de seguridad sin revelar secretos de Estado.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

@@ -1,6 +1,6 @@
-# CONOCIMIENTO Y LÍMITES — 5 DE FLORIS, AÑO 3
+# CONOCIMIENTO Y LÍMITES — 5 DE VERDALIA, AÑO 3
 
-> Addendum derivado del delta RP del 4–5 de Floris. No modifica `00_FUENTES/historia_original/`.
+> Addendum derivado del delta RP del 4–5 de Verdalia. No modifica `00_FUENTES/historia_original/`.
 
 ## Distribución de conocimiento
 
@@ -21,4 +21,4 @@
 
 ## Estado de escena
 
-La continuación exacta es el desayuno del 5 de Floris en Gutiérrez Estate. Las opciones de Max (escuchar y proteger a Serath; solicitar vigilancia prudente a Aria) están pendientes de representación. No avanzar el resultado fuera de escena.
+La continuación exacta es el desayuno del 5 de Verdalia en Gutiérrez Estate. Las opciones de Max (escuchar y proteger a Serath; solicitar vigilancia prudente a Aria) están pendientes de representación. No avanzar el resultado fuera de escena.

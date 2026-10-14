@@ -23,4 +23,4 @@ Toda respuesta debe registrarse con observación independiente. Una resonancia p
 
 ## Fuente
 
-`00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md`
+`00_FUENTES/historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`

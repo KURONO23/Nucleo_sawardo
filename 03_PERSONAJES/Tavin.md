@@ -17,7 +17,7 @@
   > «¿El señor Max dijo que podemos repetir plato? ¡Dorren, dime que no estoy soñando!»  
   — Tavin atacando una bandeja de comida recién salida de la cocina durante la remodelación inicial de la finca (`00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`, líneas 14190–14220).
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Gutiérrez Estate, Thornhaven.
 - **Responsabilidad actual:** Cuadrilla de mantenimiento de muros, acequias y almacenes de la hacienda.
@@ -78,3 +78,12 @@
 ## 2. MOMENTO CANÓNICO
 
 - Encarna la transformación social provocada por Max: un peón que descubre que el trabajo puede ser remunerado con justicia y respeto humano.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` aprender gestión de cocina y trato laboral en la Casa. `Ambición:` abrir un puesto propio que conserve el respeto recibido. `Vínculo:` trabajadores jóvenes y cocineros de la finca. `Obstáculo / hito:` asumir una jornada completa sin depender de la supervisión de Max.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

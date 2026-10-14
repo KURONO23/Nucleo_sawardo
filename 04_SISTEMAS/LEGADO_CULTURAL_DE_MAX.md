@@ -59,12 +59,12 @@ Cada incorporación futura debe registrar:
 - `00_FUENTES/historia_original/FESTIVAL DE LA CERVEZA.md`: desarrollo íntegro de la obra y germen del festival real.
 - `00_FUENTES/historia_original/AÑO_1/04_09_Solalto_Año_1_a_25_Solalto_Año_2.md`: revolución teatral, editorial y primeras adopciones amplias.
 - `00_FUENTES/historia_original/AÑO_2/05_26_Solalto_a_14_Ambar_Año_2.md`: lecturas y ciclos culturales posteriores.
-- `00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md`: recepción internacional de la obra, Festival del Año 3, Heroes y cultura material de Elaris.
+- `00_FUENTES/historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`: recepción internacional de la obra, Festival del Año 3, Heroes y cultura material de Elaris.
 - [[CUISINE]], [[TEATRO_Y_EDITORIAL]], [[LOS_CINCO_DEL_BARRIL]], [[CICLO_STAR_WARS_ALDORIA]], [[CICLO_HARRY_POTTER_ALDORIA]], [[FESTIVAL_INTERNACIONAL_DE_LA_CERVEZA]], [[FESTIVAL_INFANTIL_DE_ALDORIA]] y [[NOCHE_DE_LAS_LUMINARIAS]].
 
 ## Pendiente de extracción profunda
 
-Este índice cubre los hitos ya identificados, pero no reemplaza las escenas. La adenda autónoma del 4 de Floris añadió una lectura privada de trabajo de _La tragedia del último barril_ y una retención de lote de Esmeralda; ninguna equivale todavía a estreno público o cierre financiero. En futuras consolidaciones se deben incorporar citas breves y reacciones individualizadas directamente desde cada fuente, especialmente:
+Este índice cubre los hitos ya identificados, pero no reemplaza las escenas. La adenda autónoma del 4 de Verdalia añadió una lectura privada de trabajo de _La tragedia del último barril_ y una retención de lote de Esmeralda; ninguna equivale todavía a estreno público o cierre financiero. En futuras consolidaciones se deben incorporar citas breves y reacciones individualizadas directamente desde cada fuente, especialmente:
 
 - funciones completas y reacciones por delegación durante el Festival del Año 3;
 - vocabulario de Star Wars usado espontáneamente después de las lecturas;

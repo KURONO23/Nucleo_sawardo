@@ -6,7 +6,7 @@
 
 La saga de Yuki/Ravenwood comenzó a ocupar el primer plano, pero el resto del mundo no se detuvo. Este documento responde dos preguntas en cada salto de tiempo:
 
-1. ¿Qué hizo cada frente entre el 2 y el 5 de Floris, Año 3, aunque Max no estuviera presente?
+1. ¿Qué hizo cada frente entre el 2 y el 5 de Verdalia, Año 3, aunque Max no estuviera presente?
 2. ¿Cuál es el siguiente crecimiento más fértil y seguro para cada persona, institución o grupo?
 
 “Óptima” no significa que todos suban de rango o resuelvan su conflicto. Significa que el siguiente paso conserva personalidad, coste, relaciones, límites y una vía observable de aprendizaje.
@@ -19,7 +19,7 @@ La saga de Yuki/Ravenwood comenzó a ocupar el primer plano, pero el resto del m
 - Un personaje ausente no está congelado: su delta puede ser privado, laboral, una carta, un rumor, un fallo, una decisión o una consecuencia indirecta.
 - No se crean romances, ascensos, éxitos técnicos, culpables ni descubrimientos fuera de cámara.
 
-## Lo que ocurrió mientras Yuki abría su frente (2–5 de Floris)
+## Lo que ocurrió mientras Yuki abría su frente (2–5 de Verdalia)
 
 | Frente | CONFIRMADO | RUTA inmediata | Evidencia que debe aparecer |
 |---|---|---|---|
@@ -78,7 +78,7 @@ La saga de Yuki/Ravenwood comenzó a ocupar el primer plano, pero el resto del m
 
 ### 4. Corona, casas e instituciones
 
-- **Aldric:** seguir gobernando con decisiones y costes visibles; su cumpleaños celebrado no lo convierte en rey inmóvil.
+- **Aldric:** seguir gobernando con decisiones y costes visibles; su cumpleaños del 5 de Lluvia todavía es futuro.
 - **Caelan, Rowan y Thalion:** avanzar en sus responsabilidades institucionales y mostrar desacuerdos funcionales; no ser solo nombres de corte.
 - **Oswin:** convertir gestión y compromisos atrasados en decisiones trazables.
 - **Elara, Maelis, Celene y Helena:** desarrollar agendas propias de corte, información y vínculos; cada aparición debe cambiar una relación o una decisión.
@@ -140,7 +140,7 @@ Qué sigue sin saberse:
 ## Límites de canon
 
 - No retroescribir días pasados para hacer parecer que una ruta ya ocurrió.
-- No mover la escena del desayuno del 5 de Floris ni resolver las opciones de Max fuera de cámara.
+- No mover escenas históricas ni resolver las decisiones mayores de Max fuera de cámara. Los frentes de Max pueden avanzar mediante hechos documentados (Cecilia/Mizuki, Kira, G1, Ravenwood, Halven), pero al 1 de Lluvia las decisiones de cierre vuelven al usuario.
 - No convertir la preparación de Corven en infiltración, ni Veylan/Averne en patrocinador final.
 - No dar un tercer G1 a Mizuki, no cambiar ascensos de Torin/Kael/Lyssa y no alterar rangos o identidades ya fijados.
 - No forzar compromiso de Haruto y Liora ni romance de Kael/Natalia; las relaciones avanzan mediante decisiones mutuas y evidencia.
@@ -149,7 +149,7 @@ Qué sigue sin saberse:
 ## Fuentes operativas
 
 - [[REGISTRO_DE_VIDA_AUTONOMA_Y_METAS_AÑO3]] — metas, vínculos y obstáculos por personaje.
-- [[AVANCES_AUTONOMOS_AÑO3]] — hechos y semillas del tramo 2–5 de Floris.
+- [[AVANCES_AUTONOMOS_AÑO3]] — hechos y semillas del tramo 2–5 de Verdalia.
 - [[PLAN_DESARROLLO_CONTINUO_DEL_ELENCO_AÑO3]] — regla universal de autonomía.
-- [[CURRENT_STATE_5_FLORIS_AÑO3]] — estado rector y límites del corte actual.
+- [[CURRENT_STATE_1_LLUVIA_AÑO3]] — estado rector y límites del presente actual.
 - [[PLOT_THREADS]] — hilos activos, sin sustituir la fuente original.

@@ -3,8 +3,8 @@
 ## Identidad estable
 Mara Quill es una actriz profesional, procedente del teatro popular y los tablados callejeros de Aldoria y reclutada por Goran. Tiene veintiséis años, mirada penetrante, porte felino y voz precisa. Su oficio combina improvisación, timing seco y tránsito entre sátira y drama. Es creadora e intérprete de Vesper Noir.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-Su continuidad vigente es la de actriz de la compañía y voz propia de Vesper. No hay una escena individual posterior consolidada que permita afirmar una acción nueva al 5 de Floris.
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
+Su continuidad vigente es la de actriz de la compañía y voz propia de Vesper. No hay una escena individual posterior consolidada que permita afirmar una acción nueva al 5 de Verdalia.
 
 ## CRONOLOGÍA CANÓNICA
 - Año 2: desarrolla a Vesper como investigadora con criterio y objetivos propios, no como complemento de Austin.
@@ -50,3 +50,12 @@ Mara trabajó directamente con Max Josemar Gutiérrez para alejar a Vesper del c
 # ADDENDUM — CIERRE DE MICROINTERACCIONES
 
 - Observa que Nilo deja de caminar como Austin y le marca que el cambio era necesario; funciona como correctivo autónomo dentro de la compañía (`isekai Día 588...`, 508–875 y 1031–1049).
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` desarrollar Vesper Noir y su voz fuera del escenario. `Ambición:` ser actriz creadora, no solo rostro de una gira. `Vínculo:` Nilo y la compañía. `Obstáculo / hito:` proponer una escena que cambie la recepción de su personaje.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

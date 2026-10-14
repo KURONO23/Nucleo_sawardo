@@ -3,7 +3,7 @@
 ## Identidad estable
 Celeste es coordinadora social sénior y anfitriona principal de Velvet Rose. Perspicaz, franca y hábil para leer motivaciones, conecta comerciantes sin hablar por ellos ni convertir su salón en apéndice de una casa poderosa.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
 Su estado vigente es conservar Velvet Rose como espacio social independiente y de observación; no hay escena posterior que permita fijar un proyecto nuevo.
 
 ## CRONOLOGÍA CANÓNICA
@@ -50,3 +50,12 @@ Celeste enlaza a Max con comerciantes y lo corrige cuando prejuzga a mujeres de 
 - El ingreso de Max a los círculos mercantiles le permite comprobar que una presentación brillante puede ocultar prejuicio. Al corregirlo, protege la dignidad de sus invitadas y fija un estándar social propio.
 - Sus vínculos con Elise, Natalia y Vivienne la vuelven puente, no portavoz de ninguna de ellas. Aprende a abrir una conversación sin apropiarse de las decisiones comerciales o afectivas ajenas.
 - El crecimiento de la cultura de Thornhaven amplía su papel: Velvet Rose puede seguir siendo espacio de encuentro y observación sin convertirse en extensión de House Gutiérrez.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` mantener Velvet Rose Lounge y filtrar oportunistas. `Ambición:` ser dueña real de su espacio social. `Vínculo:` clientela, artistas y proveedores. `Obstáculo / hito:` resolver una tensión de salón sin recurrir a una casa noble.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

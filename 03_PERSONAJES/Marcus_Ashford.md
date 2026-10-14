@@ -16,7 +16,7 @@
 - **En intimidad / taberna:** Conversador cordial y analítico. Hermano de sangre aventurera de Biro; escucha las anécdotas de Los Ventura con una sonrisa pensativa y curiosa.
 - **Comportamiento en escena confirmado:** Se presenta como mago elemental de rango B con quince años de aventuras y escucha propuestas con actitud atenta y curiosa (`00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`, líneas 18546–18572). Admira la maestría mágica no convencional de Aria y Amane sin intentar imitarlas servilmente.
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Tabernas y puestos del Gremio en Thornhaven y Aldoria.
 - **Responsabilidad actual:** Líder táctico de equipo de rango B junto a Lyra Swiftwind; consultor de campo en misiones perimetrales.
@@ -101,3 +101,12 @@
 - Observar la eficacia poco académica de Max no le quita su oficio: le obliga a comparar supervivencia, formación y riesgos que un grupo de rango B sí puede asumir.
 - Su amistad con Biro y la experiencia acumulada lo sitúan como contrapeso táctico para aventureros menos metódicos. Puede admirar a Aria y Amane sin delegarles su criterio.
 - Su crecimiento fuera de cámara consiste en actualizar prácticas de misión y enseñar lectura de terreno, no en obtener por contagio el poder de Max.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` continuar como referencia sensata en incursiones. `Ambición:` formar una cuadrilla que sobreviva a su liderazgo. `Vínculo:` Lyra, Gareth y Biro. `Obstáculo / hito:` delegar una misión de perímetro.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

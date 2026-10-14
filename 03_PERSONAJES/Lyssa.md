@@ -16,7 +16,7 @@
 - **Anhelo personal confirmado:** De niña su mayor anhelo era tener *«un arco que fuera mío»*. Al integrarse a la finca y comparar su equipo con el arco de Jasmine, reafirmó su deseo de forjar su propia identidad técnica sin copiar a nadie.
 - **En patrulla:** Ojos en constante barrido de alturas y sombras; se comunica mediante señas precisas con Torin y Kael.
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Gutiérrez Estate y enlaces de vigilancia en Aldoria y Thornhaven.
 - **Responsabilidad actual:** Guardia perimetral de la finca y cobertura de altura en los almacenes del Consorcio.
@@ -100,3 +100,12 @@ Fuente: `00_FUENTES/historia_original/AÑO_1/02_01_Bruma_a_18_Bruma_y_05_Solalto
 - La reevaluación de Kira confirma el ascenso de B a A después de la prueba; no borra los aprendizajes ni la inseguridad que hicieron necesario entrenar.
 - La defensa coordinada y la Vigilia del Umbral muestran que su aporte es también logístico: leer calles, llevar mensajes y dejar rutas más seguras para quienes no tienen su rango.
 - Su petición de gremio busca una evidencia propia de valor. El siguiente paso no está resuelto: debe ocurrir en escena y ser clasificado por Kira antes de generar resultados o recompensas.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` coordinar vigilancia ágil y logística urbana. `Ambición:` dirigir una red de enlaces civiles que anticipe problemas sin militarizar la ciudad. `Vínculo:` Torin y comerciantes de Aldoria. `Obstáculo / hito:` resolver un incidente de ruta sin esperar una orden central.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

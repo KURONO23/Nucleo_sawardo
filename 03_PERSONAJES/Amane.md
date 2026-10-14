@@ -3,8 +3,8 @@
 ## Identidad estable
 Amane es maga de fuego de rango S de Los Ventura, de cabello carmesí, ojos azules y voz rápida, expansiva y provocadora. Es caótica sin ser incompetente: su entusiasmo incluye planificación, cuidado del grupo y curiosidad técnica. Es la maestra principal de Ren y no tiene romance con Kael Ironheart.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-Sigue siendo maga S, maestra de Ren y parte de Los Ventura. La ficha no fija una escena individual posterior al 5 de Floris.
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
+Sigue siendo maga S, maestra de Ren y parte de Los Ventura. La ficha no fija una escena individual posterior al 5 de Verdalia.
 
 ## RELACIONES VIVAS
 - Ren: aprendiz al que enseña magia sin impedirle aventurarse con Haruto y Leo.
@@ -15,7 +15,7 @@ Sigue siendo maga S, maestra de Ren y parte de Los Ventura. La ficha no fija una
 ## FUENTES Y CORRECCIONES
 `00_FUENTES/historia_original/` y [[MICROINTERACCIONES_PERSONAJES_A_I]] prevalecen. La anomalía lingüística sigue `DESCONOCIDA` y no autoriza revelar Tierra, Perú o reencarnación.
 
-> **Estado narrativo:** 5 de Floris, Año 3. Maga S de Los Ventura, maestra principal de Ren y participante profesional de la Prueba de Afrodita junto a Kael Ironheart; no existe romance entre ellos.
+> **Corte histórico de este bloque:** 5 de Verdalia, Año 3. Maga S de Los Ventura, maestra principal de Ren y participante profesional de la Prueba de Afrodita junto a Kael Ironheart; no existe romance entre ellos.
 
 ## MICROINTERACCIONES CONFIRMADAS
 
@@ -146,3 +146,12 @@ Amane sigue siendo su referencia principal para magia y combate. La expedición 
 - La Torre, la Aguja Muerta y la Red de Nodos le enseñaron que una explosión útil necesita protocolos, retirada y especialistas distintos. Por eso aporta lectura elemental y contención, pero no se atribuye el descifrado de ruinas ni de G1.
 - El Festival del Año 3 y la Prueba de Afrodita con Kael la hicieron visible fuera de la formación Ventura; conserva la diversión, pero entiende que representar a Aldoria exige coordinación y no solo impulso.
 - El paso de Ren hacia salidas con Haruto y Leo es su prueba de madurez docente: sigue siendo su maestra, sin retenerlo para demostrar que la enseñanza le pertenece.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Se consolidó como maestra capaz de exigir precisión y ahorro de maná sin monopolizar el aprendizaje. Supervisa a Ren y al equipo joven dentro de Operación Tres Caminos; conserva rango S y nivel 82.
+- **Ruta autónoma vigente:** `Meta:` seguir enseñando magia y combate a Ren mientras aprende a dejarlo salir. `Ambición:` ser una maestra capaz de producir autonomía, no dependencia. `Vínculo:` Kael, Ren y Los Ventura. `Obstáculo / hito:` revisar el cuaderno de Ren después de cada salida y aceptar errores de bajo riesgo.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

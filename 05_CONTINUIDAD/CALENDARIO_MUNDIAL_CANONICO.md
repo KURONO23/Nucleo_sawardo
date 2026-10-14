@@ -1,7 +1,7 @@
-# CALENDARIO MUNDIAL CANÓNICO — PRESENTE: 4 DE FLORIS, AÑO 3
+# CALENDARIO MUNDIAL CANÓNICO — PRESENTE: 1 DE LLUVIA, AÑO 3
 
 > FUENTE MAESTRA ÚNICA del calendario narrativo de Aldoria / NÚCLEO_SAWARDO.
-> Autoridad temporal vigente al 5 de Floris, Año 3. Los registros del Año 2 se preservan como historial de cumpleaños y no como presente operativo.
+> Autoridad temporal vigente al 1 de Lluvia, Año 3. Los registros del Año 2 y el corte del 18 de Verdalia se preservan como historial y no como presente operativo.
 
 ---
 
@@ -25,7 +25,9 @@
 
 ---
 
-## 3. Registro Canónico de Cumpleaños (Año 2)
+## 3. Registro Histórico de Cumpleaños — Año 2 (NO ES EL PRESENTE)
+
+> Esta tabla describe fechas y celebraciones ya ocurridas en el Año 2. No debe interpretarse como el calendario de próximos eventos del Año 3. Para el presente, la próxima alerta es **Aldric Theron, 5 de Lluvia, Año 3**; Ryu conserva su fecha de **8 de Floris**, pero no es el siguiente cumpleaños desde el 18 de Verdalia.
 
 | Personaje | Fecha | Estado en Año 2 | Observaciones / Regalos canónicos |
 |---|---|---|---|
@@ -58,9 +60,15 @@
 
 ---
 
-## 4. Regla histórica ya satisfecha
+## 4. Regla histórica ya satisfecha (NO ES EL PRESENTE)
 
 * Desde el **Día 634 (10 de Noctalia)** no debía avanzarse más allá del 12 de Noctalia sin resolver el cumpleaños de Thalion. La historia cumplió esta condición; ya no bloquea saltos presentes.
+
+### Aniversario matrimonial de Max y Serath
+
+- **Fecha de boda:** Día 260 = **17 de Cosecha, Año 1**.
+- **Primer aniversario:** 17 de Cosecha, Año 2; ambos estaban completamente ocupados y lo olvidaron. No hubo celebración ni conflicto.
+- **Próximo aniversario:** 17 de Cosecha, Año 3.
 
 ---
 
@@ -73,26 +81,35 @@
 - No asignar un número de día continuo nuevo sin conciliación específica, porque los documentos anteriores contienen desfases entre 30 y 31 de Noctalia.
 - Punto rector histórico: [[CURRENT_STATE_26_BRUMA_AÑO3]].
 
-## 6. Presente canónico — 5 de Floris, Año 3
+## 6. Corte histórico — 18 de Verdalia, Año 3
 
-- **Fecha actual:** 5 de Floris, Año 3.
+- **Fecha actual:** 18 de Verdalia, Año 3.
+- **Punto rector histórico:** [[CURRENT_STATE_18_VERDALIA_AÑO3]].
+- **Secuencia auditada:** Albor (31 días), Bruma (28 días), Verdalia (del 1 al 18 narrados).
+- **Equivalencia de control:** Día 77 del Año 3.
 - **Estación:** primavera.
-- **Equivalencia continua de control:** Día 854, usando como ancla el 1 de Albor del Año 1 y el calendario de 365 días. Las etiquetas antiguas incompatibles no desplazan esta fecha nominal confirmada por el usuario.
+- **Equivalencia continua conciliada en ese corte:** Día 732, usando como ancla interna el Día 654 = 30 de Noctalia, Año 2. El 31 de Noctalia es el Día 655 y el 18 de Verdalia es el día 77 del Año 3.
 - El Festival Internacional de la Cerveza del Año 3 ya concluyó. Aldoria ganó los Juegos del Barril y Dravenn/Casa Gravenholt ganó la Copa de Maestros.
-- El cumpleaños de **Haruto, 1 de Floris**, ya ocurrió y elevó su edad a **19 años**.
-- Próxima alerta: **Ryu, 8 de Floris**, dentro de cuatro días. Después: Liora el 17 y Serath el 31.
-- Punto rector: [[CURRENT_STATE_5_FLORIS_AÑO3]].
+- Los cumpleaños de Lluvia y Floris **todavía no han ocurrido** en el Año 3.
+- Próxima alerta: **Aldric Theron, 5 de Lluvia**. Después: Kenji el 26 de Lluvia; Haruto el 1, Ryu el 8, Liora el 17 y Serath el 31 de Floris.
+- Punto rector histórico: [[CURRENT_STATE_18_VERDALIA_AÑO3]].
 - Registro de alertas: [[CALENDARIO_CUMPLEANOS_CIRCULO_DE_MAX]].
 
-### Cumpleaños del Año 3 ya celebrados fuera de cámara
+### Fechas de cumpleaños transcurridas en el Año 3
 
-- **27 de Albor — Galwin:** celebración íntima de taller, reparación y fonocristales, elegida por él.
-- **5 de Lluvia — Aldric:** jornada privada, sobria y familiar, sin desfile ni ceremonia pública.
-- **26 de Lluvia — Kenji:** cocina comunitaria de Pequeño Zhong-Kyo y apertura de su cuaderno de recetas; cumplió 17 años.
+- **27 de Albor — Galwin:** fecha transcurrida; celebración no documentada. No reconstruir detalles retrospectivamente.
 
-## 7. Regla de edades vigente
+## 7. Presente canónico — 1 de Lluvia, Año 3
+
+- **Fecha actual:** 1 de Lluvia, Año 3 · Día continuo 746.
+- **Punto rector vigente:** [[CURRENT_STATE_1_LLUVIA_AÑO3]].
+- **Estado:** el arco autónomo de Haruto, Ren y Leo ya produjo crecimiento verificable; el control exclusivo de Max regresa ahora.
+- **Max:** no permanece como empleado permanente de Casa Ardel. Puede cerrar su salida con Halven, revisar el balance con Natalia, apoyar Ravenwood desde fuera, retomar G1/ruinas con permisos o atender otros frentes según decisión del usuario.
+- **Cumpleaños:** la próxima fecha es Aldric, 5 de Lluvia. Las fechas de Kenji, Haruto, Ryu, Liora y Serath permanecen intactas.
+
+## 8. Regla de edades vigente
 
 - Las edades no se incrementan por salto de archivo ni por tiempo subjetivo de Sawardo, sino por cumpleaños atravesados.
-- Max comenzó con 38 años y, tras el cumpleaños del 25 de Ventisca del Año 2, tiene **39 años** al 5 de Floris del Año 3.
+- Max comenzó con 38 años y, tras el cumpleaños del 25 de Ventisca del Año 2, tiene **39 años** al 1 de Lluvia del Año 3.
 - El antiguo esquema Día 34/Día 399 queda conservado como incidencia histórica desplazada por la retcon posterior; no se cuenta dos veces.
 - Registro completo: [[REGISTRO_DE_EDADES_Y_CUMPLEANOS]].

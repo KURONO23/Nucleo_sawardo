@@ -33,7 +33,7 @@ Cada entrada conserva la cadena: **antes → interacción → reacción/aprendiz
 ## Siri
 
 - Funciona junto a Haruto sin celos hacia Liora y detecta cuándo conviene callar. `00_FUENTES/historia_original/AÑO_2/09_31_Noctalia_Año_2_a_01_Albor_Año_3.md:L200`, `L580-L592`, `L4691-L4695`.
-- Aporta memoria/análisis en Torre y Proyecto Vaelor, mientras Haruto prueba respuestas físicas. `00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md:L16120`, `L16807-L16837`.
+- Aporta memoria/análisis en Torre y Proyecto Vaelor, mientras Haruto prueba respuestas físicas. `00_FUENTES/historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md:L16120`, `L16807-L16837`.
 
 ## Suri
 

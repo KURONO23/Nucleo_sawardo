@@ -46,7 +46,7 @@ La institución nació de la obra [[OBRA_FESTIVAL_DE_LA_CERVEZA]]. El público, 
 ## Fuentes
 
 - `00_FUENTES/historia_original/AÑO_1/04_09_Solalto_Año_1_a_25_Solalto_Año_2.md` — edición del Año 2.
-- `00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md` — edición del Año 3.
+- `00_FUENTES/historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` — edición del Año 3.
 - [[FESTIVAL_INTERNACIONAL_DE_LA_CERVEZA]] y [[REGISTRO_FESTIVAL_CERVEZA_JUECES_Y_GANADORES]].
 
 ---
@@ -127,5 +127,5 @@ El festival es anual; la obra originaria se repone como memoria fundacional. No 
 - Planificación y primera edición: `00_FUENTES/historia_original/AÑO_1/04_09_Solalto_Año_1_a_25_Solalto_Año_2.md`, encabezados `PLANIFICACIÓN DEL FESTIVAL` (línea 156339), `PRIMER ENSAYO INTERNACIONAL` (166666), `NOCHE ANTES` (168218), `DÍA 2` (176087) y `DÍA 420` (183313).
 - Cierre financiero: misma fuente, `DÍA 422 — CIERRE FINANCIERO`, línea 196289.
 - Preparación del Año 3: `00_FUENTES/historia_original/AÑO_2/05_26_Solalto_a_14_Ambar_Año_2.md`, desde `PREPARATIVOS — PRÓXIMO FESTIVAL`, línea 117195.
-- Edición Año 3: `00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md`, encabezados de 19–24 de Bruma, Juegos desde 12036, resultados desde 13294 y Copa/evaluación desde 14106–15043.
+- Edición Año 3: `00_FUENTES/historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`, encabezados de 19–24 de Bruma, Juegos desde 12036, resultados desde 13294 y Copa/evaluación desde 14106–15043.
 

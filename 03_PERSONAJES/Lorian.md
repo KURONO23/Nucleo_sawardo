@@ -16,7 +16,7 @@
   > «Por decreto de Su Majestad el Rey Aldric Theron, queda formalmente inscrita la Casa Gutiérrez en el Gran Registro de Nobleza y Títulos del Reino de Aldoria.»  
   — Lorian asentando la creación formal de House Gutiérrez (`00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`, líneas 30748–30908).
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Cancillería Real de Aldoria, Archivo Central de Títulos y Tierras.
 - **Responsabilidad actual:** Custodia de los registros territoriales y heráldicos de la Corona, emisión de certificados de dominio y patentes.
@@ -89,3 +89,12 @@
 ## ADDENDUM — CIERRE DE MICROINTERACCIONES
 
 - Trae los documentos del Registro Real, examina el pergamino y sella la inscripción; su precisión convierte el ascenso de Max en continuidad jurídica (`00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`, 30748–30908).
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** Ruta todavía `PENDIENTE`: conservar los objetivos ya registrados y exigir una escena o evidencia antes de afirmar un resultado nuevo.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

@@ -16,7 +16,7 @@
 - **En intimidad / círculo de Serath y Celene:** Abierta al análisis estratégico. Discute hipótesis con tono sereno, respetuosa pero firme cuando los datos contradicen una suposición de mando.
 - **Humor y reacciones:** Humor seco y sutil ante las torpezas de los conspiradores nobles. En el Festival de la Cerveza observó las reacciones políticas junto a Celene y Mara con calma irónica.
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Cuartel de la Guardia Real de Aldoria, con patrullas de observación en los distritos comercial y noble.
 - **Responsabilidad actual:** Mapeo de intermediarios y flujos financieros tras el Festival, rastreo de enlaces de casas opositoras (Marlowe, Ardel, Veylan).
@@ -107,3 +107,12 @@ Trabajó en coordinación con la red de información civil de Natalia Thornwell 
 ## ADDENDUM — CIERRE DE MICROINTERACCIONES
 
 - Aparece en el Festival junto a Celene y Mara; conserva función política de observadora/reacción y no se fusiona con Mara (`FESTIVAL DE LA CERVEZA.md`, 4737–5091).
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` filtrar rumores, contactos y movimientos. `Ambición:` construir contrainteligencia que proteja a la Guardia sin perseguir fantasmas. `Vínculo:` Celene, Elara y Serath. `Obstáculo / hito:` separar una pista útil de una maniobra de desinformación.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

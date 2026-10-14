@@ -1,12 +1,13 @@
 # 🌌 PORTAL CENTRAL — NÚCLEO SAWARDO
 
 > [!INFO] **ESTADO OPERATIVO VIGENTE**
-> - **Fecha Canónica:** **5 de Floris, Año 3**.
-> - **Escena Activa:** Desayuno en Gutiérrez Estate con Max, Serath y Aria; Max sigue infiltrado en Casa Ardel bajo la identidad encubierta de **`Marcos`**.
-> - **Operación en curso:** Rastreo de la red financiera de Casa Veylan, Orren Halven y Severin Ardel.
-> - **Comunicaciones:** Dos terminales **G1** en enlace directo (`DOCTOR` y `BAKARINA`) entre Max, [[03_PERSONAJES/Aria|Aria]] y [[03_PERSONAJES/Yuki|Yuki]]. Mizuki investiga por separado en el exterior.
-> - **Alerta de Cumpleaños:** 🎂 **[[03_PERSONAJES/Ryu|Ryu Gutiérrez]] cumple años el 8 de Floris** *(¡a solo 3 días!)*. Próximos: Liora (17 de Floris) y Serath (31 de Floris, máxima prioridad).
-> - **Documento de Continuidad Principal:** [[05_CONTINUIDAD/CURRENT_STATE_5_FLORIS_AÑO3|CURRENT_STATE_5_FLORIS_AÑO3]]
+> - **Fecha Canónica:** **1 de Lluvia, Año 3 (Día continuo 746)**.
+> - **Escena Activa:** Mañana preparada en Gutiérrez Estate; el control exclusivo de Max regresa y Natalia está lista para presentar el cierre financiero.
+> - **Operación en curso:** Revisión de la garantía contra Ravenwood; responsabilidades de Corven y Verrick todavía no resueltas.
+> - **Comunicaciones:** Dos terminales **G1** en enlace directo (`DOCTOR` y `BAKARINA`) entre Max, [[03_PERSONAJES/Aria|Aria]] y [[03_PERSONAJES/Yuki_Moriyama_Lady_Marianne|Yuki]]. Mizuki investiga por separado en el exterior.
+> - **Alerta de Cumpleaños:** 🎂 Próximo: **Aldric, 5 de Lluvia**. Después Kenji (26 de Lluvia), Haruto (1 de Floris), Ryu (8), Liora (17) y Serath (31).
+> - **Documento de Continuidad Principal:** [[05_CONTINUIDAD/CURRENT_STATE_1_LLUVIA_AÑO3|CURRENT_STATE_1_LLUVIA_AÑO3]]
+> - **Frentes de Max:** Casa Ardel entra en cierre ordenado; Ravenwood, Cecilia/Mizuki, G1/cámara histórica, Gremio/Kira y economía siguen disponibles según decisión del usuario.
 
 ---
 
@@ -41,9 +42,9 @@ flowchart TD
 - [[01_CANON/CONTRADICCIONES|Matriz de Resolución de Contradicciones]]: Auditoría de estratos y precedencia autoral.
 
 ### 2. 👥 Personajes y Sociedad
-- **Protagonista:** [[03_PERSONAJES/Max38|Max Gutiérrez (38 años)]] — Ingeniero limeño, estratega, portador secreto de Sawardo y patriarca familiar.
+- **Protagonista:** [[03_PERSONAJES/Max38|Max Gutiérrez (39 años)]] — Ingeniero limeño, estratega, portador secreto de Sawardo y patriarca familiar.
 - **Matrimonio:** [[03_PERSONAJES/Serath_Vale|Comandante Serath Vale]] — Esposa legítima desde el Día 260. Hija del Rey Aldric (secreto de Estado).
-- **Hogar Gutiérrez:** [[03_PERSONAJES/Ryu|Ryu Gutiérrez (18 a)]] *(Oficial naval)* y [[03_PERSONAJES/Kenji|Kenji Gutiérrez (16 a)]] *(Chef de cocina)*.
+- **Hogar Gutiérrez:** [[03_PERSONAJES/Ryu_Gutierrez|Ryu Gutiérrez (18 a)]] *(Oficial naval)* y [[03_PERSONAJES/Kenji_Gutierrez|Kenji Gutiérrez (16 a)]] *(Chef de cocina)*.
 - **Socia & Amiga:** [[03_PERSONAJES/Aria|Aria]] — Undine ancestral libre, investigadora y ancla afectiva.
 - **Administración & Red:** [[03_PERSONAJES/Natalia_Thornwell|Natalia]], [[03_PERSONAJES/Elise_Goldcrest|Elise]], [[03_PERSONAJES/Vivienne_Silverstream|Vivienne]] y el aprendiz [[03_PERSONAJES/Leo_Mercer|Leo Mercer]].
 - **Guardia & Aliados:** [[03_PERSONAJES/Kael_Ironheart|Kael]], [[03_PERSONAJES/Torin|Torin]], [[03_PERSONAJES/Lyssa|Lyssa]], [[03_PERSONAJES/Kira|Kira (Guildmaster)]].

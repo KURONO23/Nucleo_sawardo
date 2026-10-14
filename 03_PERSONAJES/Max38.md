@@ -14,20 +14,20 @@ Max Josemar Gutiérrez tiene 39 años cronológicos, fue ingeniero terrestre y e
 Seguir la operación Marcos sin sustituir a Yuki, completar el examen de la pista Veylan/Averne y sostener límites de consentimiento. Estos frentes siguen abiertos y el jugador elige toda decisión de Max.
 
 ## FUENTES Y CORRECCIONES
-La fuente primaria en `00_FUENTES/historia_original/` es autoridad final; consultar además [[CURRENT_STATE_5_FLORIS_AÑO3]], [[FINANZAS_CANON_VIGENTE]] y [[PLOT_THREADS]]. Las correcciones autorales prevalecen.
+La fuente primaria en `00_FUENTES/historia_original/` es autoridad final; consultar además [[CURRENT_STATE_1_LLUVIA_AÑO3]], [[FINANZAS_CANON_VIGENTE]] y [[PLOT_THREADS]]. Las correcciones autorales prevalecen.
 
-> **Estado narrativo:** 5 de Floris, Año 3. Max Josemar Gutiérrez, 39 años, actúa bajo la cobertura Marcos; el jugador conserva control exclusivo de sus decisiones, pensamientos y sentimientos.
+> **Corte histórico de este bloque:** 5 de Verdalia, Año 3. Max Josemar Gutiérrez, 39 años, actúa bajo la cobertura Marcos; el jugador conserva control exclusivo de sus decisiones, pensamientos y sentimientos.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
 
 - Desayuno en Gutiérrez Estate con Serath y Aria; la operación Marcos permanece abierta y Yuki conserva dirección estratégica de su propio frente.
 - Liquidez conciliada: 905.905 oro. Los negocios, Esmeralda y la administración continúan bajo responsables propios; Max no puede atribuirse su trabajo autónomo.
 - Mantiene límites de consentimiento con Mizuki, Pequeño Zhong-Kyo, Sawardo y G1. Ravenwood/Veylan/Averne sigue siendo pista, no resolución.
-- Consultar [[CURRENT_STATE_5_FLORIS_AÑO3]], [[FINANZAS_CANON_VIGENTE]] y [[PLOT_THREADS]] antes de una escena nueva.
+- Consultar [[CURRENT_STATE_1_LLUVIA_AÑO3]], [[FINANZAS_CANON_VIGENTE]] y [[PLOT_THREADS]] antes de una escena nueva.
 
 ## CRONOLOGÍA CANÓNICA
 
-### Año 3 — 26 de Bruma a 4 de Floris
+### Año 3 — 26 de Bruma a 4 de Verdalia
 
 - Reconoce públicamente a Biro como autor y a Goran como creador capaz de transformar influencias en cultura aldoriana.
 - Comparte cine terrestre con Goran y distingue obra madre, adaptación y apropiación cultural.
@@ -37,7 +37,7 @@ La fuente primaria en `00_FUENTES/historia_original/` es autoridad final; consul
 - Habla con Cecilia mediante consentimiento, descubre a Mizuki Takahashi y le ofrece una vía de reparación sin absolverla por Haruto.
 - Lleva a Mizuki a Pequeño Zhong-Kyo respetando permiso, originales comunitarios y límites de interpretación.
 - Su impacto sigue siendo catalítico: crea conexiones, pero Biro, Goran, Yuki, Mizuki, Galwin, Kenji, Ryu y Haruto deciden y actúan por sí mismos.
-- Punto actual: [[CURRENT_STATE_4_FLORIS_AÑO3]].
+- Punto actual: [[CURRENT_STATE_4_VERDALIA_AÑO3]].
 
 ### Año 3 — mañana del 26 de Bruma
 
@@ -48,7 +48,7 @@ La fuente primaria en `00_FUENTES/historia_original/` es autoridad final; consul
 - Creó como broma y estrategia de reserva financiera la Operación «Somos Pobres»: evitar cifras y atribuir control contable a Natalia.
 - Eligió la opción 3 y redactó con Aria, Elise y Vivienne un manual de respuestas técnicamente verdaderas.
 - Quiere acudir a una futura recepción con Serath, Aria, Natalia, Elise y Vivienne. La fecha no existe todavía y Max no ha ejecutado la broma ante nobles.
-- Fuente: `00_FUENTES/historia_original/AÑO_3/11_26_Bruma_Año_3.md`, líneas 1–1539.
+- Fuente: `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`, líneas 1–1539.
 
 ### Año 2 — punto de giro: depresión, Torre y Aguja Muerta
 
@@ -244,6 +244,7 @@ Declara que no desea guerras, gobierno ni cruzadas demoníacas; acepta ayudar so
 
 ## Matrimonio y Vínculo con Serath Vale
 - **Casado con Serath desde el Día 260:** Matrimonio pleno, maduro y de respeto mutuo.
+- **Primer aniversario — 17 de Cosecha, Año 2:** Max y Serath estaban completamente absorbidos por sus responsabilidades y ambos olvidaron la fecha. No hubo celebración, regalo ni resentimiento retroactivo; el olvido fue mutuo.
 - Tras el estreno teatral de *Austin Powers*, le regaló un baile privado cómico/sensual al ritmo de *Let's Groove* vistiendo el traje en casa.
 - Para la Noche de las Luminarias, mandó a forjar en secreto con un maestro herrero una pequeña espada de entrenamiento idéntica a la que Serath soñaba tener de niña.
 
@@ -317,9 +318,14 @@ Declara que no desea guerras, gobierno ni cruzadas demoníacas; acepta ayudar so
 
 Fuentes: `00_FUENTES/historia_original/AÑO_1/03_19_Bruma_a_04_Solalto_Año_1.md`, 16551–16780 y 21132–21161; [[AUDITORIA_GREMIO_FONDO_VETERANOS_AÑO3]].
 
-## ADDENDUM — DELTA RP, 4–5 DE FLORIS, AÑO 3
+## ADDENDUM — DELTA RP, 4–5 DE VERDALIA, AÑO 3
 
-Durante la operación Marcos, Max mantiene la cobertura sin llevar G1 encima. `DOCTOR` es su alias de comunicación y `BAKARINA` identifica a Yuki. Las bromas `BAZUMA` y la comparación humorística de Serath con Sena son referencias culturales, no autodesprecio ni sustitución de personalidad. En el desayuno del 5 de Floris, las opciones del usuario (escuchar/proteger a Serath y pedir vigilancia prudente a Aria) quedan pendientes de escenificación.
+Durante la operación Marcos, Max mantiene la cobertura sin llevar G1 encima. `DOCTOR` es su alias de comunicación y `BAKARINA` identifica a Yuki. Las bromas `BAZUMA` y la comparación humorística de Serath con Sena son referencias culturales, no autodesprecio ni sustitución de personalidad. En el desayuno del 5 de Verdalia, las opciones del usuario (escuchar/proteger a Serath y pedir vigilancia prudente a Aria) quedan pendientes de escenificación.
+
+### Humor relacional que debe conservarse
+
+- Max llama a Natalia **«Mamá Natalia»** como broma afectuosa: ella administra sus cuentas, protege su dinero, exige recibos y le limita la “propina” cuando intenta gastar por impulso. No es una relación literal de madre e hijo; es la forma criolla de reconocer que Natalia es la adulta responsable de su economía sin reducirla a una caricatura.
+- `BAKARINA` es Yuki, `FRIEREN` es Mizuki/Cecilia y `BAZUMA` es el apodo paródico de Kazuma Satou que ambas usan para Max. El trío expresa confianza ganada durante Ravenwood y conserva las personalidades y límites de cada integrante.
 
 ## EVOLUCIÓN CAUSAL — HILOS QUE CAMBIARON SU FORMA DE VIVIR Y DE INFLUIR
 
@@ -328,3 +334,12 @@ Durante la operación Marcos, Max mantiene la cobertura sin llevar G1 encima. `D
 - **La depresión, Torre y Aguja Muerta:** una caminata para aislarse se convirtió en una investigación que devolvió propósito. La consecuencia no es que el dolor desaparezca, sino que aprendió a compartir un proyecto: Galwin mantiene, Daichi cuestiona, Mika mide, Leo registra y los demás deciden si participar.
 - **La Red de Nodos y G1:** confirma que su legado deseable es infraestructura con límites, salarios, protocolos y personas capaces de decirle que no; G2 no se adelanta por deseo de Max.
 - **Red, Atalayas y Marcos:** la amenaza amplía su responsabilidad sin convertirlo en gobernante omnisciente. Aria, Serath, Yuki, Kira y la Corona sostienen frentes propios; su cobertura actual sigue siendo una escena abierta, no una victoria ya narrada.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Cerró la fase útil de la cobertura Marcos, aprendió de Halven, participó en la revisión documental de Ravenwood, conversó con Cecilia/Mizuki, dejó abierta con Kira una disponibilidad gremial auténtica y volvió a su matrimonio. Recupera el control el 1 de Lluvia: no es empleado permanente de Casa Ardel y sus decisiones pendientes siguen reservadas al usuario.
+- **Ruta del jugador — `PENDIENTE`:** decidir el cierre con Halven, revisar con Natalia el balance sin inventar cifras, elegir cuánto apoyo externo dar a Ravenwood y determinar los siguientes pasos de G1, la cámara histórica y el Gremio. Ninguna de esas decisiones se ejecuta fuera de cámara.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

@@ -19,7 +19,7 @@
   > «Mi espada y mi escudo están jurados a la defensa de esta casa y de esta gente. Si hay peligro en los caminos de Tornhaven o en los muros de la finca, allí estaré.»  
   — Torin durante el despliegue de patrullas.
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Gutiérrez Estate y enlaces de patrulla perimetral en Thornhaven y Pequeño Zhong-Kyo.
 - **Responsabilidad actual:** Coordinación de la defensa territorial junto a Ryu y Kenji Gutiérrez; supervisión de turnos de guardia de la finca.
@@ -72,7 +72,7 @@
 - `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`
 - `00_FUENTES/historia_original/AÑO_2/07_25_Ambar_a_10_Noctalia_Año_2.md`, líneas 3556–3617.
 - `00_FUENTES/historia_original/AÑO_2/08_11_Noctalia_a_30_Noctalia_Año_2.md`, líneas 11788–11808.
-- [[CURRENT_STATE_5_FLORIS_AÑO3]]
+- [[CURRENT_STATE_5_VERDALIA_AÑO3]]
 - [[MICROINTERACCIONES_PERSONAJES_A_I]]
 - **Corrección autoral:** Capitán de guardianes; no reducir a escolta pasivo.
 
@@ -114,3 +114,12 @@
 ## PETICIÓN AUTÓNOMA AL GREMIO — VIGILIA DEL UMBRAL — AÑO 3
 
 Torin presenta a Kira la petición de un **Turno de umbral** y una ronda entre la finca, Casa del Puente y las rutas de Thornhaven. Quiere medir tiempos de respuesta, suministros y puntos ciegos; no busca que Max lo rescate ni que Vigilia se convierta en guardia privada absorbida por House Gutiérrez. Solo Kira puede sellarla como contrato F–S.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` mantener patrullas, guardianes y rutas seguras. `Ambición:` formar una guardia profesional que pueda responder sin el mito de Max. `Vínculo:` Misa, Lyssa y los guardianes. `Obstáculo / hito:` registrar una mejora de seguridad y el coste de cubrir más territorio.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

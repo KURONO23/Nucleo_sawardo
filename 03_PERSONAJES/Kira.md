@@ -3,7 +3,7 @@
 ## Identidad estable
 Kira, de 59 años, es Guildmaster de Thornhaven y exaventurera de rango S; perdió el ojo izquierdo ante un jefe de mazmorra antes de retirarse del campo. Es práctica, incisiva y poco impresionable. Su autoridad nace de experiencia de riesgo real y no puede deformarse en una simple burócrata.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
 Dirige contratos y clasificación formal de misiones de F a S. El Gremio desarrolla tutorías, enfermería y fondo de veteranos tras aportes de Max, sin que esos aportes sustituyan su autoridad. V. Sable continúa como expediente abierto.
 
 ## CRONOLOGÍA CANÓNICA
@@ -125,3 +125,12 @@ Fuentes: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`,
 - Los aportes de Max al Gremio y al fondo de veteranos le dan recursos, pero también la obligación de crear tutorías, enfermería y control de destino. El dinero no compra su autoridad ni vuelve a Max dueño de las misiones.
 - V. Sable y Jasmine amplían su función desde administradora de contratos a protectora de cadena de custodia, testigos y límites de investigación.
 - Influye en Ventura, Vigilia y Max al recordar que una misión solo existe formalmente cuando ella la clasifica entre F y S.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Protegió la cadena gremial, mantuvo separada la investigación de V. Sable y registró la disponibilidad real de Max para una futura misión S. No hay contrato aceptado ni expediente falsificado.
+- **Ruta autónoma vigente:** `Meta:` mantener el expediente de V. Sable y la cadena de custodia. `Ambición:` que Thornhaven investigue amenazas complejas sin depender de un aventurero excepcional. `Vínculo:` Jasmine, interrogadores y comerciantes protegidos. `Obstáculo / hito:` producir una hipótesis graduada que pueda compartir con la Corona.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

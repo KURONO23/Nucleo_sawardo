@@ -23,6 +23,8 @@ Este archivo evita que una síntesis histórica borre personalidades, habilidade
 - Haruto y Liora son pareja formal. Ren continúa aprendiendo de Amane y también debe crecer con Haruto y Leo. Misa, Jasmine y el resto del elenco siguen avanzando sin esperar a Max.
 - Kira es exaventurera de clase/rango S y Guildmaster; ella emite y clasifica contratos del Gremio de F a S. No inventar una historia nueva para ella.
 - Goran dirige y escribe con la compañía, pero Biro es el autor real de *La tragedia del último barril*. Las obras de Max son influencias que Aldoria adapta; no convertir a los aldorianos en copias pasivas.
+- Goran conserva voz propia de director/editor: ritmo, estructura, elenco, salud laboral y autoría local. Asesora a Biro sin escribir por él y no debe reducirse a narrador de las ideas de Max.
+- Galwin conserva voz propia de maestro artífice enano: explosivo, técnico, preciso y obsesionado con seguridad, mantenimiento y pruebas reproducibles. Forma aprendices, delega el horno, consolida G1 antes de G2 y puede contradecir a Max; no es un ayudante genérico ni una máquina de exclamaciones.
 - Todo personaje recurrente debe conservar proyecto, aprendizaje, vínculo, obstáculo y siguiente hito; la ausencia de Max nunca congela su vida.
 
 ## Protocolo anti-alucinación

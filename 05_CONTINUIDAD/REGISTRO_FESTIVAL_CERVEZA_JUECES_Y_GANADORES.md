@@ -83,7 +83,7 @@ Regla recuperada: un participante carga a una competidora, quien sostiene dos ch
 ## Fuentes
 
 - Año 2: `00_FUENTES/historia_original/AÑO_1/04_09_Solalto_Año_1_a_25_Solalto_Año_2.md`, clasificación de Juegos y Copa de los Días 419–420.
-- Año 3: `00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md`, resultados de 23–24 de Bruma.
+- Año 3: `00_FUENTES/historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`, resultados de 23–24 de Bruma.
 
 ## Comentarios y criterio individual del jurado
 
@@ -108,7 +108,7 @@ No atribuir una frase textual concreta a un juez si no aparece en la escena prim
 
 - Año 2, Juegos: `00_FUENTES/historia_original/AÑO_1/04_09_Solalto_Año_1_a_25_Solalto_Año_2.md`, `DÍA 419 — LOS JUEGOS DEL BARRIL`, líneas 176103–181317.
 - Año 2, Copa: misma fuente, `DÍA 420 — TERCER DÍA`, líneas 183313–186367.
-- Año 3, Juegos: `00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md`, `PRUEBA 1`, línea 12477, hasta `RESULTADO FINAL`, línea 13294.
+- Año 3, Juegos: `00_FUENTES/historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`, `PRUEBA 1`, línea 12477, hasta `RESULTADO FINAL`, línea 13294.
 - Año 3, menciones: misma fuente, desde `Espíritu del Festival`, línea 13342.
 - Año 3, Copa: misma fuente, bloques posteriores de 24 de Bruma y `EVALUACIÓN HONORÍFICA`, línea 15043.
 

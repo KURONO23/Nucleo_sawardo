@@ -11,9 +11,9 @@ Vivienne Silverstream gestiona comercio exterior, logística y redes de Casa Gut
 ## FUENTES Y CORRECCIONES
 La fuente primaria y [[FINANZAS_CANON_VIGENTE]] prevalecen. La futura gala y recepción siguen como semillas, no eventos ya programados.
 
-> **Estado narrativo:** 5 de Floris, Año 3. Responsable de comercio exterior y redes de Casa Gutiérrez; prepara una gala noble-cultural benéfica como `SEMILLA`, no como evento confirmado.
+> **Corte histórico de este bloque:** 5 de Verdalia, Año 3. Responsable de comercio exterior y redes de Casa Gutiérrez; prepara una gala noble-cultural benéfica como `SEMILLA`, no como evento confirmado.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
 
 - Mantiene rutas, contratos y distribución post-Festival con criterio propio.
 - Su salario es de 800 oro mensuales desde el 26 de Bruma, sin retroactividad.
@@ -28,9 +28,9 @@ La fuente primaria y [[FINANZAS_CANON_VIGENTE]] prevalecen. La futura gala y rec
 - Identificó que no existía una próxima cena noble fijada y propuso buscar una recepción formal post-Festival en vez de inventar un evento.
 - Dirigió la redacción de la Operación «Somos Pobres»: no mentir con cifras, manipular contexto y no revelar saldo, patrimonio, flujo, dividendos, reservas ni límites de puja.
 - Quedó encargada de localizar la siguiente recepción formal; todavía no la encontró dentro de la fuente.
-- Fuente: `00_FUENTES/historia_original/AÑO_3/11_26_Bruma_Año_3.md`, líneas 379–1539.
+- Fuente: `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`, líneas 379–1539.
 
-### Año 3 — 1 de Floris
+### Año 3 — 1 de Verdalia
 
 - Descubrió formalmente en el cierre mensual que su remuneración había aumentado a 800 oro desde el 26 de Bruma.
 - Agradeció el reconocimiento sin abandonar su lectura crítica de rutas, capital y margen de maniobra.
@@ -117,3 +117,12 @@ Vivienne concibió por iniciativa propia una gala noble-cultural benéfica auté
 - La autonomía demostrada durante las ausencias de Max confirma que puede negociar, distribuir y sostener oficinas por criterio propio. Su salario reconoce trabajo ya real, no una lealtad pasiva.
 - Austin Powers, las solicitudes internacionales y el Festival le enseñan a distinguir entusiasmo del público, capacidad logística y compromiso financiero. Esa disciplina protege a Goran, actores y delegaciones de promesas imposibles.
 - Influye en Natalia y Elise mediante información de terreno; influye en Max al mostrarle que una institución sobrevive porque alguien diseña rutas, contratos y descansos.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Mantuvo contactos, cargas y compromisos culturales con límites logísticos, y conserva como propuesta una gala benéfica todavía sin fecha ni presupuesto. Su crecimiento consiste también en rechazar saturación y contratos inseguros.
+- **Ruta autónoma vigente:** `Meta:` ordenar rutas, cargas y solicitudes internacionales del teatro y Esmeralda. `Ambición:` dominar una red comercial ética y resistente. `Vínculo:` Natalia, Liora, proveedores y capitanes. `Obstáculo / hito:` decidir qué contrato rechazar por saturación o riesgo.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

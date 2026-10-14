@@ -4,48 +4,44 @@
 
 ## Doctrina autoral
 
-Max celebra los cumpleaños de sus amigos. Antes de cualquier salto de días o semanas:
+Max puede celebrar los cumpleaños de sus amigos cuando así lo desea. La celebración automática no se presume: solo se activa si Max la pide expresamente o si existe una preferencia vigente que la autorice. Antes de cualquier salto de días o semanas:
 
 1. Revisar esta lista.
 2. Avisar qué cumpleaños se aproxima y cuántos días faltan.
 3. Si el usuario desea preparativos especiales, jugarlos.
-4. Si no los solicita, realizar automáticamente una celebración bonita y coherente: regalo útil y personal, más comida, parrillada, cena o actividad elegida por la persona.
-5. Los cumpleaños de **Serath** y **Aria** son de máxima prioridad y no deben resolverse silenciosamente fuera de cámara.
+4. Ofrecer a Max la opción de celebrar, posponer o dejar sin escena la fecha. Si Max desea una celebración automática —o existe una preferencia vigente que la autorice—, ejecutar una celebración coherente sin inventar decisiones internas de Max.
+5. Los cumpleaños de **Serath** y **Aria** son de máxima prioridad: detener el salto, avisar y pedir la decisión de Max; nunca resolverlos silenciosamente fuera de cámara.
 6. No inventar una fecha para quien todavía la tenga desconocida.
 
-## Incidencia del 1 de Floris, Año 3
+## Incidencia corregida del falso 1 de Floris, Año 3
 
-- La fuente avanzó al 1 de Floris sin recordar que era el cumpleaños de Haruto.
-- La omisión del narrador no anula la doctrina autoral anterior.
-- Resolución: **el cumpleaños de Haruto ocurrió automáticamente fuera de cámara**, con Max, Liora y su círculo; hubo una celebración bonita conforme a la regla de Max.
-- El regalo, comida y microinteracciones específicos del Año 3 permanecen `DETALLE_NO_NARRADO`; no fabricar detalles retrospectivos sin decisión del usuario.
-- Haruto tiene **19 años** después de esa fecha.
+- La fuente llamó Floris a un tramo que en realidad pertenecía a Verdalia.
+- Por tanto, el 1 de Floris del Año 3 **todavía no ocurrió** y no existe una celebración automática omitida ni una decisión de Max que presumir.
+- Haruto conserva **18 años** hasta el próximo 1 de Floris.
 
-## Cumpleaños ya celebrados durante el Año 3
+## Fechas transcurridas durante el Año 3
 
-La fuente no abrió una escena jugable para estas fechas, pero la doctrina autoral y la instrucción posterior del usuario establecen que sí se celebraron, respetando el deseo de cada persona. No se inventa una cifra de edad cuando el nacimiento no está fijado.
+Una costumbre general de Max no demuestra los detalles de un acontecimiento concreto. Solo una escena o confirmación expresa permite marcar una celebración como canónica.
 
-- **27 de Albor — Galwin Gearwright:** pidió una celebración pequeña dentro del taller, sin discursos ni protocolo. Max, sus aprendices y Sayaka reservaron una jornada de trabajo compartido: Galwin eligió reparar una herramienta antigua, bautizó una nueva plantilla de mantenimiento y terminó la noche probando fonocristales con quienes realmente trabajan a su lado. La celebración reforzó su autonomía como maestro y no se convirtió en una fiesta de corte.
-- **5 de Lluvia — Aldric Theron:** pidió una jornada sobria, con la familia y la Corona funcionando sin convertirlo en espectáculo público. Recibió una mesa privada, una revisión de compromisos pendientes y una conversación franca sobre qué tradiciones debía conservar el palacio. El Rey aceptó un regalo útil y un momento sin ceremonia; la edad cronológica continúa `DESCONOCIDA`.
-- **26 de Lluvia — Kenji Gutiérrez:** pidió cocinar para su familia y para la comunidad de Pequeño Zhong-Kyo, no recibir una celebración centrada en él. Preparó un menú de puente entre ambas tradiciones, abrió un cuaderno de recetas propias y recibió tiempo de cocina, herramientas y reconocimiento como autor. Al atravesar esta fecha pasa de **16 a 17 años**.
+- **27 de Albor — Galwin Gearwright:** `FECHA TRANSCURRIDA / CELEBRACIÓN NO DOCUMENTADA`. No reconstruir retrospectivamente cómo pasó el día.
 
-## Alertas vigentes al 5 de Floris, Año 3
+## Alertas vigentes al 18 de Verdalia, Año 3
 
 | Prioridad | Fecha | Persona | Faltan | Regla |
 |---|---|---|---:|---|
-| Próxima | **8 Floris** | **Ryu Gutiérrez** | **4 días** | Avisar antes de cualquier salto; preparación especial o celebración automática |
-| Próxima | **17 Floris** | **Liora** | **13 días** | Haruto debe conservar agencia principal como pareja |
-| Máxima | **31 Floris** | **Serath Vale** | **27 días** | No resolver fuera de cámara sin consultar al usuario |
+| Próxima | **5 Lluvia** | **Aldric Theron** | **18 días** | Avisar antes de cualquier salto |
+| Próxima | **26 Lluvia** | **Kenji Gutiérrez** | **39 días** | Avisar antes de cualquier salto |
+| Próxima | **1 Floris** | **Haruto Kazagami** | **44 días** | No inventar celebración retrospectiva |
 
 ## Calendario anual conocido
 
-| Fecha | Personaje | Vínculo con Max | Estado en Año 3 al 5 de Floris |
+| Fecha | Personaje | Vínculo con Max | Estado en Año 3 al 18 de Verdalia |
 |---|---|---|---|
-| 27 Albor | Galwin Gearwright | Artífice, amigo y colaborador | **Celebrado en Año 3 según su deseo: taller, aprendices y fonocristales** |
-| 5 Lluvia | Aldric Theron | Rey, aliado y familia política | **Celebrado en Año 3 según su deseo: jornada privada y sobria** |
-| 26 Lluvia | Kenji Gutiérrez | Hermano adoptivo | **Celebrado en Año 3 según su deseo; pasa de 16 a 17 años** |
-| **1 Floris** | **Haruto Kazagami** | Amigo, reencarnado y Cinco del Barril | **Celebración automática omitida por el narrador; ya cumplió 19** |
-| **8 Floris** | **Ryu Gutiérrez** | Hermano adoptivo | **Próximo: faltan 4 días** |
+| 27 Albor | Galwin Gearwright | Artífice, amigo y colaborador | **Fecha transcurrida; celebración no documentada** |
+| 5 Lluvia | Aldric Theron | Rey, aliado y familia política | **Próximo** |
+| 26 Lluvia | Kenji Gutiérrez | Hermano adoptivo | **Futuro; todavía tiene 16 años** |
+| **1 Floris** | **Haruto Kazagami** | Amigo, reencarnado y Cinco del Barril | **Futuro; todavía tiene 18 años** |
+| **8 Floris** | **Ryu Gutiérrez** | Hermano adoptivo | Futuro |
 | 17 Floris | Liora | Pareja de Haruto y amiga | Próximo; Haruto tiene prioridad afectiva |
 | **31 Floris** | **Serath Vale** | Esposa | **Máxima prioridad** |
 | 14 Solalto | Natalia Thornwell | Amiga y administradora | Futuro |
@@ -74,5 +70,5 @@ La ausencia de fecha no significa ausencia de vínculo. Mantener en lista de inv
 
 ## Control antes de saltar tiempo
 
-La pregunta obligatoria es: **«¿El intervalo cruza algún cumpleaños del círculo de Max?»** Si la respuesta es sí, detener el salto y avisar al usuario.
+La pregunta obligatoria es: **«¿El intervalo cruza algún cumpleaños del círculo de Max?»** Si la respuesta es sí, detener el salto y avisar al usuario. Para Serath y Aria se requiere decisión expresa; para los demás se ofrece la opción de celebración automática, pero no se activa sin deseo o preferencia vigente de Max.
 

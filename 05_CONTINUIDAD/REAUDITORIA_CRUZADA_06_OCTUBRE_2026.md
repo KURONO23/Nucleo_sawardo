@@ -35,5 +35,5 @@ La búsqueda estructural detectó enlaces wiki escritos con nombres humanos mien
 
 `00_FUENTES/historia_original`: 11 archivos, 19.605.033 bytes en la comprobación. Ninguna corrección de esta reauditoría se aplicó dentro de la matriz.
 
-**Adenda posterior:** el usuario incorporó después `00_FUENTES/historia_original/AÑO_3/11_26_Bruma_Año_3.md` como duodécima fuente. El 8 de octubre añadió `00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md` como decimotercera fuente, cuyo contenido alcanza el 4 de Floris. Las cifras de 11 y 12 archivos describen comprobaciones anteriores, no el inventario presente.
+**Adenda posterior:** el usuario incorporó después `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` como duodécima fuente. El 8 de octubre añadió `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md` como decimotercera fuente, cuyo contenido alcanza el 4 de Verdalia. Las cifras de 11 y 12 archivos describen comprobaciones anteriores, no el inventario presente.
 

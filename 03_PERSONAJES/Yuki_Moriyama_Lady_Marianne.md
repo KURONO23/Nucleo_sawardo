@@ -19,7 +19,7 @@
   > «Max-san... Voy a ignorarlo únicamente porque has usado un tono demasiado cariñoso como para justificar violencia diplomática. ¡Compórtate!»
 - **En crisis / dirección de la contraoperación:** Determinada, serena y protectora. Entrenó a Max en postura de sirviente, manejo de bandeja, silencio y etiqueta para su infiltración como «Marcos», usando el código `Doctor` para Max en el enlace G1 certificado.
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Estado histórico — 18 de Verdalia, Año 3
 
 - **Ubicación:** Residencia noble de House Ravenwood en Aldoria, con enlaces directos hacia Casa Gutiérrez.
 - **Responsabilidad actual:** Dirección estratégica de la contraoperación Ravenwood-Ardel-Veylan; análisis cruzado entre el informe independiente de Mizuki y los datos del canal Max–Aria–Yuki.
@@ -37,7 +37,7 @@
 - Presencia en los palcos nobiliarios durante las obras de la Compañía Goran (*Austin Powers*, *Dunk y Egg*); se tapa la cara de risa al ver a Max en el escenario.
 - Análisis caligráfico y de sellos para desenmascarar el boicot nobiliario de otoño.
 
-### Año 3 (1 a 5 de Floris)
+### Año 3 (1 a 5 de Verdalia; tramo originalmente mal rotulado como Floris)
 - Asume la dirección estratégica de la contraoperación contra la trama Ravenwood-Ardel-Veylan.
 - Adiestra a Max en modales de servicio doméstico para su infiltración encubierta como Marcos.
 - Procesa informes de Aria y Mizuki, decidiendo no precipitar acciones contra Severin para mantener confiado a Corven.
@@ -50,7 +50,7 @@
 - **Cambio:** Se negó a que Max resolviera el conflicto por ella y asumió el liderazgo del operativo.
 - **Conducta vigente:** Dirige la red, dosifica órdenes, impone protocolos de retirada y contrasta datos de múltiples fuentes antes de actuar.
 - **Influencia:** Guía las acciones encubiertas de Max, modera las reacciones de Aria y articula la defensa silenciosa de House Ravenwood.
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md` y [[OPERACION_RAVENWOOD_ARDEL_VEYLAN]].
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md` y [[OPERACION_RAVENWOOD_ARDEL_VEYLAN]].
 
 ## 5. Relaciones vivas
 
@@ -73,15 +73,15 @@
 
 - `00_FUENTES/historia_original/AÑO_1/04_09_Solalto_Año_1_a_25_Solalto_Año_2.md`
 - `00_FUENTES/historia_original/AÑO_2/06_15_Ambar_a_25_Ambar_Año_2.md`
-- `00_FUENTES/historia_original/AÑO_3/11_26_Bruma_Año_3.md`
-- `00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md`
+- `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`
+- `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md`
 - [[OPERACION_RAVENWOOD_ARDEL_VEYLAN]]
 - [[PERSONAJES_GUARDRAILS_CHAT]]
 - **Guardarraíles de voz:** Llama a Max `Max-san` en privado. `Bakarina` es apodo cariñoso y privado de Max, no un insulto público.
 
 ---
 
-## ADENDA — 1 A 4 DE FLORIS, AÑO 3
+## ADENDA — 1 A 4 DE VERDALIA, AÑO 3
 
 - Su conflicto rector ya no es una amenaza abstracta: combate la versión de su vida que Ravenwood, Corven y otros intentan imponerle.
 - Rechaza que Max resuelva su arco por ella y asume la dirección estratégica de la contraoperación.
@@ -150,7 +150,7 @@ Durante el boicot de otoño del Año 2, Yuki fue una de las encargadas de examin
 - Reconoce que el objeto musical recibido no es la música de su mundo; la nostalgia se vuelve vínculo compartido. `00_FUENTES/historia_original/AÑO_2/08_11_Noctalia_a_30_Noctalia_Año_2.md:L12126-L12164`.
 - Divide su tiempo entre Ravenwood y viajeros, y participa en el círculo de Serath sin quedar absorbida por Max.
 
-## ADDENDUM — 4–5 DE FLORIS, AÑO 3
+## ADDENDUM — 4–5 DE VERDALIA, AÑO 3
 
 Yuki compara el informe independiente de Mizuki con la cadena Max–Aria–Yuki después de que ambas investigaciones llegan a Veylan. Mantiene cautela política y personal: `BAKARINA` es una broma sobre Catarina Claes, no una red literal de pretendientes ni un cambio en sus relaciones. Solo hay dos terminales G1 certificados.
 
@@ -160,3 +160,19 @@ Yuki compara el informe independiente de Mizuki con la cadena Max–Aria–Yuki 
 - Ravenwood, Veylan y la información de Mizuki la obligan a asumir un frente que no puede resolver Max desde fuera. Aprende a contrastar fuentes, proteger su casa y tomar decisiones con información incompleta.
 - La cobertura Marcos cambia su relación con Max: él acepta instrucciones y ella aprende a usar su capacidad sin dejar que domine el sentido de la operación.
 - Influye en Aria, Mizuki y la red de Ravenwood al hacer de la prudencia una acción concreta: comparar, esperar evidencia y decidir qué no revelar todavía.
+
+
+## ADENDA — CONTRAOFENSIVA RAVENWOOD (1 AL 18 DE VERDALIA, AÑO 3)
+
+- **Entrenamiento de Marcos:** Instruyó a Max en etiqueta noble, postura, manejo de bandejas y servicio silencioso para su infiltración en Casa Ardel.
+- **Dirección estratégica:** Lideró la recopilación de documentos y delimitó la autorización adicional que debía acreditarse, sin convertir hipótesis en culpabilidad probada.
+- **La ofensiva documental del 18 de Verdalia:** Presentó una solicitud de revisión ante la oficina mercantil. Fue admitida a trámite, pero la resolución, el contraste de pruebas y las responsabilidades siguen pendientes.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Dirigió con autonomía la revisión formal de Ravenwood, separó evidencia, ayuda comercial y cobertura de Max, y contrastó información con Mizuki. La investigación sigue abierta y no hay patrocinador final identificado.
+- **Ruta autónoma vigente — `PENDIENTE`:** solicitar y contrastar documentos originales de Ravenwood, preservar su independencia política y mantener separados a Corven, Verrick, Veylan y el patrocinador desconocido hasta que exista evidencia suficiente.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

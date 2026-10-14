@@ -3,7 +3,7 @@
 ## Identidad estable
 Esta ficha reúne dos trabajadoras distintas sin confundirlas: Maria, jefa de recepción del Gremio de Thornhaven, y Martha, tabernera de The Silver Flagon. Maria sostiene protocolo, confidencialidad y circulación documental; Martha sostiene un refugio cotidiano para aventureros y mercaderes.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
 Maria continúa vinculada a la recepción del Gremio y Martha a la barra del Silver Flagon. No hay escena individual posterior que permita adjudicarles hechos nuevos.
 
 ## CRONOLOGÍA CANÓNICA
@@ -46,3 +46,12 @@ La fuente primaria de `00_FUENTES/historia_original/` tiene prioridad sobre cual
 ## ADDENDUM — CIERRE DE MICROINTERACCIONES
 
 - La fuente la muestra leyendo, interrumpiendo, ajustando y sellando documentación de distribución; su trabajo sostiene la circulación legal de las obras (`00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`, 14792–15028).
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` sostener la recepción del gremio y orientar aventureros. `Ambición:` que la memoria institucional del gremio no dependa de una sola guildmaster. `Vínculo:` Martha y Los Ventura. `Obstáculo / hito:` registrar una mejora de atención a nuevos rangos.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

@@ -16,9 +16,9 @@ Sostener una compañía que cree obra aldoriana y evaluar cine o una comedia de 
 ## FUENTES Y CORRECCIONES
 La autoridad final es `00_FUENTES/historia_original/`; véanse también [[PUNTO_DE_GIRO_TORRE_Y_NODOS]] y [[MICROINTERACCIONES_PERSONAJES_A_I]]. Las correcciones autorales prevalecen.
 
-> **Estado narrativo:** 5 de Floris, Año 3. Director de compañía, editor y miembro de los Cinco del Barril. Asesora a Biro, mientras la obra de éste y la comedia de convivencia siguen `PENDIENTES`.
+> **Corte histórico de este bloque:** 5 de Verdalia, Año 3. Director de compañía, editor y miembro de los Cinco del Barril. Asesora a Biro, mientras la obra de éste y la comedia de convivencia siguen `PENDIENTES`.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
 
 - Sostiene la Compañía Teatral Goran, sus turnos, su salud laboral y su continuidad editorial.
 - Corrige ritmo y coherencia de *La tragedia del último barril* sin ocupar la autoría de Biro.
@@ -67,7 +67,7 @@ La cadena 20 oro → copistas → amenaza → desnudez pública → 5 oro para p
 - Este incidente aseguró la continuidad física del proyecto y se convirtió en uno de los primeros ejemplos de Max usando una referencia cultural recién enseñada como advertencia real.
 - Goran pasó después a coordinar copistas, circulación y publicación; esa experiencia es el origen práctico de su identidad editorial posterior.
 
-### Año 3 — actualización al 5 de Floris
+### Año 3 — actualización al 5 de Verdalia
 
 En el proyecto de *La tragedia del último barril*, Goran conserva el papel de asesor: señala problemas de ritmo y coherencia, pero deja que Biro encuentre su propio final. No debe narrarse como coautor ni anunciarse un estreno antes de una escena que lo confirme.
 
@@ -77,3 +77,12 @@ En el proyecto de *La tragedia del último barril*, Goran conserva el papel de a
 - La confianza de Max, las revisiones de Jasmine y la experiencia de coordinar copistas lo convierten en editor y director; no se limita a reproducir historias terrestres, aprende a adaptarlas para Aldoria.
 - Austin Powers y el Festival amplían su escala: debe cuidar reparto, ritmo, salud del elenco y recepción social, no solo escribir una escena que funcione.
 - Su influencia sobre Biro es deliberadamente limitada: transmite oficio, pero protege que *La tragedia del último barril* conserve autoría de Biro. Esa decisión demuestra su propio crecimiento como formador.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Asesora la estructura y el ritmo de La tragedia del último barril sin apropiarse de la autoría de Biro. Continúa administrando compañía y proyectos culturales sin que cada idea se convierta automáticamente en estreno.
+- **Ruta autónoma vigente:** `Meta:` dirigir compañía, editorial, _Tragedia_ y búsqueda óptica. `Ambición:` que la cultura local continúe con autores propios. `Vínculo:` Biro, Darian, actores, copistas y estudiantes. `Obstáculo / hito:` escoger qué obra producir sin sobrecargar a la compañía.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

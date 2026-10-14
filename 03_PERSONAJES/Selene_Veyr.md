@@ -3,7 +3,7 @@
 ## Identidad estable
 Selene Veyr es noble y espía dravenniana, de presencia elegante y gótica, antigua asociada de Varnek y agente autónoma. Observa máscaras, continuidad y detalles antes de aceptar una explicación cómoda.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
 Tras el viaje de incógnito a Aldoria distingue a Nilo, actor de Austin, del espía real y guarda su deducción de Max/Austin sin pruebas públicas. El secreto afectivo de Dravenn permanece estrictamente privado; no se divulga a terceros.
 
 ## CRONOLOGÍA CANÓNICA
@@ -91,3 +91,12 @@ Todo esto sigue como posibilidad, no hecho.
 - El episodio de Dravenn dejó una memoria afectiva y una pregunta, no una identidad revelada públicamente. Su viaje a Aldoria nace de esa necesidad de comprobar, no de una misión recibida.
 - La actuación de Nilo, el sombrero y la tarjeta le permiten separar actor de espía. Esa distinción prueba que observa detalles y resiste la explicación más cómoda.
 - Al confrontar a Max sin pruebas documentales, decide no convertir una deducción íntima en acusación. Su avance es sostener un secreto propio y seguir investigando con prudencia, no entrar automáticamente al círculo de House Gutiérrez.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` proteger su investigación y el sombrero verde mientras observa la expansión cultural. `Ambición:` descubrir la verdad sin destruir la relación que la sostiene. `Vínculo:` Dravenn, Goran y círculos nobles. `Obstáculo / hito:` decidir qué sospecha compartir y qué guardar.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

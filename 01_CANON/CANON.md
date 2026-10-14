@@ -16,4 +16,4 @@
 
 ## Estado
 
-Punto narrativo vigente en [[CURRENT_STATE_5_FLORIS_AÑO3]]. `CURRENT_STATE.md` y `CURRENT_STATE_4_FLORIS_AÑO3` conservan cortes históricos. Contradicciones y memoria de errores en [[CONTRADICCIONES]]. Este archivo no autoriza continuar la historia por sí solo.
+Punto narrativo vigente en [[CURRENT_STATE_1_LLUVIA_AÑO3]]. [[CURRENT_STATE]] es su resumen operativo. El corte del 18 de Verdalia se conserva como historia de la infiltración de Marcos. Los archivos con 4–5 de Verdalia en el nombre conservan el error histórico de rotulado y deben leerse como 4–5 de Verdalia cuando describen ese tramo. Contradicciones y memoria de errores en [[CONTRADICCIONES]].

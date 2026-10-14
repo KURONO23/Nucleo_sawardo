@@ -3,7 +3,7 @@
 ## Identidad estable
 Galwin Gearwright es maestro mayor artífice, herrero rúnico e inventor enano de la Corona y House Gutiérrez. Es apasionado, explosivo y preciso; su oficio abarca infraestructura, fonocristales, Esmeralda y nodos. Mantiene un contrato vigente de 500 oro mensuales por mantenimiento de nodos y puede desplazarse entre nodos habilitados y su taller, sin gobernar ni conceder acceso a la red.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
 Su prioridad vigente es G1 funcional limitado: piezas auditables, permisos de destino, historial limitado y clasificación prudente de infraestructura antigua. G2 no está activado ni terminado. Celebró su cumpleaños del 27 de Albor según su deseo de una jornada pequeña de taller.
 
 ## CRONOLOGÍA CANÓNICA
@@ -26,7 +26,7 @@ Fuente final: `00_FUENTES/historia_original/`; consultar [[PROYECTO_G1_TERMINAL_
 
 ## CUMPLEAÑOS — 27 DE ALBOR, AÑO 3
 
-- Galwin pidió una celebración pequeña dentro del taller, sin ceremonia de corte ni discursos largos.
+- Su fecha del 27 de Albor del Año 3 transcurrió, pero no existe una escena ni confirmación expresa de cómo fue celebrada. No reconstruir retrospectivamente actividades, asistentes o regalos.
 - Max, sus aprendices y Sayaka reservaron una jornada de reparación, fonocristales y transmisión práctica; Galwin decidió qué herramienta antigua merecía volver a funcionar.
 - La celebración reforzó su identidad de maestro y formador. Su edad cronológica continúa `DESCONOCIDA`.
 
@@ -86,7 +86,7 @@ Colabora activamente con el Archimago Thalion Evernight y los artífices de la C
 - Al amanecer del 26 de Bruma conservaba el prototipo sin activar mientras esperaba la decisión de Max y la disponibilidad del equipo.
 - Véase [[PROYECTO_G1_TERMINAL_REGIONAL]].
 
-## G1 FUNCIONAL LIMITADO — 1 A 4 DE FLORIS, AÑO 3
+## G1 FUNCIONAL LIMITADO — 1 A 4 DE VERDALIA, AÑO 3
 
 - Construyó y probó dos terminales capaces de intercambiar mensajes regionales con permisos de destino.
 - El sistema rechaza destinos no autorizados y mantiene historial limitado.
@@ -94,7 +94,7 @@ Colabora activamente con el Archimago Thalion Evernight y los artífices de la C
 - Clasifica infraestructura antigua como activa, pasiva, repetidora, desconocida o prohibida.
 - Acepta como provisional la explicación de repetición observada mediante Sawardo y mantiene la investigación separada de la infiltración.
 
-## EVOLUCIÓN AUTÓNOMA — DELEGACIÓN, G1, G2 Y RUINAS — DESDE 4 DE FLORIS, AÑO 3
+## EVOLUCIÓN AUTÓNOMA — DELEGACIÓN, G1, G2 Y RUINAS — DESDE 4 DE VERDALIA, AÑO 3
 
 La obsesión de Galwin con el horno deja de ser el centro de su jornada. Por decisión propia, convierte su taller en una escuela de responsabilidad distribuida:
 
@@ -106,7 +106,7 @@ La obsesión de Galwin con el horno deja de ser el centro de su jornada. Por dec
 
 Este cambio no reduce a Galwin: lo hace pasar de ejecutor indispensable a maestro que forma reemplazos. Su siguiente conflicto personal es aprender a tolerar que un aprendiz encuentre una solución distinta a la suya.
 
-## ADDENDUM — 4–5 DE FLORIS, AÑO 3
+## ADDENDUM — 4–5 DE VERDALIA, AÑO 3
 
 La delegación del horno continúa. Galwin concentra su tiempo en hacer reproducible el G1 y en preparar una revisión segura de las ruinas; G2 sigue sin construirse y no debe declararse operativo.
 
@@ -116,3 +116,12 @@ La delegación del horno continúa. Galwin concentra su tiempo en hacer reproduc
 - Al poder desplazarse por nodos autorizados para mantenimiento, dejó de imaginar su oficio como trabajo de banco. Aprende dónde una teoría falla frente a materiales, clima y uso humano.
 - La colaboración con Aria, Sayaka, Daichi, Mika, Kazuki y Thalion convierte su inventiva en una disciplina que debe poder reparar otra persona. Por eso delegar el horno es parte de su progreso, no abandono de su excelencia.
 - G1, antes que G2, es la respuesta práctica a ese aprendizaje: una tecnología útil debe ser auditable, mantenible y segura incluso cuando Max no está presente.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Con Mika y Daichi convirtió G1 en un proceso repetible, auditable y reparable; mantuvo dos terminales autorizados y separó la cámara de Ardel de la Red de Nodos. G2 y toda activación de ruinas siguen pendientes.
+- **Ruta autónoma vigente:** `Meta:` consolidar G1, estudiar ruinas y dejar que sus aprendices mejoren el horno. `Ambición:` pasar de ejecutor indispensable a maestro que forma reemplazos y luego diseñar G2 con seguridad. `Vínculo:` aprendices, Daichi, Mika y Dorren. `Obstáculo / hito:` tolerar una solución de aprendiz distinta a la suya.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

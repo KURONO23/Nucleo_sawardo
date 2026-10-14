@@ -7,8 +7,8 @@ Elara Venn es oficial veterana de Guardia y Ejército de Aldoria, responsable de
 
 Habla poco y de forma reglamentaria: perímetro, suministro, despliegue y riesgo. Fuera de formación puede relajarse con el círculo de Serath, pero no pierde su lectura de seguridad ni adopta intriga de salón como voz principal.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-Sostiene seguridad de rutas y celebraciones frente a sabotaje o especulación; no hay despliegue nuevo individual narrado al 5 de Floris.
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
+Sostiene seguridad de rutas y celebraciones frente a sabotaje o especulación; no hay despliegue nuevo individual narrado al 5 de Verdalia.
 
 ## CRONOLOGÍA CANÓNICA
 - Coordina boda de Max y Serath con guardianes de Estate.
@@ -69,3 +69,12 @@ En las celebraciones de otoño y el festival de invierno, Elara aseguró que las
 - **Lady Celene Arvaux:** Complementariedad perfecta: Celene lee las intenciones de la nobleza y Elara ejecuta la disposición táctica en el terreno.
 - **Max Josemar Gutiérrez:** Aprecia la calidad de las provisiones y comidas que Max suministra a las guardias y reconoce su destreza en combate a pesar de su actitud poco militar.
 - **Maelis Dorne:** Trabajan en tándem continuo; Elara despliega lo que Maelis detecta mediante inteligencia militar.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` asegurar intendencia, perímetros y suministros. `Ambición:` que la Guardia pueda operar con logística honesta. `Vínculo:` Serath y Maelis. `Obstáculo / hito:` corregir una ruta de suministros antes de que se convierta en crisis.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

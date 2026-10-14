@@ -3,8 +3,8 @@
 ## Identidad estable
 Actriz de formación clásica de la Compañía Teatral Goran y creadora de Isola Ren, fiscal u oficial administrativa implacable. Su técnica se apoya en silencio, cuerpo y microexpresión; su comedia consiste en dejar que Austin se exponga antes de devolverlo al peso del trámite o la ley.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-Permanece vinculada a la compañía y a Isola Ren. La ficha no contiene escena individual posterior que permita afirmar dónde está o qué ha resuelto al 5 de Floris.
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
+Permanece vinculada a la compañía y a Isola Ren. La ficha no contiene escena individual posterior que permita afirmar dónde está o qué ha resuelto al 5 de Verdalia.
 
 ## CRONOLOGÍA CANÓNICA
 - Año 2: define a Isola como quien combate con sellos, formularios y aplicación fría de la ley.
@@ -40,3 +40,12 @@ Edda deja silencios y responde a Austin desde su propia voz; el contraste se vue
 - **Papel Insignia:** Creadora de **Isola Ren** (la fiscal / oficial administrativa implacable) en el universo teatral de Goran.
 - **Fortaleza Actoral:** Extraordinario dominio del silencio, control del lenguaje corporal y microexpresiones.
 - **Dinámica con Austin:** A diferencia de Vesper Noir (que confronta verbalmente a Austin), Isola le sigue parcialmente la corriente cómica para luego desarmarlo exigiéndole el cumplimiento estricto del trámite o la ley, generando explosiones de carcajadas en la platea.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` seguir construyendo a Isola Ren con autoridad y matiz. `Ambición:` que una actriz de formación clásica pueda dirigir una escena. `Vínculo:` Mara, Nilo y estudiantes. `Obstáculo / hito:` asumir una responsabilidad de ensayo sin que Goran la resuelva.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

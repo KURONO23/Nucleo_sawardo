@@ -23,7 +23,7 @@
   > —Necesitaba confirmar.»  
   Tras evaluar a Max personalmente, sentenció: *«Entiendo por qué te eligió»*.
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Cuartel General de la Guardia Real de Aldoria y enlaces frecuentes con la Casa Gutiérrez.
 - **Responsabilidad actual:** Coordinación de la seguridad perimetral de Aldoria, supervisión de veteranos reinsertados y socio activo de Cervecería Esmeralda.
@@ -75,7 +75,7 @@
 
 - `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`
 - `00_FUENTES/historia_original/AÑO_2/05_26_Solalto_a_14_Ambar_Año_2.md`
-- `00_FUENTES/historia_original/AÑO_3/11_26_Bruma_Año_3.md`
+- `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`
 - [[MICROINTERACCIONES_PERSONAJES_A_I]]
 - **Corrección autoral:** Darian, Capitán Darian Holt y Barón Darian Holt son la misma y única persona.
 
@@ -121,3 +121,12 @@ Darian no es un colaborador ocasional ni un actor: es el **quinto miembro origin
 - **«El Contador»:** Bautizado sarcásticamente con este apodo por Biro debido a su meticulosidad extrema con los reglamentos, los números y las distancias. Este rasgo inspiró directamente la creación del personaje cómico *Nim*.
 - **Arquitecto de los Juegos del Barril:** Redactó las normas y medidas de seguridad oficiales para las competencias de taberna reales en el Festival Internacional de la Cerveza de Aldoria, salvando vidas al evitar que barricas mal equilibradas aplastaran a los concursantes.
 - **Dinámica con Biro:** Rivalidad cómica permanente de pulseadas (casi destrozan una mesa en la finca Gutiérrez) y disputas dialécticas cotidianas.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Mantuvo turnos y abastecimiento bajo el mando de Serath y sigue funcionando como contrapeso reglamentario de Los Cinco del Barril. Puede criticar la obra de Biro sin sustituir su voz.
+- **Ruta autónoma vigente:** `Meta:` mantener mando militar y responsabilidad creativa en Los Cinco. `Ambición:` ser puente entre disciplina, cultura y camaradería. `Vínculo:` Serath, Goran, Biro y Haruto. `Obstáculo / hito:` elegir qué batalla no librar y qué obra sí defender.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

@@ -3,8 +3,8 @@
 ## Identidad estable
 Lady Astrid Varkhenn, también Astrid Halvern en ámbito artístico, es dravenniana, hermana menor del heredero de Rocahalda, guerrera de rango A consolidado, diplomática de montaña y líder de delegación. Es frontal, leal y resistente; su humor y disciplina son parte de su identidad, no una máscara teatral.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-Su estado confirmado es el de representante dravenniana, aliada de Serath y Max y figura de la crisis de Dravenn. No hay una escena individual posterior que establezca una acción nueva al 5 de Floris.
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
+Su estado confirmado es el de representante dravenniana, aliada de Serath y Max y figura de la crisis de Dravenn. No hay una escena individual posterior que establezca una acción nueva al 5 de Verdalia.
 
 ## CRONOLOGÍA CANÓNICA
 - Festival Internacional de la Cerveza: lidera a Dravenn y alcanza el segundo puesto ante Marevia.
@@ -54,3 +54,12 @@ Insiste en usar el escudo durante toda la secuencia de Dunk y Egg: la utilería 
    - Colaboró con el **Príncipe Caelan Theron** en el frente militar oficial mientras Max/Austin Powers desmantelaba a los golpistas desde las sombras.
    - Presidió el juicio sumario que devolvió la paz a los clanes del norte.
 4. **Vínculo con Serath y Max:** Amistad militar y respeto mutuo absoluto; ve a Serath como una igual en coraje y disciplina.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` representar a Dravenn y mantener sus delegaciones seguras. `Ambición:` unir fuerza marcial y diplomacia cultural. `Vínculo:` Maeve, Selene y la montaña. `Obstáculo / hito:` respaldar una iniciativa cultural que no controle.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

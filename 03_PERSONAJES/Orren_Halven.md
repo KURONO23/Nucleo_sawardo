@@ -12,10 +12,10 @@
 
 - **Ritmo y vocabulario:** Seco, austero, imperativo y sin rodeos. Voz baja pero autoritaria propia de un mayordomo tradicional.
 - **En la supervisión de servicio:** Instrucciones breves y precisas sobre limpieza de candelabros, pulido de pisos, horarios de cocina y servicio de mesa.
-- **En escena confirmada (trato con Marcos/Max):** Observó el desempeño de «Marcos» con mirada evaluadora; notó su disciplina física y le permitió volver a prestar servicio tras verificar que no hacía preguntas indiscretas ni causaba desorden (`00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md`).
+- **En escena confirmada (trato con Marcos/Max):** Observó el desempeño de «Marcos» con mirada evaluadora; notó su disciplina física y le permitió volver a prestar servicio tras verificar que no hacía preguntas indiscretas ni causaba desorden (`00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md`).
 - **Tratamiento:** Exige respeto hacia Lord Severin y disciplina estricta entre la servidumbre.
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Mansión de Casa Ardel, Aldoria.
 - **Responsabilidad actual:** Coordinación del personal doméstico, turnos de guardia doméstica y mantenimiento de las instalaciones.
@@ -39,7 +39,7 @@
 - **Cambio:** Tuvo que incorporar sirvientes eventuales externos («Marcos»), flexibilizando sus rígidos filtros de contratación.
 - **Conducta vigente:** Vigila de cerca a los recién llegados pero tolera ausencias si el trabajo pesado queda realizado impecablemente.
 - **Influencia:** Proporcionó involuntariamente a Max la cobertura perfecta para operar en el corazón de Casa Ardel.
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md`.
 
 ## 5. Relaciones vivas
 
@@ -58,14 +58,14 @@
 
 ## 7. Fuentes y correcciones
 
-- `00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md`
+- `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md`
 - [[OPERACION_RAVENWOOD_ARDEL_VEYLAN]]
-- [[CURRENT_STATE_4_FLORIS_AÑO3]]
+- [[CURRENT_STATE_4_VERDALIA_AÑO3]]
 - **Corrección autoral:** Burócrata doméstico de honor antiguo; no atribuirle complicidad ideológica con la conspiración.
 
 ---
 
-## Estado al 4 de Floris, Año 3
+## Estado al 4 de Verdalia, Año 3
 
 Orren dirige el funcionamiento cotidiano de Casa Ardel. Puede conocer la capa doméstica y operativa de la casa sin comprender el financiamiento completo ni el plan de Corven.
 
@@ -83,4 +83,13 @@ No atribuirle conocimiento de la identidad de Max, de G1 ni del patrocinador fin
 
 ## Fuente
 
-`00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md`; [[OPERACION_RAVENWOOD_ARDEL_VEYLAN]].
+`00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md`; [[OPERACION_RAVENWOOD_ARDEL_VEYLAN]].
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Pasó de administrador funcional a protector activo del personal y custodio prudente del archivo de Casa Ardel. Detuvo cualquier apertura de la cámara histórica hasta contar con evaluación y permisos; queda pendiente un cierre honesto con Marcos.
+- **Ruta autónoma vigente:** `Meta:` mantener el funcionamiento diario de Casa Ardel. `Ambición:` conservar poder práctico aunque no controle el financiamiento. `Vínculo:` Severin, Corven y trabajadores. `Obstáculo / hito:` detectar una orden contradictoria y decidir a quién obedecer.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

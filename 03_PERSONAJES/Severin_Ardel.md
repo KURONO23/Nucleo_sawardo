@@ -13,9 +13,9 @@
 - **Ritmo y vocabulario:** Tenso, formal, reservado y defensivo. Elige sus palabras con cautela para no revelar debilidades de balance ni fisuras en el control de su servicio.
 - **En público / salones nobles:** Mantiene la compostura de decoro patricia, aunque denota incomodidad ante las preguntas sobre gastos extraordinarios.
 - **En privado / Casa Ardel:** Exigente con las cuentas y facturas; revisa compromisos antiguos que no encajan con los nuevos pagos. Interroga a sus administradores con tono incisivo buscando entender si afronta una deuda, una traición o una dependencia forzada.
-- **Voz en escena confirmada:** Tono preocupado y autoritario contenido durante las revisiones de inventario y contratos en Casa Ardel (`00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md`).
+- **Voz en escena confirmada:** Tono preocupado y autoritario contenido durante las revisiones de inventario y contratos en Casa Ardel (`00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md`).
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Mansión de Casa Ardel en Aldoria.
 - **Responsabilidad actual:** Administración general de los bienes familiares, revisión de contratos comerciales y supervisión de dependencias domésticas.
@@ -39,7 +39,7 @@
 - **Cambio:** Comenzó a desconfiar de su propio entorno y a revisar minuciosamente los archivos de la casa.
 - **Conducta vigente:** Vigila a sus colaboradores cercanos (Halven, Dossan) y trata de ganar tiempo sin mostrar pánico.
 - **Influencia:** Su indecisión permite el avance encubierto del operativo de Yuki Moriyama y la investigación de Max.
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md` y [[OPERACION_RAVENWOOD_ARDEL_VEYLAN]].
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md` y [[OPERACION_RAVENWOOD_ARDEL_VEYLAN]].
 
 ## 5. Relaciones vivas
 
@@ -59,14 +59,14 @@
 
 ## 7. Fuentes y correcciones
 
-- `00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md`
+- `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md`
 - [[OPERACION_RAVENWOOD_ARDEL_VEYLAN]]
-- [[CURRENT_STATE_4_FLORIS_AÑO3]]
+- [[CURRENT_STATE_4_VERDALIA_AÑO3]]
 - **Corrección autoral:** No convertir en villano ni víctima confirmada; mantener abierto su dilema moral y político.
 
 ---
 
-## Estado al 4 de Floris, Año 3
+## Estado al 4 de Verdalia, Año 3
 
 Mientras Corven prueba respuestas y Veylan aparece como circuito reciente, Severin intenta mantener la apariencia de control ante su propia casa. Ha comenzado a revisar compromisos antiguos que no encajan con las nuevas facturas, pero todavía no sabe si está buscando una deuda, una traición o una dependencia.
 
@@ -84,4 +84,13 @@ No fijar su lealtad final, el objetivo contra Ravenwood ni su conocimiento sobre
 
 ## Fuente
 
-`00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md`; [[OPERACION_RAVENWOOD_ARDEL_VEYLAN]].
+`00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md`; [[OPERACION_RAVENWOOD_ARDEL_VEYLAN]].
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` proteger su casa y su margen dentro del plan. `Ambición:` no quedar reducido a firma decorativa de un patrocinador externo. `Vínculo:` Orren, Corven y Ardel. `Obstáculo / hito:` revelar o encubrir un dato que cambie su posición.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

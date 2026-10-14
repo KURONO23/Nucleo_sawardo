@@ -15,7 +15,7 @@
 - **En escena confirmada:** Observa las obras teatrales de la Compañía Goran desde los palcos nobles con desdén inicial, desconcertado por el fervor popular que generan pero registrando con frialdad su indudable peso político (`Historia isekai 577-587...`, líneas 489–555).
 - **Métodos confirmados:** Utiliza operadores de información como Cassian Vyre para espiar los libros contables, compras de grano y movimientos financieros de Casa Gutiérrez y Natalia Logistics.
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Mansión solariega de House Marlowe en el distrito noble de Aldoria.
 - **Responsabilidad actual:** Dirección de las inversiones tradicionales de su casa y coordinación en la sombra con facciones patricias conservadoras.
@@ -102,3 +102,12 @@ Marlowe es la casa vinculada a las filtraciones de información y espionaje en l
 ## ADDENDUM — CIERRE DE MICROINTERACCIONES
 
 - Observa el teatro desde el palco y no termina de comprender por qué funciona; aun así registra su efecto político y cultural (`Historia isekai 577-587...`, 489–555; `isekai 4 de Albor...`, 1540–1542).
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` mover intereses de rutas, almacenes y granos a través de intermediarios. `Ambición:` conservar influencia sin exponerse. `Vínculo:` Cassian Vyre y casas menores. `Obstáculo / hito:` una decisión de mercado que revele cuánto arriesga personalmente.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

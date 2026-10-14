@@ -19,22 +19,22 @@ Seguir definiendo su voz, límites de manifestación y criterio ante las anomal�
 ## FUENTES Y CORRECCIONES
 La fuente primaria de `00_FUENTES/historia_original/` prevalece, junto con [[MICROINTERACCIONES_PERSONAJES_A_I]] y [[PUNTO_DE_GIRO_TORRE_Y_NODOS]]. Las correcciones autorales prevalecen.
 
-> **Estado narrativo:** 5 de Floris, Año 3. Undine ancestral y partner independiente de Max; participa en el enlace de la operación Marcos y puede exigir retirada. Nunca es una herramienta de Sawardo.
+> **Corte histórico de este bloque:** 18 de Verdalia, Año 3. Undine ancestral y partner independiente de Max; enlace de inteligencia, contabilidad de Gutiérrez Estate y guardiana de consentimiento.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## Estado histórico — 18 DE VERDALIA, AÑO 3
 
 - Mantiene comunicación disciplinada con Max y Yuki durante la operación, sin sustituir las decisiones de ninguno.
 - Protege consentimiento, límites de Sawardo y el carácter comunitario de Pequeño Zhong-Kyo.
 - La causa de su marca antigua, los límites finales de su manifestación y toda solución respecto a Mizuki siguen abiertos.
 
-## ADENDA — ENLACE OPERATIVO Y FRENO ÉTICO, 1–4 DE FLORIS
+## ADENDA — ENLACE OPERATIVO Y FRENO ÉTICO, 1–4 DE VERDALIA
 
 - Participa en la prueba G1 sin reducirse a batería o mensajera: cuestiona riesgos, interpreta la anomalía y exige límites.
 - Convierte la telepatía con Max en una cadena de comunicación disciplinada con Yuki.
 - Resume hechos sin adornarlos y tiene autoridad para activar retirada inmediata si detecta peligro.
 - Acompaña la conversación con Mizuki y protege la exigencia de consentimiento antes de Sawardo y del viaje temporal.
 - Ayuda a impedir que Pequeño Zhong-Kyo sea tratado como objeto de estudio.
-- El 4 de Floris mantiene enlace con Marcos mientras Mizuki investiga de manera independiente.
+- El 4 de Verdalia mantiene enlace con Marcos mientras Mizuki investiga de manera independiente.
 
 ## ADENDA — HUMOR Y COMPLICIDAD DEL 26 DE BRUMA, AÑO 3
 
@@ -43,7 +43,7 @@ La fuente primaria de `00_FUENTES/historia_original/` prevalece, junto con [[MIC
 - Participó activamente en la Operación «Somos Pobres», pero impuso límites: no convertir a Serath en administradora de una mesada ni usar Sawardo para escapar socialmente.
 - Identificó con humor las funciones del equipo: Natalia controla dinero, Serath aconseja, Aria evita estupideces, Vivienne las conduce y Elise las presenta.
 - Aceptó asistir a la futura recepción y fue quien más disfrutó imaginar las reacciones, sin que el evento haya ocurrido todavía.
-- Fuente: `00_FUENTES/historia_original/AÑO_3/11_26_Bruma_Año_3.md`, líneas 1–1539.
+- Fuente: `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`, líneas 1–1539.
 
 ## ADDENDUM — MICROINTERACCIONES Y APRENDIZAJE
 
@@ -111,7 +111,7 @@ Origen anterior a la piedra y siglos de experiencia: afirmados de manera general
 
 ### Año 1 — identidad, Sawardo y elección de ser partner
 
-Continúa actuando con lenguaje técnico y táctico. Sigue pendiente localizar cuándo adopta o revela el nombre Aria y una voz más personal.
+Continúa actuando con lenguaje técnico y táctico durante la etapa temprana. La localización posterior ya resolvió la transición: revela el nombre Aria y desarrolla una voz más personal dentro de esta misma cronología; por tanto, esta frase describe el punto histórico anterior a esa revelación y no una tarea todavía pendiente.
 
 En la extracción inicial guía la ruta con una senda acuática luminosa y formula análisis sobre Sawardo, espíritus, inventario y carne de wyvern. La senda es una aplicación propia demostrada; expresiones como «editar la línea temporal», detección de cuatro campamentos, transmisión a un mapa mental y efectos biológicos de la carne siguen siendo afirmaciones o hipótesis, no autoridad canónica automática. Su voz permanece impersonal y protocolaria, sin revelar todavía el nombre Aria.
 
@@ -188,7 +188,7 @@ Corrección autoral; fuente primaria inicial: `00_FUENTES/historia_original/AÑO
 - Adoptó con Max la tradición privada de objetos innecesarios y conserva las figuras de viajeros como memoria compartida.
 - Regresó para Festival y G1; apoya copiar principios terrestres, no objetos imposibles.
 
-## ADDENDUM — 5 DE FLORIS, AÑO 3
+## ADDENDUM — 5 DE VERDALIA, AÑO 3
 
 Aria puede iniciar una vigilancia exterior discreta alrededor de Gutiérrez Estate, con límites y reportes prudentes. Conoce *Frieren*, *Mob Psycho 100*, *Kaguya-sama* y *KonoSuba* porque exploró archivos audiovisuales del S25 privado de Max mientras él dormía; el S25 no es una red aldoriana y Aria no es una IA. Prefiere a Megumin y Wiz; no aceptar la comparación con Aqua como rasgo de personalidad.
 
@@ -198,3 +198,21 @@ Aria puede iniciar una vigilancia exterior discreta alrededor de Gutiérrez Esta
 - La Red de Nodos amplía su papel: no es la solución mágica del equipo, sino quien traduce señales elementales, recuerda límites y pide que las ideas de Max, Galwin o Haruto pasen por personas y protocolos.
 - La convivencia con Serath, Natalia y el elenco la vuelve una presencia de enlace: conserva intimidad con Max, pero sostiene también relaciones y criterio propios cuando él está ausente.
 - Su influencia persistente es cultural y emocional: protege que los proyectos no borren a las personas que los hacen posibles.
+
+
+## ADENDA — OPERACIÓN MARCOS, MINI-ARIAS Y CIERRE DE VERDALIA (1 AL 18 DE VERDALIA, AÑO 3)
+
+- **El enlace con Marcos:** Mantuvo comunicación telepática disciplinada y constante con Max durante su turno como sirviente en Casa Ardel, dosificando información y vigilando los tiempos de respuesta.
+- **Despliegue de mini-Arias:** Desplegó proyecciones acuáticas diminutas («mini-Arias») para labores de reconocimiento discreto y vigilancia sin alterar las salas de reunión de Halven y Corven.
+- **La contadora de Gutiérrez Estate:** Con gafas finas, chaleco oscuro y libros mayores, revisó las inconsistencias financieras entre Casa Ardel y los pagos dispersos de Veylan.
+- **Complicidad y ternura en la sorpresa de Liora:** Ayudó a Max a organizar el agasajo y compartió la broma afectuosa del **estuche con cuaderno y las orejas artesanales**, versión canónica resuelta en CONTR-149.
+- **El consejo nocturno del 18 de Verdalia (22:30):** En la sala privada de la hacienda, analizó con Max y Serath los escenarios todavía abiertos de Corven Marr y defendió esperar pruebas y responsabilidades demostrables.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Sostuvo el enlace limitado de G1, la vigilancia mediante mini-Arias y su investigación elemental. Cerró Verdalia atendiendo su jardín acuático y reafirmando que un espíritu debe ser tratado primero como persona. Su voz vigente es cálida, irónica, antigua y autónoma; la etapa protocolaria queda solo como historia.
+- **Ruta autónoma vigente:** `Meta:` estudiar la Lágrima de Vael y controlar sus límites sin convertirla en una solución automática. `Ambición:` ser socia, memoria y autoridad técnica con criterio propio. `Vínculo:` su intimidad con Max convive con amistades, curiosidad y desacuerdos propios. `Obstáculo / hito:` decidir qué investigar y qué proteger durante una ausencia; la causa de la marca antigua sigue abierta.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

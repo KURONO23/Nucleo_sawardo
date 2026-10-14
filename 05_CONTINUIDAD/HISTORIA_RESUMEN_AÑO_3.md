@@ -1,6 +1,6 @@
 # Historia condensada — Año 3
 
-**Corte operativo:** 5 de Floris, Año 3. Este archivo resume la continuidad hasta el punto exacto actual; conserva el 4 de Floris como histórico y no avanza la escena pendiente.
+**Corte operativo:** 1 de Lluvia, Año 3, Día continuo 746. Este archivo resume la continuidad; para reanudar una escena manda [[CURRENT_STATE]]. El corte del 18 de Verdalia queda como historia de la infiltración de Marcos, no como presente rector.
 
 ## 1. Casa del Puente y Minas Quebradas
 
@@ -22,9 +22,9 @@ G1 tiene dos terminales funcionales limitados, identificados como `DOCTOR` y `BA
 
 ## 5. Operación Ravenwood–Ardel
 
-Max trabaja dentro de Casa Ardel bajo la cobertura `Marcos`, como trabajador eventual del servicio. Corven Marr, Verrick Dossan, Orren Halven y Severin Ardel participan en una cadena operativa cuyo patrocinador último todavía no está confirmado. Casa Veylan cubre al menos un tramo económico reciente, pero no debe declararse patrocinador final.
+Max trabajó durante la fase de infiltración dentro de Casa Ardel bajo la cobertura `Marcos`, como trabajador eventual del servicio. Esa fase ya cumplió su propósito y no convierte la casa en su ocupación permanente. Corven Marr, Verrick Dossan, Orren Halven y Severin Ardel participan en una cadena operativa cuyo patrocinador último todavía no está confirmado. Casa Veylan cubre al menos un tramo económico reciente, pero no debe declararse patrocinador final.
 
-Mizuki Takahashi —antes Cecilia— investiga desde fuera sin comunicación en tiempo real con el equipo de Marcos. Su coincidencia independiente sobre Veylan aumenta el valor de la evidencia. Max no resuelve todavía el conflicto mediante fuerza ni revela la identidad de Marcos.
+Mizuki Takahashi —antes Cecilia— investigó desde fuera sin comunicación en tiempo real con el equipo de Marcos y después avanzó hacia una relación personal directa con Max. Su coincidencia independiente sobre Veylan aumenta el valor de la evidencia. Max no resolvió el conflicto mediante fuerza ni reveló la identidad de Marcos.
 
 ## 6. Cultura y relaciones en el corte actual
 
@@ -36,17 +36,19 @@ Kael y Natalia siguen en reciprocidad en desarrollo; Amane y Kael son compañero
 
 El último saldo líquido exacto conciliado es **905.905 oro**. El flujo estructural futuro es **7.270 oro/mes**, antes de dividendos variables. Esmeralda es rentable y distribuye dividendos, pero el acumulado exacto continúa pendiente. El aumento salarial del 26 de Bruma no debe aplicarse retroactivamente a todo el mes.
 
-El próximo cumpleaños del calendario operativo es Ryu, el 8 de Floris; después Liora el 17 y Serath el 31. Consultar el calendario antes de saltar fechas.
+El próximo cumpleaños del calendario operativo es Aldric, el 5 de Lluvia; después Kenji el 26 de Lluvia, Haruto el 1 de Floris, Ryu el 8 de Floris, Liora el 17 de Floris y Serath el 31 de Floris. Los regalos entregados en Verdalia fueron espontáneos y no adelantan cumpleaños.
 
 ## 8. Punto exacto de continuación
 
-La escena operativa está en el desayuno del 5 de Floris en Gutiérrez Estate. Marcos consiguió otro día dentro de Casa Ardel después de preguntar por Casa Veylan. Falta escenificar la evaluación de Serath, la vigilancia prudente de Aria y el intento futuro de Corven por una vía plausible. No cerrar el desayuno, identificar al financiador ni unificar V. Sable con Ravenwood antes de una escena que lo demuestre.
+Tras el 18 de Verdalia, Max cerró la fase útil de la cobertura de Marcos sin quedar atado a Casa Ardel: avanzó con Halven, Ravenwood, Cecilia/Mizuki, Kira y G1, y regresó a su vida con Serath. La revisión Ravenwood quedó abierta, no resuelta. Mientras esos frentes progresaban, Haruto, Ren y Leo desarrollaron un arco autónomo entre el 22 y el 31 de Verdalia: expedición, Guardián Lítico, crecimiento de niveles y preparación de la Operación Tres Caminos. El presente operativo es el 1 de Lluvia: Natalia está preparada para presentar el cierre financiero y el usuario recupera el control exclusivo de Max.
+
+La revisión de Ravenwood, Veylan, V. Sable, G1, las ruinas y los asuntos de la Torre siguen abiertos según [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]].
 
 ## Fuentes principales
 
 - `00_FUENTES/historia_original/AÑO_2/09_31_Noctalia_Año_2_a_01_Albor_Año_3.md`
-- `00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md`
-- `00_FUENTES/historia_original/AÑO_3/11_26_Bruma_Año_3.md`
-- `00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md`
-- `05_CONTINUIDAD/CURRENT_STATE_5_FLORIS_AÑO3.md`
-- `07_ROLEPLAY/DELTA-RP-4_5_FLORIS_A3_CHAT_2026-10-08.md`
+- `00_FUENTES/historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`
+- `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`
+- `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md`
+- `05_CONTINUIDAD/CURRENT_STATE_5_VERDALIA_AÑO3.md`
+- `07_ROLEPLAY/DELTA-RP-4_5_VERDALIA_A3_CHAT_2026-10-08.md`

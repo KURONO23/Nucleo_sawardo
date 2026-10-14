@@ -27,7 +27,7 @@
 
 - Trabaja sobre infraestructura de alcantarillado y baños sin esperar supervisión de Max. `00_FUENTES/historia_original/AÑO_2/08_11_Noctalia_a_30_Noctalia_Año_2.md`, 5303–5407.
 - En Austin Powers detecta el coste humano de representar una obra agotadora y consolida el límite de dos funciones semanales. `00_FUENTES/historia_original/AÑO_2/07_25_Ambar_a_10_Noctalia_Año_2.md`, 4124–4172.
-- Su comprensión estructural analiza componentes, relaciones y fallos; con Max formula una referencia temporal limitada y aprende sus límites. `00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md`, expediente G1 y Festival.
+- Su comprensión estructural analiza componentes, relaciones y fallos; con Max formula una referencia temporal limitada y aprende sus límites. `00_FUENTES/historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`, expediente G1 y Festival.
 
 ### Kenji y Ryu Gutiérrez
 
@@ -66,7 +66,7 @@
 
 ### Marlowe, Natalia, Nilo y Oskar
 
-- Marlowe observa el palco y calcula el efecto del teatro popular, aunque no comprenda por qué funciona. `00_FUENTES/historia_original/AÑO_2/06_15_Ambar_a_25_Ambar_Año_2.md`, 489–555; `00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md`, 1540–1542.
+- Marlowe observa el palco y calcula el efecto del teatro popular, aunque no comprenda por qué funciona. `00_FUENTES/historia_original/AÑO_2/06_15_Ambar_a_25_Ambar_Año_2.md`, 489–555; `00_FUENTES/historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`, 1540–1542.
 - Natalia sigue trabajando y firma documentos sin buscar a Max; sostiene la administración ordinaria. `00_FUENTES/historia_original/AÑO_2/06_15_Ambar_a_25_Ambar_Año_2.md`, 10258–10266; `FESTIVAL DE LA CERVEZA.md`, 4929–5983.
 - Nilo deja de practicar Austin constantemente y recupera hábitos de persona normal; acepta el límite de dos funciones semanales. `00_FUENTES/historia_original/AÑO_2/07_25_Ambar_a_10_Noctalia_Año_2.md`, 1031–1049 y 364–378.
 - Conspira con Goran en el cumpleaños de Max, interpreta el primer tramo y cede el lugar en bastidores. `00_FUENTES/historia_original/AÑO_2/07_25_Ambar_a_10_Noctalia_Año_2.md`, registro del Día 619.
@@ -75,7 +75,7 @@
 ### Oswin, Perrin y Ren
 
 - Oswin formaliza la invitación real a Max y produce una consecuencia institucional mediante protocolo. `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`, 28153.
-- Perrin pasa de Nim teatral a juez de los Juegos del Barril; ante protestas consulta su tablilla y responde «Reglamento». `00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md`, 674–758.
+- Perrin pasa de Nim teatral a juez de los Juegos del Barril; ante protestas consulta su tablilla y responde «Reglamento». `00_FUENTES/historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`, 674–758.
 - Ren conserva continuidad compuesta y ecos de hábito; Amane es maestra actual, mientras el instructor inicial sigue sin nombre. `00_FUENTES/historia_original/AÑO_2/07_25_Ambar_a_10_Noctalia_Año_2.md`, 19582; `00_FUENTES/historia_original/AÑO_2/08_11_Noctalia_a_30_Noctalia_Año_2.md`, 3258–3798.
 - Como Isola, recuerda que existe trabajo real mientras Austin convierte todo en espectáculo. `00_FUENTES/historia_original/AÑO_2/07_25_Ambar_a_10_Noctalia_Año_2.md`, 19582–19610.
 
@@ -109,7 +109,7 @@ Se cubrieron las microinteracciones localizadas para personajes J–R en las onc
 | Leo_Mercer.md | evidencia encontrada y trasladada | Entrada reconocible y correspondencia musical extranjera; `00_FUENTES/historia_original/AÑO_2/07_25_Ambar_a_10_Noctalia_Año_2.md`, 670–672 y 4745. |
 | Lira_Ashford.md | evidencia encontrada y trasladada | Gestiona llamada, finca y proveedores; `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`, 15497–15512. |
 | Lorian.md | evidencia encontrada y trasladada | Tramita, examina y sella Registro Real; `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`, 30748–30908. |
-| Los_Ventura.md | evidencia encontrada y trasladada | Grupo identificado como Jasmine, Misa, Amane y Biro; POV colectivo de fin de año; `00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md`, 540–582 y 4112. |
+| Los_Ventura.md | evidencia encontrada y trasladada | Grupo identificado como Jasmine, Misa, Amane y Biro; POV colectivo de fin de año; `00_FUENTES/historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`, 540–582 y 4112. |
 | Lyra_Swiftwind.md | evidencia encontrada y trasladada | Arquera de rango B, presentación con humor/interés; `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`, 18541–18563. |
 | Maelis_Dorne.md | evidencia encontrada y trasladada | Presencia y reacciones en Festival junto a Celene y Mara; `FESTIVAL DE LA CERVEZA.md`, 4737–5091. |
 | Maeve_Roth.md | evidencia encontrada y trasladada | Figura vinculada a Dravenn y a decisiones de dirección/autoridad; `00_FUENTES/historia_original/AÑO_2/05_26_Solalto_a_14_Ambar_Año_2.md`, 75654–75730. |
@@ -118,7 +118,7 @@ Se cubrieron las microinteracciones localizadas para personajes J–R en las onc
 | Maren.md | evidencia encontrada y trasladada | Puesto de muelles, precisión culinaria y capacitación; `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`, 23703–23762 y 24089–24136. |
 | Maria.md | evidencia encontrada y trasladada | Lee, interrumpe, ajusta y sella acuerdos; `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`, 14792–15028. |
 | Marissa_Goldweave.md | evidencia encontrada y trasladada | Calcula escala y coordina mobiliario; `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`, 16210–16268. |
-| Marlowe.md | evidencia encontrada y trasladada | Observa teatro y no comprende por qué funciona; `00_FUENTES/historia_original/AÑO_2/06_15_Ambar_a_25_Ambar_Año_2.md`, 489–555; `00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md`, 1540–1542. |
+| Marlowe.md | evidencia encontrada y trasladada | Observa teatro y no comprende por qué funciona; `00_FUENTES/historia_original/AÑO_2/06_15_Ambar_a_25_Ambar_Año_2.md`, 489–555; `00_FUENTES/historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`, 1540–1542. |
 | Martha.md | evidencia encontrada y trasladada | Saluda a Max desde la barra y reacciona con curiosidad/humor; `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`, 17904–17917. |
 | Max38.md | evidencia encontrada y trasladada | Fuente transversal: crea obras, enseña, delega y comprueba autonomía del grupo; registros de Austin, Festival y ausencia. |
 | Natalia_Thornwell.md | evidencia encontrada y trasladada | Firma y sostiene administración sin buscar a Max; `00_FUENTES/historia_original/AÑO_2/06_15_Ambar_a_25_Ambar_Año_2.md`, 10258–10266; `FESTIVAL DE LA CERVEZA.md`, 4929–5983. |

@@ -13,7 +13,7 @@
 - **Estado de registro de voz:** `VOZ AÚN NO LOCALIZADA EN FUENTE`.
 - **Directiva canónica:** Conforme a las reglas rectoras del núcleo, no se rellena su voz con arquetipos genéricos. Se registra su presencia formal en escenas de interacción pública (`00_FUENTES/historia_original/AÑO_2/05_26_Solalto_a_14_Ambar_Año_2.md`, líneas 212600–213115), a la espera de diálogos directos extendidos que fijen cadencia, vocabulario y modismos.
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Distritos comerciales y salones de Aldoria.
 - **Responsabilidad actual:** Gestiones de enlace mercantil y social dentro de los círculos aristocráticos ampliados.
@@ -73,3 +73,12 @@
 ## FUENTE RECTORA
 
 - `00_FUENTES/historia_original/AÑO_2/05_26_Solalto_a_14_Ambar_Año_2.md`, bloque alrededor de líneas 212600–213115 y apariciones nominales relacionadas.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` precisar su identidad profesional y sus vínculos. `Ambición:` conservar una posición propia sin ser confundido con Corven Marr. `Vínculo:` círculos laborales aún por fijar. `Obstáculo / hito:` una escena que demuestre dónde trabaja y qué protege.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

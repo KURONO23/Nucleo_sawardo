@@ -3,7 +3,7 @@
 ## Identidad estable
 Adrian Voss es observador y antagonista sistémico. Su habilidad Breakpoint detecta tensiones, dependencias y posibles rupturas con contexto suficiente; no lee mentes, no controla personas ni le revela secretos que no pueda conocer plausiblemente.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
 Tras comprobar compensación distribuida en Aldoria, abandona la búsqueda de una ruptura única e introduce fricciones pequeñas para medir corrección. El siguiente intento de dos problemas legítimos simultáneos no está ejecutado.
 
 ## CRONOLOGÍA CANÓNICA
@@ -87,3 +87,12 @@ No narrar como ocurrido hasta que suceda en escena.
 - **Físicamente:** Ileso y sin cicatrices.
 - **Psicológicamente:** Aterrorizado y quebrado en su soberbia analítica; aprendió que provocar a la gente de Max despierta a un dios que puede congelar el tiempo y desfigurarlo a voluntad.
 - **Operatividad:** Retirado de cualquier hostilidad directa; reveló el nombre de su superior **Corven Marr** y permanece en silencio en las sombras.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` reconstruir su seguridad y decidir si vuelve a observar. `Ambición:` comprender el coste de su habilidad sin convertirse en herramienta de Corven. `Vínculo:` Corven y quienes vigilan su recuperación. `Obstáculo / hito:` una decisión independiente que confirme o rompa su inactividad.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

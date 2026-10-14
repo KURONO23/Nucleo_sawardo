@@ -40,6 +40,6 @@
 ## Finanzas
 
 - Natalia posee la carpeta contable completa o más cercana al cierre real.
-- **Estado anterior a abrir la carpeta:** Max conocía movimientos individuales, pero no el total de compras ni el balance consolidado. La escena posterior del mismo día cerró compras en 2.460 y liquidez en 905.905; véase [[CONOCIMIENTO_ADDENDUM_4_FLORIS_AÑO3]].
+- **Estado anterior a abrir la carpeta:** Max conocía movimientos individuales, pero no el total de compras ni el balance consolidado. La escena posterior del mismo día cerró compras en 2.460 y liquidez en 905.905; véase [[CONOCIMIENTO_ADDENDUM_4_VERDALIA_AÑO3]].
 - Usar [[FINANZAS_CANON_VIGENTE]], no 827k.
 

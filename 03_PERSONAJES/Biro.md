@@ -12,14 +12,14 @@ Biro es aventurero, tanque oficial A de Los Ventura, miembro de los Cinco del Ba
 ## FUENTES Y CORRECCIONES
 La autoridad final es `00_FUENTES/historia_original/`, complementada por [[MICROINTERACCIONES_PERSONAJES_A_I]] y los puntos de inflexión ya preservados en esta ficha. Las correcciones autorales prevalecen.
 
-> **Estado narrativo:** 5 de Floris, Año 3. Tanque oficial A de Los Ventura, miembro de los Cinco del Barril y autor en desarrollo de *La tragedia del último barril*. Su estreno sigue `PENDIENTE`.
+> **Corte histórico de este bloque:** 18 de Verdalia, Año 3. Tanque oficial A de Los Ventura, miembro de los Cinco del Barril y autor de *La tragedia del último barril*. Su estreno sigue `PENDIENTE`.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## Estado histórico — 18 DE VERDALIA, AÑO 3
 
 - Continúa puliendo un final sobrio para su primera obra original; Goran asesora ritmo y estructura sin escribir por él.
 - Conserva humor frontal, función protectora y vínculos activos con Los Ventura, Ryu, Kenji, Goran y Darian.
 - No posee estreno, éxito editorial ni romance nuevo confirmado fuera de escena.
-- Punto de entrada: [[CURRENT_STATE_5_FLORIS_AÑO3]].
+- Punto de entrada vigente: [[CURRENT_STATE_1_LLUVIA_AÑO3]]. El corte del 18 de Verdalia queda como antecedente histórico.
 
 ## RUTA AUTÓNOMA — `PENDIENTE`: _LA TRAGEDIA DEL ÚLTIMO BARRIL_
 
@@ -49,6 +49,9 @@ Es el primero en romper tensiones con humor, ofrece agua y transporte, cocina y 
 ## FORMA DE HABLAR
 
 Coloquial, frontal y cálido; usa risas, tacos moderados, apodos amistosos y frases de camaradería. Cuando explica algo, evita tecnicismos y va a la utilidad inmediata (fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
+
+- **El rasgo icónico de Biro («¿Qué?»):** Habla con una franqueza brutal y espontánea, sin filtros ni rodeos diplomáticos. Es común que en medio de una discusión seria, solemne o estratégica, suelte una verdad demoledora, una ocurrencia de taberna o una observación práctica tan desarmante que toda la mesa, el gremio o los nobles se queden en silencio absoluto mirándolo fijamente con los ojos abiertos. En ese instante, Biro parpadea con una inocencia total, ladea la cabeza y pregunta con sincero desconcierto: *«¿Qué?»*.
+- **Voz autoral y ensayos en Verdalia (Año 3):** Durante los ensayos de *La tragedia del último barril* (días 1 a 18 de Verdalia), defiende el corazón de su obra frente a las correcciones de Goran: no quiere una tristeza melodramática barata, sino el peso humano de la pérdida compartida: *«Goran... si el barril se vacía, no es para llorar por la cerveza, es porque ya no nos queda excusa para seguir sentados juntos. De eso se trata»*.
 
 En combate pasa de bromas a confirmaciones breves y ejecución disciplinada; acepta correcciones tácticas sin competir por mando (fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
@@ -141,6 +144,22 @@ Correcciones autorales; referencia visual oficial. Fuente primaria de los hechos
 - **Cumpleaños:** **21 de Estival** (celebrado en Año 2 con fiesta masiva y parrillada).
 - **Luminarias:** Entusiasta de las fiestas de invierno; intentó sobornar artesanos para conseguir Panettone con licor por adelantado y sigue buscando averiguar qué regalos secretos prepara Max.
 
-### Año 3 — actualización al 5 de Floris
+### Año 3 — actualización al 5 de Verdalia (fecha corregida)
 
 Biro continúa puliendo un final sobrio para *La tragedia del último barril*. La obra no se ha estrenado. Goran le ofrece asesoría editorial y de ritmo sin apropiarse de la autoría; el proceso es un crecimiento propio de Biro, no una orden de Max.
+
+
+## ADENDA — TEATRO Y ENSAYOS DE VERDALIA (1 AL 18 DE VERDALIA, AÑO 3)
+
+- Ensayó activamente en el teatro de Aldoria con la Compañía Goran, puliendo el segundo acto de *La tragedia del último barril*.
+- Se mantuvo como punto de apoyo en la taberna y en Los Ventura mientras Max estuvo infiltrado bajo la identidad de Marcos en Casa Ardel.
+- El 15 de Verdalia lideró la sesión de mesa de Los Cinco del Barril, aportando risas y ancla emocional frente a las tensiones de la conspiración noble.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Consolidó una idea de defensa basada en proteger posiciones y compañeros, aceptó instruir a Leo y encontró una formulación más madura para el corazón de La tragedia del último barril. Sigue siendo frontal y explosivo, pero baja el volumen cuando enseña o habla de afecto; la obra aún no se ha estrenado.
+- **Ruta autónoma vigente:** `Meta:` terminar _La tragedia del último barril_ y defender su voz. `Ambición:` ser autor dramático además de fuerza cómica. `Vínculo:` Goran, copistas y Darian; la compañía puede criticarlo sin apropiarse de la obra. `Obstáculo / hito:` avanzar de manuscrito y lectura privada hacia revisión y lectura pública; casting, ensayo general y estreno siguen pendientes de escena.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

@@ -6,8 +6,8 @@
 - No existe dividendo mensual fijo: depende de lotes, distribución, festivales, ventas extraordinarias y reinversión.
 - No sumar una cifra inventada al flujo ordinario de House Gutiérrez.
 - Pendiente: conciliar dividendos acumulados de Noctalia, Albor y Bruma, además del resultado del Festival Año 3.
-- Adición autónoma al 4 de Floris: Sayaka detuvo un lote para una caravana porque la consistencia no alcanzaba su estándar. La pérdida de una venta inmediata protege la reputación; no se convierte en cifra de dividendos hasta que Natalia cierre los libros.
-- Fuente: `00_FUENTES/historia_original/AÑO_3/11_26_Bruma_Año_3.md`, líneas 419–470.
+- Adición autónoma al 4 de Verdalia: Sayaka detuvo un lote para una caravana porque la consistencia no alcanzaba su estándar. La pérdida de una venta inmediata protege la reputación; no se convierte en cifra de dividendos hasta que Natalia cierre los libros.
+- Fuente: `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`, líneas 419–470.
 
 ## Origen humano
 
@@ -51,7 +51,7 @@ Las fuentes contienen repartos societarios parcialmente incompatibles. No fijar 
 ## Fuentes
 
 - `00_FUENTES/historia_original/AÑO_1/04_09_Solalto_Año_1_a_25_Solalto_Año_2.md`, gran arco de Cerveza Esmeralda y VERA.
-- `00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md`, Festival del Año 3.
+- `00_FUENTES/historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`, Festival del Año 3.
 - [[CERVECERIA_ESMERALDA]] y [[REGISTRO_FESTIVAL_CERVEZA_JUECES_Y_GANADORES]].
 
 ---
@@ -134,5 +134,5 @@ La cerveza no se “repone” como obra: se reproducen lotes. Cada variante debe
 - Origen, Proyecto Barril, catas y autonomía: `00_FUENTES/historia_original/AÑO_1/04_09_Solalto_Año_1_a_25_Solalto_Año_2.md`, especialmente 192407–208318 y 228885–239245.
 - VERA e identidad pública: misma fuente, alrededor de 276726–278704 y resumen posterior 282138–282736.
 - Preparación de segundo festival: `00_FUENTES/historia_original/AÑO_2/05_26_Solalto_a_14_Ambar_Año_2.md`, 117195–118649 y escenas relacionadas.
-- Año 3, patrocinio y evaluación honorífica: `00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md`, alrededor de 12334, 14106 y 15043.
+- Año 3, patrocinio y evaluación honorífica: `00_FUENTES/historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`, alrededor de 12334, 14106 y 15043.
 

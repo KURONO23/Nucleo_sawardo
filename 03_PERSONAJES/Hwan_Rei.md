@@ -7,11 +7,11 @@ Hwan-Rei es custodio de Pequeño Zhong-Kyo y de los originales del Templo del Vi
 
 Paciente, cuidadoso y firme. Prefiere admitir una discrepancia antes que adornar una traducción; escucha, pregunta por evidencia y marca límites sin teatralidad.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
 Conserva originales, permite copias controladas y sostiene archivo visual comunitario; no acepta conclusiones más seguras que la evidencia.
 
 ## CRONOLOGÍA CANÓNICA
-- 3–4 de Floris: regula acceso a siete tablillas y conserva primera discrepancia interna entre lecturas.
+- 3–4 de Verdalia: regula acceso a siete tablillas y conserva primera discrepancia interna entre lecturas.
 
 ## EVOLUCIÓN CAUSAL
 La llegada de investigadores vuelve su custodia un método: copias, atribución de lectura y desacuerdo honesto protegen la memoria frente a apropiación.
@@ -24,9 +24,9 @@ La llegada de investigadores vuelve su custodia un método: copias, atribución 
 Ampliar el archivo comunitario con copias seguras y lecturas atribuidas, sin convertir tablillas en prueba automática de reencarnados.
 
 ## FUENTES Y CORRECCIONES
-Fuente: `00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md` y [[CURRENT_STATE_4_FLORIS_AÑO3]].
+Fuente: `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md` y [[CURRENT_STATE_4_VERDALIA_AÑO3]].
 
-## Estado al 4 de Floris, Año 3
+## Estado al 4 de Verdalia, Año 3
 
 Hwan-Rei conserva los originales del Templo del Viejo Puente y protege el control comunitario sobre las siete tablillas. Autoriza copias, pero no entrega los originales ni acepta traducciones más seguras de lo que permite la evidencia.
 
@@ -44,4 +44,13 @@ No afirmar que las tablillas prueban siete reencarnados, generaciones o países.
 
 ## Fuente
 
-`00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md`; [[CURRENT_STATE_4_FLORIS_AÑO3]].
+`00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md`; [[CURRENT_STATE_4_VERDALIA_AÑO3]].
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` custodiar originales y controlar las copias del Templo del Viejo Puente. `Ambición:` que Pequeño Zhong-Kyo conserve identidad sin cerrarse al aprendizaje. `Vínculo:` Kenji, Ryu y la comunidad. `Obstáculo / hito:` resolver una discrepancia de traducción sin destruir ninguna versión.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

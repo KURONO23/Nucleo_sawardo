@@ -16,7 +16,7 @@
 - **Con Natalia Thornwell:** Pierde parte de su soltura fanfarrona; muestra una torpeza contenida y dulce, buscando su aprobación indirecta y compartiendo comidas con evidente interés recíproco.
 - **En combate / guardia:** Rápido de reflejos, concentrado en cadenas de tajos y paradas dobles; sabe frenar su avance para no romper la línea de Torin.
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Gutiérrez Estate y enlaces de patrulla en Thornhaven y Aldoria.
 - **Responsabilidad actual:** Seguridad perimetral de la finca junto a Torin y Lyssa.
@@ -106,3 +106,12 @@ Fuente: `00_FUENTES/historia_original/AÑO_1/02_01_Bruma_a_18_Bruma_y_05_Solalto
 - La defensa de la finca y el trabajo junto a Torin y Lyssa le enseñan a usar su impulso ofensivo dentro de una línea compartida. Su deseo de destacar no desaparece, pero ya no justifica romper formación.
 - La Prueba de Afrodita con Amane visibiliza que puede colaborar sin que una dupla profesional se convierta en romance. Su interés afectivo sigue dirigido a Natalia y conserva espacio para evolucionar solo mediante escenas recíprocas.
 - La petición a Kira es su siguiente gesto de autonomía: busca una misión que mida decisiones propias, sin exigir que Max sea árbitro, rescatista o premio.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` proteger la casa, cumplir como combatiente y sostener su vínculo creciente con Natalia. `Ambición:` desarrollar una disciplina propia fuera de las bromas de pareja que otros le asignen. `Vínculo:` Natalia, Amane como compañera de equipo y los guardianes. `Obstáculo / hito:` resolver una tarea y elegir por sí mismo cómo hablar de Natalia.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

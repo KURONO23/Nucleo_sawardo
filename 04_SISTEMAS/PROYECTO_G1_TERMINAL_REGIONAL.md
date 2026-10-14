@@ -2,9 +2,9 @@
 
 ## Estado
 
-**DESARROLLO ACTIVO — TERMINALES FUNCIONALES LIMITADOS**, 4 de Floris, Año 3.
+**DESARROLLO ACTIVO — TERMINALES FUNCIONALES LIMITADOS**, 4 de Verdalia, Año 3.
 
-La revisión 0.2 y la prohibición de prueba del 26 de Bruma se conservan abajo como fase histórica de seguridad. Desde el 1 de Floris existen pruebas activas posteriores documentadas.
+La revisión 0.2 y la prohibición de prueba del 26 de Bruma se conservan abajo como fase histórica de seguridad. Desde el 1 de Verdalia existen pruebas activas posteriores documentadas.
 
 ## Principio
 
@@ -34,7 +34,7 @@ No copiar un teléfono terrestre. Copiar principios que Aldoria pueda construir,
 
 La hipótesis de sincronizar modulador y estabilizador no funcionó exactamente como se esperaba, pero permitió reducción parcial. No realizar prueba activa sin Kazuki, Daichi y Mika presentes. G1-A no es un smartphone, no accede a una red pública mundial y no debe adquirir capacidades no demostradas.
 
-## Capacidades comprobadas — 1 a 4 de Floris
+## Capacidades comprobadas — 1 a 4 de Verdalia
 
 - Dos terminales funcionales con identificadores `DOCTOR` y `BAKARINA`.
 - Mensajería breve regional probada en distintos puntos de Aldoria.
@@ -53,7 +53,7 @@ La hipótesis de sincronizar modulador y estabilizador no funcionó exactamente 
 
 ## RUTA DE EVOLUCIÓN — G1 → RUINAS → G2
 
-La directriz vigente desde el 4 de Floris, Año 3, separa tres trabajos que antes tendían a mezclarse:
+La directriz vigente desde el 4 de Verdalia, Año 3, separa tres trabajos que antes tendían a mezclarse:
 
 1. **Consolidar G1.** Galwin mantiene el diseño y la reparabilidad; sus aprendices se ocupan de tareas no críticas del taller y dejan registros de mantenimiento. Daichi valida el método, Mika verifica compatibilidad y Leo mantiene requisitos, responsables y evidencias.
 2. **Revisar la tecnología antigua.** Mika y Daichi preparan una inspección de ruinas con controles de seguridad; Ren aporta lectura mágica en formación, Haruto cubre adaptación y protección de campo, y Leo prueba la logística y el registro de ruta. La visita busca piezas, patrones y límites, no una activación temeraria.

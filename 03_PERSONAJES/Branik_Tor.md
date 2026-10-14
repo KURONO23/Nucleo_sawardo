@@ -3,8 +3,8 @@
 ## Identidad estable
 Branik Tor es actor cómico-dramático y atleta escénico aldoriano, de raíces fronterizas, conocido como Garran: gigante sentimental y devoto de la hermandad del barril. Su presencia física y voz grave son reales; su comedia une exceso, ternura y vulnerabilidad.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-Es figura popular vinculada a la Compañía Goran, *El Festival de la Cerveza* y los Juegos del Barril. No hay escena individual posterior consolidada al 5 de Floris.
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
+Es figura popular vinculada a la Compañía Goran, *El Festival de la Cerveza* y los Juegos del Barril. No hay escena individual posterior consolidada al 5 de Verdalia.
 
 ## CRONOLOGÍA CANÓNICA
 - Día 322: su poema de taberna fallido conmueve y hace reír a Biro; Darian lo juzga espantoso y Goran lo elige precisamente por esa ternura.
@@ -87,3 +87,12 @@ Participó en la farsa de la resaca encarnando al tabernero colérico o al gigan
 La pareja escénica **Branik Tor / Perrin Doss** (Garran y Nim) se convirtió en una institución teatral en Aldoria:
 - Mientras Branik gesticula, sufre, brama y abre los brazos al cielo clamando por la justicia de la espuma, Perrin Doss aparece a su lado, enjuto y frío, revisando su tablilla para recordarle que tienen dos minutos antes de la siguiente ronda.
 - La audiencia aldoriana aprendió a identificarlos como las dos caras inseparables de la fiesta cervecera: la pasión desbordada y el reglamento implacable.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` sostener Garran y la conducción de eventos. `Ambición:` ser maestro de ceremonias con responsabilidad física y emocional. `Vínculo:` Perrin, público y cerveceros. `Obstáculo / hito:` moderar una celebración sin convertirla en espectáculo de fuerza.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

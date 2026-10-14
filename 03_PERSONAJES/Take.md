@@ -17,7 +17,7 @@
   > «¡Habla, causa! Así es la vida, papi... que no quede huella. Algún día volveremos a tomarnos unas chelas y a reírnos de la vida.»  
   — Memoria entrañable y dinámica viva entre Max y Take.
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Tierra (Lima / Alta mar en cruceros internacionales).
 - **Estado ontológico:** Vive su vida terrenal en el recuerdo agradecido de Max; su sabiduría práctica inspira la camaradería de Los Cinco del Barril.
@@ -56,3 +56,12 @@
 - [[MICROINTERACCIONES_PERSONAJES_A_I]]
 - [[TIMELINE]]
 - **Corrección autoral inviolable:** No es pareja de Aysha. Sin comunicación mágica.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` sostener su trabajo de casino y sus regresos a Lima. `Ambición:` conservar libertad y amistad sin quedar reducido al pasado de Max. `Vínculo:` Aysha, Docta y Graceskoll. `Obstáculo / hito:` cumplir una promesa o proyecto propio antes de la próxima visita.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

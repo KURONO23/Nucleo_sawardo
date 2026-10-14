@@ -1,6 +1,6 @@
 # Estado de relaciones y romances — Año 3
 
-> Corte: 4 de Floris, Año 3. Esta matriz distingue hechos confirmados, vínculos en desarrollo, tensiones y posibilidades. **Afinidad no equivale a romance.**
+> Corte: 4 de Verdalia, Año 3. Esta matriz distingue hechos confirmados, vínculos en desarrollo, tensiones y posibilidades. **Afinidad no equivale a romance.**
 
 > Protocolo de avance: [[MOTOR_DE_AFINIDAD_Y_ROMANCE]].
 
@@ -54,7 +54,7 @@ Una relación romántica solo avanza si aparecen, de forma acumulativa:
 
 El sistema puede mostrar una posibilidad, rumor o malentendido, pero debe marcarlo como tal. Nadie decide los sentimientos de Max, y ningún NPC recibe romance por premio, proximidad, equilibrio de género o participación en una misión.
 
-## Actualización — 5 de Floris, Año 3
+## Actualización — 5 de Verdalia, Año 3
 
 - Max y Serath mantienen un matrimonio estable y abren una conversación de seguridad; no se altera su estado romántico.
 - Haruto y Liora siguen como pareja formal. La reparación de Haruto con Mizuki continúa después de la disculpa aceptada, sin perdón total ni compromiso automático.

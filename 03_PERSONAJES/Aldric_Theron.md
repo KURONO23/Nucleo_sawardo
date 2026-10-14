@@ -14,9 +14,9 @@ Establecer garantías proporcionales para nodos, Vaelor y Torre sin apropiarse d
 ## FUENTES Y CORRECCIONES
 Fuente primaria y [[MICROINTERACCIONES_PERSONAJES_A_I]] prevalecen.
 
-> **Estado narrativo:** 5 de Floris, Año 3. Rey de Aldoria; mantiene una alianza legal y condicionada con House Gutiérrez sin controlar a Max ni apropiarse de la investigación de la Torre.
+> **Corte histórico de este bloque:** 5 de Verdalia, Año 3. Rey de Aldoria; mantiene una alianza legal y condicionada con House Gutiérrez sin controlar a Max ni apropiarse de la investigación de la Torre.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
 
 - Gobierna el equilibrio entre corte, gremio, rutas, innovación y casas nobles.
 - La alianza con Max permanece sujeta a límites frente a guerra, gobierno y conocimiento privado.
@@ -88,10 +88,19 @@ En el Palacio Real de Aldoria. Concluyó formalmente la audiencia, autorizó la 
 
 ## REFERENCIAS
 
-Fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`; [[CURRENT_STATE_5_FLORIS_AÑO3]].
+Fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`; [[CURRENT_STATE_5_VERDALIA_AÑO3]].
 
 ## EVOLUCIÓN CAUSAL — AUTORIDAD QUE NEGOCIA LÍMITES
 
 - La audiencia con Max comienza como examen de confianza y arrojo; termina en reconocimiento legal condicionado. Aldric no compra lealtad absoluta: acepta una House, un writ y una Letter of Marque con límites frente a guerra y gobierno.
 - Las consecuencias de Blackpeak, los conflictos nobiliarios y la expansión de proyectos civiles le muestran que la estabilidad no se obtiene controlando cada iniciativa. Aprende a delegar en Serath, Thalion, Kira y autoridades locales sin confundir cooperación con obediencia.
 - Torre, Vaelor y la Red de Nodos lo obligan a equilibrar seguridad del reino con investigación abierta. Su papel actual es permitir garantías y supervisión proporcional, no declarar propiedad de un conocimiento que Aldoria apenas empieza a comprender.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Recibió informes de consejo y encargó estudios antes de comprometer fondos o aprobar cambios. Su avance reciente es gobernar mediante evaluación institucional, sin utilizar a Max como atajo.
+- **Ruta autónoma vigente:** `Meta:` gobernar, equilibrar nobles, gremios y rutas. `Ambición:` dejar una corona más estable que su propia generación. `Vínculo:` Serath, Caelan, Rowan, Oswin y la corte. `Obstáculo / hito:` tomar una decisión económica o judicial sin usar a Max como atajo.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

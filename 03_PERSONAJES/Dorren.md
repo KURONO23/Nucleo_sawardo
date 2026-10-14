@@ -16,7 +16,7 @@
 - **Actitud ante innovaciones:** Exige ver planos, comprobar el peso del material y probar la resistencia antes de dejarse llevar por el entusiasmo.
 - **Defensa de la dignidad obrera:** Cuando la facción de Veinhardt intentó intimidar a los artesanos, Dorren defendió a Max con firmeza, señalando que jamás habían tenido un patrón tan honorable y generoso.
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Gutiérrez Estate y talleres de construcción de Aldoria y Thornhaven.
 - **Responsabilidad actual:** Mantenimiento de estructuras maestras de la hacienda y supervisión de las reformas en almacenes portuarios.
@@ -101,3 +101,12 @@ Cuando Max compró la finca abandonada de Dorian Velthris para fundar **Gutiérr
 - El trato justo en la finca prueba para Dorren que un cliente poderoso puede respetar salario, comida y seguridad. Por eso su defensa frente a Veinhardt nace de experiencia laboral, no de servilismo.
 - La presión nobiliaria le enseña que su cuadrilla también necesita condiciones claras y solidaridad entre oficios. Su trabajo deja de ser solo levantar piedra: incluye proteger a quienes dependen de sus jornadas.
 - La convivencia con Galwin abre una colaboración entre piedra, metal e infraestructura. Dorren puede evaluar qué parte de una innovación cabe realmente en una obra, sin aceptar planos imposibles por entusiasmo ajeno.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` terminar obras con medidas y seguridad reproducibles. `Ambición:` ser maestro mayor que proteja salarios y estándares de cuadrilla. `Vínculo:` Galwin y obreros. `Obstáculo / hito:` rechazar una orden prestigiosa que comprometa la seguridad.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

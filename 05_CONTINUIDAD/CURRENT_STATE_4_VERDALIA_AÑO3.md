@@ -1,10 +1,12 @@
-# ESTADO ACTUAL — 4 DE FLORIS, AÑO 3
+# ESTADO ACTUAL — 4 DE VERDALIA, AÑO 3
+
+> **CORTE HISTÓRICO:** corresponde al **4 de Verdalia, Año 3**. Después existió el corte del [[CURRENT_STATE_18_VERDALIA_AÑO3|18 de Verdalia]]; el presente rector es [[CURRENT_STATE_1_LLUVIA_AÑO3]].
 
 > Estado rector posterior a [[CURRENT_STATE_26_BRUMA_AÑO3]]. No borra ese corte: lo conserva como situación histórica anterior.
 
 ## Punto exacto
 
-- **Fecha:** 4 de Floris, Año 3.
+- **Fecha:** 4 de Verdalia, Año 3.
 - **Lugar principal:** Casa Ardel, Aldoria.
 - **Cobertura de Max:** `Marcos`, trabajador eventual del servicio.
 - **Escena activa:** Max consiguió otro día dentro de Casa Ardel después de preguntar con naturalidad por Casa Veylan.
@@ -13,9 +15,9 @@
 
 ## Alerta de cumpleaños
 
-- El 1 de Floris fue el cumpleaños de Haruto. La fuente omitió el aviso y la escena; por doctrina autoral ocurrió automáticamente fuera de cámara y Haruto tiene ahora 19 años.
-- **Próximo cumpleaños: Ryu, 8 de Floris — faltan 4 días.** No avanzar más allá sin avisar al usuario.
-- Después: Liora, 17 de Floris; Serath, 31 de Floris, máxima prioridad.
+- El 1 de Verdalia no fue el cumpleaños de Haruto. Haruto conserva 18 años hasta el 1 de Floris; los gestos afectivos de este tramo son regalos espontáneos, no celebraciones adelantadas.
+- **Próximo cumpleaños: Aldric, 5 de Lluvia.** No convertir los regalos de Verdalia en cumpleaños adelantados.
+- Después: Kenji, 26 de Lluvia; Haruto, 1 de Floris; Ryu, 8 de Floris; Liora, 17 de Floris; Serath, 31 de Floris.
 - Véase [[CALENDARIO_CUMPLEANOS_CIRCULO_DE_MAX]].
 
 ## Operación Ravenwood–Ardel
@@ -74,7 +76,7 @@ Mizuki investiga desde fuera como línea independiente. No tiene comunicación e
 - Entró en Sawardo con consentimiento explícito y comprobó que allí Ecclesia pierde o altera el acceso a la red exterior.
 - Compartió su investigación sobre Corven, Verrick, Halven, Severin y el financiador desconocido.
 - Visitó Pequeño Zhong-Kyo con Max y Aria.
-- El 4 de Floris se disculpó con Haruto sin exigir perdón. Haruto aceptó la disculpa, pero no declaró un perdón completo.
+- El 4 de Verdalia se disculpó con Haruto sin exigir perdón. Haruto aceptó la disculpa, pero no declaró un perdón completo.
 - Mizuki aceptó colaborar temporalmente desde el exterior contra la operación de Corven.
 
 ## Pequeño Zhong-Kyo
@@ -118,5 +120,5 @@ No volver al balance del 26 de Bruma, no repetir la primera prueba del G1, no re
 
 # NOTA DE CORTE CONSERVADO
 
-El estado rector más reciente es [[CURRENT_STATE_5_FLORIS_AÑO3]]. Este archivo conserva sin reescritura el cierre de 4 de Floris, Año 3; no usarlo como presente operativo.
+El estado rector más reciente es [[CURRENT_STATE_1_LLUVIA_AÑO3]]. Este archivo conserva el cierre históricamente mal rotulado del 4 de Verdalia; no usarlo como presente operativo.
 

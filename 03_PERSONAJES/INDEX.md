@@ -1,12 +1,14 @@
 # Índice operativo de personajes
 
+> Estado vigente de todas las fichas al 1 de Lluvia, Año 3: [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]]. Esta actualización es aditiva y no borra cronologías históricas.
+
 
 ## Familia de Gutiérrez Estate y Hermanos de Max
 
 - [[Max38|Max Josemar Gutiérrez]] — Patriarca de la Casa Gutiérrez; humano reencarnado a los 38 años, rogue/espadachín, rango S, portador de [[Sawardo]].
 - [[Serath_Vale|Comandante Serath Vale]] — Esposa legítima de Max (Día 260); Comandante Suprema de Aldoria; hija biológica secreta del Rey Aldric.
 - [[Ryu_Gutierrez|Ryu Gutiérrez]] — Hermano adoptivo menor de Max (18 años); Rango Clase A Alta; primer oficial naval del *Serath-Maru* y cartógrafo de rutas.
-- [[Kenji_Gutierrez|Kenji Gutiérrez]] — Hermano adoptivo menor de Max (17 años); Rango Clase A Alta; maestro cocinero en formación (cuchillos grabados en Luminarias).
+- [[Kenji_Gutierrez|Kenji Gutiérrez]] — Hermano adoptivo menor de Max (16 años); Rango Clase A Alta; maestro cocinero en formación (cuchillos grabados en Luminarias).
 - [[Aria]] — Gran Undine ancestral independiente; socia fundadora y ancla del hogar.
 
 ## Núcleo presente en la continuación
@@ -75,6 +77,9 @@ Todas las fichas canónicas y recurrentes tienen una ruta de metas, ambiciones, 
 - [[Kellan_Muir]] — Actor del Capitán Draevorn.
 - [[Edda_Sol]] — Actriz de Isola Ren.
 - [[Liora]] — Encargada y trabajadora del club nocturno «La Rosa de Medianoche», ex-aventurera; novia formal de Haruto Kazagami (Día 418); mentora social de Haruto, Leo y Ren.
+- [[Elena_Weissmann|Elena Weissmann]] — aprendiz de boticaria y amiga de Liora; colaboración botánica y cercanía gradual con Ren. No confundir con [[Elena]], madre de Suri.
+- [[Greta_Hoffmann|Greta Hoffmann]] — asistente comercial y amiga de Liora; vínculo personal gradual con Leo. Su nombre provisional «Mara» quedó descartado.
+- [[Nadia_Falkenberg|Nadia Falkenberg]] — música independiente y amiga de Liora; mantiene carrera y ruta artística propias.
 - [[Siri]] — Inteligencia artificial y entidad humanoide ligada a Haruto; analítica, irónica y observadora del crecimiento personal.
 - [[Daichi]] — Reencarnado senior; líder del equipo de investigación de la Torre financiado por la Corona junto a Mika y Ren.
 - [[Ren]] — Joven reencarnado en cuerpo aldoriano; investigador de nodos de la Torre y combatiente en formación.
@@ -108,11 +113,11 @@ Todas las fichas canónicas y recurrentes tienen una ruta de metas, ambiciones, 
 - [[Kazuki]] — Reencarnado líder de las Minas Quebradas; observador estratégico de Max en Aldoria.
 - [[Hessa]] — Organizadora de Minas Quebradas, contrapunto práctico de Kazuki y participante de Afrodita en el Festival del Año 3.
 - [[Astrid_Varkhenn|Lady Astrid Varkhenn]] — Líder marcial de Dravenn y portadora del escudo en el epílogo teatral.
-- [[Take]] — Supervisor de casino en cruceros; mejor amigo de la juventud de Max en Lima.
-- [[Aysha]] — Profesional de Mitsui Automotriz en Lima; mejor amiga íntima y confidente de Max.
-- [[Docta]] — Amigo cercano del grupo de salidas, ferias y conciertos en Lima.
-- [[Graceskoll]] — Amiga íntima de confianza; charlas de vida, anécdotas y reuniones en Lima.
+- [[03_PERSONAJES/Take|Take]] — Supervisor de casino en cruceros; mejor amigo de la juventud de Max en Lima.
+- [[03_PERSONAJES/Aysha|Aysha]] — Profesional de Mitsui Automotriz en Lima; mejor amiga íntima y confidente de Max.
+- [[03_PERSONAJES/Docta|Docta]] — Amigo cercano del grupo de salidas, ferias y conciertos en Lima.
+- [[03_PERSONAJES/Graceskoll|Graceskoll]] — Amiga íntima de confianza; charlas de vida, anécdotas y reuniones en Lima.
 
 ## Actualización histórica — 26 de Bruma, Año 3
 
-Para reconstruir aquel corte de Max, Serath, Aria, Kazuki, Natalia y los equipos de investigación, consultar [[CURRENT_STATE_26_BRUMA_AÑO3]] y [[RELACIONES_ADDENDUM_26_BRUMA_AÑO3]]. Para el presente usar [[CURRENT_STATE_4_FLORIS_AÑO3]] y [[CONOCIMIENTO_ADDENDUM_4_FLORIS_AÑO3]]. Las descripciones anteriores se conservan como evolución histórica, pero no prevalecen sobre el estado más reciente.
+Para reconstruir aquel corte de Max, Serath, Aria, Kazuki, Natalia y los equipos de investigación, consultar [[CURRENT_STATE_26_BRUMA_AÑO3]] y [[RELACIONES_ADDENDUM_26_BRUMA_AÑO3]]. Para el presente usar [[CURRENT_STATE_1_LLUVIA_AÑO3]] y [[CURRENT_STATE]]. Las descripciones anteriores se conservan como evolución histórica, pero no prevalecen sobre el estado más reciente.

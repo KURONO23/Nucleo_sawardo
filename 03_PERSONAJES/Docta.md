@@ -7,8 +7,8 @@ Docta es amigo terrestre de Max, compañero de eventos, ferias y logística de f
 
 Habla en ráfagas mínimas y prácticas: `yap`, `sep`, `bro`, `mano`; prioriza ubicación, hora, entrada y transporte. El humor es seco y relajado (`ptmmmm`, `monse`, `tarao`) y nunca convierte una coordinación simple en discurso dramático.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_5_FLORIS_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
+No hay una escena individual posterior consolidada en esta ficha. Usar [[CURRENT_STATE_1_LLUVIA_AÑO3]] y las relaciones expresamente confirmadas; no inferir ubicación, acciones o conocimiento adicional.
 
 ## CRONOLOGÍA CANÓNICA
 Los hechos documentados en las secciones posteriores se preservan como historial. Su consolidación por Año 1, Año 2 y Año 3 debe basarse únicamente en `00_FUENTES/historia_original/`.
@@ -98,3 +98,12 @@ Basado en el análisis del chat directo en `Chat de WhatsApp con Docta.txt`:
 
 - Permanece en Lima, Perú.
 - Atesorado en las memorias de Max como el pata práctico e incondicional de los fines de semana.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` organizar salidas, ferias y logística de su círculo. `Ambición:` ser la persona que convierte planes en experiencias sostenibles. `Vínculo:` Take, Aysha y Graceskoll. `Obstáculo / hito:` mantener una actividad por iniciativa propia.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

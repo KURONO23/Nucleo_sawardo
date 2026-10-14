@@ -3,7 +3,7 @@
 ## Identidad estable
 Jasmine es combatiente táctica S de Los Ventura: ágil, pragmática, protectora y de humor seco. Su lealtad a Max nació de evaluar límites y decisiones en Blackpeak, no de obediencia automática. También es lectora crítica, docente y oyente fundamental de las obras que Aldoria volvió propias.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
 Investiga en campo la pista V. Sable junto al marco gremial de Kira. La red y la identidad responsable siguen abiertas; no hay resolución posterior que atribuirle.
 
 ## RELACIONES VIVAS
@@ -15,7 +15,7 @@ Investiga en campo la pista V. Sable junto al marco gremial de Kira. La red y la
 ## FUENTES Y CORRECCIONES
 `00_FUENTES/historia_original/` prevalece; las fuentes de la investigación, cultura y crecimiento causal se preservan debajo.
 
-> **Estado narrativo:** 5 de Floris, Año 3. Combatiente táctica S de Los Ventura e investigadora de campo de la pista V. Sable; la investigación sigue abierta.
+> **Corte histórico de este bloque:** 5 de Verdalia, Año 3. Combatiente táctica S de Los Ventura e investigadora de campo de la pista V. Sable; la investigación sigue abierta.
 
 ## CANON FUNDACIONAL — NO MODIFICAR
 
@@ -129,3 +129,12 @@ El coste es personal: seguir una pista sin Max implica exposición, paciencia y 
 - Las narraciones de *Juego de Tronos*, *Dunk y Egg* y *Percy Jackson* le dieron un lenguaje adicional para analizar costo político, promesas y daño colateral. Sus observaciones culturales nacen de escuchar, debatir y recordar; no son conocimientos mágicos del mundo.
 - La experiencia de la Torre y de la Red de Nodos ensanchó su definición de protección: ahora piensa también en perímetros, información incompleta y equipos que deben volver enteros.
 - Haber presenciado la misión de V. Sable transforma esa disciplina en agencia propia. Su siguiente avance depende de contrastar rutas y proteger testigos con Kira y Misa, no de que Max vuelva a darle una orden.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Separó su investigación sobre V. Sable de las sesiones formativas con Leo, preparó ejercicios de movilidad y observación y aceptó enseñar solo según su disponibilidad. Conserva rango S y lectura narrativa de nivel 76 sin fusionar sus frentes.
+- **Ruta autónoma vigente:** `Meta:` reconstruir la misión de V. Sable a partir de rutas, fechas y manifiestos. `Ambición:` ser estratega e investigadora de campo, no solo combatiente S. `Vínculo:` Kira, Misa y Los Ventura mantienen la investigación aunque Max cambie de arco. `Obstáculo / hito:` presentar una hipótesis graduada sin convertir una pista en culpabilidad.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

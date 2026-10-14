@@ -21,6 +21,7 @@ Las ocho materias que requerían decisión quedaron **RESUELTAS POR AUTORIDAD**:
 
 ### Resueltas por autoridad
 
+- El cumpleaños de Serath Vale es el **31 de Floris**. La sugerencia aislada «31 de Verdalia» presente en la fuente original es `NO_CANON`; no modificar la fuente, pero nunca propagar esa fecha a documentos derivados (`CONTR-148`).
 - `Ventura` es nombre de grupo, nunca apellido (`CONTR-002`).
 - Biro tiene ojos marrones y no es estúpido (`CONTR-001`).
 - Aria es persona independiente; su etapa de servicio describe coerción histórica, no ontología (`CONTR-003/077/099`).
@@ -33,6 +34,13 @@ Las ocho materias que requerían decisión quedaron **RESUELTAS POR AUTORIDAD**:
 ## Formato
 
 Cada entrada debe contener: identificador, afirmaciones en conflicto, jerarquía de sus fuentes, páginas o escenas, impacto, estado y decisión del jugador cuando corresponda.
+
+## CONTR-148 — Cumpleaños de Serath Vale
+
+- **Corrección autoral vigente:** 31 de Floris.
+- **Fuente inferior en conflicto:** una sugerencia aislada de la fuente original menciona 31 de Verdalia.
+- **Jerarquía aplicada:** prevalece la corrección explícita y reiterada del usuario.
+- **Estado:** `RESUELTA_POR_AUTORIDAD`; «31 de Verdalia» es `NO_CANON` y no debe aparecer como cumpleaños en ningún archivo derivado.
 
 ## CONTR-001 — Color de ojos de Biro
 
@@ -966,3 +974,9 @@ Cada entrada debe contener: identificador, afirmaciones en conflicto, jerarquía
 - P. 942 anuncia diálogo Thalion, interrogatorio Serath y fiesta de tres días.
 - No inventar su contenido ni tratar la estancia como ya vivida.
 - Estado: hilos activos, punto exacto de roleplay: audiencia concluida en p. 942.
+
+## CONTR-149 — Objetos divergentes en la sorpresa de Liora (16–17 de Verdalia, Año 3)
+
+- Una reconstrucción derivada registra una prenda de descanso y una diadema mágica con sensor.
+- La escena reciente registra un estuche con cuaderno y unas orejas artesanales.
+- **Resolución autoral:** Max confirma que la versión canónica es **un estuche con cuaderno y unas orejas artesanales**. La prenda de descanso y la diadema mágica con sensor quedan como versión derivada superada (`NO_CANON` para el presente). El hecho sigue siendo un regalo espontáneo de Verdalia; el cumpleaños de Liora permanece el 17 de Floris.

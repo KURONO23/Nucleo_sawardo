@@ -21,35 +21,35 @@
 
 Las fuentes originales permanecen intactas aun cuando contengan el error. La subsanación se hace en el núcleo derivado, con nota de qué versión quedó desplazada. Si dos declaraciones del usuario fueran incompatibles, prevalece la más reciente y específica y la anterior queda registrada como canon reemplazado, no borrado.
 
-## Estado rector — 4 de Floris, Año 3
+## Estado rector — 18 de Verdalia, Año 3
 
 | Personaje | Edad inicial comprobada | Cumpleaños atravesado | Edad cronológica vigente | Confianza | Observación |
 |---|---:|---|---:|---|---|
 | **Max Gutiérrez** | **38** | 25 de Ventisca, Año 2 | **39** | Alta con incidencia | El canon posterior fija ese cumpleaños como el primero que modifica su edad dentro de la cronología vigente. El antiguo Día 399 se conserva como versión desplazada, no se suma por segunda vez. |
 | **Serath Vale** | **32** | 31 de Floris, Año 2 | **33** | Alta | El 26 de Bruma, Año 3 todavía antecede su siguiente 31 de Floris. |
 | **Kira** | **58** | Cumpleaños narrado en el tramo 542–577 | **59** | Media-alta | Falta estabilizar su fecha mensual en el calendario maestro, pero la celebración está narrada. |
-| **Haruto Kazagami** | **17** | 1 de Floris, Año 3 | **19** | Alta | La fila histórica de Año 2 lo situaba en 18; el cumpleaños del Año 3 ya fue celebrado fuera de cámara. |
+| **Haruto Kazagami** | **17** | 1 de Floris, Año 2 | **18** | Alta | Cumplirá 19 el 1 de Floris del Año 3; todavía no ocurrió. |
 | **Sayaka Fujimoto / Evelyn Cross** | **27** | 30 de Solalto, Año 2 | **28** | Alta | Una persona, dos identidades respetadas; no duplicar la edad. |
 | **Ryu Gutiérrez** | 17 | Cumpleaños transcurrido | **18** | Alta | La fuente de transición al Año 3 lo identifica expresamente con 18 años. |
-| **Kenji Gutiérrez** | 15 | 26 de Lluvia, Año 3 | **17** | Alta | La fuente de transición lo identificaba con 16; el cumpleaños confirmado del Año 3 añade un año sin borrar el registro anterior. |
+| **Kenji Gutiérrez** | 15 | 26 de Lluvia, Año 2 | **16** | Alta | Cumplirá 17 el 26 de Lluvia del Año 3; esa fecha todavía no ocurrió. |
 | **Liora** | — | 17 de Floris | **22** | Alta para el estado de Noctalia/Año 2 | La fuente la identifica expresamente con 22; no cumple de nuevo antes del 26 de Bruma, Año 3. |
 | **Aria** | más de 800 | 22 de Solalto, conmemoración | **más de 800** | Alta | No aplicar aritmética humana a una Gran Undine. La fecha funciona también como conmemoración identitaria. |
 | **Aldric Theron** | `DESCONOCIDA` | 5 de Lluvia | `DESCONOCIDA` | — | Apariencia/cuerpo rejuvenecido de aproximadamente 40–42 no equivale a edad cronológica. |
 
-## Actualización — 4 de Floris, Año 3
+## Actualización — 4 de Verdalia, Año 3
 
-- **Haruto Kazagami:** atravesó el 1 de Floris del Año 3 y pasa de **18 a 19 años**. La narración omitió recordatorio y escena, pero la doctrina directa del usuario establece celebración automática cuando no se solicitan preparativos especiales. Se registra como celebración fuera de cámara con detalles específicos no narrados.
-- **Galwin Gearwright:** celebró el 27 de Albor del Año 3 con una jornada íntima de taller, aprendices y fonocristales, conforme a su preferencia por el trabajo útil sobre el protocolo. Edad cronológica: `DESCONOCIDA`.
-- **Aldric Theron:** celebró el 5 de Lluvia del Año 3 con una jornada privada y sobria junto a su familia y la Corona. Edad cronológica: `DESCONOCIDA`.
-- **Kenji Gutiérrez:** celebró el 26 de Lluvia del Año 3 cocinando para su familia y Pequeño Zhong-Kyo; pasa de **16 a 17 años**.
+- **Haruto Kazagami:** conserva **18 años**. El tramo posterior a Bruma pertenece a Verdalia; su cumpleaños del 1 de Floris todavía no ocurrió.
+- **Galwin Gearwright:** su fecha del 27 de Albor del Año 3 ya transcurrió, pero la celebración no está documentada. Edad cronológica: `DESCONOCIDA`; no inventar retrospectivamente regalos, asistentes ni actividades.
+- **Aldric Theron:** su cumpleaños del 5 de Lluvia del Año 3 todavía no ocurrió. Edad cronológica: `DESCONOCIDA`.
+- **Kenji Gutiérrez:** conserva **16 años** hasta el 26 de Lluvia. Las especias e implementos recibidos el 8 de Verdalia fueron un regalo espontáneo de Max, no un cumpleaños.
 - **Serath Vale:** continúa con **33 años**; su cumpleaños del 31 de Floris todavía no ocurre.
-- **Alerta inmediata:** Ryu cumple el **8 de Floris**, dentro de cuatro días. Después: Liora, 17 de Floris; Serath, 31 de Floris.
+- **Próxima alerta:** Aldric cumple el **5 de Lluvia**. Después: Kenji, 26 de Lluvia; Haruto, 1 de Floris; Ryu, 8 de Floris; Liora, 17 de Floris; Serath, 31 de Floris.
 - Calendario operativo completo: [[CALENDARIO_CUMPLEANOS_CIRCULO_DE_MAX]].
 - No se suman edades a personajes sin edad inicial demostrada.
 
 ## Cumpleaños conocidos con edad todavía desconocida
 
-Galwin, Kenji, Haruto, Ryu, Natalia, Aria, Elise, Biro, Jasmine, Vivienne, Amane, Yuki/Marianne, Misa, Goran, Kael Ironheart, Mika, Torin, Darian Holt, Lyssa, Thalion y otros poseen fecha o celebración registrada. Cuando su edad inicial no esté demostrada, el núcleo debe consignar el cumpleaños ocurrido sin fabricar un número.
+Galwin, Natalia, Aria, Elise, Biro, Jasmine, Vivienne, Amane, Yuki/Marianne, Misa, Goran, Kael Ironheart, Mika, Torin, Darian Holt, Lyssa, Thalion y otros poseen fecha o celebración registrada, pero no siempre una edad inicial demostrada. Kenji, Haruto y Ryu quedan fuera de esta lista porque sus edades vigentes sí están confirmadas. Cuando falte la edad inicial, el núcleo debe consignar el cumpleaños ocurrido sin fabricar un número.
 
 ## Incidencia Max: Día 399 frente a 25 de Ventisca
 
@@ -73,5 +73,5 @@ Max, Serath, Los Ventura y otros han vivido intervalos subjetivos adicionales. E
 - `00_FUENTES/historia_original/AÑO_2/05_26_Solalto_a_14_Ambar_Año_2.md`.
 - `00_FUENTES/historia_original/AÑO_2/07_25_Ambar_a_10_Noctalia_Año_2.md`, cumpleaños del 25 de Ventisca.
 - `00_FUENTES/historia_original/AÑO_2/09_31_Noctalia_Año_2_a_01_Albor_Año_3.md`.
-- `00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md`.
+- `00_FUENTES/historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`.
 

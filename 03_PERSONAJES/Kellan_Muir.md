@@ -3,7 +3,7 @@
 ## Identidad estable
 Excombatiente del Ejército Real de Aldoria, con diez años de patrullas fronterizas, reconvertido en actor. De unos treinta y cinco años, espalda ancha y una cicatriz ligera en el cuello, interpreta al Capitán Draevorn. Su experiencia hace creíbles las armas, armaduras, fatiga y órdenes militares y la comparte con el elenco.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
 Es actor de la compañía y custodio práctico de la verosimilitud militar de Draevorn. No se documenta una escena individual posterior al corte vigente.
 
 ## CRONOLOGÍA CANÓNICA
@@ -41,3 +41,12 @@ La autoridad final es `00_FUENTES/historia_original/`; el registro de auditoría
 ## ADDENDUM — CIERRE DE MICROINTERACCIONES
 
 - Aparece dentro del equipo cuyos ingresos y carga de funciones se auditan; queda vinculado al circuito teatral sin inventar una escena individual no localizada (`isekai Día 588...`, 2003–3312).
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` consolidar al Capitán Draevorn y ampliar registros de espionaje escénico. `Ambición:` explorar papeles menos solemnes. `Vínculo:` Bram y Goran. `Obstáculo / hito:` defender un cambio de personaje ante la compañía.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

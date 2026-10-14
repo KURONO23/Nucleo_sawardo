@@ -3,13 +3,13 @@
 ## Identidad estable
 Cecilia y Mizuki Takahashi son la misma persona: reencarnada de Osaka, antigua falsa santa y analista de redes humanas. Cecilia es su identidad pública histórica; Mizuki, su nombre recuperado en círculo restringido. Su poder Ecclesia percibe vínculos y estructuras, pero no lee mentes, controla personas ni fabrica relaciones.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## Estado histórico — 18 DE VERDALIA, AÑO 3
 Investiga fuera de Casa Ardel sin enlace en tiempo real y llega por sí misma a la pista Veylan. Su reparación con Haruto comenzó, pero no borra su manipulación previa ni le concede perdón.
 
 ## CRONOLOGÍA CANÓNICA
 - Antes de Floris: usa conocimiento de necesidades de Haruto para empujarlo; es manipulación consciente, no control mental.
-- 3–4 de Floris: entra a Sawardo con consentimiento, comparte análisis de Casa Ardel, visita Pequeño Zhong-Kyo como Mizuki y se disculpa con Haruto.
-- 4 de Floris: acepta que la disculpa no compra perdón y continúa investigación independiente.
+- 3–4 de Verdalia: entra a Sawardo con consentimiento, comparte análisis de Casa Ardel, visita Pequeño Zhong-Kyo como Mizuki y se disculpa con Haruto.
+- 4 de Verdalia: acepta que la disculpa no compra perdón y continúa investigación independiente.
 
 ## EVOLUCIÓN CAUSAL
 Deja de tratar las relaciones como objeto de experimento y empieza a aceptar consentimiento, límite y consecuencia como datos que no puede manipular. Su capacidad de observación puede ayudar a una investigación, pero debe permanecer sometida a evidencia y autonomía ajena.
@@ -29,7 +29,7 @@ Contrastar la pista Veylan sin contaminar evidencia ni convertir su lectura soci
 ## FUENTES Y CORRECCIONES
 La fuente primaria de `00_FUENTES/historia_original/` prevalece, así como los límites de Ecclesia registrados en esta ficha.
 
-## ADENDA DE IDENTIDAD — MIZUKI TAKAHASHI, 3–4 DE FLORIS, AÑO 3
+## ADENDA DE IDENTIDAD — MIZUKI TAKAHASHI, 3–4 DE VERDALIA, AÑO 3
 
 - **Cecilia y Mizuki Takahashi son la misma persona.** No crear una ficha separada.
 - Nombre terrestre revelado: **Mizuki Takahashi**, originaria de **Osaka, Japón**.
@@ -45,14 +45,14 @@ La fuente primaria de `00_FUENTES/historia_original/` prevalece, así como los l
 - En Sawardo pierde o altera su conexión con la red social exterior.
 - Utilizó anteriormente conocimiento humano de las necesidades de Haruto para empujarlo; no fue control mental, pero sí manipulación consciente.
 
-## EVOLUCIÓN — 3 Y 4 DE FLORIS
+## EVOLUCIÓN — 3 Y 4 DE VERDALIA
 
 - Entró en Sawardo después de dar consentimiento explícito.
 - Compartió su análisis de Corven, Verrick, Halven, Severin y el financiador desconocido.
 - Visitó Pequeño Zhong-Kyo como Mizuki, no como santa, y participó en investigación cultural con límites comunitarios.
 - Decidió disculparse con Haruto sin intentar controlar su reacción.
 - Haruto aceptó las disculpas, pero no concedió perdón completo; Mizuki aceptó ese límite.
-- El 4 de Floris investiga fuera de Casa Ardel sin enlace operativo en tiempo real y llega independientemente al nombre Veylan.
+- El 4 de Verdalia investiga fuera de Casa Ardel sin enlace operativo en tiempo real y llega independientemente al nombre Veylan.
 
 ## ADDENDUM — MICROINTERACCIONES Y AGENCIA
 
@@ -79,6 +79,22 @@ Cecilia reúne informes y observa sin intervenir para no contaminar su estudio; 
   - Mano de obra justa → dinamización del comercio popular → atracción de visitantes → circulación masiva de moneda → festivales culturales y catarsis colectiva.
 - **Vínculo con Kazuki:** Mantiene líneas de intercambio analítico con Kazuki (Minas Quebradas), contrastando la hipótesis de concentración militar de este frente a la hipótesis de red distribuida de Max.
 
-## ADDENDUM — 4–5 DE FLORIS, AÑO 3
+## ADDENDUM — 4–5 DE VERDALIA, AÑO 3
 
 Cecilia/Mizuki fue presentada formalmente a Yuki/Lady Marianne y eligió el alias cultural `FRIEREN`. Ecclesia detecta vínculos y dependencias, no pensamientos, causas ni beneficiarios finales. Trabaja de forma independiente fuera de Casa Ardel y no recibe informes en tiempo real; no posee ni recibe un tercer terminal G1.
+
+
+## ADENDA — INVESTIGACIÓN INDEPENDIENTE Y PISTA VEYLAN (1 AL 18 DE VERDALIA, AÑO 3)
+
+- **Entrada bajo consentimiento en Sawardo (3 de Verdalia):** Validó con Max y Aria los límites de su poder Ecclesia, confirmando que no lee mentes ni altera voluntades.
+- **Disculpas formales a Haruto:** Pidió perdón de forma sincera, aceptando con madurez que Haruto no le concediera perdón total inmediato.
+- **Rastreo de la red Veylan:** Trabajó desde los márgenes sin contaminar las pruebas y localizó antecedentes administrativos relacionados con intermediarios de Veylan. No quedó demostrado un patrocinador final ni una conexión concluyente de Severin Ardel con el financiamiento.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La conversación consentida con Max y la visita a Pequeño Zhong-Kyo abrieron una relación más personal bajo su identidad Mizuki Takahashi. Puede cooperar e investigar, pero conserva responsabilidad por su pasado y no recibe absolución automática.
+- **Ruta autónoma vigente:** `Meta:` investigar la red Corven–Ardel–Veylan desde fuera y reparar sin exigir perdón. `Ambición:` convertir Ecclesia en responsabilidad y no en control de personas. `Vínculo:` Haruto, Aria, Max, Kazuki y sus propias redes. `Obstáculo / hito:` aportar una pista independiente sin apropiarse de la decisión del equipo.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

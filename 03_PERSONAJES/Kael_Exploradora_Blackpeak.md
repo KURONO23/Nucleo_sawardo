@@ -10,7 +10,7 @@
 
 - Consultar la ficha canónica de [[Romina_Exploradora_Blackpeak]]: voz áspera, directa, curtida por expediciones de alta montaña y advertencias técnicas sobre wyverns en The Cracked Shield.
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - Redirigido formalmente hacia [[Romina_Exploradora_Blackpeak]].
 
@@ -97,3 +97,12 @@ Fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Añ
 
 - La exploradora se renombra **Romina** para evitar colisión con Kael Ironheart.
 - Se mantiene separada de Kael Ironheart; las fuentes antiguas que solo dicen “Kael” conservan su ambigüedad si no hay evidencia suficiente.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Este archivo continúa como redirección histórica. Todo crecimiento vigente corresponde a [[Romina_Exploradora_Blackpeak]].
+- **Ruta autónoma vigente:** La ruta se conserva en la ficha canónica indicada; esta nota no genera hechos independientes.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

@@ -3,7 +3,7 @@
 ## Identidad estable
 Liora tiene 22 años, es exaventurera y encargada de La Rosa de Medianoche. Gestiona sala, inventario, espectáculos, proveedores y noches difíciles con independencia y humor afilado. Es novia oficial de Haruto desde el Día 418, no su apéndice ni una promesa de compromiso futuro.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
 Mantiene La Rosa, su red laboral y su pareja con Haruto. Su cumpleaños del 17 de Floris todavía no ocurre. No existe compromiso ni boda confirmados.
 
 ## CRONOLOGÍA CANÓNICA
@@ -89,3 +89,20 @@ Participa plenamente como parte de la familia extendida en las celebraciones de 
 - La Torre, Quest Log y el aislamiento de Ren y Leo le muestran un riesgo social que los especialistas no veían: convertir toda la juventud en preparación de crisis. Por eso ofrece espacios, amistades y salidas, sin elegir por ellos.
 - La desinformación contra Austin y Cerveza Esmeralda deja claro que su experiencia de club, escena y rumores es inteligencia cultural válida. Distingue chisme de campaña dirigida sin apropiarse de la investigación de Kira o Jasmine.
 - Su ambición no queda absorbida por Haruto: mantiene La Rosa de Medianoche, su red de amistades y su criterio para decidir cuándo proteger una noche normal frente a la urgencia de los demás.
+
+
+## ADENDA — LA SORPRESA DE VERDALIA (16 Y 17 DE VERDALIA, AÑO 3)
+
+- **El agasajo de la hacienda (16–17 de Verdalia):** Tras jornadas intensas de trabajo en *La Rosa de Medianoche*, Max, Serath y Aria organizaron una sorpresa especial para consentirla.
+- **Los regalos canónicos:** Recibió un **estuche con cuaderno y unas orejas artesanales**. La versión anterior de prenda de descanso y diadema mágica con sensor queda superada por la decisión autoral registrada en CONTR-149.
+- **La visita de Haruto (17 de Verdalia):** Haruto llegó con un ramo de flores a visitarla; Liora se divirtió con la picardía de Max, agradeció el cariño de Gutiérrez Estate y disfrutó de una tarde reparadora junto a su pareja.
+- **Calendario de cumpleaños:** Su cumpleaños canónico oficial permanece intacto el **17 de Floris**.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Mantuvo La Rosa de Medianoche, sostuvo su relación con Haruto y abrió un espacio social para Ren y Leo sin fabricar parejas. Sus amigas Elena Weissmann, Greta Hoffmann y Nadia Falkenberg forman parte de su vida propia.
+- **Ruta autónoma vigente:** `Meta:` dirigir La Rosa de Medianoche y sostener su vida con Haruto. `Ambición:` ampliar su autonomía económica y social. `Vínculo:` Haruto, Leo, Ren, Siri y trabajadores del club. `Obstáculo / hito:` enseñar a los jóvenes a vivir sin convertirse en su tutora permanente; un compromiso con Haruto solo puede nacer de una decisión recíproca y una escena verificable.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

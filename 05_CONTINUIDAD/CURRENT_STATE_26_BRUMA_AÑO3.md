@@ -1,6 +1,6 @@
 # CURRENT STATE — 26 DE BRUMA, AÑO 3 — CORTE HISTÓRICO
 
-> **Estado histórico conservado.** El estado operativo prioritario es [[CURRENT_STATE_4_FLORIS_AÑO3]].
+> **Estado histórico conservado.** El estado operativo prioritario es [[CURRENT_STATE_4_VERDALIA_AÑO3]].
 > Corte: mañana del 26 de Bruma, Año 3.
 > Lugar principal: Gutiérrez Estate, Aldoria.
 > Sawardo: inactivo al comenzar la mañana.

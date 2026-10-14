@@ -7,7 +7,7 @@ Darren es posadero y dueño de The Silver Flagon, conocedor del pulso portuario 
 
 Habla afable, tranquilo y útil. Ofrece una habitación, una chimenea, desayuno o una orientación local concreta; jamás vende secretos de sus huéspedes ni dramatiza un servicio sencillo.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
 Mantiene The Silver Flagon como refugio discreto de puerto. No hay hecho individual posterior que permita darle nuevos huéspedes, negocios o secretos.
 
 ## CRONOLOGÍA CANÓNICA
@@ -50,3 +50,12 @@ Darren entrega la Suite 12, distingue privacidad de cortejo y mantiene un pacto 
 - **El Refugio de Thornhaven:** Cuando Max arribó por primera vez a Thornhaven tras consolidar su estatus en el Gremio, Darren le alquiló la exclusiva **Suite 12**.
 - **Consejero Social y Urbano:** Le sirvió los primeros desayunos locales y orientó a Max sobre los distintos espacios de socialización de la ciudad, separando con criterio profesional el cortejo respetable, la socialización casual y los salones de recreo de élite (como Velvet Rose).
 - Reacciona con sincera gratitud ante las propinas generosas de Max y mantiene un pacto tácito de silencio con el Gremio, asegurando que nadie espíe al líder de Los Ventura cuando se aloja en su establecimiento.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` proteger privacidad, inventario y empleo de The Silver Flagon. `Ambición:` ser posadero de referencia del puerto. `Vínculo:` mercaderes, informantes y huéspedes. `Obstáculo / hito:` elegir cuándo una confidencia exige aviso a Kira.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

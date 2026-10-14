@@ -79,6 +79,8 @@ Comida, reuniones y fiestas introducen igualdad práctica entre personas de rang
 
 El romance secreto se convierte en matrimonio sin absorber la carrera, el mando ni la identidad de Serath. **Consecuencia:** House Gutiérrez adquiere una alianza institucional, pero el canon conserva dos personas con deberes propios.
 
+El primer aniversario, **17 de Cosecha del Año 2**, pasó por completo: Max y Serath estaban absorbidos por sus responsabilidades y ninguno recordó la fecha. El hecho muestra una etapa de sobrecarga compartida; no implica resentimiento ni conflicto retroactivo.
+
 ### 9. Zhong-Kyo, el naufragio y la adopción de Ryu y Kenji
 
 Ryu y Kenji dejan de ser aliados circunstanciales y pasan a ser hermanos menores de Max. El Serath-Maru, Jiraiya, Nian y la cultura zhong-kyana amplían familia, mundo y responsabilidad. **Consecuencia:** Max empieza a sostener una familia que también puede crecer sin él.

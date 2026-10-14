@@ -20,7 +20,7 @@
   - En la taberna: Voz sonora que corta el ruido; sabe cuándo escuchar el desahogo de un marinero y cuándo cobrar sin rodeos. Sirve comida reconfortante y jarras llenas.
   - En escena confirmada: Recibe a aventureros y comerciantes, comenta los rumores del puerto y mantiene The Silver Flagon como un refugio seguro de información neutral (`00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Thornhaven (Mostrador principal del Gremio y The Silver Flagon).
 - **Responsabilidad actual:**
@@ -89,3 +89,12 @@
 ## ADDENDUM — CIERRE DE MICROINTERACCIONES
 
 - Ambas preservan su función civil y no son absorbidas en tramas bélicas o cortesanas fuera de su ámbito de actuación.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` mantener la taberna como lugar seguro de descanso. `Ambición:` defender una clientela donde aventureros y mercaderes sean tratados con dignidad. `Vínculo:` Maria y trabajadores portuarios. `Obstáculo / hito:` manejar un rumor sin convertirlo en acusación.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

@@ -1,6 +1,6 @@
 # AUDITORÍA DEL GREMIO Y DEL FONDO DE VETERANOS — AÑO 3
 
-> Corte de continuidad: **4 de Floris, Año 3**. Este documento añade trazabilidad; no reemplaza las fuentes ni inventa un saldo actual del fondo.
+> Corte de continuidad: **4 de Verdalia, Año 3**. Este documento añade trazabilidad; no reemplaza las fuentes ni inventa un saldo actual del fondo.
 
 ## Corrección canónica de Kira
 

@@ -1,23 +1,23 @@
 # CRONOLOGÍA MAESTRA UNIFICADA — DÍA 1 AL DÍA 634
 
-> **ENCABEZADO HISTÓRICO:** el documento fue iniciado con corte en el Día 634, pero recibió adiciones posteriores. El presente operativo es [[CURRENT_STATE_5_FLORIS_AÑO3]]; no reanudar desde el título antiguo ni desde el corte del 26 de Bruma.
+> **ENCABEZADO HISTÓRICO:** el documento fue iniciado con corte en el Día 634, pero recibió adiciones posteriores. El presente operativo es [[CURRENT_STATE_1_LLUVIA_AÑO3]]; el corte de 18 de Verdalia es histórico y no debe usarse para reanudar.
 
-## ÚLTIMA INTEGRACIÓN — 4 A 5 DE FLORIS, AÑO 3
+## INTEGRACIÓN HISTÓRICA — 4 A 5 DE VERDALIA, AÑO 3 (fecha corregida)
 
-- **4 Floris:** el corte queda cerrado: Mizuki se disculpa con Haruto; él acepta sin perdón total; las investigaciones de Marcos/Yuki y Mizuki convergen independientemente en Veylan; Biro, Galwin, Sayaka, Haruto/Liora, Ren/Leo, Jasmine/Kira y Misa avanzan por sus propias líneas.
-- **5 Floris, mañana:** desayuno de Max, Serath y Aria en Gutiérrez Estate. La continuación exacta es una conversación de seguridad donde Serath conserva voz y mando, y una vigilancia exterior prudente de Aria.
+- **4 Verdalia:** el corte queda cerrado: Mizuki se disculpa con Haruto; él acepta sin perdón total; las investigaciones de Marcos/Yuki y Mizuki convergen independientemente en Veylan; Biro, Galwin, Sayaka, Haruto/Liora, Ren/Leo, Jasmine/Kira y Misa avanzan por sus propias líneas.
+- **5 Verdalia, mañana:** desayuno de Max, Serath y Aria en Gutiérrez Estate. La continuación exacta es una conversación de seguridad donde Serath conserva voz y mando, y una vigilancia exterior prudente de Aria.
 - **Próxima semilla:** por orden del usuario, Corven intentará una infiltración plausible mediante proveedores, servicios o contratos. Todavía no hay éxito, entrada, captura ni detección.
 - **Veylan/Averne:** intermediación provisional; no patrocinador final. V. Sable/Ravenwood se cruzan lentamente y sin unificar identidades o culpas.
 - **Economía:** último saldo líquido conciliado, 905.905 oro; flujo estructural 7.270 oro/mes antes de dividendos variables; el lote rechazado de Esmeralda carece de importe fijado.
 
-## ÚLTIMA INTEGRACIÓN — 26 DE BRUMA A 4 DE FLORIS, AÑO 3
+## ÚLTIMA INTEGRACIÓN — 26 DE BRUMA A 4 DE VERDALIA, AÑO 3
 
 - **26 Bruma:** Biro continúa _La tragedia del último barril_; Goran ve la película original de _Austin Powers_ y empieza a pensar en cine. Surge una comedia tentativa de convivencia.
-- **1 Floris:** Natalia reconoce la nueva nómina; Esmeralda queda rentable sin cifra exacta. Corven activa presión sobre Ravenwood. Yuki dirige su contraoperación. G1 prueba terminales Doctor/Bakarina.
-- **2 Floris:** Max se infiltra como Marcos en Casa Ardel y confirma la cooperación de Corven, Verrick, Halven y Severin, además de financiación externa.
-- **3 Floris:** Cecilia revela ser Mizuki Takahashi, explica Ecclesia, entra consentidamente en Sawardo y comparte información sobre Corven. Viaja a Pequeño Zhong-Kyo; se inicia archivo visual comunitario de siete tablillas.
-- **4 Floris:** Mizuki se disculpa con Haruto; él acepta la disculpa sin perdonarla completamente. Marcos regresa a Casa Ardel. Las investigaciones interna y externa convergen independientemente en Casa Veylan.
-- **PRESENTE:** Marcos consiguió otro día dentro. Falta terminar el turno y comparar informes sin contaminación retrospectiva.
+- **1 Verdalia:** Natalia reconoce la nueva nómina; Esmeralda queda rentable sin cifra exacta. Corven activa presión sobre Ravenwood. Yuki dirige su contraoperación. G1 prueba terminales Doctor/Bakarina.
+- **2 Verdalia:** Max se infiltra como Marcos en Casa Ardel y confirma contactos entre Corven, Verrick, Halven y Severin, además de financiación externa todavía no atribuida por completo.
+- **3 Verdalia:** Cecilia revela ser Mizuki Takahashi, explica Ecclesia, entra consentidamente en Sawardo y comparte información sobre Corven. Viaja a Pequeño Zhong-Kyo; se inicia archivo visual comunitario de siete tablillas.
+- **4 Verdalia:** Mizuki se disculpa con Haruto; él acepta la disculpa sin perdonarla completamente. Marcos regresa a Casa Ardel. Las investigaciones interna y externa convergen independientemente en Casa Veylan.
+- **CIERRE DE FASE:** Marcos completó la parte útil de la infiltración; la salida con Halven y la revisión formal siguen abiertas, sin convertir a Max en empleado permanente.
 
 ## INTEGRACIÓN ANTERIOR — 26 DE BRUMA, AÑO 3
 

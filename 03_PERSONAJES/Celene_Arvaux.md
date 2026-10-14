@@ -7,7 +7,7 @@ Lady Celene Arvaux es consejera, diplomática y estratega de salón de Serath Va
 
 Habla con compostura aristocrática, ironía precisa y preguntas que obligan a revelar intereses. No grita ni se precipita: convierte rumor en patrón, y protocolo en una forma de defender a Serath sin hablar por ella.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
 Permanece como ancla política del círculo de Serath frente a casas resentidas y preserva legitimidad institucional del matrimonio sin reducir a Serath a esposa de Max.
 
 ## CRONOLOGÍA CANÓNICA
@@ -69,3 +69,12 @@ En el estreno de *Austin Powers* y las grandes funciones de la Compañía Goran,
 - **Elara Venn y Maelis Dorne:** Sus contrapartes militares en el círculo íntimo de Serath; Celene maneja la política mientras Elara y Maelis aseguran el terreno y la inteligencia.
 - **Lady Marianne (Yuki Moriyama):** Comparte con ella debates de alta diplomacia y respeto por la etiqueta cortesana.
 - **House Marlowe, Credence y Veinhardt:** Adversarios políticos contenidos y monitoreados de forma constante.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` leer alianzas y proteger margen político de Serath. `Ambición:` influir sin convertirse en la persona que decide por todos. `Vínculo:` círculo de Serath y casas nobles. `Obstáculo / hito:` negociar una concesión sin sacrificar a una comunidad menor.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

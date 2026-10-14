@@ -24,9 +24,9 @@
 | `00_FUENTES/historia_original/AÑO_2/07_25_Ambar_a_10_Noctalia_Año_2.md` | Días 588–634 | `PASADA_DE_PERSONAJES_Y_MUNDO` | Percy, Austin, cumpleaños, Selene, expansión internacional y finanzas | Volcado de secundarios internacionales por ficha |
 | `00_FUENTES/historia_original/AÑO_2/08_11_Noctalia_a_30_Noctalia_Año_2.md` | Días 635–654 | `PASADA_DE_PERSONAJES_Y_MUNDO` | Vaelor, Thalion, Ryu/Kenji, Luminarias y POV autónomos | Distinguir propuestas de eventos efectivamente narrados |
 | `00_FUENTES/historia_original/AÑO_2/09_31_Noctalia_Año_2_a_01_Albor_Año_3.md` | Transición Año 2–3 | `PASADA_DE_PERSONAJES_Y_MUNDO` | Casa Puente, cierre financiero, edades, red restringida y autonomía migrante | Seguimiento posterior de Casa Puente |
-| `00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md` | Albor–Bruma Año 3 | `PASADA_DE_PERSONAJES_Y_MUNDO` | Minas, Elaris, Festival internacional, autonomía, G1 y estado vigente | Número continuo del 26 de Bruma permanece desconocido |
-| `00_FUENTES/historia_original/AÑO_3/11_26_Bruma_Año_3.md` | Mañana del 26 de Bruma, Año 3 | `INTEGRADA` | Cierre financiero, salarios, dividendos, autonomía empresarial y Operación Somos Pobres | Recepción noble todavía no ocurre |
-| `00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md` | 26 Bruma–4 Floris, Año 3 | `PRIMERA_PASADA_INTEGRADA` | Biro/Goran, G1 funcional, Ravenwood/Ardel, Mizuki, Ecclesia, Zhong-Kyo, AVANCES y Veylan | El nombre termina en 3 Floris aunque el contenido alcanza 4 Floris; la fuente acaba con una opción incompleta y falta pasada nominal exhaustiva |
+| `00_FUENTES/historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` | Albor–Bruma Año 3 | `PASADA_DE_PERSONAJES_Y_MUNDO` | Minas, Elaris, Festival internacional, autonomía, G1 y estado vigente | Número continuo del 26 de Bruma permanece desconocido |
+| `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` | Mañana del 26 de Bruma, Año 3 | `INTEGRADA` | Cierre financiero, salarios, dividendos, autonomía empresarial y Operación Somos Pobres | Recepción noble todavía no ocurre |
+| `00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md` | 1–18 Verdalia, Año 3 | `PRIMERA_PASADA_INTEGRADA` | Biro/Goran, G1 funcional, Ravenwood/Ardel, Mizuki, Ecclesia, Zhong-Kyo, AVANCES, Veylan y regalos espontáneos | Falta una pasada nominal exhaustiva del tramo completo; Ravenwood continúa sin resolución final al cierre |
 
 ## Método de cierre de una fuente
 
@@ -60,7 +60,7 @@ Cada unidad debe responder:
 4. Días 361–541: empresas, festival, Torre, Kazuki y autonomía.
 5. Días 542–654: ciclos culturales, nuevas generaciones, Vaelor y Luminarias.
 6. Año 3 hasta 26 Bruma: comunidades, vacaciones, festival internacional y G1.
-7. 26 Bruma–4 Floris: cine, autoría local, G1 operativo, contrainteligencia, reparación de Mizuki y arqueología cultural de Zhong-Kyo.
+7. 1–18 Verdalia: cine, autoría local, G1 operativo, contrainteligencia, reparación de Mizuki, arqueología cultural de Zhong-Kyo y revisión formal de Ravenwood aún abierta.
 
 ## Regla de honestidad
 
@@ -74,7 +74,7 @@ El 6 de octubre de 2026 se completó la primera pasada nominal sobre **86 de 86 
 
 ### Adenda de continuidad autónoma — 8 de octubre de 2026
 
-Se cerraron aditivamente los cumpleaños de Galwin, Aldric y Kenji del Año 3; Kenji pasa a 17 años. Se añadieron fichas provisionales para Verrick Dossan, Orren Halven, Severin Ardel y Hwan-Rei, y un expediente de Casa Veylan. La fuente del 4 de Floris continúa sin validación absoluta porque termina con una opción incompleta; las nuevas vidas autónomas son semillas canónicas controladas, no resolución del patrocinador final ni del cierre financiero.
+Se conservó el cumpleaños de Galwin. Los cumpleaños de Aldric y Kenji permanecen futuros en Lluvia; los regalos de Verdalia no los adelantan y Kenji conserva 16 años. Se añadieron fichas provisionales para Verrick Dossan, Orren Halven, Severin Ardel y Hwan-Rei, y un expediente de Casa Veylan. La fuente del 4 de Verdalia continúa sin validación absoluta porque termina con una opción incompleta; las nuevas vidas autónomas son semillas canónicas controladas, no resolución del patrocinador final ni del cierre financiero.
 
 ### Adenda de elenco completo — 8 de octubre de 2026
 

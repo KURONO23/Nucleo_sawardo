@@ -17,7 +17,7 @@
   > «Un guiso de taberna necesita fuego lento y buen fondo; pero lo que Max trajo a este puerto... eso es fuego nuevo.»  
   — Oskar conversando con Maren durante la preparación de un banquete en la finca.
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Cocinas centrales de Casa Gutiérrez en Thornhaven y apoyo logístico en eventos de Aldoria.
 - **Responsabilidad actual:** Coordinación de las brigadas de cocina de la finca, preparación de banquetes del Consorcio y adaptación de menús a gran escala.
@@ -95,3 +95,12 @@
 - Adaptar recetas de taberna a banquetes de hacienda les enseñó a estructurar brigadas de cocina y organizar suministros a gran escala.
 - No dependen de que Max esté presente en la cocina para mantener el estándar: comprenden los fundamentos de sabor, tiempo y temperatura.
 - Su crecimiento autónomo fortalece la estabilidad interna de Casa Gutiérrez.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` sostener la cocina cotidiana y enseñar técnica básica. `Ambición:` ser referente de cocina de taberna sin abandonar el oficio. `Vínculo:` Maren y aprendices. `Obstáculo / hito:` documentar una receta propia y medir su coste.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

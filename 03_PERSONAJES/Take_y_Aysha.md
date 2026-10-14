@@ -5,8 +5,8 @@
 - **Naturaleza Canónica Fundamental:** Personas reales del mundo de origen de Max Josemar Gutiérrez (Lima, Perú). **NO están casados ni son pareja sentimental**. Son dos mejores amigos totalmente independientes entre sí y con vidas propias.
 - **Presencia en la narrativa:** Existen como anclas de memoria viva, identidad terrenal y nostalgia en el corazón de Max. **NO existe comunicación mágica**, tecnológica ni dimensional tipo WhatsApp o portales entre la Tierra y Altea.
 - **Perfiles individuales:**
-  - **[[Take]]:** Mejor amigo de juventud y aventuras nocturnas de Max en Lima. Trabajador y supervisor de casino en cruceros internacionales de alta gama. Hombre pragmático, leal, de humor socarrón, mente ágil para los juegos de azar y gran mundo callejero.
-  - **[[Aysha]]:** Mejor amiga íntima y confidente espiritual de Max en Lima. Profesional en Mitsui Automotriz en Lima. Sensible, madura, perceptiva, de risa sincera y gran capacidad de escucha; la persona con quien Max conversaba sobre sus anhelos y dudas más profundas antes de su partida.
+  - **[[03_PERSONAJES/Take|Take]]:** Mejor amigo de juventud y aventuras nocturnas de Max en Lima. Trabajador y supervisor de casino en cruceros internacionales de alta gama. Hombre pragmático, leal, de humor socarrón, mente ágil para los juegos de azar y gran mundo callejero.
+  - **[[03_PERSONAJES/Aysha|Aysha]]:** Mejor amiga íntima y confidente espiritual de Max en Lima. Profesional en Mitsui Automotriz en Lima. Sensible, madura, perceptiva, de risa sincera y gran capacidad de escucha; la persona con quien Max conversaba sobre sus anhelos y dudas más profundas antes de su partida.
 
 ## 1.1 Voz y comportamiento en escena — obligatorio
 
@@ -15,7 +15,7 @@
   - La voz de **Aysha** resuena con calidez reflexiva, pausas afectuosas, preguntas directas al corazón y una empatía inquebrantable.
 - **Manifestación narrativa:** Max recurre a sus recuerdos de Take cuando diseña los juegos de mesa, dinámicas de taberna y apuestas de Los Cinco del Barril; recurre a los recuerdos de Aysha cuando necesita evaluar la sinceridad de sus vínculos afectivos y la ética de sus decisiones con Serath, Aria o Sayaka.
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Tierra (Lima, Perú / Alta mar internacional).
 - **Estado ontológico:** Max asume con serenidad y madurez que pertenecen a su vida pasada terrenal, honrando su memoria a través de sus valores en Altea sin pretender contactos sobrenaturales imposibles.
@@ -51,8 +51,8 @@
 
 ## 7. Fuentes y correcciones
 
-- [[Take]]
-- [[Aysha]]
+- [[03_PERSONAJES/Take|Take]]
+- [[03_PERSONAJES/Aysha|Aysha]]
 - [[MICROINTERACCIONES_PERSONAJES_A_I]]
 - [[MICROINTERACCIONES_PERSONAJES_S_Z]]
 - [[TIMELINE]]
@@ -64,11 +64,20 @@
 > **Take** y **Aysha** **NO están casados ni son pareja**. Son dos **mejores amigos independientes** de Max Josemar Gutiérrez en Lima, Perú.
 
 Para consultar sus fichas individuales y canónicas detalladas:
-- [[Take]] — Supervisor de casino en un crucero internacional; mejor amigo de juventud de Max.
-- [[Aysha]] — Profesional en Mitsui Automotriz en Lima; mejor amiga íntima y confidente de Max.
+- [[03_PERSONAJES/Take|Take]] — Supervisor de casino en un crucero internacional; mejor amigo de juventud de Max.
+- [[03_PERSONAJES/Aysha|Aysha]] — Profesional en Mitsui Automotriz en Lima; mejor amiga íntima y confidente de Max.
 
 ## CONTROL DE MICROINTERACCIONES
 
 - Estado: `INDICE_COLECTIVO_REVISADO`.
 - Take y Aysha conservan vidas, voces y vínculos independientes; no son pareja.
-- Las microinteracciones, recuerdos y ausencia de comunicación imposible están desarrollados en [[Take]], [[Aysha]], [[MICROINTERACCIONES_PERSONAJES_A_I]] y [[MICROINTERACCIONES_PERSONAJES_S_Z]].
+- Las microinteracciones, recuerdos y ausencia de comunicación imposible están desarrollados en [[03_PERSONAJES/Take|Take]], [[03_PERSONAJES/Aysha|Aysha]], [[MICROINTERACCIONES_PERSONAJES_A_I]] y [[MICROINTERACCIONES_PERSONAJES_S_Z]].
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Take y Aysha continúan siendo dos personas independientes en la Tierra y no una pareja. Sus trayectorias se actualizan en [[Take]] y [[Aysha]]; no existe comunicación dimensional con Max.
+- **Ruta autónoma vigente:** La ruta se conserva en la ficha canónica indicada; esta nota no genera hechos independientes.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

@@ -2,6 +2,7 @@
 
 ## Matrimonio y Vínculo Central
 - **Max Gutiérrez & Serath Vale:** Esposos (Día 260). Amor sincero, respaldo incondicional y protección mutua. Complicidad absoluta.
+- **Primer aniversario olvidado:** el 17 de Cosecha del Año 2 ambos estaban totalmente ocupados y ninguno recordó el aniversario. Fue un olvido mutuo, no una señal de deterioro ni una deuda emocional inventada.
 - **Max Gutiérrez & Aria:** Mejores amigos y socios inseparables. Aria es su ancla emocional y su confidente más antigua (800 años).
 
 ## Círculo Íntimo (Los Ventura)
@@ -41,7 +42,7 @@ La matriz anterior se conserva como corte del Año 2. Para evolución reciente u
 - Para peticiones de aventura usar [[MISIONES_PROPUESTAS_POR_NPC_AÑO3]]: cada personaje puede pedir trabajo desde su propia personalidad, pero Kira emite el contrato F–S.
 - Para el crecimiento institucional de Kira y la relación económica de Max con el Gremio usar [[AUDITORIA_GREMIO_FONDO_VETERANOS_AÑO3]].
 
-## Actualización relacional — 5 de Floris, Año 3
+## Actualización relacional — 5 de Verdalia, Año 3
 
 - **Max–Serath:** matrimonio estable; el desayuno abre una conversación seria de seguridad. Serath conserva mando, criterio y voz propia.
 - **Max–Aria:** confianza operativa reforzada; Aria puede vigilar el exterior con límites. No nace un romance nuevo por esta escena.

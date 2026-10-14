@@ -1,6 +1,8 @@
 # NÚCLEO SAWARDO — PAQUETE DE CONTEXTO PARA CHATGPT
 
-**Corte operativo:** 5 de Floris, Año 3.  
+> **AVISO DE VERSIÓN:** este archivo es una exportación histórica del 8 de octubre. No es la puerta de entrada vigente. La versión limpia para ChatGPT se genera en `C:/Users/Max/Documents/Codex/sawardo_CHATGPT/` y usa el estado del 1 de Lluvia, Año 3.
+
+**Corte histórico conservado:** 5 de Verdalia, Año 3. El presente operativo global es 1 de Lluvia, Año 3; el 18 de Verdalia también es un corte histórico.
 **Estado:** exportación preparada para lectura desde Google Drive.  
 **Fuente original:** `00_FUENTES/historia_original/` es la matriz inmutable y debe tratarse como solo lectura.
 
@@ -21,7 +23,7 @@ Orden de precedencia:
 
 1. Correcciones directas del usuario.
 2. Escenas y correcciones contenidas en `00_FUENTES/historia_original/`.
-3. `05_CONTINUIDAD/CURRENT_STATE_5_FLORIS_AÑO3.md` para el punto actual; `CURRENT_STATE_4_FLORIS_AÑO3.md` queda como corte histórico conservado.
+3. `05_CONTINUIDAD/CURRENT_STATE_1_LLUVIA_AÑO3.md` para el punto actual; los estados del 4, 5 y 18 de Verdalia quedan como cortes históricos conservados.
 4. Canon, fichas, sistemas, finanzas y deltas derivados.
 5. Semillas de vida autónoma, que son posibilidades preparadas y no hechos consumados hasta que una escena las confirme.
 
@@ -29,15 +31,15 @@ Cuando una fuente contiene una versión inicial y una corrección posterior, con
 
 ## Punto exacto de continuación
 
-- **Fecha:** 5 de Floris, Año 3.
+- **Fecha del corte histórico:** 5 de Verdalia, Año 3.
 - **Lugar:** desayuno en Gutiérrez Estate.
 - **Presentes:** Max, Serath y Aria.
-- **Estado:** el corte del 4 de Floris quedó cerrado; Max sigue siendo `Marcos` dentro de Casa Ardel, pero la continuación narrativa está en la mañana siguiente.
+- **Estado histórico:** el corte del 4 de Verdalia quedó cerrado; la continuidad posterior está consolidada en [[CURRENT_STATE]].
 - **Decisiones del usuario pendientes de escenificar:** escuchar la evaluación de Serath y conversar/proteger; pedir a Aria una vigilancia exterior prudente.
 - **Orden de desarrollo:** Corven intentará infiltrar espías mediante proveedores, servicios o contratos plausibles. Es un intento futuro, no un éxito, entrada, captura o descubrimiento automático.
 - **No ejecutar automáticamente:** identificar al patrocinador final, unificar V. Sable con Ravenwood, convertir a T. Averne en culpable, dar un tercer G1 a Mizuki o cerrar el desayuno fuera de escena.
 
-Leer: `05_CONTINUIDAD/CURRENT_STATE_5_FLORIS_AÑO3.md`, `07_ROLEPLAY/DELTA-RP-4_5_FLORIS_A3_CHAT_2026-10-08.md`, `05_CONTINUIDAD/CONOCIMIENTO_ADDENDUM_5_FLORIS_AÑO3.md`, `05_CONTINUIDAD/CONOCIMIENTO_ADDENDUM_4_FLORIS_AÑO3.md` y, para el estado anterior, `05_CONTINUIDAD/CURRENT_STATE_4_FLORIS_AÑO3.md`.
+Leer: `05_CONTINUIDAD/CURRENT_STATE_5_VERDALIA_AÑO3.md`, `07_ROLEPLAY/DELTA-RP-4_5_VERDALIA_A3_CHAT_2026-10-08.md`, `05_CONTINUIDAD/CONOCIMIENTO_ADDENDUM_5_VERDALIA_AÑO3.md`, `05_CONTINUIDAD/CONOCIMIENTO_ADDENDUM_4_VERDALIA_AÑO3.md` y, para el estado anterior, `05_CONTINUIDAD/CURRENT_STATE_4_VERDALIA_AÑO3.md`.
 
 ## Reglas de continuidad
 
@@ -49,6 +51,8 @@ Leer: `05_CONTINUIDAD/CURRENT_STATE_5_FLORIS_AÑO3.md`, `07_ROLEPLAY/DELTA-RP-4_
 - Conservar voces, defectos, límites, cumpleaños, vínculos y consecuencias.
 - Al crear personajes nuevos, comprobar `03_PERSONAJES/REGISTRO_NOMBRES_CANON.md`, `03_PERSONAJES/REGISTRO_APELLIDOS_CANON.md` y `01_CANON/PROTOCOLO_DE_NOMBRES_Y_APELLIDOS.md`; no repetir nombres o asignar apellidos iguales/confundibles, salvo instrucción directa del usuario.
 - Las decisiones de Max pertenecen al usuario; ningún agente o narrador las ejecuta fuera de escena.
+- La próxima alerta desde el presente es Aldric, 5 de Lluvia. Las fechas posteriores (incluido Ryu, 8 de Floris) son calendario futuro, no el siguiente evento inmediato.
+- La sorpresa canónica para Liora consiste en un **estuche con cuaderno y unas orejas artesanales**; la versión de prenda y diadema con sensor quedó superada por la decisión de Max (CONTR-149).
 
 ## Relaciones románticas vigentes
 
@@ -100,7 +104,7 @@ Todas las obras y consecuencias culturales deben consultarse en `05_CONTINUIDAD/
 - Cerveza Esmeralda es rentable y reparte dividendos; el acumulado exacto aún no está cerrado.
 - Max destina parte de las recompensas de sus misiones a beneficencia gremial y/o veteranos, separada de la tasa del Gremio y de la liquidez personal.
 
-## Delta RP integrado — 4–5 de Floris, Año 3
+## Delta RP integrado — 4–5 de Verdalia, Año 3
 
 - La cadena G1 confirmada es Max ↔ Aria ↔ Yuki; `DOCTOR` identifica a Max y `BAKARINA` a Yuki. Solo existen dos terminales certificados. Mizuki no tiene G1.
 - Veylan/Averne es una pista de intermediación comercial y financiera. No es todavía el patrocinador final; V. Sable y Ravenwood solo pueden aproximarse gradualmente, con evidencia.
@@ -119,7 +123,7 @@ Agentes y protocolos: `06_AGENTES/AGENT_REGISTRY.md`, `MOTOR_DE_VIDA_AUTONOMA.md
 
 ## Instrucción de inicio para ChatGPT
 
-> Lee primero este archivo. Para continuar la historia, carga el estado de 5 de Floris, Año 3 y conserva el punto de reanudación exacto. Para preguntas históricas, busca en `00_FUENTES/historia_original` y cita archivo y líneas. Para personajes, consulta sus fichas y el registro de vida autónoma. No inventes una relación, rango, economía, cumpleaños, obra cultural o reacción que ya esté documentada; si existe una contradicción, conserva el historial y aplica la corrección posterior del usuario.
+> Este archivo conserva un corte histórico. Para continuar la historia, carga [[CURRENT_STATE]] y conserva el punto vigente del 18 de Verdalia, Año 3, 22:30. Para preguntas históricas, busca en `00_FUENTES/historia_original` y cita archivo y líneas. Para personajes, consulta sus fichas y el registro de vida autónoma. No inventes una relación, rango, economía, cumpleaños, obra cultural o reacción que ya esté documentada; si existe una contradicción, conserva el historial y aplica la corrección posterior del usuario.
 
 ## Mapa de archivos
 

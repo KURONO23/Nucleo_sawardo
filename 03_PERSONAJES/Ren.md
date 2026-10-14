@@ -3,13 +3,13 @@
 ## Identidad estable
 Ren es un llegado con Continuidad Compuesta: conserva memoria externa y vínculos auténticos de la vida aldoriana del cuerpo en el que despertó. Es observador, reservado, colaborador y de buen corazón; los Ecos de Hábito pueden aflorar, pero no le dan omnisciencia ni dominio garantizado.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
 Es investigador técnico de Torre y combatiente en formación. Amane es su maestra actual; conserva un cuaderno propio para separar práctica reproducible, Eco de Hábito y dudas que deben regresar al equipo.
 
 ## CRONOLOGÍA CANÓNICA
 - Vida llegada: descubre que sus dos memorias coexisten sin que una invalide a la otra.
 - Año 3: conoce a Kazuki y confirma que los llegados no comparten un mecanismo único.
-- Desde 4 de Floris: acuerda con Haruto y Leo reconocimientos de baja exposición aún no resueltos en escena.
+- Desde 4 de Verdalia: acuerda con Haruto y Leo reconocimientos de baja exposición aún no resueltos en escena.
 
 ## RELACIONES VIVAS
 - Amane: maestra actual de magia y combate; no se borra al instructor inicial sin nombre.
@@ -55,7 +55,7 @@ La fuente original y [[MICROINTERACCIONES_PERSONAJES_J_R]] prevalecen; no invent
 - Como Isola, recuerda que existe trabajo real mientras Austin convierte todo en espectáculo (`isekai Día 588...`, 19582–19610).
 - La fuente mantiene sin nombre al instructor inicial; Amane es maestra actual (`isekai Día 588...`, 19582; `isekai Día 11-30...`, 3258–3798).
 
-## RUTA AUTÓNOMA — AMANE, HARUTO Y LEO — DESDE 4 DE FLORIS, AÑO 3
+## RUTA AUTÓNOMA — AMANE, HARUTO Y LEO — DESDE 4 DE VERDALIA, AÑO 3
 
 Ren no deja de aprender de **Amane**. Ella sigue siendo su maestra de magia y combate: corrige postura, exige control elemental y le enseña a retirarse antes de convertir una anomalía en una crisis. La novedad es que su aprendizaje deja de ocurrir solo bajo su supervisión.
 
@@ -66,7 +66,7 @@ Ren no deja de aprender de **Amane**. Ella sigue siendo su maestra de magia y co
 
 La primera misión queda preparada, no resuelta fuera de escena. Su crecimiento esperado es gradual: seguir siendo alumno de Amane mientras se vuelve compañero fiable para Haruto y Leo. No recibe rango nuevo ni dominio automático.
 
-## ADDENDUM — 5 DE FLORIS, AÑO 3
+## ADDENDUM — 5 DE VERDALIA, AÑO 3
 
 El primer reconocimiento con Haruto y Leo sigue pendiente de escena. Ren continúa aprendiendo de Amane; la salida no sustituye la tutoría ni garantiza éxito.
 
@@ -76,3 +76,12 @@ El primer reconocimiento con Haruto y Leo sigue pendiente de escena. Ren contin�
 - Amane le entrega una base de magia y combate; la Red de Nodos le muestra por qué el control y la retirada importan tanto como el poder. Su progreso no se mide por imitar a Max ni por dominar una habilidad de golpe.
 - La salida prevista con Haruto y Leo nace precisamente de ese punto: Ren conserva maestra, compañeros y un registro propio. Si falla, la evidencia vuelve a Amane, Daichi y Mika; si acierta, no queda aislado como prodigio.
 - Su ambición gradual es ser un investigador de campo fiable que pueda explicar qué hizo y por qué, aun cuando un Eco de Hábito no tenga explicación inmediata.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Alcanzó nivel 23, desarrolló Púa de Tierra I y Trampa de Apoyo I, registró resonancias y conectó su magia terrestre con botánica y restauración de suelos. Su amistad con Elena Weissmann ganó intimidad, pero no existe romance formal.
+- **Ruta autónoma vigente:** `Meta:` seguir aprendiendo con Amane y preparar misiones con Haruto y Leo. `Ambición:` reconciliar sus dos continuidades sin que la Torre decida quién es. `Vínculo:` Mika, Daichi, Amane, Haruto y Leo. `Obstáculo / hito:` tomar una decisión mágica acotada y registrarla en su cuaderno.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

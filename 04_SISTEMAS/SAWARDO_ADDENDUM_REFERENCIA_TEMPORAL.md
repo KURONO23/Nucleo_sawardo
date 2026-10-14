@@ -1,6 +1,6 @@
 # SAWARDO — ADDENDUM DE REFERENCIA TEMPORAL Y ANCLA KAZUKI
 
-> Corte de referencia original: 26 de Bruma, Año 3. El presente rector es 4 de Floris, Año 3; este documento añade evolución sin borrar los límites históricos de [[SAWARDO]].
+> Corte de referencia original: 26 de Bruma, Año 3. Este documento incorporó la evolución demostrada al 4 de Verdalia; el presente rector global está en [[CURRENT_STATE]].
 
 ## Hipótesis unificadora
 

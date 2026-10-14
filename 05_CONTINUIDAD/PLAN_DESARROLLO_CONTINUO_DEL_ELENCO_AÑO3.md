@@ -1,6 +1,6 @@
 # Plan de desarrollo continuo de todo el elenco — Año 3
 
-**Estado:** regla operativa vigente al 4 de Floris, Año 3.  
+**Estado:** regla operativa vigente al 4 de Verdalia, Año 3.
 **Propósito:** impedir que una persona quede congelada solo porque Max no la visita o porque la cámara narrativa cambia de arco.
 
 **Alcance:** todo personaje con ficha, nombre o presencia recurrente. Un extra incidental sin identidad ni trayectoria no recibe un arco artificial; si gana nombre, vínculo o responsabilidad, entra en este plan desde ese momento.

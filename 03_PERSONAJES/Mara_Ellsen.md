@@ -16,7 +16,7 @@
 - **En escena confirmada:** Asistió al Festival de la Cerveza de Aldoria compartiendo observaciones de seguridad con Lady Celene Arvaux y Maelis Dorne (`FESTIVAL DE LA CERVEZA.md`, líneas 4737–5091).
 - **Tratamiento:** Se dirige a superiores con respeto escueto y sin servilismo cortesano.
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Perímetros de Aldoria y rutas de acceso a los distritos centrales.
 - **Responsabilidad actual:** Rastreo preventivo de accesos no autorizados y vigilancia de caminos durante las semanas post-Festival.
@@ -76,3 +76,12 @@
 ## ADDENDUM — CIERRE DE MICROINTERACCIONES
 
 - Aparece en el Festival junto a Celene y Maelis; conserva función de observadora táctica y no se fusiona con Maelis (`FESTIVAL DE LA CERVEZA.md`, 4737–5091).
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` conservar memoria de suministros y campañas. `Ambición:` que la experiencia de las veteranas tenga lugar en decisiones actuales. `Vínculo:` Serath y antiguas compañeras. `Obstáculo / hito:` aconsejar sobre una operación sin volver al papel de subordinada.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

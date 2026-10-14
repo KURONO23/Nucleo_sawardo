@@ -1,6 +1,6 @@
 # Registro de nombres canonizados y variedad aldeoriana
 
-**Estado:** vigente desde 5 de Floris, Año 3.
+**Estado:** vigente desde 5 de Verdalia, Año 3.
 
 Este registro evita que el generador de personajes repita por inercia los mismos nombres. No cambia personajes existentes: las repeticiones antiguas se conservan y se etiquetan como colisiones intencionales o identidades separadas.
 
@@ -12,6 +12,9 @@ Antes de proponer otro personaje con estos nombres, exigir instrucción directa 
 - **Mara:** Mara Quill y Mara Ellsen son dos personas distintas ya canonizadas. No crear una tercera Mara por defecto.
 - **Darian:** Darian y Darian Holt son el mismo personaje por alias, no dos personajes nuevos.
 - **Maria/Martha, Elena/Suri, Take/Aysha:** conservar sus diferencias existentes y no usar esas parejas como plantilla automática de nombres.
+- **Elena Weissmann:** aprendiz de boticaria de 23 años y amiga de Liora; es una persona distinta de [[Elena]], madre de Suri, y de Elena Voss en Casa Ardel. Usar apellido cuando exista riesgo de confusión.
+- **Greta Hoffmann:** asistente comercial de 22 años y amiga de Liora. Su nombre provisional «Mara» quedó descartado por corrección autoral; jamás volver a llamarla Mara.
+- **Nadia Falkenberg:** música independiente de 24 años y amiga de Liora; no asignarle pertenencia automática a la Compañía Goran.
 
 ## Preflight de nombre propio
 

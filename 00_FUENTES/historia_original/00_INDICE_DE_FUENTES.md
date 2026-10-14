@@ -6,7 +6,7 @@
 
 - **Día 1 desde la llegada de Max:** 1 de Albor, Año 1.
 - **Día 472:** 17 de Lluvia, Año 2; esta equivalencia aparece expresamente en la fuente y encaja con el calendario de 365 días.
-- **4 de Floris, Año 3:** Día continuo 854, solo como equivalencia de control.
+- **1 de Lluvia, Año 3:** Día continuo 746; es el presente rector de la continuidad derivada.
 - Los números posteriores como `Día 588`, `Día 634` o `Día 656` pertenecen a un contador antiguo que quedó desplazado. No se usarán para nombrar ni ordenar fuentes nuevas.
 
 ## Orden de lectura
@@ -34,17 +34,19 @@ La repetición del 25 de Ámbar es un solapamiento de continuidad entre conversa
 ### Año 3
 
 1. Cerrar `AÑO_2/09_31_Noctalia_Año_2_a_01_Albor_Año_3.md`.
-2. `AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md`
-3. `AÑO_3/11_26_Bruma_Año_3.md`
-4. `AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md`
+2. `AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md`
+3. `AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`
+4. `AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md`
 
-El último archivo llegaba hasta el 4 de Floris aunque su nombre anterior terminaba en “3 de Floris”; el nombre nuevo refleja el contenido efectivo.
+Los tres archivos mensuales sustituyen los fragmentos anteriores. El tercero conserva el arco completo de Verdalia, incluido el cierre que alcanza el inicio del 1 de Lluvia dentro del texto; no debe reinterpretarse como Floris.
 
 ## Respaldo
 
 La copia comprimida anterior a esta organización está en:
 
 `_RESPALDOS/historia_original_antes_de_organizar.rar`
+
+Los fragmentos anteriores también permanecen en `_RESPALDOS/` solo para recuperación. No forman parte del orden activo de lectura ni deben cargarse junto con los archivos mensuales consolidados.
 
 ## Regla para fuentes futuras
 

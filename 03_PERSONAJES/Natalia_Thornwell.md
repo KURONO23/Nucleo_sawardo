@@ -15,9 +15,9 @@ Cerrar Esmeralda y medir impacto laboral del Festival a tres meses: candidatos, 
 ## FUENTES Y CORRECCIONES
 Fuente final: `00_FUENTES/historia_original/`, [[FINANZAS_CANON_VIGENTE]] y la cronología preservada abajo.
 
-> **Estado narrativo:** 5 de Floris, Año 3. Administradora General de Casa Gutiérrez; custodia caja, nómina, conciliaciones y el impacto laboral del Festival. Su interés mutuo con Kael sigue sin formalizar.
+> **Corte histórico de este bloque:** 5 de Verdalia, Año 3. Administradora General de Casa Gutiérrez; custodia caja, nómina, conciliaciones y el impacto laboral del Festival. Su interés mutuo con Kael sigue sin formalizar.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
 
 - Liquidez canónica conciliada: 905.905 oro; no reutilizar la cifra histórica 827.695 como presente.
 - Administra salarios de 800 oro mensuales para ella, Elise y Vivienne desde el 26 de Bruma, sin retroactividad.
@@ -35,9 +35,9 @@ Fuente final: `00_FUENTES/historia_original/`, [[FINANZAS_CANON_VIGENTE]] y la c
 - Confirmó que Cervecería Esmeralda es rentable y distribuye dividendos periódicos, pero rechazó inventar un dividendo mensual fijo.
 - Conserva pendientes la conciliación de Esmeralda y el resultado independiente del Festival Año 3.
 - Su autoridad financiera se vuelve además materia de la broma social «Natalia no me deja gastar porque somos pobres»; Natalia todavía no participó ni consintió esa campaña.
-- Fuente: `00_FUENTES/historia_original/AÑO_3/11_26_Bruma_Año_3.md`, líneas 1–470.
+- Fuente: `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`, líneas 1–470.
 
-### Año 3 — 1 a 3 de Floris
+### Año 3 — 1 a 3 de Verdalia
 
 - Comunicó formalmente a Elise y Vivienne la nueva nómina y explicó que el aumento no era retroactivo.
 - Se negó a aplicar 7.270 como si la nómina completa hubiera regido durante todo Bruma; el cierre debe prorratear el cambio iniciado el día 26.
@@ -124,13 +124,13 @@ Fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Añ
 - Cerró balances y mantuvo separadas las operaciones corrientes de las inversiones extraordinarias, para evitar confundir caja disponible con patrimonio o compromisos.
 - Llega a Gutiérrez Estate con **una carpeta** que contiene el cierre y la conciliación del periodo Albor–Bruma. La fuente termina antes de que Max la abra; su contenido detallado no debe inventarse.
 - El estado económico reconstruido y sus incertidumbres están en [[FINANZAS_CANON_VIGENTE]].
-- Su presencia en la escena del 26 de Bruma quedó confirmada. Para el presente del 4 de Floris, cualquier cifra posterior debe proceder de un cierre jugado o actualización canónica explícita; no inventar dividendos ni balance del Festival.
+- Su presencia en la escena del 26 de Bruma quedó confirmada. Para el presente del 4 de Verdalia, cualquier cifra posterior debe proceder de un cierre jugado o actualización canónica explícita; no inventar dividendos ni balance del Festival.
 
 ## MICROINTERACCIONES CONFIRMADAS
 
 - Durante teatro y Festival firma, organiza y trabaja sin buscar a Max; su administración es autonomía verificable (`Historia isekai 577-587...`, 10258–10266; `FESTIVAL DE LA CERVEZA.md`, 4929–5983).
 
-## ADDENDUM — 4–5 DE FLORIS, AÑO 3
+## ADDENDUM — 4–5 DE VERDALIA, AÑO 3
 
 Natalia participa en la inspección de calidad y costes de Esmeralda junto a Elise y Vivienne. No se añade un importe al lote rechazado ni se inventan dividendos posteriores.
 
@@ -140,3 +140,12 @@ Natalia participa en la inspección de calidad y costes de Esmeralda junto a Eli
 - La ausencia prolongada de Max confirmó que su función no era “ordenar sus papeles”: sostuvo operaciones, preservó liquidez y evitó que un éxito cultural se confundiera con caja libre.
 - El cierre de Bruma y el salario de 800 oro para Natalia, Elise y Vivienne cambian su relación con Max: puede aceptar reconocimiento sin dejar de corregirlo cuando confunde patrimonio, flujo y dinero disponible.
 - Influye en Elise y Vivienne al mantener un frente profesional compartido; influye en Max al obligarlo a aprender que delegar también significa respetar un no contable.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Mantuvo las operaciones de House Gutiérrez durante la ausencia de Max y preparó el cierre financiero del 1 de Lluvia. Debe presentar cifras verificables: no se inventan partidas, dividendos ni autorizaciones.
+- **Ruta autónoma vigente:** `Meta:` cerrar cuentas, separar fondos y medir empleo real del Festival. `Ambición:` convertir House Gutiérrez en una administración sostenible que pueda decir no. `Vínculo:` Elise, Vivienne y Leo forman un triángulo de decisiones propio. `Obstáculo / hito:` conciliar dividendos y contrataciones sin usar liquidez no confirmada.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

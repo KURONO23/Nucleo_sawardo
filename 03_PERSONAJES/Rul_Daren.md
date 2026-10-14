@@ -22,7 +22,7 @@
   - Clave de confirmación pactada: «La paloma está a salvo».
   - Ejecución: Cumplieron la entrega impecablemente durante la cena del Día 35. Rul y Daren reportaron con orgullo y sobriedad: *«La paloma está a salvo. Sin cola, sin preguntas raras, sin teatro»*.
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Calles y tabernas populares de Aldoria y Thornhaven.
 - **Responsabilidad actual:** Contactos externos de confianza para enlaces urbanos rápidos y distribución de recados comerciales menores.
@@ -157,3 +157,12 @@ No incorporarlos automáticamente a House Gutiérrez. Pueden aparecer como conta
 
 - Kira los identifica como aventureros de bajo rango que reutilizan material; Rul inspecciona un tablero torcido, negocia precio y ofrece transporte (`00_FUENTES/historia_original/AÑO_1/02_01_Bruma_a_18_Bruma_y_05_Solalto_a_09_Solalto_Año_1.md`, 15375–15510).
 - No se los incorpora automáticamente a House Gutiérrez: la relación nace de oficio y negociación externa.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Rul y Daren continúan como contactos urbanos con criterios propios: Rul prioriza cuentas, riesgo y acuerdos; Daren, negociación y lectura callejera. Su siguiente avance debe ocurrir mediante una entrega o disputa narrada, no por rumor convertido en éxito.
+- **Ruta autónoma vigente:** La ruta se conserva en la ficha canónica indicada; esta nota no genera hechos independientes.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

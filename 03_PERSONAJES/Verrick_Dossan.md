@@ -13,9 +13,9 @@
 - **Ritmo y vocabulario:** Medido, evasivo y comercial. Usa lenguaje neutro de contratos de transporte, fechas de flete y entregas de muestras. Evita nombres propios siempre que puede usar referencias funcionales.
 - **En tratos comerciales:** Murmura en esquinas de tabernas o patios de carga; verifica quién escucha antes de entregar un sobre.
 - **Reacción emocional confirmada:** Mantiene una frialdad pragmática; su aparente desinterés oculta una atención milimétrica a los detalles. No se compromete ideológicamente con ninguna causa.
-- **Voz en escena confirmada:** Instrucciones escuetas a mozos y recaderos en los almacenes cercanos a Casa Ardel (`00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md`).
+- **Voz en escena confirmada:** Instrucciones escuetas a mozos y recaderos en los almacenes cercanos a Casa Ardel (`00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md`).
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Distritos comerciales y almacenes periféricos de Aldoria.
 - **Responsabilidad actual:** Coordinación de rutas de mensajería compartimentada y enlaces de Casa Ardel con circuitos comerciales foráneos.
@@ -38,7 +38,7 @@
 - **Cambio:** Multiplicó los filtros de entrega para garantizar que ningún mensajero conozca la cadena completa.
 - **Conducta vigente:** Supervisa los envíos a distancia y cambia de puntos de entrega con regularidad.
 - **Influencia:** Dificulta el rastreo directo de la red, pero genera vulnerabilidades internas al perder el control absoluto de sus subordinados.
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md` y [[OPERACION_RAVENWOOD_ARDEL_VEYLAN]].
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md` y [[OPERACION_RAVENWOOD_ARDEL_VEYLAN]].
 
 ## 5. Relaciones vivas
 
@@ -57,14 +57,14 @@
 
 ## 7. Fuentes y correcciones
 
-- `00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md`
+- `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md`
 - [[OPERACION_RAVENWOOD_ARDEL_VEYLAN]]
 - [[AUDITORIA_LONGITUDINAL_DE_FUENTES]]
 - **Corrección autoral:** No fusionar con Corven Marr ni con Orren Halven; intermediario logístico autónomo.
 
 ---
 
-## Estado al 4 de Floris, Año 3
+## Estado al 4 de Verdalia, Año 3
 
 Verrick trabaja como intermediario de información, mensajeros y contactos comerciales alrededor de Casa Ardel. Su función demostrada es conectar personas y mover avisos; no se ha probado que controle el dinero.
 
@@ -82,4 +82,13 @@ No fijar su lealtad, rango, origen, riqueza ni conocimiento de la identidad de M
 
 ## Fuente
 
-`00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md`; [[OPERACION_RAVENWOOD_ARDEL_VEYLAN]].
+`00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md`; [[OPERACION_RAVENWOOD_ARDEL_VEYLAN]].
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Su cadena de mensajeros e instrucciones quedó expuesta como punto débil; conserva correspondencia potencialmente comprometedora y una relación fracturada con Corven. No se declara culpable final.
+- **Ruta autónoma vigente:** `Meta:` sostener mensajeros y circuitos comerciales. `Ambición:` convertirse en intermediario indispensable sin ser el sacrificable de nadie. `Vínculo:` Corven, Orren y proveedores. `Obstáculo / hito:` elegir qué ruta cortar tras una factura o marca anómala.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

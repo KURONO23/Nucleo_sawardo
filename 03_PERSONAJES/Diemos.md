@@ -16,3 +16,12 @@ Las menciones antiguas a Diemos fueron auditadas como material desplazado; no se
 Las apariciones de una voz mental en el tramo contaminado de la primera narración, y cualquier vínculo retroactivo con Max o Dragon Lord, proceden de una rama contaminada. No deben recuperarse como personaje, relación, conocimiento, poder ni hilo narrativo.
 
 Referencias de auditoría: `CONTR-049`, `CONTR-072`, `CONTR-136` en [[CONTRADICCIONES]].
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Permanece `NO_CANON`. No recibe crecimiento, rumores operativos ni reactivación narrativa.
+- **Ruta autónoma vigente:** La ruta se conserva en la ficha canónica indicada; esta nota no genera hechos independientes.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

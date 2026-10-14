@@ -31,7 +31,7 @@ El público exigió vivir aquello que había visto. Las pruebas fueron adaptadas
 ## Fuentes
 
 - `00_FUENTES/historia_original/FESTIVAL DE LA CERVEZA.md` — fuente primaria completa.
-- `00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md` — recepción internacional acto por acto.
+- `00_FUENTES/historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` — recepción internacional acto por acto.
 - [[LOS_CINCO_DEL_BARRIL]] y [[FESTIVAL_CERVEZA_HISTORIA_ANUAL]].
 
 ---
@@ -112,5 +112,5 @@ La obra permaneció en repertorio. El 19 de Bruma del Año 3 se repuso completa 
 
 - Génesis íntegra, guion, pruebas, reparto, ensayo y estreno: `00_FUENTES/historia_original/FESTIVAL DE LA CERVEZA.md`, especialmente encabezados alrededor de líneas 1693, 3236, 3690, 4605, 4715, 5493, 6107, 6995 y 7375.
 - Desarrollo paralelo y consecuencias: `00_FUENTES/historia_original/AÑO_1/04_09_Solalto_Año_1_a_25_Solalto_Año_2.md`, líneas aproximadas 135521–144124.
-- Reposición internacional acto por acto: `00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md`, desde el bloque cultural inicial y las escenas del 19 de Bruma hasta `EL TEATRO REAL`, alrededor de líneas 638–11214.
+- Reposición internacional acto por acto: `00_FUENTES/historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`, desde el bloque cultural inicial y las escenas del 19 de Bruma hasta `EL TEATRO REAL`, alrededor de líneas 638–11214.
 

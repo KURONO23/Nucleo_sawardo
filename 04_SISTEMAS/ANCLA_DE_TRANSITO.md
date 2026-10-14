@@ -19,8 +19,8 @@ Capacidad manifestada por [[Mika]] que preserva cierta **continuidad física y p
 
 ## Estado al 26 de Bruma, Año 3
 
-En el corte del 26 de Bruma la capacidad todavía no había sido sometida a prueba activa con G1-A. Las pruebas de mensajería del 1 de Floris demuestran terminales funcionales, pero no autorizan a atribuir a Ancla de Tránsito toda la arquitectura ni capacidades nuevas sin evidencia. Véase [[PROYECTO_G1_TERMINAL_REGIONAL]].
+En el corte del 26 de Bruma la capacidad todavía no había sido sometida a prueba activa con G1-A. Las pruebas de mensajería del 1 de Verdalia demuestran terminales funcionales, pero no autorizan a atribuir a Ancla de Tránsito toda la arquitectura ni capacidades nuevas sin evidencia. Véase [[PROYECTO_G1_TERMINAL_REGIONAL]].
 
 ## Fuente
 
-`00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md`
+`00_FUENTES/historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`

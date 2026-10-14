@@ -3,7 +3,7 @@
 ## Identidad estable
 Lady Seraphine Credence es matriarca de House Credence y figura de la nobleza comercial. Calculadora, implacable y protectora de privilegios textiles, fiscales y urbanos, es adversaria política de intereses independientes; los antecedentes que figuran como extensión pendiente no se elevan a fuente primaria sin cruce.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
 Su frente vigente es observar la cultura y redes comerciales que alteran incentivos en Aldoria. No se la vuelve aliada por haber reído o aprendido de *Austin Powers*.
 
 ## CRONOLOGÍA CANÓNICA
@@ -82,3 +82,12 @@ Tras el enlace matrimonial de Max y Serath (Día 260):
 - La humillación de la incursión a la finca fortalece su oposición política, pero la respuesta no se reduce a rabia: usa observadores, financia presión y trata de comprender qué está moviendo a comerciantes y público.
 - *Austin Powers* la obliga a reconocer que la comedia puede cambiar incentivos y reputaciones. Aprende de Milo, Vesper, Isola y Varel sin que eso la vuelva aliada ni borre sus objetivos de clase.
 - Su siguiente movimiento conserva ambigüedad moral: puede intentar usar ese aprendizaje contra el proyecto cultural de Max, Tobias y Elise, mientras estos siguen teniendo derecho a responder. Nada de ello se declara resuelto fuera de escena.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` absorber negocios vulnerables mediante presión fiscal y judicial. `Ambición:` ampliar el poder de House Credence. `Vínculo:` Tobias, Veinhardt y redes legales. `Obstáculo / hito:` una resistencia coordinada que le quite un objetivo sin cerrar su arco.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

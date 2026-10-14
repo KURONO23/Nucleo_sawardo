@@ -1,6 +1,6 @@
 # Aprendices del taller de Galwin — Ficha colectiva de continuidad
 
-## Estado al 4 de Floris, Año 3
+## Estado al 4 de Verdalia, Año 3
 
 Grupo de aprendices del taller de Galwin. La historia original confirma que Galwin forma aprendices, pero no fija todavía sus nombres individuales; esta ficha conserva ese límite y registra su crecimiento sin fabricar identidades.
 

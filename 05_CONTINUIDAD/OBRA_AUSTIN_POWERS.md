@@ -124,5 +124,5 @@ La compañía recibió solicitudes internacionales y preparó gira. Nilo siguió
 - Audiciones: misma fuente, 128034–130744 y 143834–149610.
 - Música y ensayos: misma fuente, 134866–144480 y 153739 en adelante.
 - Estreno del 25, sustitución y misterio: `00_FUENTES/historia_original/AÑO_2/07_25_Ambar_a_10_Noctalia_Año_2.md`, aproximadamente líneas 3687–8104.
-- Reposición recordada en Año 3: `00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md`, alrededor de 954–1574.
+- Reposición recordada en Año 3: `00_FUENTES/historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`, alrededor de 954–1574.
 

@@ -7,7 +7,7 @@ Garren es forjador de Thornhaven, especialista en runas y materiales de bestias.
 
 Usa imperativos cortos, precio claro y juicio técnico; se suaviza cuando respeta un material o cliente. No explica magia temporal que no conoce, aunque haya llamado a Max «Time Mage».
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
 Permanece en su forja de Thornhaven con interés en materiales monstruosos, sin encargo posterior confirmado.
 
 ## CRONOLOGÍA CANÓNICA
@@ -84,3 +84,12 @@ Fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Añ
 - El contrato por dagas y talones de wyvern le abre una oportunidad técnica, pero también un límite: reconocer valor y origen de un material no equivale a conocer la mecánica temporal de Max.
 - El interés por estudiar las piezas puede volverlo mejor forjador de materiales monstruosos si documenta pruebas, fallos y seguridad, en vez de prometer reproducciones imposibles.
 - Su siguiente avance autónomo es decidir qué aprendizaje comparte con otros artesanos y qué encargo rechaza por no poder garantizar su resultado. La etiqueta «Time Mage» permanece como conocimiento de origen no confirmado.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` perfeccionar la forja de materiales monstruosos y cuidar su reputación. `Ambición:` que su taller sea referencia técnica, no solo proveedor de dagas. `Vínculo:` clientes, aprendices y otros herreros de Thornhaven. `Obstáculo / hito:` comparar una pieza nueva con las dagas de Max sin depender de que Max vuelva a encargarle trabajo.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

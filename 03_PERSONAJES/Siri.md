@@ -20,7 +20,7 @@
 - **Tercera voz con Haruto y Liora:** Lejos de ser un estorbo, es la comentarista perspicaz que analiza los coqueteos de Liora (*«Está coqueteando contigo, Haruto»*) y empuja a su portador a madurar sin sobreprotegerlo.
 - **Fascinación por Aria:** Observa a la Undine ancestral con profunda admiración y respeto; Siri estudia cómo Aria trascendió su naturaleza para convertirse en una persona libre, llevando un diario de vivencias para construir su propia individualidad.
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Junto a Haruto Kazagami en Aldoria (interfaz y manifestación perimetral).
 - **Responsabilidad actual:** Soporte analítico para los proyectos editoriales y teatrales de Haruto; registro de datos culinarios y botánicos de Altea.
@@ -68,7 +68,7 @@
 ## 7. Fuentes y correcciones
 
 - `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`
-- [[CURRENT_STATE_5_FLORIS_AÑO3]]
+- [[CURRENT_STATE_5_VERDALIA_AÑO3]]
 - [[KNOWLEDGE]]
 - **Corrección autoral:** Entidad consciente en desarrollo; no reducir a software inerte.
 
@@ -95,3 +95,12 @@
 - Cálculo táctico y análisis de fallas en combate.
 - Proyección visual de datos y mapas.
 - Registro mnémico de recetas, técnicas y cronologías.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Acompañó a Haruto durante el entrenamiento de Adaptación y registró mejoras sin reducirse a interfaz de recompensas. Conserva identidad, memoria musical y derecho a disentir de la optimización.
+- **Ruta autónoma vigente:** `Meta:` asistir a Haruto sin convertir cada acción en optimización. `Ambición:` desarrollar una identidad y memoria propia que no dependa de utilidad. `Vínculo:` Haruto, Liora y el grupo. `Obstáculo / hito:` aceptar una decisión humana que no sea la más eficiente.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

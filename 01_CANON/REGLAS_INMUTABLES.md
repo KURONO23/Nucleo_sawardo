@@ -94,9 +94,9 @@ La evolución es válida únicamente cuando conserva continuidad psicológica de
 - G1-A es un terminal regional experimental, no un teléfono moderno completo.
 - La economía vigente se consulta en [[FINANZAS_CANON_VIGENTE]]; prohibido restaurar 827k como saldo presente.
 
-## 11. ADDENDUM HISTÓRICO — 4 DE FLORIS, AÑO 3
+## 11. ADDENDUM HISTÓRICO — 4 DE VERDALIA, AÑO 3
 
-- Histórico: el presente narrativo era el **4 de Floris, Año 3**; [[CURRENT_STATE_4_FLORIS_AÑO3]] queda conservado para consulta.
+- Histórico: el presente narrativo era el **4 de Verdalia, Año 3**; [[CURRENT_STATE_4_VERDALIA_AÑO3]] queda conservado para consulta.
 - El Festival de la Cerveza del Año 3 ya concluyó: **Aldoria ganó los Juegos del Barril** y **Dravenn/Casa Gravenholt ganó la Copa de Maestros**. Marevia conserva su doblete del Año 2 como resultado histórico, no como campeonato vigente.
 - G1 posee dos terminales funcionales limitados; no repetir la primera activación ni convertirlos en teléfonos o red pública.
 - Max opera como `Marcos` dentro de Casa Ardel. Mizuki investiga desde fuera y todavía no ha comparado informes con el equipo interno.
@@ -109,9 +109,9 @@ La evolución es válida únicamente cuando conserva continuidad psicológica de
 - Queda bloqueado asignar un apellido igual, homófono o visualmente confundible con otro del elenco activo, salvo instrucción directa del usuario.
 - Esta regla es prospectiva: no cambia ni borra apellidos ya canonizados.
 
-## 13. ADDENDUM VINCULANTE — 5 DE FLORIS, AÑO 3
+## 13. ADDENDUM VINCULANTE — 5 DE VERDALIA, AÑO 3 (fecha corregida)
 
-- El presente narrativo es [[CURRENT_STATE_5_FLORIS_AÑO3]]; el 4 de Floris queda como historial.
+- Este corte es histórico. El corte del 18 de Verdalia también es histórico; el presente narrativo es [[CURRENT_STATE_1_LLUVIA_AÑO3]].
 - Corven solo tiene un intento futuro de infiltración mediante proveedores, servicios o contratos plausibles; no se concede éxito automático.
 - Veylan/Averne es pista provisional; no identificar aún patrocinador final, V. Sable o Ravenwood.
 - Mantener dos terminales G1 certificados; Mizuki no recibe un tercero.

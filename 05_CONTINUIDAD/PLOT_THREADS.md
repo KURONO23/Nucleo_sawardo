@@ -26,7 +26,7 @@
 
 ## Hilos vigentes — mañana del 26 de Bruma, Año 3
 
-> Corte histórico desplazado por el 4 de Floris.
+> Corte histórico desplazado por el 4 de Verdalia.
 
 | Hilo | Estado | Siguiente decisión pendiente |
 |---|---|---|
@@ -43,13 +43,13 @@
 
 ---
 
-## Hilos vigentes — 4 de Floris, Año 3
+## Hilos vigentes — 4 de Verdalia, Año 3
 
 | Hilo | Estado | Siguiente paso exacto |
 |---|---|---|
 | Operación Marcos | ACTIVA | Mantener cobertura dentro de Casa Ardel y observar documentos, sellos y proveedores. |
 | Casa Veylan | PISTA REAL / IDENTIDAD FINAL ABIERTA | Comparar después del turno los hallazgos independientes de Marcos/Yuki y Mizuki. |
-| Corven contra Ravenwood | ACTIVO | Identificar financiador, objetivo final y papel real de Severin sin reaccionar prematuramente. |
+| Revisión Ravenwood | PENDIENTE DE RESOLUCIÓN | Revisión formal admitida; esperar el procedimiento dirigido por Yuki. No declarar victoria. |
 | Arco de Yuki/Marianne | ACTIVO Y AUTÓNOMO | Permitir que Yuki dirija su respuesta política y personal. |
 | Kael y Natalia | RECIPROCIDAD EN DESARROLLO | Darles un encuentro sin tarea laboral y una conversación directa dentro del próximo ciclo social; no dejar el vínculo en interés indefinido. |
 | Mizuki y Haruto | REPARACIÓN INICIADA | Conservar aceptación de disculpa sin convertirla en perdón completo. |
@@ -71,9 +71,9 @@
 
 ### Avances autónomos sembrados después del corte
 
-Los cumpleaños de Galwin, Aldric y Kenji ya fueron celebrados conforme a sus deseos. Además, Biro, Goran, Sayaka, Casa del Puente, Hwan-Rei, Yuki y un proveedor de Veylan avanzaron por cuenta propia. Estos avances no resuelven todavía los misterios mayores: están registrados en [[AVANCES_AUTONOMOS_AÑO3]].
+El cumpleaños de Galwin ya ocurrió. Los de Aldric y Kenji siguen futuros en Lluvia; los regalos entregados durante Verdalia no fueron celebraciones adelantadas. Biro, Goran, Sayaka, Casa del Puente, Hwan-Rei, Yuki y un proveedor de Veylan avanzaron por cuenta propia. Estos avances no resuelven todavía los misterios mayores: están registrados en [[AVANCES_AUTONOMOS_AÑO3]].
 
-## Hilos vigentes — 5 de Floris, Año 3 (delta RP)
+## Hilos vigentes — 5 de Verdalia, Año 3 (delta RP)
 
 | Hilo | Estado | Siguiente paso exacto |
 |---|---|---|
@@ -86,3 +86,17 @@ Los cumpleaños de Galwin, Aldric y Kenji ya fueron celebrados conforme a sus de
 | Gala de Vivienne | SEMILLA AUTÓNOMA | Evaluar fecha, invitados y presupuesto; todavía no hay evento aprobado. |
 | Biro y *Último barril* | ESCRITURA AUTÓNOMA | Depurar final sobrio; Goran asesora sin tomar autoría; no anunciar estreno. |
 | Esmeralda | CONTROL DE CALIDAD | Sayaka rechazó un lote defectuoso; Natalia/Elise/Vivienne inspeccionan sin inventar importe. |
+
+## Hilos vigentes — 1 de Lluvia, Año 3
+
+| Hilo | Estado | Siguiente paso exacto |
+|---|---|---|
+| Retorno de Max | `PRESENTE / CONTROL DEL JUGADOR` | Elegir dónde comienza la mañana y qué responde a Natalia, Serath y Aria. |
+| Frentes propios de Max | `AVANZADOS / VARIOS ABIERTOS` | Cerrar o redefinir Casa Ardel con Halven; revisar Ravenwood, Cecilia/Mizuki, G1/cámara histórica, Gremio/Kira y economía sin asumir decisiones. |
+| Cierre financiero | `PREPARADO / NO PRESENTADO` | Natalia expone cifras verificables; no inventar saldo ni inversiones. |
+| Ravenwood–Ardel | `ACTIVO / PENDIENTE` | Continuar contraste documental; no declarar victoria ni patrocinador final. |
+| Veylan / V. Sable | `INVESTIGACIONES SEPARADAS` | Seguir pistas con cadena de custodia; no fusionar identidades. |
+| Operación Tres Caminos | `APROBADA 1–14 LLUVIA` | Amane, Misa, Biro y Jasmine entrenan a Haruto, Ren y Leo sin requerir a Max. |
+| Solicitud del 15 de Lluvia | `PREVISTA` | Haruto, Ren y Leo pedirán entrenamiento avanzado; Max decide si acepta. |
+| G1 / Torre / Guardián Lítico | `DESARROLLO CONTROLADO` | Analizar R-01–R-03 y el kit B-01 sin activar ruinas ni pasar a G2. |
+| Relaciones jóvenes | `VIVAS / GRADUALES` | Haruto–Liora estable; Ren–Elena Weissmann y Leo–Greta Hoffmann evolucionan por escenas; Nadia Falkenberg conserva una ruta musical independiente. |

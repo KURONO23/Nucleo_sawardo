@@ -3,7 +3,7 @@
 ## Identidad estable
 Maeve Roth es archivista administrativa y enlace documental de Dravenn. Reservada, sobria y meticulosa, custodia registros históricos e informes de frontera. Su poder narrativo no está en combate: es saber qué documento prueba una verdad y cómo impedir que desaparezca.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
 Después de la crisis permanece como hilo institucional de Dravenn. No se afirma ubicación, decisión ni resolución posterior que la fuente no haya mostrado.
 
 ## CRONOLOGÍA CANÓNICA
@@ -40,3 +40,12 @@ Fuente directa: `00_FUENTES/historia_original/AÑO_2/05_26_Solalto_a_14_Ambar_A�
 # ADDENDUM — CIERRE DE MICROINTERACCIONES
 
 - La fuente la vincula a Dravenn y plantea su posición entre dirección y obediencia; queda como hilo institucional pendiente de nuevas escenas, no como resolución inventada (`00_FUENTES/historia_original/AÑO_2/05_26_Solalto_a_14_Ambar_Año_2.md`, 75654–75730).
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` conservar informes y pruebas de Dravenn. `Ambición:` que los archivos no vuelvan a desaparecer bajo intrigas. `Vínculo:` Astrid y archivistas. `Obstáculo / hito:` crear una copia segura con cadena de custodia.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

@@ -4,9 +4,10 @@
 
 ## Estado rector
 
-- [[05_CONTINUIDAD/CURRENT_STATE_5_FLORIS_AÑO3|Estado actual — 5 de Floris, Año 3]]
-- [[07_ROLEPLAY/DELTA-RP-4_5_FLORIS_A3_CHAT_2026-10-08|Delta RP 4–5 de Floris]]
-- [[05_CONTINUIDAD/CONOCIMIENTO_ADDENDUM_5_FLORIS_AÑO3|Conocimiento y límites del tramo]]
+- [[05_CONTINUIDAD/CURRENT_STATE_1_LLUVIA_AÑO3|Estado actual — 1 de Lluvia, Año 3]]
+- [[05_CONTINUIDAD/INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3|Integración Verdalia 19–1 Lluvia]]
+- [[05_CONTINUIDAD/CURRENT_STATE|Resumen operativo vigente]]
+- [[07_ROLEPLAY/DELTA-RP-4_5_VERDALIA_A3_CHAT_2026-10-08|Delta histórico 4–5 de Verdalia, conservado con nombre heredado]]
 - [[05_CONTINUIDAD/REGISTRO_DE_VIDA_AUTONOMA_Y_METAS_AÑO3|Vida autónoma del elenco]]
 - [[05_CONTINUIDAD/RUTA_OPTIMA_DE_CRECIMIENTO_DEL_ELENCO_AÑO3|Ruta óptima de crecimiento del elenco]]
 - [[05_CONTINUIDAD/PROTOCOLO_EVOLUCION_UNIVERSAL_ESTILO_ARIA_AÑO3|Protocolo universal de evolución — modelo Aria]]

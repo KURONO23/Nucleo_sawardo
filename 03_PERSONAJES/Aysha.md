@@ -17,7 +17,7 @@
   > «Tns descansa bien pz, no te mates tanto trabajando... después te enfermas y quién te cuida. Mañana comemos algo rico, ¿ya?»  
   — Recuerdo íntimo de los mensajes de apoyo de Aysha a Max.
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Tierra (Lima, Perú).
 - **Estado ontológico:** Permanece como el refugio de ternura y madurez ética en el corazón de Max en Altea.
@@ -56,3 +56,12 @@
 - [[MICROINTERACCIONES_PERSONAJES_A_I]]
 - [[TIMELINE]]
 - **Corrección autoral inviolable:** No es pareja de Take. Sin comunicación interdimensional.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` equilibrar Mitsui, locución y estudios. `Ambición:` construir una vida profesional creativa y estable. `Vínculo:` Take, Max y amistades de Lima. `Obstáculo / hito:` elegir una oportunidad sin dejar que la amistad decida por ella.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

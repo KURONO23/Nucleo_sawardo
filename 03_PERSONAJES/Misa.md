@@ -17,7 +17,7 @@
   > «No te esfuerces más de la cuenta... déjame revisar esas heridas primero. Descansa, que ya estamos a salvo.»  
   — Misa atendiendo a sus compañeros tras un combate exigente.
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Gutiérrez Estate y enlaces con Los Ventura en Thornhaven y Aldoria.
 - **Responsabilidad actual:** Jefa de soporte médico del grupo, desarrollo de protocolos de atención sanitaria de campo y boticaria de la hacienda.
@@ -65,7 +65,7 @@
 ## 7. Fuentes y correcciones
 
 - `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`
-- [[CURRENT_STATE_5_FLORIS_AÑO3]]
+- [[CURRENT_STATE_5_VERDALIA_AÑO3]]
 - [[MICROINTERACCIONES_PERSONAJES_A_I]]
 - **Corrección autoral:** Capa roja oficial; sanadora de rango S. No adjudicar romance sin escenas recíprocas.
 
@@ -82,3 +82,12 @@ Cabello rubio largo, ojos verdes y capa roja; referencia visual oficial priorita
 ## PERSONALIDAD
 
 Se acerca con cautela compasiva a Max, atiende su estado físico, ofrece alimento y descanso, y adopta una postura protectora ante incertidumbre (fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Diseñó el seguimiento médico, nutricional y de recuperación de Operación Tres Caminos, limitó impactos y cargas y abrió una cooperación herbolaria con Elena Weissmann. Su autoridad nace del criterio preventivo, no solo de la potencia curativa.
+- **Ruta autónoma vigente:** `Meta:` sostener el seguimiento médico de los supervivientes y un protocolo de atención de campo. `Ambición:` ser autoridad médica reconocida por criterio y compasión, no solo por potencia curativa. `Vínculo:` Jasmine, Torin, Amane y las comunidades atendidas. `Obstáculo / hito:` transformar prácticas de Sawardo en procedimiento seguro; sus curaciones extremas siguen limitadas.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

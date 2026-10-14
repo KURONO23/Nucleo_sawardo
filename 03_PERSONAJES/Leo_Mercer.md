@@ -3,7 +3,7 @@
 ## Identidad estable
 Leo Mercer es reencarnado contemporáneo y portador de 《Quest Log》. Meticuloso y estructurado, trabaja como coordinador de rutas en Natalia Logistics y documentalista del Proyecto Vaelor. Su crecimiento consiste en usar la interfaz como información, no como autoridad sobre su deseo ni sobre los riesgos de otros.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
 Organiza fases, responsables, riesgos y documentación de G1-A sin autoridad arcana ni permiso para activarlo. La salida con Ren y Haruto está planteada como aprendizaje de campo, no consumada.
 
 ## CRONOLOGÍA CANÓNICA
@@ -68,7 +68,7 @@ Leo empieza a evolucionar **Quest Log** sin permitir que la interfaz vuelva a go
 
 El sistema no obtiene omnisciencia, no conoce todos los pasillos y no puede ordenar a Max ni a sus compañeros. Leo se convierte poco a poco en coordinador de expediciones, no en ejecutor de ventanas emergentes. El primer registro de campo quedará incompleto a propósito hasta que la misión ocurra.
 
-## ADDENDUM — 5 DE FLORIS, AÑO 3
+## ADDENDUM — 5 DE VERDALIA, AÑO 3
 
 Leo mantiene Quest Log en fase de diseño verificable. La primera misión con Ren y Haruto aún no ha producido resultados, evidencias ni recompensas.
 
@@ -78,3 +78,12 @@ Leo mantiene Quest Log en fase de diseño verificable. La primera misión con Re
 - El descubrimiento de nodos, los protocolos de Daichi y las mediciones de Mika establecen el límite de Quest Log: puede ordenar información y sugerir objetivos, pero no posee autoridad científica ni moral sobre el grupo.
 - La futura misión con Ren y Haruto es su primer ensayo como coordinador humano. El objetivo no es acumular recompensas, sino aprender a declarar una misión incompleta, rechazar una tarea lateral y volver con pruebas.
 - Su avance depende de escuchar discrepancias: Haruto protege a las personas, Ren conoce sus propios límites y Leo garantiza que la decisión final quede legible, no que el sistema tenga la última palabra.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Alcanzó nivel 20, convirtió Quest Log en una ayuda que admite evidencia y retirada y empezó a aprender movilidad y defensa de Jasmine y Biro. Con Greta aprende a disfrutar sin convertir cada encuentro en tarea; su cercanía sigue abierta.
+- **Ruta autónoma vigente:** `Meta:` evolucionar Quest Log con objetivos sugeridos, evidencia y retirada. `Ambición:` coordinar expediciones sin obedecer una interfaz ciegamente. `Vínculo:` Natalia, Ren, Haruto y Liora. `Obstáculo / hito:` rechazar una misión lateral atractiva para proteger al equipo.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

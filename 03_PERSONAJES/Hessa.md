@@ -36,7 +36,7 @@
     > *«¡TERCEROS!»*
     > *«¡EL PRÓXIMO AÑO PRIMEROS!»* —alzando su copa de bronce como si hubiera conquistado un imperio.
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Minas Quebradas (concluyendo el traslado de la delegación desde Aldoria).
 - **Responsabilidad actual:** Regreso triunfal a su taberna El Pico Roto, organización de los festejos locales y reanudación del suministro de cerveza para los turnos mineros.
@@ -62,7 +62,7 @@
 - **Cambio:** Comprendió que la identidad obrera de Minas Quebradas no tiene nada que envidiar a las cortes patricias; transformó la visibilidad en poder comunitario.
 - **Conducta vigente:** Actúa con la seguridad de quien posee un producto galardonado internacionalmente sin perder un ápice de su llaneza ni de su voz de taberna.
 - **Influencia:** Inspiró a los trabajadores de las minas, afianzó el liderazgo de Kazuki y se ganó el respeto incondicional de Max y de los jueces de Aldoria.
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md` y [[FESTIVAL_CERVEZA_HISTORIA_ANUAL]].
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` y [[FESTIVAL_CERVEZA_HISTORIA_ANUAL]].
 
 ## 5. Relaciones vivas
 
@@ -82,8 +82,17 @@
 ## 7. Fuentes y correcciones
 
 - `00_FUENTES/historia_original/AÑO_2/09_31_Noctalia_Año_2_a_01_Albor_Año_3.md`, líneas 14360–14980.
-- `00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md`, líneas 2380–2500, 14980–15470.
+- `00_FUENTES/historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`, líneas 2380–2500, 14980–15470.
 - [[FESTIVAL_CERVEZA_HISTORIA_ANUAL]]
 - [[REGISTRO_FESTIVAL_CERVEZA_JUECES_Y_GANADORES]]
 - [[MICROINTERACCIONES_PERSONAJES_A_I]]
 - **Corrección autoral:** Dueña de El Pico Roto; ella cargó a Kazuki en la Prueba de Afrodita por fuerza física. Vínculo no formalizado como romance.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` organizar logística y representación de Minas Quebradas. `Ambición:` que la comunidad negocie sin depender del prestigio de Kazuki. `Vínculo:` Kazuki, mineros y delegaciones. `Obstáculo / hito:` fijar un protocolo de retorno y mantenimiento.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

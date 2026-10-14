@@ -6,7 +6,7 @@
 
 1. [[REGLAS_INMUTABLES]]: autoridad, control de Max y exclusiones.
 2. [[CURRENT_STATE]].
-3. [[STYLE]], [[AGENT_REGISTRY]] y [[ACTIVACION_SELECTIVA]].
+3. [[07_ROLEPLAY/ESTILO_DE_NARRACION_Y_VOZ|Estilo de narración y voz]] y [[06_AGENTES/AGENT_REGISTRY|Registro de agentes]]; activar solo los agentes pertinentes a la escena.
 4. Fichas de personajes presentes.
 5. Filas relevantes de [[RELATIONSHIPS]] y [[KNOWLEDGE]].
 6. Los últimos acontecimientos necesarios de [[TIMELINE]].

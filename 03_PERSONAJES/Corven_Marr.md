@@ -7,12 +7,12 @@ Corven Marr es observador político de identidad, presión y sistemas de control
 
 Habla y actúa mediante preguntas, pruebas y presión indirecta. Lee reacciones, no proclama certezas; su error posible es reducir a Max a hambre de poder e ignorar libertad, afecto y curiosidad.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
 Provoca respuestas medibles en Ravenwood junto a Verrick, Orren y Severin. Sabe que Veylan está en el circuito, pero no conoce al patrocinador final ni está probado que identifique a Marcos como Max.
 
 ## CRONOLOGÍA CANÓNICA
 - Año 2: observa *Austin Powers* como lectura de cambio de tono y reacción colectiva.
-- 1–4 de Floris: cambia de observación pasiva a presión, dependencias, rumores, intermediarios y financiación por capas.
+- 1–4 de Verdalia: cambia de observación pasiva a presión, dependencias, rumores, intermediarios y financiación por capas.
 
 ## EVOLUCIÓN CAUSAL
 La cultura le muestra que el significado también organiza poder; Ravenwood lo lleva a probar qué se considera intolerable. La investigación sigue siendo peligrosa, no una resolución.
@@ -28,7 +28,7 @@ Preparar infiltración plausible mediante proveedor o contrato, sin canonizar en
 ## FUENTES Y CORRECCIONES
 Fuentes: `00_FUENTES/historia_original/AÑO_2/06_15_Ambar_a_25_Ambar_Año_2.md`, `AÑO_2/05_26_Solalto_a_14_Ambar_Año_2.md` y [[OPERACION_RAVENWOOD_ARDEL_VEYLAN]].
 
-## ADENDA — OPERACIÓN RAVENWOOD, 1–4 DE FLORIS, AÑO 3
+## ADENDA — OPERACIÓN RAVENWOOD, 1–4 DE VERDALIA, AÑO 3
 
 - Dejó la observación pasiva y comenzó a provocar respuestas medibles alrededor de Ravenwood.
 - Trabaja con Verrick Dossan, Orren Halven y Severin Ardel desde Casa Ardel.
@@ -57,7 +57,16 @@ Sus 34 apariciones nominales muestran continuidad suficiente para ficha individu
 - `00_FUENTES/historia_original/AÑO_2/06_15_Ambar_a_25_Ambar_Año_2.md`, POV y observación durante *Austin Powers*.
 - `00_FUENTES/historia_original/AÑO_2/05_26_Solalto_a_14_Ambar_Año_2.md`, bloque de frentes activos alrededor de líneas 212600–213115.
 
-## ADDENDUM — 5 DE FLORIS, AÑO 3
+## ADDENDUM — 5 DE VERDALIA, AÑO 3
 
 Por orden directo del usuario, Corven prepara un intento de infiltración de Gutiérrez Estate mediante un proveedor, servicio o contrato plausible. Solo existe la intención/semilla: no se canoniza entrada, éxito, captura, reconocimiento de Marcos ni detección automática.
 
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Aumentó la presión documental sobre Ravenwood y quedó fracturado con Verrick. Continúa activo, pero no se le atribuye todavía patrocinio final, culpabilidad total ni control omnisciente.
+- **Ruta autónoma vigente:** `Meta:` medir respuestas de Ravenwood y conservar control de intermediarios. `Ambición:` que la red sobreviva sin que él quede expuesto. `Vínculo:` Verrick, Casa Ardel y patrocinador desconocido. `Obstáculo / hito:` reaccionar a una señal sin revelar el objetivo final.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

@@ -3,7 +3,7 @@
 ## Identidad estable
 Mika es llegada de otro mundo, investigadora de campo de la Corona y especialista en mapeo de nodos y artefactos. Directa, práctica y leal, aporta experiencia previa de archivo universitario. Tiene Ancla de Tránsito y Resonancia de Nodo limitadas: ninguna permite abrir, gobernar o reprogramar una red por sí sola.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
 Integra el equipo requerido de G1 y trabaja con mapas, registro y validación de respuestas antiguas. La activación de G1-A histórica no fue autorizada en Bruma; las pruebas posteriores no le atribuyen presencia sin escena.
 
 ## CRONOLOGÍA CANÓNICA
@@ -60,7 +60,7 @@ La fuente original, [[RESONANCIA_DE_NODO]] y las citas de esta ficha tienen prio
 
 ## EVOLUCIÓN AUTÓNOMA — PROTOCOLO DE RUINAS Y PUENTE HACIA G2
 
-Desde el 4 de Floris, Mika deja de ser solo la persona que “sabe leer mapas”. Diseña un protocolo de campo para que una observación pueda repetirse sin depender de su intuición:
+Desde el 4 de Verdalia, Mika deja de ser solo la persona que “sabe leer mapas”. Diseña un protocolo de campo para que una observación pueda repetirse sin depender de su intuición:
 
 - prepara una **hoja de calibración** para cada visita (hora, estado del nodo, respuesta percibida, testigo independiente y retirada);
 - clasifica las ruinas como activas, pasivas, repetidoras, desconocidas o prohibidas y registra también los falsos positivos;
@@ -75,3 +75,12 @@ Su primera mejora tendrá un coste: un falso positivo obligará al equipo a repe
 - La Torre, la Aguja Muerta y la Red de Nodos convierten su talento de orientación en una responsabilidad reproducible. Ya no basta con que Mika perciba una anomalía; debe dejar un registro que otro pueda comprobar.
 - El trabajo con Kazuki, Ren y Daichi le enseñó que los llegados no son una sola categoría. Su Resonancia de Nodo es una pista limitada dentro de un equipo, no una llave universal.
 - G2 representa su ambición profesional: traducir ruinas en infraestructura útil sin forzar compatibilidades, ocultar fallos o adelantarse a G1.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Conservó calibraciones, falsos positivos, versiones e historial de pruebas de G1. Su avance es metodológico: una medición que retrasa una conclusión vale más que una certeza inventada.
+- **Ruta autónoma vigente:** `Meta:` calibrar ruinas y distinguir Resonancia de Nodo de falso positivo. `Ambición:` crear una memoria técnica reproducible para G1 y G2. `Vínculo:` Daichi y Ren, además de Hwan-Rei. `Obstáculo / hito:` repetir una medición que retrase una entrega.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

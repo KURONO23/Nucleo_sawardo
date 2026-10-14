@@ -15,7 +15,7 @@
 - **Humor y reacciones:** Humor sombrío y seco, forjado tras haber sobrevivido a tragedias en las que vio perecer a camaradas. Reacciona favorablemente ante quienes escuchan con respeto y pagan una ronda honesta.
 - **En escena confirmada (The Cracked Shield):** En la taberna *The Cracked Shield* de Thornhaven, tras recibir una jarra de cerveza de manos de Max y Jasmine, comparte información vital sobre los patrones de caza de los wyverns acorazados de Blackpeak, advirtiendo sobre el líder de la bandada y recordando que de su propia expedición de cuatro solo regresaron tres (`00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Tabernas y refugios de avanzada entre Thornhaven y las estribaciones de Blackpeak.
 - **Responsabilidad actual:** Asesora libre de expediciones de alta montaña y cartografía de cordilleras para el Gremio de Aventureros.
@@ -104,3 +104,12 @@ Las menciones antiguas al nombre «Kael» que correspondían a esta exploradora 
 ## FUENTE
 
 Ficha anterior `03_PERSONAJES/Kael_Exploradora_Blackpeak.md`; fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` mantener la identidad diferenciada de su archivo y sus expediciones. `Ambición:` mapear una zona que no dependa del relato de Max. `Vínculo:` equipos de exploración y Blackpeak. `Obstáculo / hito:` separar sus datos de las menciones antiguas ambiguas y sostener una ruta propia.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

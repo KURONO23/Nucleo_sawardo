@@ -3,7 +3,7 @@
 ## 1. Identidad estable
 
 - **Nombre:** Kenji Gutiérrez.
-- **Edad / Cumpleaños:** **17 años** (cumplidos el 26 de Lluvia, Año 3).
+- **Edad / Cumpleaños:** **16 años**; cumplirá 17 el 26 de Lluvia, Año 3.
 - **Origen:** Imperio de Zhong-Kyo.
 - **Familia:** Hermano biológico menor de Ryu; adoptado legal y afectivamente por Max Josemar Gutiérrez como hermano menor y pilar de Casa Gutiérrez.
 - **Rango Gremial:** **Clase A Alta (Oficial del Gremio)**; pícaro–artífice táctico, maestro de dagas y cocinero en formación bajo la tutela de Max.
@@ -19,7 +19,7 @@
   > «No pelea contra la fuerza del rival... la reutiliza, desvía el ángulo y hace que el enemigo tropiece con su propio peso. Muy limpio.»  
   — Serath Vale y Aria observando a Kenji en su examen oficial (Día 426).
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Estado histórico — 18 de Verdalia, Año 3
 
 - **Ubicación:** Tornhaven / Pequeño Zhong-Kyo (Casa Puente y La Bruma Azul).
 - **Responsabilidad actual:** Cogestor de Casa Puente, anfitrión culinario del enclave y artífice de herramientas de precisión.
@@ -37,8 +37,8 @@
 - Noche de Luminarias (Día 654): Recibe de Max su estuche grabado de cuchillos profesionales.
 
 ### Año 3 (Lluvia a Floris)
-- 26 de Lluvia: Cumpleaños número 17; elige cocinar para su familia y la comunidad en lugar de pedir regalos.
-- 3 de Floris: Recibe a Max, Aria y Mizuki en Pequeño Zhong-Kyo como enlace cultural y anfitrión.
+- 26 de Lluvia, Año 3 — `FUTURO`: cumplirá 17. No fijar todavía celebración, menú ni decisión personal fuera de escena.
+- 3 de Verdalia: Recibe a Max, Aria y Mizuki en Pequeño Zhong-Kyo como enlace cultural y anfitrión.
 
 ## 4. Evolución causal
 
@@ -48,7 +48,7 @@
 - **Cambio:** Asumió su propia voz: entendió que la cocina es un puente cultural tan poderoso como una espada.
 - **Conducta vigente:** Dirige fogones, enseña a aprendices de la comunidad y fusiona técnicas de Zhong-Kyo con sazones peruanas.
 - **Influencia:** Es el corazón hospitalario de Pequeño Zhong-Kyo y orgullo fraterno de Max y Ryu.
-- **Fuente:** `00_FUENTES/historia_original/AÑO_2/08_11_Noctalia_a_30_Noctalia_Año_2.md` y `AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_2/08_11_Noctalia_a_30_Noctalia_Año_2.md` y `AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` y `AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md`.
 
 ## 5. Relaciones vivas
 
@@ -69,10 +69,10 @@
 ## 7. Fuentes y correcciones
 
 - `00_FUENTES/historia_original/AÑO_2/08_11_Noctalia_a_30_Noctalia_Año_2.md`
-- `00_FUENTES/historia_original/AÑO_3/12_26_Bruma_a_04_Floris_Año_3.md`
-- [[CURRENT_STATE_5_FLORIS_AÑO3]]
+- `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md`
+- [[CURRENT_STATE_5_VERDALIA_AÑO3]]
 - [[CALENDARIO_CUMPLEANOS_CIRCULO_DE_MAX]]
-- **Corrección autoral:** 17 años confirmados (26 de Lluvia). Rango Oficial Clase A Alta.
+- **Corrección autoral:** 16 años al 18 de Verdalia; cumple 17 el 26 de Lluvia. Rango Oficial Clase A Alta.
 
 ---
 
@@ -83,7 +83,7 @@
 - Al atravesar esta fecha pasa de **16 a 17 años**.
 - La celebración fue autónoma y ocurrió fuera de una escena jugada por Max; no se atribuyen diálogos específicos no documentados.
 
-## ADENDA — PEQUEÑO ZHONG-KYO, 3 DE FLORIS, AÑO 3
+## ADENDA — PEQUEÑO ZHONG-KYO, 3 DE VERDALIA, AÑO 3
 
 - Recibe a Max, Aria y Mizuki como enlace familiar y comunitario, no como guía subordinado.
 - Ayuda a reconocer una versión local del takoyaki y conecta ingredientes, memoria y práctica culinaria.
@@ -93,7 +93,7 @@
 
 ## ADDENDUM DE EDAD — 26 DE BRUMA, AÑO 3
 
-- Edad vigente confirmada: **17 años** tras su cumpleaños del 26 de Lluvia, Año 3.
+- Edad vigente confirmada: **16 años**; el cumpleaños del 26 de Lluvia, Año 3, todavía no ocurre.
 
 > **«No pelea contra la fuerza del rival... la reutiliza, desvía el ángulo y hace que el enemigo tropiece con su propio peso. Muy limpio.»**  
 > — Serath Vale y Aria observando a Kenji en su examen oficial (Día 426)
@@ -103,7 +103,7 @@
 ## 1. IDENTIDAD Y PERFIL
 
 - **Nombre:** Kenji Gutiérrez.
-- **Edad histórica:** 16 años (en el Día 654, Año 2). **Edad actual al 4 de Floris, Año 3: 17 años.**
+- **Edad histórica y vigente:** 16 años desde el Día 654 hasta el 18 de Verdalia, Año 3.
 - **Origen:** Imperio de Zhong-Kyo.
 - **Familia:** Hermano biológico menor de Ryu; adoptado legal y afectivamente por Max Josemar Gutiérrez como hermano menor y heredero de la Casa Gutiérrez.
 - **Residencia:** Alterna entre Gutiérrez Estate (Aldoria) y la Finca Velthris / Pequeño Zhong-Kyo (Tornhaven).
@@ -146,3 +146,20 @@
 5. **Consolidación Culinaria y la Noche de Luminarias (Día 654 — Año 2):**
    - Desarrolló una pasión auténtica por la cocina bajo la tutela de Max, dominando las recetas peruanas y la marisquería vinculada a La Bruma Azul.
    - En la Noche de Luminarias, recibió de Max su **estuche profesional de cuchillos de chef de alta forja**, grabado con la placa: **KENJI GUTIÉRREZ**.
+
+
+## ADENDA — VISITA FRATERNAL EN THORNHAVEN (8 DE VERDALIA, AÑO 3)
+
+- **El reencuentro con Max:** El 8 de Verdalia recibió la visita de su hermano mayor Max en Thornhaven.
+- **El regalo culinario:** Max le llevó un set especial de especias selectas e implementos para su taller gastronómico en Pequeño Zhong-Kyo.
+- **Cocina comunitaria:** Cocinaron juntos, compartieron risas con Ryu y reafirmaron el lazo protector de los tres hermanos Gutiérrez.
+- **Calendario de cumpleaños:** Su cumpleaños canónico oficial permanece en el mes de **Lluvia (26 de Lluvia)**.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Continuó cocina híbrida, formación comunitaria y transmisión de técnicas en Casa del Puente. Su cumpleaños permanece el 26 de Lluvia y no se adelanta.
+- **Ruta autónoma vigente:** `Meta:` desarrollar cocina híbrida y formar a quien pidió aprender en Casa del Puente. `Ambición:` ser maestro cocinero y creador de recetas propias, no una copia de la cocina de Max. `Vínculo:` Ryu, Hwan-Rei y Pequeño Zhong-Kyo. `Obstáculo / hito:` convertir el cuaderno de recetas en práctica enseñable sin perder identidad cultural.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

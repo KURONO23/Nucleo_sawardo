@@ -15,7 +15,7 @@
 - **En intimidad / con la familia y trabajadores:** Acogedora. Ofrece té caliente o caldo reconfortante a quienes llegan cansados del viaje; comprende las tensiones de la casa y cuida el bienestar emocional del personal.
 - **Voz en escena confirmada:** Conversa con Oskar en los preparativos de los banquetes, verificando que los ingredientes especiales traídos por Max se traten con la reverencia debida.
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Despensa y cocina de Casa Gutiérrez en Thornhaven.
 - **Responsabilidad actual:** Gestión integral de provisiones de la finca, coordinación de compras con el equipo de Natalia Thornwell y supervisión del personal de servicio.
@@ -93,3 +93,12 @@
 - Adaptar recetas de taberna a banquetes de hacienda les enseñó a estructurar brigadas de cocina y organizar suministros a gran escala.
 - No dependen de que Max esté presente en la cocina para mantener el estándar: comprenden los fundamentos de sabor, tiempo y temperatura.
 - Su crecimiento autónomo fortalece la estabilidad interna de Casa Gutiérrez.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` mantener servicio y descanso de trabajadores y aventureros. `Ambición:` convertir la hospitalidad en oficio reconocido. `Vínculo:` Oskar, Maria y Martha. `Obstáculo / hito:` resolver un conflicto de clientes sin pedir que Max intervenga.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

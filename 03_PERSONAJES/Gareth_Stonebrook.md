@@ -16,7 +16,7 @@
 - **Comportamiento en escena confirmado:** Fue uno de los primeros en observar el estilo de combate de Max y reconocer que no era esgrima de academia, sino un método letal y eficiente de supervivencia real, prediciendo tempranamente que Max superaría el rango A.
 - **Agencia económica propia:** Sirve productos de hornos nuevos y usa el recalzado de ruedas como argumento comercial propio; sabe de logística y costes reales de transporte.
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Tabernas del Gremio en Thornhaven y Aldoria.
 - **Responsabilidad actual:** Asesor de expediciones veteranas, participante en el circuito logístico de transporte y apoyo moral a los fondos de retiro de veteranos.
@@ -95,3 +95,12 @@ Gareth sirve productos de hornos nuevos y usa el recalzado de ruedas como argume
 
 - **Identidad:** Espadachín y explorador con más de treinta años ininterrumpidos de servicio en el Gremio de Aventureros.
 - **Hito:** Fue uno de los primeros en observar el estilo de combate de Max y reconocer que no utilizaba esgrima formal de academia, sino un método letal y eficiente de supervivencia real, prediciendo que Max superaría el rango A en tiempo récord.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` mantener misiones de rango B y experiencia táctica. `Ambición:` convertirse en instructor confiable para aventureros jóvenes. `Vínculo:` Marcus, Lyra y Biro. `Obstáculo / hito:` organizar una práctica sin depender del grupo principal.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

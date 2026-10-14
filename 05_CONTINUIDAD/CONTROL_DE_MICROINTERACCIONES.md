@@ -38,7 +38,7 @@ Estos conteos son señales de búsqueda, no número final de eventos: una secci�
 | `00_FUENTES/historia_original/AÑO_2/07_25_Ambar_a_10_Noctalia_Año_2.md` | 39 | 19 | 5 |
 | `00_FUENTES/historia_original/AÑO_2/08_11_Noctalia_a_30_Noctalia_Año_2.md` | 39 | 11 | 2 |
 | `00_FUENTES/historia_original/AÑO_2/09_31_Noctalia_Año_2_a_01_Albor_Año_3.md` | 16 | 3 | 1 |
-| `00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md` | 32 | 20 | 13 |
+| `00_FUENTES/historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` | 32 | 20 | 13 |
 
 ## Distribución de fichas
 
@@ -89,7 +89,7 @@ La reauditoría cruzada detectó cuatro personas recurrentes sin ficha. Se crear
 
 ### Fuente nueva posterior
 
-Después de aquella comprobación se añadió una duodécima fuente: `00_FUENTES/historia_original/AÑO_3/11_26_Bruma_Año_3.md`. Sus microinteracciones financieras y sociales fueron integradas mediante [[DELTA-RP-027_26_BRUMA_CARPETA_Y_OPERACION_SOMOS_POBRES]] y adendas a Max, Natalia, Elise, Vivienne, Aria y Serath. Posteriormente se añadió una decimotercera fuente que alcanza el 4 de Floris; su primera pasada está en [[DELTA-RP-028_26_BRUMA_A_4_FLORIS_AÑO3]]. Los conteos históricos anteriores se conservan como fotografías fechadas.
+Después de aquella comprobación se añadió una duodécima fuente: `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`. Sus microinteracciones financieras y sociales fueron integradas mediante [[DELTA-RP-027_26_BRUMA_CARPETA_Y_OPERACION_SOMOS_POBRES]] y adendas a Max, Natalia, Elise, Vivienne, Aria y Serath. Posteriormente se añadió una decimotercera fuente que alcanza el 4 de Verdalia; su primera pasada está en [[DELTA-RP-028_26_BRUMA_A_4_VERDALIA_AÑO3]]. Los conteos históricos anteriores se conservan como fotografías fechadas.
 
 Esto no autoriza a perder futuros detalles: cuando una relectura encuentre otra reacción, frase, objeto, rumor o consecuencia, debe añadirse a la ficha y al anexo correspondiente. La memoria del simulador permanece acumulativa.
 

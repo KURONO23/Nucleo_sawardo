@@ -25,7 +25,7 @@
 
 ## Cierre de Noctalia, Año 2
 
-- Ingresos recurrentes atribuidos históricamente: Thornhaven 2.870; Dragón de Oro 4.000; Editorial Estrella Verde 750; participaciones mercantes 1.350; total 8.970.
+- Ingresos recurrentes atribuidos históricamente: bloque Thornhaven 2.870 (alcance interno no desglosado); Dragón de Oro/Aldoria 4.000; Editorial Estrella Verde 750; participaciones mercantes 1.350; total 8.970. La fuente confirma dos sedes del Dragón de Oro, pero no demuestra que los 2.870 sean exclusivamente su sede de Thornhaven.
 - Contrato de Galwin: −500; flujo libre: 8.470.
 - Proyecto Vaelor: −180.
 - Operación Luminarias: −2.800.
@@ -52,6 +52,7 @@ Esta tasación no debe arrastrarse como patrimonio actual sin revalorar empresas
 - Antes del 26 de Bruma: 400 oro/mes para Natalia, Elise y Vivienne.
 - Desde el 26 de Bruma: 800 oro/mes para cada una, sin retroactividad.
 - El flujo libre estructural pasa de 8.470 a 7.270 oro/mes bajo la nómina completa.
+- La Cervecería Esmeralda genera dividendos periódicos variables; no existe importe mensual fijo ni acumulado conciliado en este historial.
 
 ## Blackpeak y origen patrimonial
 

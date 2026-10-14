@@ -16,7 +16,7 @@
   > «¡Uyyy nooo, me quedé dormida sobre la peluca xD! Si no termino la costura hoy mi costurera me cuelga jejeje... ya fue la xamba.»  
   — Recuerdo vivo de las anécdotas y chats de Grace.
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Tierra (Lima, Perú).
 - **Estado ontológico:** Conservada como chispa de alegría y nostalgia pop en el corazón de Max.
@@ -53,3 +53,12 @@
 - [[MICROINTERACCIONES_PERSONAJES_A_I]]
 - [[TIMELINE]]
 - **Corrección autoral:** Amiga de la Tierra; memoria preservada sin contacto imposible.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` sostener trabajo, cosplay y vida social. `Ambición:` crear o presentar un proyecto de fandom que le pertenezca. `Vínculo:` Docta, Aysha y amistades. `Obstáculo / hito:` poner límites al cansancio y al trabajo.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

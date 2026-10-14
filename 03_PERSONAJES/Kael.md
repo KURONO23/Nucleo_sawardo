@@ -12,7 +12,7 @@
 - Para el espadachín dual, ver [[Kael_Ironheart]] (directo, informal, sociable, llama «Boss» a Max).
 - Para la exploradora veterana, ver [[Romina_Exploradora_Blackpeak]] (áspera, técnica, cauta y sombría).
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - Remitirse a [[Kael_Ironheart]] y [[Romina_Exploradora_Blackpeak]].
 
@@ -95,3 +95,12 @@ Fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Añ
 ## ADDENDUM — CIERRE DE IDENTIDAD
 
 - Las menciones antiguas a “Kael” no siempre aportan apellido suficiente para decidir si corresponden a Kael Ironheart o a Romina, antigua “Kael exploradora”; se conserva la ambigüedad y no se fusionan fichas (`isekai Día 588...`, 37442–38187).
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La desambiguación sigue vigente. El crecimiento del 1 de Lluvia pertenece por separado a [[Kael_Ironheart]] y [[Romina_Exploradora_Blackpeak]]; no existe un tercer Kael.
+- **Ruta autónoma vigente:** La ruta se conserva en la ficha canónica indicada; esta nota no genera hechos independientes.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

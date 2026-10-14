@@ -3,7 +3,7 @@
 ## Identidad estable
 Sayaka Fujimoto y Evelyn Cross son la misma persona: reencarnada japonesa, maestra cervecera, empresaria y socia industrial de Cervecería Esmeralda. Su identidad social es Evelyn; su nombre terrestre no crea otra ficha ni duplica edad. Es metódica, orgullosa y celosa de su autonomía, con control operativo y veto de calidad.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
 Tiene 28 años tras su cumpleaños del 30 de Solalto, Año 2. Mantiene 30% societario vigente, control operativo y veto de calidad de Esmeralda; la estructura 50/30/20 quedó como fase histórica.
 
 ## CRONOLOGÍA CANÓNICA
@@ -85,7 +85,7 @@ Fuente final: `00_FUENTES/historia_original/`, [[HISTORIA_CERVEZA_ESMERALDA]] y 
 - **Elección autónoma:** contrata ayudantes, delega turnos y conserva veto de calidad. `00_FUENTES/historia_original/AÑO_1/04_09_Solalto_Año_1_a_25_Solalto_Año_2.md:L241264-L241700`.
 - **Persistencia:** mantiene identidad Sayaka/Evelyn como una vida conjunta y construye un círculo propio. `00_FUENTES/historia_original/AÑO_2/06_15_Ambar_a_25_Ambar_Año_2.md:L10032-L10042`, `L12681-L12724`.
 
-## ADDENDUM — 4–5 DE FLORIS, AÑO 3
+## ADDENDUM — 4–5 DE VERDALIA, AÑO 3
 
 Sayaka rechazó un lote defectuoso de Cerveza Esmeralda. El hecho confirma su veto de calidad; cantidad, coste, proveedor y pérdida permanecen sin cifra y no deben inventarse.
 
@@ -95,3 +95,12 @@ Sayaka rechazó un lote defectuoso de Cerveza Esmeralda. El hecho confirma su ve
 - Diseñar producción con Galwin y defender contratos frente a Max fijó su autoridad operativa. El veto de calidad y el rechazo del lote defectuoso son consecuencia directa: la marca vale más que una venta inmediata.
 - El Festival y la expansión de Esmeralda convierten su antigua sobreexigencia en un problema consciente. Aprende a repartir tareas y conservar rutinas propias, sin que el cuidado recibido se vuelva una licencia para que otros gobiernen su trabajo.
 - Su ambición vigente es una cervecería estable que forme personal y mantenga calidad bajo presión; los dividendos y porcentajes se rigen por la distribución documentada, no por afectos personales.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Mantuvo producción, distribución y control de calidad de Esmeralda y se negó a liberar un lote mientras la causa de la desviación no estuviera identificada. Su autoridad incluye decir no aunque exista demanda.
+- **Ruta autónoma vigente:** `Meta:` proteger calidad, margen y reputación de Esmeralda. `Ambición:` dirigir una industria que no repita el agotamiento de su vida terrestre. `Vínculo:` Natalia, Galwin y productores. `Obstáculo / hito:` detener un lote defectuoso aunque pierda una venta.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

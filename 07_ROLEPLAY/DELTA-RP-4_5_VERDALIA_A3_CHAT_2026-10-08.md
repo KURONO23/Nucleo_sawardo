@@ -1,8 +1,10 @@
-# DELTA DE ROLEPLAY — 4–5 DE FLORIS, AÑO 3
+# DELTA DE ROLEPLAY — 4–5 DE VERDALIA, AÑO 3
 
-**Fuente:** documento de Drive `DELTA-RP-4_5_FLORIS_A3_CHAT_2026-10-08`, creado desde la conversación activa.  
+> **CORTE HISTÓRICO:** las escenas de este delta corresponden al **4–5 de Verdalia, Año 3**.
+
+**Fuente:** documento de Drive `DELTA-RP-4_5_VERDALIA_A3_CHAT_2026-10-08`, creado desde la conversación activa.  
 **Naturaleza:** delta derivado; no sustituye ni altera `00_FUENTES/historia_original`.  
-**Estado:** 4 de Floris cerrado; 5 de Floris en curso, mañana, Gutiérrez Estate.
+**Estado:** 4 de Verdalia cerrado; 5 de Verdalia en curso, mañana, Gutiérrez Estate.
 
 ## Precedencia
 
@@ -24,7 +26,7 @@ Corrección explícita del usuario > historia original > estado rector > este de
 - `BAKARINA` es una broma cultural sobre Catarina Claes y no crea cinco pretendientes para Yuki. `BAZUMA` es una parodia aceptada por Max, no autodesprecio literal. Serath no es copia de Sena y Aria no es una versión de Aqua.
 - Mizuki fue presentada formalmente a Yuki/Lady Marianne. Yuki mantiene cautela por el pasado de Haruto; colaboración no equivale a perdón.
 
-## Cierre del 4 de Floris
+## Cierre del 4 de Verdalia
 
 - Biro depura un final sobrio de *La tragedia del último barril*. Goran aconseja sin apropiarse de la autoría. La obra aún no se estrena.
 - Galwin delega cambios del horno, documenta pruebas y continúa G1; G2 no está construido ni activado. Daichi mantiene el método adversarial.
@@ -33,7 +35,7 @@ Corrección explícita del usuario > historia original > estado rector > este de
 - Kenji y Ryu avanzan la libreta de trabajadores de Casa del Puente; Hwan-Rei conserva las incertidumbres de las tablillas. Jasmine y Kira continúan V. Sable y Misa atiende supervivientes.
 - Saldo líquido: 905.905 oro. Flujo estructural: 7.270 oro/mes. Dividendos variables de Esmeralda pendientes.
 
-## 5 de Floris — decisiones y hechos
+## 5 de Verdalia — decisiones y hechos
 
 - La escena abre por la mañana en Gutiérrez Estate con Max, Serath y Aria. La conversación empieza con la broma de la “fiscal que se casó con Bazuma”, pero Serath pasa a una evaluación seria sobre duración, riesgo y defensa compartida.
 - El usuario eligió combinar escuchar el plan de Serath y conversar/proteger (`opción 5`) y pidió a Aria vigilancia discreta de los alrededores (`opción 4`). Estas decisiones siguen pendientes de escenificación en el punto de este delta: no afirmar que Max ya aprobó un plan, activó Sawardo o que Aria detectó espías concretos.
@@ -43,4 +45,4 @@ Corrección explícita del usuario > historia original > estado rector > este de
 
 ## Punto exacto de reanudación
 
-5 de Floris, mañana, desayuno en Gutiérrez Estate. Serath presenta su evaluación autónoma; Max responde sin usurpar su voz; Aria comienza observación exterior prudente; Corven prepara un intermediario plausible. No revelar de golpe el patrocinador, la gala, la identidad de Marcos o una conexión definitiva entre V. Sable y Ravenwood.
+5 de Verdalia, mañana, desayuno en Gutiérrez Estate. Serath presenta su evaluación autónoma; Max responde sin usurpar su voz; Aria comienza observación exterior prudente; Corven prepara un intermediario plausible. No revelar de golpe el patrocinador, la gala, la identidad de Marcos o una conexión definitiva entre V. Sable y Ravenwood.

@@ -3,7 +3,7 @@
 ## Identidad estable
 Daichi es un llegado de otro mundo, el más veterano del trío formado con Mika y Ren, e investigador senior de la Corona para la Torre y los nodos antiguos. Es prudente, escéptico, protector y metódico; su habilidad personal sigue desconocida y no se le asigna una por analogía.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
 Dirige método y seguridad de la investigación Vaelor/ACF-3: separa observación, hipótesis y prueba. El G1/G2 continúa sujeto a pruebas repetibles, límites escritos y retirada segura.
 
 ## CRONOLOGÍA CANÓNICA
@@ -74,3 +74,12 @@ Su crecimiento está en aceptar que el método también debe enseñar y no solo 
 - La apertura de Max, Aria y Serath hacia la investigación formal le dio recursos sin anular su independencia: aprende que cuestionar un proyecto también puede ser una forma de protegerlo.
 - La Aguja Muerta y el mantenimiento de Galwin confirmaron que una infraestructura duradera necesita personas que documenten límites, no solo inventores que la hagan funcionar una vez.
 - Al acompañar la formación de Ren, Haruto y Leo, Daichi empieza a usar sus criterios para habilitar misiones pequeñas y seguras. Su meta no es impedir G2, sino lograr que nadie deba confiar en él a ciegas para activarlo.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Aplicó pruebas adversariales a G1 y sostuvo límites técnicos frente a ruinas y permisos. Su desconfianza se convierte en método transmisible sin desaparecer como rasgo personal.
+- **Ruta autónoma vigente:** `Meta:` probar G1 adversarialmente y custodiar la seguridad de las ruinas. `Ambición:` convertir la desconfianza en método que otros puedan enseñar. `Vínculo:` Mika, Ren, Galwin y Thalion. `Obstáculo / hito:` aprobar una exploración pequeña sin abandonar sus criterios.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

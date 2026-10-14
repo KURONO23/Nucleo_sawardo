@@ -13,7 +13,7 @@
 | Empresas | Financia ideas por entusiasmo | Aprende a separar propiedad, administración y autonomía técnica | Natalia, Sayaka, Elise, Vivienne y Galwin pueden decirle que no | Gasto impulsivo y memoria financiera irregular |
 | Reencarnados | Cree que experiencias compartidas permiten comprensión rápida | Aprende que mecanismos, identidades y traumas no son iguales | Daichi impone método; Mika, Ren, Kazuki y Haruto conservan diferencias | Curiosidad puede adelantar confianza o prueba segura |
 | Año 3, hasta 26 Bruma | Busca comprender Referencia Temporal y descansar | Acepta progreso mínimo, protocolos y vacaciones sin convertir todo en negocio | En ese corte G1 queda sin activar; Aria comparte decisiones de viaje | Conversaciones pendientes con Serath/Aria |
-| 1–4 Floris, Año 3 | Se infiltra como Marcos sin resolver el peligro por fuerza | Aprende disciplina de servicio bajo dirección de Yuki y utiliza a Aria como enlace | G1 funciona de modo limitado; Mizuki, Biro, Goran, Galwin, Kenji y Ryu avanzan por cuenta propia | Corven, Veylan, el financiador y las tablillas continúan abiertos |
+| 1–4 Verdalia, Año 3 | Se infiltra como Marcos sin resolver el peligro por fuerza | Aprende disciplina de servicio bajo dirección de Yuki y utiliza a Aria como enlace | G1 funciona de modo limitado; Mizuki, Biro, Goran, Galwin, Kenji y Ryu avanzan por cuenta propia | Corven, Veylan, el financiador y las tablillas continúan abiertos |
 | 26 de Bruma, Año 3 | Regresa sin dominar el estado de su propia economía | Escucha la conciliación, distingue liquidez de patrimonio y reconoce económicamente el trabajo autónomo | Duplica a 800 oro/mes los salarios de Natalia, Elise y Vivienne; acepta que Esmeralda produce dividendos variables sin su gestión diaria | Debe conciliar dividendos y Festival; su humor financiero puede causar malentendidos |
 
 ## Aria — de acompañante despierta a socia con vida propia
@@ -54,7 +54,7 @@
 - **Jasmine:** crítica y transmisora cultural.
 - El grupo continúa misiones, relaciones y proyectos cuando Max no está; su identidad no se reduce a “amigos de Max”.
 
-### Semillas autónomas activas al 4 de Floris
+### Semillas autónomas activas al 4 de Verdalia
 
 - **Misa** mantiene el seguimiento médico de los supervivientes de Casa Orel y prepara un protocolo de atención de campo. No ha desaparecido; su siguiente problema es decidir qué curaciones puede ofrecer de forma segura.
 - **Jasmine** vio la misión de V. Sable y conserva una línea de investigación con Kira basada en rutas, fechas y manifiestos. Su crecimiento pendiente es convertirse en estratega e investigadora, no solo en combatiente.
@@ -74,7 +74,7 @@
 - Trabaja con Elise, Sayaka, Thalion y equipos de investigación; acepta estandarización y reparabilidad.
 - En G1 reduce componentes y prohíbe prueba sin Kazuki, Daichi y Mika.
 - Su crecimiento clave es pasar de “hacer funcionar” a “hacer seguro, mantenible y transferible”.
-- **Desde 4 de Floris, Año 3:** delega la mejora cotidiana del horno a sus aprendices, conserva solo la revisión de seguridad y enfoca su trabajo en consolidar G1, diseñar G2 después de G1 y revisar ruinas antiguas en busca de tecnología útil.
+- **Desde 4 de Verdalia, Año 3:** delega la mejora cotidiana del horno a sus aprendices, conserva solo la revisión de seguridad y enfoca su trabajo en consolidar G1, diseñar G2 después de G1 y revisar ruinas antiguas en busca de tecnología útil.
 - La delegación abre una trayectoria propia para el taller: los aprendices comparan soluciones, registran fallos y todavía no tienen nombres o dominio suficiente para fabricar G2.
 
 ## Serath — relación sin absorción
@@ -84,7 +84,7 @@
 - Su círculo —Elara, Maelis, Darian y Celene— actúa y la contradice independientemente.
 - Aporta decisiones creativas: la esposa accidental debe tener agencia.
 - Recibe influencia cultural, pero también modifica lo que Max crea y cómo entiende responsabilidad.
-- Al 4 de Floris, Año 3, reconoce el trabajo autónomo de Natalia, Elise y Vivienne, respeta la dirección de Yuki en Ravenwood y conserva una conversación íntima pendiente sobre la ausencia de Max.
+- Al 4 de Verdalia, Año 3, reconoce el trabajo autónomo de Natalia, Elise y Vivienne, respeta la dirección de Yuki en Ravenwood y conserva una conversación íntima pendiente sobre la ausencia de Max.
 - Su siguiente crecimiento no es “querer más a Max”, sino decidir con su círculo qué seguridad y límites aplicará al próximo viaje.
 
 ## Ryu y Kenji — familia, oficio y comunidad

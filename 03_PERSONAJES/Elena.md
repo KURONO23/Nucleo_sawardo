@@ -7,8 +7,8 @@ Esta ficha distingue a Elena, vendedora y madre del mercado, de Suri, su hija ar
 
 Elena habla con gratitud directa y preocupación cotidiana por mercado e hija. Suri es tímida, sensible y se expresa mejor a través de dibujo; no ponerle discursos adultos ni tratar su arte como profecía.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-Permanecen ligadas a los puestos populares. No hay acción individual posterior confirmada al 5 de Floris.
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
+Permanecen ligadas a los puestos populares. No hay acción individual posterior confirmada al 5 de Verdalia.
 
 ## CRONOLOGÍA CANÓNICA
 - En los primeros días de Aldoria, Elena agradece apoyo a pequeños tenderos y Suri entrega dibujo de carbón de Max entre la niebla.
@@ -50,3 +50,12 @@ El agradecimiento de Elena y el dibujo de Suri convierten una ayuda de mercado e
 - Elena se acercó a Max conmovida para darle las gracias como gente común.
 - Su pequeña hija, **Suri**, le entregó a Max un regalo que el espadachín atesora: un dibujo hecho con carbón sobre papel rústico donde representó a Max caminando envuelto en la niebla, pero con una postura heroica y protectora.
 - Este dibujo simboliza para Max el verdadero motivo por el cual vale la pena defender a la gente de este mundo más allá de los títulos nobles o los rangos del gremio.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` sostener su vínculo familiar y responsabilidades cotidianas. `Ambición:` ganar una voz propia en su comunidad. `Vínculo:` Suri y contactos locales. `Obstáculo / hito:` una decisión doméstica que revele qué desea, no solo qué ayuda.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

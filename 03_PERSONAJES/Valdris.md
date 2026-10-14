@@ -17,7 +17,7 @@
   > «Los compradores de la capital y las comandancias de la frontera sur pagan fortunas por monturas pesadas de asedio... y este lote de Blackpeak es el más extraordinario que ha visto el reino en una década.»  
   — Valdris evaluando el lote de crías y huevos de wyvern de Max (`00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`, líneas 15060–15213).
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Distrito comercial de Thornhaven y enlaces comerciales con la capital.
 - **Responsabilidad actual:** Dirección de la casa de corretaje de especímenes raros y tasación de materiales exóticos de expedición.
@@ -93,3 +93,12 @@
 - Prioriza tasación, identificación y competencia de mercado; su ganancia nace del corretaje y su red de compradores.
 - La liquidación de Blackpeak fortalece el capital de Max y la reputación de Valdris.
 - No hay en las fuentes posteriores un nuevo conflicto suyo; conservarlo como agente económico disponible.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` sostener su oficio y posición dentro de las rutas conocidas. `Ambición:` ampliar su margen sin entrar en una guerra de casas. `Vínculo:` comerciantes y trabajadores. `Obstáculo / hito:` un encargo que ponga a prueba su lealtad.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

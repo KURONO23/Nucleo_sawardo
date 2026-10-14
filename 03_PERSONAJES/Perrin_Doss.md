@@ -3,8 +3,8 @@
 ## Identidad estable
 Perrin Doss es actor de carácter y escribiente. Su papel emblemático, Nim, es un contador bajo, enjuto, seco y cerebral, obsesionado con el reglamento. Su herramienta cómica es la inmovilidad: dice el absurdo sin regalar la risa.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
-Sigue ligado a la compañía y al imaginario público de Nim. No hay escena individual posterior consolidada al 5 de Floris.
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
+Sigue ligado a la compañía y al imaginario público de Nim. No hay escena individual posterior consolidada al 5 de Verdalia.
 
 ## CRONOLOGÍA CANÓNICA
 - Día 323: su respuesta «Contador» gana el papel de Nim en la audición.
@@ -24,7 +24,7 @@ Nim nace de su oficio de escribiente, pero el teatro demuestra que su precisión
 Sostener la precisión popular de Nim y arbitrar una disputa sin sesgo aldoriano. La disputa no ha ocurrido todavía en el canon.
 
 ## FUENTES Y CORRECCIONES
-Fuente primaria: `00_FUENTES/historia_original/`, en especial `AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md`; las correcciones autorales prevalecen.
+Fuente primaria: `00_FUENTES/historia_original/`, en especial `AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` y `AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`; las correcciones autorales prevalecen.
 
 > **«—Te preguntan qué demonios eres después de beber medio barril.**  
 > **—Contador.»**  
@@ -89,4 +89,13 @@ La química entre Perrin Doss y Branik Tor es uno de los pilares cómicos más s
 
 ## ADDENDUM — MICROINTERACCIONES Y VIDA AUTÓNOMA
 
-- Pasa de interpretar a Nim teatral a juez de los Juegos del Barril; ante protestas consulta su tablilla y responde «Reglamento» (`00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md`, 674–758).
+- Pasa de interpretar a Nim teatral a juez de los Juegos del Barril; ante protestas consulta su tablilla y responde «Reglamento» (`00_FUENTES/historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`, 674–758).
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` mantener el reglamento y los Juegos del Barril. `Ambición:` demostrar que la precisión también puede ser popular. `Vínculo:` Branik, jueces y competidores. `Obstáculo / hito:` arbitrar una disputa sin favorecer a Aldoria.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

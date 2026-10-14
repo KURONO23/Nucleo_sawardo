@@ -29,7 +29,7 @@ No se encontró respaldo en las fuentes auditadas para abrir la partida con **8.
 - Un patrimonio estimado no equivale a oro disponible.
 - Cualquier movimiento de Albor–Bruma del Año 3 debe añadirse como asiento antes de afirmar un saldo actual exacto.
 
-## Addendum delta RP — 4–5 de Floris, Año 3
+## Addendum delta RP — 4–5 de Verdalia, Año 3
 
 - El último saldo líquido rector continúa en **905.905 oro**.
 - El flujo estructural continúa en **7.270 oro/mes**, antes de dividendos variables.
@@ -46,5 +46,5 @@ No se encontró respaldo en las fuentes auditadas para abrir la partida con **8.
 - `00_FUENTES/historia_original/AÑO_1/04_09_Solalto_Año_1_a_25_Solalto_Año_2.md`, bloques financieros del Festival y formalización de Esmeralda.
 - `00_FUENTES/historia_original/AÑO_2/07_25_Ambar_a_10_Noctalia_Año_2.md`, revisión económica desde las líneas 1764–1997.
 - `00_FUENTES/historia_original/AÑO_2/09_31_Noctalia_Año_2_a_01_Albor_Año_3.md`, cierre y donación alrededor de las líneas 6042–6058.
-- `00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md`, recapitulación del cierre líquido alrededor de la línea 572.
+- `00_FUENTES/historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`, recapitulación del cierre líquido alrededor de la línea 572.
 

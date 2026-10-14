@@ -3,7 +3,7 @@
 ## Identidad estable
 Actor y narrador-comediante de la Compañía Teatral Goran, elegido en convocatoria abierta. Sus papeles confirmados son Milo Trent, Austin Powers y Jesse Fox. Su herramienta propia es el timing: pausa, economía de gesto y la capacidad de dejar que una microfractura revele a Milo bajo Austin; no es un imitador de Max.
 
-## ESTADO VIGENTE — 5 DE FLORIS, AÑO 3
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
 Es un rostro público de *Austin Powers: El Espía Seductor*. La fuente no fija una escena individual posterior al corte vigente; por ello no se le asigna ubicación ni resultado fuera de cámara.
 
 ## CRONOLOGÍA CANÓNICA
@@ -67,3 +67,12 @@ Transición deseada:
 - La enseñanza de Max sobre mecánica cómica y la dirección de Goran le dieron un punto de partida; el estreno le enseñó que Austin solo funciona si Nilo deja aparecer a Milo en las grietas del personaje.
 - La conspiración del cumpleaños confirma que puede cuidar una sorpresa y ceder foco sin desaparecer del logro: interpreta el primer tramo porque la obra también es suya, no un disfraz prestado.
 - Las reacciones del público y el trabajo con Edda transforman su ambición en oficio sostenido. Su siguiente crecimiento es construir repertorio y descanso fuera de Austin, sin abandonar el humor que lo hizo reconocible.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` sostener la gira de Austin y su salud escénica. `Ambición:` ser actor protagonista sin quedar atrapado en Milo Trent. `Vínculo:` Mara, Bram, Kellan y Vivienne. `Obstáculo / hito:` negociar una fecha que proteja al elenco.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

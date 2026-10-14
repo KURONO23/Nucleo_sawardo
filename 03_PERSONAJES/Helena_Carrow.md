@@ -15,7 +15,7 @@
 - **En intimidad / círculo de Serath:** Cercana y relajada; demuestra que Serath conserva amistades e interlocutores que no dependen de su matrimonio ni de la cadena de mando marcial.
 - **Voz en fuente:** Conversación en palcos durante el estreno de *Austin Powers*, contrastando la sátira con el poder cultural de la Corona.
 
-## 2. Estado vigente — 5 de Floris, Año 3
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
 
 - **Ubicación:** Distrito alto de Aldoria.
 - **Responsabilidad actual:** Relaciones sociales y observación de la opinión patricia sobre las iniciativas culturales del Consorcio Gutiérrez y la Corona.
@@ -77,3 +77,12 @@
 
 - `00_FUENTES/historia_original/AÑO_2/05_26_Solalto_a_14_Ambar_Año_2.md`, bloque de continuidad alrededor de líneas 212600–213115.
 - `00_FUENTES/historia_original/AÑO_2/06_15_Ambar_a_25_Ambar_Año_2.md`, palcos y reacciones de *Austin Powers*.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` observar cambios culturales y políticos alrededor de la corte. `Ambición:` ser interlocutora con criterio propio. `Vínculo:` Serath, artistas y observadores. `Obstáculo / hito:` presentar un informe que contradiga una opinión popular.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.

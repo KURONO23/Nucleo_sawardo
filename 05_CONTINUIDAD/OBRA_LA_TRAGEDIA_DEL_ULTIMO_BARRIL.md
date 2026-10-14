@@ -92,7 +92,7 @@ Todavía no existe balance de producción. Socialmente valida que una persona co
 
 ## 11. Fuente exacta de cada escena
 
-- `00_FUENTES/historia_original/AÑO_3/10_04_Albor_a_26_Bruma_Año_3.md`, bloque cultural alrededor de líneas 814–918.
+- `00_FUENTES/historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`, bloque cultural alrededor de líneas 814–918.
 - `00_FUENTES/historia_original/AÑO_2/09_31_Noctalia_Año_2_a_01_Albor_Año_3.md`, líneas 656–713, 4703–4790 y 4941–5732.
 - `TIMELINE.md`, Días 641–646.
 
