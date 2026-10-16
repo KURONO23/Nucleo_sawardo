@@ -106,3 +106,10 @@ Participa plenamente como parte de la familia extendida en las celebraciones de 
 - **Ruta autónoma vigente:** `Meta:` dirigir La Rosa de Medianoche y sostener su vida con Haruto. `Ambición:` ampliar su autonomía económica y social. `Vínculo:` Haruto, Leo, Ren, Siri y trabajadores del club. `Obstáculo / hito:` enseñar a los jóvenes a vivir sin convertirse en su tutora permanente; un compromiso con Haruto solo puede nacer de una decisión recíproca y una escena verificable.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+---
+
+## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (CARRERA ARTÍSTICA Y VIDA AFECTIVA)
+
+- **Música y vida social:** Avances en su carrera de canto, amistad con Elena Weissmann y Greta Hoffmann; relación afectiva estable y serena con Haruto Kazagami. Disfruta con gracia de la diadema Nekomimi regalada por Max.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.

@@ -101,3 +101,19 @@ Ante una aplicación nueva, el sistema pregunta: “¿Fue demostrada con este bl
 ## Evolución añadida — Albor, Año 3
 
 La historia posterior añade percepción temporal pasiva, la hipótesis de Referencia Temporal y el Protocolo Ancla Kazuki. Consultar [[SAWARDO_ADDENDUM_REFERENCIA_TEMPORAL]]. Estas adiciones no revocan los costes, límites ni prohibiciones anteriores.
+
+---
+
+## EXPEDIENTES TEMPORALES DEL AÑO 3 (LLUVIA)
+
+### 1. Las Vacaciones Reales de Elaris (5 de Lluvia, Año 3)
+- **Activación:** 10:12 a. m. del mundo exterior (Palacio Real de Aldoria).
+- **Participantes en Sawardo:** Max, Serath Vale, Aria, Rey Aldric Theron («Don Aldric») y Gran Mago Thalion («Don Teodoro»).
+- **Duración subjetiva:** 11 días en Elaris + 6 días subjetivos de viaje de regreso.
+- **Impacto:** Convivencia familiar y descanso absoluto sin ministros ni cortesanos. Reconciliación afectiva profunda entre Aldric y Serath. Retorno al mundo exterior a las 10:12 a. m.
+
+### 2. El Entrenamiento Intensivo en Sawardo (11 al 15 de Lluvia, Año 3)
+- **Participantes:** Max (mentor), Aria (instructora mágica), Haruto Kazagami (vanguardia y Adaptación), Leo Mercer (guardián y Quest Log), Ren (geomante) y Siri (asistente de datos).
+- **Duración subjetiva:** 180 días (5 meses subjetivos) en los campos de práctica y Blackpeak.
+- **Broma de Max:** Bautizado humorísticamente como «Academia Gutiérrez» o «Escuela Tortuga», sin ningún rango ni institución oficial.
+- **Avance de Reversi (*Crazy Diamond*):** Max perfeccionó la repetibilidad de la reversión temporal sobre materiales fracturados y armas melladas.

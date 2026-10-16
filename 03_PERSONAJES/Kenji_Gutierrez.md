@@ -163,3 +163,10 @@
 - **Ruta autónoma vigente:** `Meta:` desarrollar cocina híbrida y formar a quien pidió aprender en Casa del Puente. `Ambición:` ser maestro cocinero y creador de recetas propias, no una copia de la cocina de Max. `Vínculo:` Ryu, Hwan-Rei y Pequeño Zhong-Kyo. `Obstáculo / hito:` convertir el cuaderno de recetas en práctica enseñable sin perder identidad cultural.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+---
+
+## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (ALTA COCINA EN LA HACIENDA)
+
+- **Gastronomía de Gutiérrez Estate:** Apoyo en la preparación culinaria de las reuniones familiares (incluyendo el festín peruano de Lomo Saltado y Pollo a la Brasa del 20 de Lluvia). Próximo a cumplir 17 años el 26 de Lluvia.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.

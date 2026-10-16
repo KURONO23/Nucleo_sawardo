@@ -154,3 +154,10 @@
 - **Ruta autónoma vigente:** `Meta:` consolidar rutas, cartografía y el trabajo del *Serath-Maru*. `Ambición:` convertirse en navegante y constructor de una red de acogida que no dependa de la Casa. `Vínculo:` Kenji, Hwan-Rei y los trabajadores de Casa del Puente. `Obstáculo / hito:` equilibrar liderazgo de cubierta con la libreta comunitaria de trabajadores.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+---
+
+## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (RUTAS FLUVIALES Y CARTOGRAFÍA)
+
+- **Navegación fluvial y marítima:** Ampliación de cartas náuticas y rutas fluviales entre Aldoria y los muelles francos de Tornhaven.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.

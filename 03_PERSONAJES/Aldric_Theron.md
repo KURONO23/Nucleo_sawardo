@@ -104,3 +104,10 @@ Fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Añ
 - **Ruta autónoma vigente:** `Meta:` gobernar, equilibrar nobles, gremios y rutas. `Ambición:` dejar una corona más estable que su propia generación. `Vínculo:` Serath, Caelan, Rowan, Oswin y la corte. `Obstáculo / hito:` tomar una decisión económica o judicial sin usar a Max como atajo.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (CUMPLEAÑOS Y VACACIONES EN ELARIS)
+
+- **Cumpleaños Real (5 de Lluvia, Día 750):** Max, Serath y Aria le regalaron vacaciones secretas en Elaris bajo tiempo detenido con Sawardo (a las 10:12 a. m.). Adoptó el alias humorístico «Don Aldric, jubilado aficionado a los jardines».
+- **Reconciliación con Serath:** Durante los 11 días subjetivos compartió paseos y reflexiones íntimas con su hija, sanando distancias pasadas y abrazándola como padre, no como monarca.
+- **Almuerzo familiar quincenal:** Estableció el pacto de reunirse cada 14 días en Gutiérrez Estate («sin ministros ni protocolos»). El 20 de Lluvia disfrutó del festín de Lomo Saltado y Pollo a la Brasa preparado por Max.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.

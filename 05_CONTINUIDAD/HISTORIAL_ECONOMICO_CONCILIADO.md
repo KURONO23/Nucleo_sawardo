@@ -48,3 +48,14 @@ No se encontró respaldo en las fuentes auditadas para abrir la partida con **8.
 - `00_FUENTES/historia_original/AÑO_2/09_31_Noctalia_Año_2_a_01_Albor_Año_3.md`, cierre y donación alrededor de las líneas 6042–6058.
 - `00_FUENTES/historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`, recapitulación del cierre líquido alrededor de la línea 572.
 
+---
+
+## Addendum delta RP — 10 al 20 de Lluvia, Año 3
+
+| Momento | Liquidez personal | Patrimonio estimado | Fondos separados | Flujo recurrente | Estado |
+|---|---:|---:|---:|---:|---|
+| 1–9 de Lluvia, Año 3 | **911.675 oro** | Pendiente de tasación | Festival separado | 7.270/mes base | Base previa a la Gran Subasta de la Llave de Bronce |
+| 10 de Lluvia, Año 3 | **910.068 oro** | Pendiente de tasación | Festival separado | 7.270/mes base | Liquidación formal de compras: Cofre (−607) y Núcleo Carmesí (−1.000) |
+| 20 de Lluvia, Año 3 | **910.068 oro** | Supera 1.460.000 oro | Festival separado | 7.270/mes base | Cierre tras graduación de la Academia y almuerzo real |
+
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.

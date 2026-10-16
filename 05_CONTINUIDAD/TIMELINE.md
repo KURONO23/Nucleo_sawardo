@@ -154,4 +154,27 @@
 - *Heroes* se adopta como marco informal para clasificar habilidades.
 - Nace Proyecto G1, Terminal Regional Portátil de Aldoria.
 - **26 Bruma, mañana — PRESENTE:** Natalia abre y cierra la carpeta Albor–Bruma; Max conoce sus 905.905 oro, aumenta salarios y prepara la Operación «Somos Pobres». Kazuki prepara el regreso; G1-A revisión 0.2 espera equipo autorizado.
+---
 
+## ERA XII — VERDALIA, OPERACIÓN ARDEL Y COOPERACIÓN CON REENCARNADOS (1 AL 31 DE VERDALIA, AÑO 3)
+
+- **1 al 18 de Verdalia:** Max se infiltra en Casa Ardel bajo la identidad encubierta de `Marcos`, trabajando como escribiente junto a Orren Halven. Desmantelamiento de la red de extorsión de Corven Marr y Veylan; fractura entre Corven Marr y Verrick Dossan; Halven gana independencia operativa y ética.
+- **8 de Verdalia:** Visita familiar afectuosa a Thornhaven para compartir tiempo y regalos con Kenji y Ryu.
+- **16–17 de Verdalia:** Día de mimos y obsequio de la diadema Nekomimi para Liora en la hacienda.
+- **19 al 31 de Verdalia:** Cierre de la etapa encubierta de Marcos. Diálogo directo y respetuoso de Max con **Mizuki Mizuhara** (Santa de la Iglesia) y Cecilia sobre la armonía religiosa y Pequeño Zhong-Kyo. Desarrollo de protocolos de prueba repetibles para G1.
+- Haruto, Ren y Leo completan la exploración del Santuario de las Raíces Profundas y derrotan al Guardián Lítico sin activar tecnología desconocida.
+
+---
+
+## ERA XIII — VACACIONES EN ELARIS, SUBASTA DE LA LLAVE DE BRONCE Y LA ACADEMIA GUTIÉRREZ (1 AL 20 DE LLUVIA, AÑO 3)
+
+- **1 al 4 de Lluvia (Días 746 al 749):** Preparación del cumpleaños del rey Aldric Theron en Gutiérrez Estate y vida cotidiana en la hacienda.
+- **5 de Lluvia (Día continuo 750):** **Cumpleaños del Rey Aldric.** Max, Serath y Aria obsequian a Aldric unas vacaciones familiares secretas en Elaris bajo tiempo detenido con Sawardo (detenido a las 10:12 a. m.). Aldric («Don Aldric») y Thalion («Don Teodoro») viajan con Max y Serath («Señora Serena»). Reconciliación profunda y emotiva entre Aldric y Serath fuera del protocolo real. Pacto del almuerzo familiar quincenal en la hacienda.
+- **6 al 8 de Lluvia:** Regreso al tiempo real. Inspección preliminar de los lotes de la Casa de Subastas de la Llave de Bronce con maese **Orven Dalmir** y demostración de la *Lente del Cartógrafo* por la maestra **Elwen**.
+- **9 de Lluvia:** Gran Subasta de la Llave de Bronce. Max adquiere el *Cofre de los Siete Sellos* (607 oro) y el *Fragmento de Núcleo Carmesí* (1.000 oro). Contacto y correspondencia con la **Dra. Eleanor Whitmore**, **Thomas Reed**, **Edmund Fletcher**, **Hugo von Altenberg** y **Oliver Bennett**. El *Atlas de los Mundos Inconclusos* es vendido a Casa Veylan por 140.000 oro.
+- **10 de Lluvia:** Liquidación formal de compras. El saldo líquido personal de Max se concilia en **910.068 monedas de oro**.
+- **11 al 15 de Lluvia (180 días subjetivos en Sawardo):** **La entrenamiento intensivo en Sawardo (broma de «Academia Gutiérrez»).** Max dirige 5 meses subjetivos de entrenamiento intensivo estilo «Escuela Tortuga» para **Haruto Kazagami**, **Leo Mercer** y **Ren** (asistidos por Aria y Siri). Leo desarrolla refuerzo corporal defensivo; Ren domina 5 púas de tierra y detección telúrica; Haruto integra espada de trueno (Chidori/4to Hokage) y Paso Relámpago I; Max ensaya *Reversi* hacia *Crazy Diamond*.
+- **16 de Lluvia:** Graduación de los tres aprendices y cacería de wyverns en Blackpeak. Regreso al tiempo real de Aldoria.
+- **17 de Lluvia:** **Comité de Evaluación Extraordinaria del Gremio de Aventureros**, presidido por **Elowen Vardis**. **Leo Mercer** (nivel 29) y **Ren** (nivel 28+) ascienden oficialmente a **RANGO C**. **Haruto Kazagami** es confirmado en **RANGO A (nivel 46)** con trámite de elegibilidad a Rango S.
+- **18 de Lluvia:** Celebración y noche íntima de Max con Serath (retorno del legendario «Sí»).
+- **20 de Lluvia — PRESENTE RECTOR (Día continuo 765):** Almuerzo familiar quincenal en Gutiérrez Estate. El rey Aldric y Thalion asisten sin séquito para compartir un festín de comida peruana (Lomo Saltado y Pollo a la Brasa) con Max y Serath.

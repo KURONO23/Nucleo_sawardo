@@ -98,3 +98,16 @@ Todavía no existe balance de producción. Socialmente valida que una persona co
 
 **Estado de extracción:** manuscrito confirmado; fases 3–8 pendientes de una fuente que documente montaje. La ausencia está preservada como dato, no rellenada.
 
+---
+
+## CONFORMACIÓN DEL ELENCO Y ENSAYOS (12 DE LLUVIA, AÑO 3)
+
+El 12 de Lluvia en el Teatro de Aldoria (17:15), Biro y Goran cerraron las audiciones oficiales para *La tragedia del último barril*:
+
+| Personaje dramático | Intérprete confirmado | Características escénicas |
+|---|---|---|
+| **Protagonista** (Guardián de la bodega) | **Tobias Mercerfield** | Actor joven con presencia escénica; trabajando en pulir la sobreactuación. |
+| **Viejo Tabernero** | **Edgar Wainwright** | Intérprete veterano con gran contención emocional y peso trágico. |
+| **Interés femenino / Enamorada** | **Clara Bellamy** | Actriz de dicción limpia y equilibrio entre drama y comedia. |
+
+- **Dirección y ética:** Goran supervisa el ritmo dramático sin alterar el manuscrito de Biro; calendario de ensayos con descansos obligatorios (máx. 2 funciones semanales).

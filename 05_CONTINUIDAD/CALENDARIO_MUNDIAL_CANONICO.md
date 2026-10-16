@@ -1,7 +1,7 @@
 # CALENDARIO MUNDIAL CANÓNICO — PRESENTE: 1 DE LLUVIA, AÑO 3
 
 > FUENTE MAESTRA ÚNICA del calendario narrativo de Aldoria / NÚCLEO_SAWARDO.
-> Autoridad temporal vigente al 1 de Lluvia, Año 3. Los registros del Año 2 y el corte del 18 de Verdalia se preservan como historial y no como presente operativo.
+> Autoridad temporal vigente al 20 de Lluvia, Año 3. Los registros del Año 2 y el corte del 18 de Verdalia se preservan como historial y no como presente operativo.
 
 ---
 
@@ -99,9 +99,9 @@
 
 - **27 de Albor — Galwin:** fecha transcurrida; celebración no documentada. No reconstruir detalles retrospectivamente.
 
-## 7. Presente canónico — 1 de Lluvia, Año 3
+## 7. Presente canónico — 20 de Lluvia, Año 3
 
-- **Fecha actual:** 1 de Lluvia, Año 3 · Día continuo 746.
+- **Fecha actual:** 20 de Lluvia, Año 3 · Día continuo 746.
 - **Punto rector vigente:** [[CURRENT_STATE_1_LLUVIA_AÑO3]].
 - **Estado:** el arco autónomo de Haruto, Ren y Leo ya produjo crecimiento verificable; el control exclusivo de Max regresa ahora.
 - **Max:** no permanece como empleado permanente de Casa Ardel. Puede cerrar su salida con Halven, revisar el balance con Natalia, apoyar Ravenwood desde fuera, retomar G1/ruinas con permisos o atender otros frentes según decisión del usuario.

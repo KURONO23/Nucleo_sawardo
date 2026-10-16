@@ -138,3 +138,11 @@ El coste es personal: seguir una pista sin Max implica exposición, paciencia y 
 - **Ruta autónoma vigente:** `Meta:` reconstruir la misión de V. Sable a partir de rutas, fechas y manifiestos. `Ambición:` ser estratega e investigadora de campo, no solo combatiente S. `Vínculo:` Kira, Misa y Los Ventura mantienen la investigación aunque Max cambie de arco. `Obstáculo / hito:` presentar una hipótesis graduada sin convertir una pista en culpabilidad.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+---
+
+## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (INTELIGENCIA Y ENTRENAMIENTO DE LEO)
+
+- **Red de mini-Arias e inteligencia:** Coordinación de vigilancia discreta sobre los movimientos comerciales de Ravenwood y apoyo encubierto a la investigación judicial de Yuki.
+- **Instructora táctica de Leo Mercer:** Transmitió a Leo principios de movilidad, sigilo y observación de campo, fortaleciendo su criterio de supervivencia y retirada táctica.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.

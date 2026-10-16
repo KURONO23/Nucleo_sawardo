@@ -121,3 +121,18 @@ El saldo actual del fondo no se infiere de esos depósitos históricos: pensione
 - Para reconstrucción anterior: [[HISTORIAL_FINANCIERO_CONSOLIDADO]].
 - Para la auditoría de los tres meses: [[AUDITORIA_FINANCIERA_AÑO3_1_LLUVIA]].
 
+---
+
+## ACTUALIZACIÓN CANÓNICA — 10 AL 20 DE LLUVIA, AÑO 3
+
+- **Presente financiero de auditoría:** 20 de Lluvia, Año 3.
+- **Tesorería personal líquida confirmada:** **910.068 oro**.
+- **Apertura de Lluvia:** Base de tesorería de **911.675 oro**.
+- **Liquidación formal de la Subasta de la Llave de Bronce (10 de Lluvia):**
+  - Adjudicación del *Cofre de los Siete Sellos*: **−607 oro**.
+  - Adjudicación del *Fragmento de Núcleo Carmesí*: **−1.000 oro**.
+  - Total desembolsado en reliquias: **−1.607 oro**.
+  - **Saldo líquido neto resultante:** **910.068 monedas de oro**.
+- **Atlas de los Mundos Inconclusos:** Adjudicado a Casa Veylan por 140.000 oro; Max no pujó por él, por lo que no genera débito.
+- **Custodia:** El fragmento permanece en depósito seguro en el Palacio de los Gremios; el cofre permanece cerrado para su apertura documentada con la Dra. Eleanor Whitmore.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.

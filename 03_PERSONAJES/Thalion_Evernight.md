@@ -119,3 +119,11 @@ Fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Añ
 - **Ruta autónoma vigente:** `Meta:` enseñar, investigar nodos y preservar archivos. `Ambición:` que la ciencia de Aldoria sobreviva a los nombres actuales. `Vínculo:` Daichi, Mika, Ren, Galwin y colegas. `Obstáculo / hito:` publicar un criterio de seguridad sin revelar secretos de Estado.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+---
+
+## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (VACACIONES DE ELARIS Y ALMUERZOS FAMILIARES)
+
+- **Vacaciones en Elaris (5 de Lluvia):** Acompañó al rey Aldric, Serath, Max y Aria en el viaje en tiempo detenido de Sawardo. Asumió a regañadientes pero con afecto el apodo humorístico impuesto por Max: «Don Teodoro, estudioso de bibliotecas antiguas».
+- **Vínculo doméstico:** Participa activamente en el almuerzo familiar quincenal en Gutiérrez Estate (20 de Lluvia degustando cocina peruana con Aldric, Serath y Max, bajo la regla cómica de un límite de diez minutos para discursos mágicos).
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.

@@ -343,3 +343,10 @@ Durante la operación Marcos, Max mantiene la cobertura sin llevar G1 encima. `D
 - **Ruta del jugador — `PENDIENTE`:** decidir el cierre con Halven, revisar con Natalia el balance sin inventar cifras, elegir cuánto apoyo externo dar a Ravenwood y determinar los siguientes pasos de G1, la cámara histórica y el Gremio. Ninguna de esas decisiones se ejecuta fuera de cámara.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (SUBBASTA, REVERSI Y VIDA CONYUGAL)
+
+- **Tesorería líquida rectora:** **910.068 monedas de oro** (tras liquidar 607 oro del *Cofre de los Siete Sellos* y 1.000 oro del *Fragmento de Núcleo Carmesí* adquiridos en la Casa de la Llave de Bronce el 10 de Lluvia).
+- **Entrenamiento en Sawardo:** Supervisó 180 días subjetivos de entrenamiento para Haruto, Leo y Ren; experimentó con **Reversi** hacia la restauración compleja de materia (*Crazy Diamond*).
+- **Vida conyugal y familiar:** Reencuentro íntimo con Serath (noche del 16/17 de Lluvia) y anfitrión gastronómico peruano en el almuerzo real quincenal con Aldric y Thalion (20 de Lluvia).
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.

@@ -138,3 +138,23 @@ En ambas sedes de El Dragón de Oro, la estrella que compite de igual a igual co
 ### D. La Escuela Gastronómica y los Doce Egresados
 - **La Regla Canónica de Autonomía:** Los **doce primeros cocineros** formados bajo la tutela de Max y la escuela del Dragón de Oro **no son empleados cautivos del restaurante**.
 - Conforme a la visión de Max de no monopolizar la cultura culinaria, los 12 egresados **fundaron sus propios restaurantes independientes** en Tornhaven y Aldoria, creando sus propias recetas y variaciones, y recibiendo a nuevos aprendices de cocina.
+
+---
+
+## GASTRONOMÍA CANÓNICA EN EL AÑO 3 (VERDALIA Y LLUVIA)
+
+### 1. El Festín Peruano en Gutiérrez Estate (20 de Lluvia, Año 3)
+En el marco del pacto familiar quincenal con el rey Aldric Theron y Thalion:
+- **Lomo Saltado Clásico:** Tiras de lomo fino salteadas a fuego vivo al wok con cebolla morada en gajos, tomate fresco, ají amarillo y un toque de vinagre y sillao. Acompañado de papas fritas doradas y arroz blanco graneado.
+- **Pollo a la Brasa Tradicional:** Pollo marinado con hierbas andinas, ajo, cerveza y especias, asado lentamente con piel crocante dorada, servido con ají de pollería casero y papas crujientes.
+- **Cerveza Esmeralda Clásica:** Bebida oficial de la sobremesa real, servida a baja temperatura gracias al frío rúnico de Dravenn.
+
+### 2. Gastronomía Callejera y Tradición Oriental (Verdalia–Lluvia)
+- **Takoyaki en Pequeño Zhong-Kyo:** Bolitas de masa dorada rellenas de pulpo tierno cocinadas en planchas de hierro alveoladas, bañadas en salsa dulce espesa, mayonesa japonesa y copos de bonito ahumado (*katsuobushi*). Compartido en velada nostálgica por Max, Aria, Yuki y Cecilia/Mizuki Takahashi.
+
+### 3. Delicias del Principado de Elaris (5 de Lluvia)
+- **Los Faroles de Azúcar:** Fina confitería artesanal de frutas glaseadas y caramelo soplado transparente.
+- **Corona de Elaris:** Tarta hojaldrada con crema de almendras y frutos del bosque de los vergeles reales.
+
+### 4. Ceviche y Cocina Marina en Tornhaven (Año 2–3)
+- **Ceviche Tradicional:** Pescado blanco fresco curado al momento en jugo de limón ácido, con ají limo, cebolla en juliana, choclo desgranado y camote dulce sancochado. Protagonista del acto de independencia de Leo en la taberna *La Bruma Azul*.

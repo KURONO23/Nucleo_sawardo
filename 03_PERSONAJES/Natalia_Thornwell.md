@@ -149,3 +149,11 @@ Natalia participa en la inspección de calidad y costes de Esmeralda junto a Eli
 - **Ruta autónoma vigente:** `Meta:` cerrar cuentas, separar fondos y medir empleo real del Festival. `Ambición:` convertir House Gutiérrez en una administración sostenible que pueda decir no. `Vínculo:` Elise, Vivienne y Leo forman un triángulo de decisiones propio. `Obstáculo / hito:` conciliar dividendos y contrataciones sin usar liquidez no confirmada.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+---
+
+## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (TESORERÍA Y LOGÍSTICA DE SUMINISTROS)
+
+- **Conciliación financiera de Lluvia:** Certificó el saldo líquido rector de **910.068 monedas de oro** tras la liquidación de las compras de la subasta del 10 de Lluvia (−1.607 oro).
+- **Gestión empresarial:** Administración de Natalia Logistics, sueldos blindados de 800 oro/mes (para ella, Elise y Vivienne) y expansión de almacenes en Tornhaven.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.

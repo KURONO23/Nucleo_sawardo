@@ -126,3 +126,10 @@ Vivienne concibió por iniciativa propia una gala noble-cultural benéfica auté
 - **Ruta autónoma vigente:** `Meta:` ordenar rutas, cargas y solicitudes internacionales del teatro y Esmeralda. `Ambición:` dominar una red comercial ética y resistente. `Vínculo:` Natalia, Liora, proveedores y capitanes. `Obstáculo / hito:` decidir qué contrato rechazar por saturación o riesgo.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+---
+
+## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (GRAN SUBASTA Y ACUERDOS TÉCNICOS)
+
+- **Subasta de la Llave de Bronce (6–10 de Lluvia):** Representó a Casa Gutiérrez en la inspección de catálogos y negociaciones con el maestro artificiero Hugo von Altenberg y el constructor Edmund Fletcher. Sueldo de 800 oro/mes asegurado.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.

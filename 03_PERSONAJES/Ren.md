@@ -85,3 +85,19 @@ El primer reconocimiento con Haruto y Leo sigue pendiente de escena. Ren contin�
 - **Ruta autónoma vigente:** `Meta:` seguir aprendiendo con Amane y preparar misiones con Haruto y Leo. `Ambición:` reconciliar sus dos continuidades sin que la Torre decida quién es. `Vínculo:` Mika, Daichi, Amane, Haruto y Leo. `Obstáculo / hito:` tomar una decisión mágica acotada y registrarla en su cuaderno.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (ENTRENAMIENTO EN SAWARDO Y ASCENSO A RANGO C)
+
+- **Entrenamiento Intensivo en Sawardo (11–15 de Lluvia / 180 días subjetivos):**
+  Siguiendo las pautas de Max (*«moldear tu maná hasta que sacar 5 púas de tierra te parezca tan fácil como respirar, desplazarte en paredes como si caminaras tranquilamente y detectar en el terreno objetos como un detector de metales»*) y la tutela de Amane:
+  1. **Moldeado y Púas de Tierra I:** Estabilizó su maná para desplegar 5 púas de roca simultáneas de forma instantánea y fluida.
+  2. **Lanzas Minerales:** Proyección precisa de estacas de piedra contra blancos en movimiento.
+  3. **Armadura Tectónica I:** Cobertura de roca compacta en antebrazos y torso capaz de desviar proyectiles.
+  4. **Adherencia Telúrica (*Wall-walking*):** Desplazamiento vertical por muros de roca con la soltura de caminar en llano.
+  5. **Detección Telúrica (Pulso Sísmico):** Capacidad de enviar pulsos de maná por el suelo para ubicar metales, cavidades huecas, raíces profundas y anomalías estructurales (probado con maese Orven y la maestra Elwen en la subasta).
+  6. **Priorización Táctica:** Aprendió a no malgastar maná intentando abarcar todo el campo a la vez, priorizando amenazas clave.
+- **Cacería de graduación:** Participó en el derribo coordinado de los wyverns de Blackpeak.
+- **Ascenso oficial a Rango C (17 de Lluvia):**
+  Compareció ante el Comité de Evaluación Extraordinaria presidido por **Elowen Vardis**. Realizó una demostración práctica de control espacial y priorización de maná. Fue ascendido formalmente de **Rango D (nivel 23) a RANGO C (Nivel 32)**, elogiado por su criterio defensivo y su magia de soporte.
+- **Vínculo con Elena Weissmann:** Mantiene su amistad íntima y colaboración botánica en la Botica Weissmann, contrastando muestras de suelo y vegetación sin presiones románticas obligatorias.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.

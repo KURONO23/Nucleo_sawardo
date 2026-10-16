@@ -135,3 +135,25 @@ Con la consolidación del mapa oficial `MAPA_MUNDO_CONOCIDO_CANONICO.png`, las u
 8. **Shen-Li y Ciudad del Jade:**
    - Metrópolis del continente oriental de **Zhong-Kyo**, nexo de comercio transoceánico.
 
+---
+
+## LOCALIZACIONES CANÓNICAS CLAVE DEL AÑO 3 (VERDALIA Y LLUVIA)
+
+### 1. Pequeño Zhong-Kyo (Distrito Oriental de Aldoria)
+- **Descripción:** Enclave urbano dentro de la capital habitado por inmigrantes y descendientes de Zhong-Kyo.
+- **Ambiente:** Calles estrechas iluminadas con farolillos de papel, aroma a salsas de soya y fermentos, tiendas de artesanía y puestos de comida callejera como el puesto de **takoyaki** visitado por Max, Aria, Yuki y Cecilia/Mizuki Takahashi.
+
+### 2. Principado de Elaris (Destino Vacacional en Sawardo)
+- **Palacio de las Nueve Fuentes:** Complejo arquitectónico de jardines escalonados, arcos de mármol blanco y fuentes ornamentales donde Max, Serath, Aldric («Don Aldric») y Thalion («Don Teodoro») descansaron de incógnito.
+- **Mercado de los Faroles de Azúcar:** Distrito comercial famoso por sus confiterías artesanales y frutas glaseadas.
+
+### 3. Casa de Subastas de la Llave de Bronce (Distrito Mercantil de Aldoria)
+- **Instalaciones:** Gran anfiteatro de subastas con palcos privados para la nobleza y galerías para gremios e investigadores. Cuenta con un laboratorio anexo de peritaje dirigido por maese Orven Dalmir y la maestra Elwen.
+- **Hito:** Sede de la subasta del 9 de Lluvia donde Max adquirió el *Cofre de los Siete Sellos* y el *Fragmento de Núcleo Carmesí*.
+
+### 4. Cumbres de Blackpeak (Picos Negros)
+- **Zona de Cacería:** Cordillera escarpada de riscos de roca volcánica, niebla densa y vientos cortantes.
+- **Hito:** Territorio donde Max, Aria, Haruto, Leo y Ren establecieron campamento para las cacerías de graduación contra los wyverns de escamas oscuras.
+
+### 5. Casa Ardel (Aldoria)
+- **Sede Administrativa:** Mansión y archivo notarial donde Max se infiltró como el escribiente `Marcos` junto a Orren Halven para desmantelar la red de pagarés de Corven Marr.

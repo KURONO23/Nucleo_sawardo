@@ -6,7 +6,7 @@
 
 - **Día 1 desde la llegada de Max:** 1 de Albor, Año 1.
 - **Día 472:** 17 de Lluvia, Año 2; esta equivalencia aparece expresamente en la fuente y encaja con el calendario de 365 días.
-- **1 de Lluvia, Año 3:** Día continuo 746; es el presente rector de la continuidad derivada.
+- **20 de Lluvia, Año 3:** Día continuo 765; es el presente rector de la continuidad derivada.
 - Los números posteriores como `Día 588`, `Día 634` o `Día 656` pertenecen a un contador antiguo que quedó desplazado. No se usarán para nombrar ni ordenar fuentes nuevas.
 
 ## Orden de lectura
@@ -37,8 +37,9 @@ La repetición del 25 de Ámbar es un solapamiento de continuidad entre conversa
 2. `AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md`
 3. `AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`
 4. `AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md`
+5. `AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`
 
-Los tres archivos mensuales sustituyen los fragmentos anteriores. El tercero conserva el arco completo de Verdalia, incluido el cierre que alcanza el inicio del 1 de Lluvia dentro del texto; no debe reinterpretarse como Floris.
+Los archivos mensuales sustituyen los fragmentos anteriores. El cuarto conserva el arco completo de Verdalia (1 al 31 de Verdalia) y el quinto cubre del 1 al 20 de Lluvia del Año 3 (Días continuos 746 al 765), incluyendo las vacaciones de Elaris en tiempo detenido con Sawardo, la Gran Subasta de la Llave de Bronce, los cinco meses subjetivos de la Academia Gutiérrez y el almuerzo familiar quincenal con el rey Aldric.
 
 ## Respaldo
 

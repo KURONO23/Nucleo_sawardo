@@ -176,3 +176,12 @@ Yuki compara el informe independiente de Mizuki con la cadena Max–Aria–Yuki 
 - **Ruta autónoma vigente — `PENDIENTE`:** solicitar y contrastar documentos originales de Ravenwood, preservar su independencia política y mantener separados a Corven, Verrick, Veylan y el patrocinador desconocido hasta que exista evidencia suficiente.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+---
+
+## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (FRENTE JUDICIAL Y VÍNCULO CON MIZUKI)
+
+- **Causa judicial Ravenwood:** Rastreo de inconsistencias en los libros contables de Casa Ardel y análisis de los intermediarios de Veylan.
+- **Soporte de comunicación:** Enlace continuo con Aria mediante el terminal regional G1.
+- **Reencuentro cultural con Mizuki Takahashi:** Participó en la velada nostálgica con Max y Aria recordando Pequeño Zhong-Kyo y planificando el almuerzo con Sayaka.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.

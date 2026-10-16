@@ -52,3 +52,14 @@ La revisión de Ravenwood, Veylan, V. Sable, G1, las ruinas y los asuntos de la 
 - `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md`
 - `05_CONTINUIDAD/CURRENT_STATE_5_VERDALIA_AÑO3.md`
 - `07_ROLEPLAY/DELTA-RP-4_5_VERDALIA_A3_CHAT_2026-10-08.md`
+
+---
+
+## BLOQUE LLUVIA (1 AL 20 DE LLUVIA, AÑO 3 — DÍAS 746 AL 765)
+
+1. **Vacaciones Reales en Elaris (5 de Lluvia):** Cumpleaños del rey Aldric; viaje en tiempo detenido con Sawardo junto a Max, Serath y Thalion («Don Aldric» y «Don Teodoro»). Reconciliación paterna y pacto de comidas familiares quincenales.
+2. **Gran Subasta de la Llave de Bronce (6 al 10 de Lluvia):** Adquisición del *Cofre de los Siete Sellos* (607 oro) y el *Fragmento de Núcleo Carmesí* (1.000 oro). Caja líquida en **910.068 oro**.
+3. **Elenco Teatral de Biro (12 de Lluvia):** Confirmación de Tobias Mercerfield, Edgar Wainwright y Clara Bellamy para *La tragedia del último barril* en el Teatro de Aldoria con la asesoría de Goran.
+4. **Entrenamiento Intensivo en Sawardo (11 al 15 de Lluvia / 180 días):** Haruto (Nivel 46, técnica rayo), Leo (Nivel 29, absorción y refuerzo) y Ren (Nivel 32, geomancia telúrica). Examen con wyverns en Blackpeak.
+5. **Ascenso Gremial (17 de Lluvia):** El Comité presidido por Elowen Vardis promueve a Leo y Ren a **Rango C** y ratifica a Haruto en **Rango A** (trámite de Rango S en marcha).
+6. **Almuerzo Familiar Quincenal (20 de Lluvia):** Max y Serath reciben al rey Aldric y a Thalion en Gutiérrez Estate con festín de Lomo Saltado y Pollo a la Brasa peruano.

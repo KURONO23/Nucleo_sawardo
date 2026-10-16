@@ -64,3 +64,15 @@ El sistema puede mostrar una posibilidad, rumor o malentendido, pero debe marcar
 ## Mantenimiento autónomo
 
 Cada misión propuesta puede modificar una relación —confianza, respeto, deuda, rivalidad, afecto o cansancio— sin que eso implique romance. Al cerrar una misión se actualizarán las fichas de quienes participaron y esta matriz, conservando también lo que **no** cambió.
+
+---
+
+## ESTADO DE RELACIONES AL 20 DE LLUVIA, AÑO 3
+
+1. **Max y Serath Vale:** Matrimonio de plena lealtad y amor consolidado. Reencuentro conyugal íntimo en la noche del 16/17 de Lluvia con el regreso del legendario «Sí».
+2. **Aldric Theron y Serath Vale:** Vínculo de padre e hija sanado profundamente en las vacaciones secretas de Elaris fuera del protocolo de la Corona. Pacto de comidas familiares quincenales.
+3. **Haruto Kazagami y Liora:** Noviazgo sereno, maduro y estable. Apoyo constante en sus carreras respectivas (aventurero de Rango A y cantante).
+4. **Leo Mercer y Greta Hoffmann:** Amistad en desarrollo; juegos de estrategia, cafés y conversaciones distendidas sin cuadernos de misiones; cercanía afectiva sin noviazgo formal.
+5. **Ren y Elena Weissmann:** Vínculo íntimo en torno a la Botica Weissmann y el estudio botánico de suelos; colaboración dulce y cotidiana sin declaración de pareja.
+6. **Los Cinco del Barril (Max, Goran, Biro, Haruto, Darian):** Hermandad inquebrantable; apoyo unánime a la obra de Biro y bautismo de Serath como «Comandante Suprema del Barril».
+7. **Círculo de Reencarnados:** Convivencia fraterna entre Max, Yuki, Sayaka, Haruto, Kenji, Ryu, Daichi, Misa, Amane y Cecilia/Mizuki Takahashi; encuentros nostálgicos comiendo takoyaki y comida casera japonesa.

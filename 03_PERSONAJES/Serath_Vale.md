@@ -138,3 +138,10 @@
 - **Ruta autónoma vigente:** `Meta:` mantener el mando de la Guardia, revisar seguridad y proteger su tiempo privado. `Ambición:` modernizar la defensa sin perder autoridad humana. `Vínculo:` Elara, Maelis, Celene y Mara sostienen su propio círculo; su matrimonio no absorbe sus carreras. `Obstáculo / hito:` una inspección o decisión de corte que deba tomar sin consultar a Max.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (RECONCILIACIÓN PATERNA Y VIDA CONYUGAL)
+
+- **Vacaciones en Elaris (5 de Lluvia):** Acercamiento emotivo definitivo con su padre Aldric en Elaris bajo tiempo detenido («Señora Serena»).
+- **Intimidad matrimonial:** Noche del 16/17 de Lluvia con Max tras la graduación de los muchachos, marcada por el regreso del legendario «Sí».
+- **Comandante Suprema del Barril:** Bautizada con humor por Biro en la taberna; co-anfitriona del almuerzo familiar quincenal con su padre y Thalion (20 de Lluvia).
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.

@@ -163,3 +163,16 @@ Biro continúa puliendo un final sobrio para *La tragedia del último barril*. L
 - **Ruta autónoma vigente:** `Meta:` terminar _La tragedia del último barril_ y defender su voz. `Ambición:` ser autor dramático además de fuerza cómica. `Vínculo:` Goran, copistas y Darian; la compañía puede criticarlo sin apropiarse de la obra. `Obstáculo / hito:` avanzar de manuscrito y lectura privada hacia revisión y lectura pública; casting, ensayo general y estreno siguen pendientes de escena.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+---
+
+## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (ELENCO CONFIRMADO Y ENSAYOS)
+
+- **Elenco confirmado de *La tragedia del último barril* (12 de Lluvia, 17:15):** En el Teatro de Aldoria, Biro y Goran revisaron las audiciones y confirmaron el elenco principal:
+  - **Tobias Mercerfield:** Protagonista, joven guardián de la bodega.
+  - **Edgar Wainwright:** Viejo tabernero.
+  - **Clara Bellamy:** Papel femenino.
+- **Autoría e integridad artística:** Goran asesora el ritmo y la contención de los actores, pero la autoría de Biro permanece intocable y soberana.
+- **Los Cinco del Barril y Serath:** En la taberna, celebró con Max, Goran, Haruto y Darian, bautizando humorísticamente a Serath como «Comandante Suprema del Barril». Ante la mirada atónita de todos por sus ocurrencias, soltó su inocente y legendario: *«¿Qué?»*.
+- **Defensa inquebrantable:** Ratificado como el mayor baluarte defensivo del grupo (Nivel 68 en la lectura narrativa de Lluvia).
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.

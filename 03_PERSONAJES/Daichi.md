@@ -83,3 +83,10 @@ Su crecimiento está en aceptar que el método también debe enseñar y no solo 
 - **Ruta autónoma vigente:** `Meta:` probar G1 adversarialmente y custodiar la seguridad de las ruinas. `Ambición:` convertir la desconfianza en método que otros puedan enseñar. `Vínculo:` Mika, Ren, Galwin y Thalion. `Obstáculo / hito:` aprobar una exploración pequeña sin abandonar sus criterios.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+---
+
+## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (INVESTIGACIÓN DE RESONANCIAS EN LA TORRE)
+
+- **Protocolos empíricos:** Medición y catalogación rigurosa de las resonancias R-01 a R-03 en la Red de Nodos de Aldoria, evitando interpretaciones prematuras.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.

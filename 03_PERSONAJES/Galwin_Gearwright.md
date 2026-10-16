@@ -125,3 +125,11 @@ La delegación del horno continúa. Galwin concentra su tiempo en hacer reproduc
 - **Ruta autónoma vigente:** `Meta:` consolidar G1, estudiar ruinas y dejar que sus aprendices mejoren el horno. `Ambición:` pasar de ejecutor indispensable a maestro que forma reemplazos y luego diseñar G2 con seguridad. `Vínculo:` aprendices, Daichi, Mika y Dorren. `Obstáculo / hito:` tolerar una solución de aprendiz distinta a la suya.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+---
+
+## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (MANTENIMIENTO RÚNICO Y PROTOTIPOS G1)
+
+- **Soporte rúnico de nodos:** Ejecución del contrato de mantenimiento técnico de telecomunicaciones (500 oro/mes).
+- **Desarrollo de prototipos:** Pruebas de integración de receptores y antenas de cristal para la siguiente fase de terminales portátiles.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.

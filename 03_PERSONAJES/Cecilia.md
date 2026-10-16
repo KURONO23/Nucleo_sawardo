@@ -98,3 +98,12 @@ Cecilia/Mizuki fue presentada formalmente a Yuki/Lady Marianne y eligió el alia
 - **Ruta autónoma vigente:** `Meta:` investigar la red Corven–Ardel–Veylan desde fuera y reparar sin exigir perdón. `Ambición:` convertir Ecclesia en responsabilidad y no en control de personas. `Vínculo:` Haruto, Aria, Max, Kazuki y sus propias redes. `Obstáculo / hito:` aportar una pista independiente sin apropiarse de la decisión del equipo.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+---
+
+## ACTUALIZACIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (MIZUKI TAKAHASHI Y CÍRCULO CULTURAL)
+
+- **Identidad canónica unificada:** Cecilia y **Mizuki Takahashi** son la misma persona: reencarnada de Osaka, analista de redes y antigua «falsa santa». En círculos cercanos recuperó su nombre real Mizuki y adoptó el alias cultural `FRIEREN`.
+- **Encuentro informal con Max y Yuki (1–6 de Lluvia):** Recibió a Max, Yuki y Aria en un encuentro distendido recordando la visita a Pequeño Zhong-Kyo y el takoyaki. Compartió una conversación nostálgica sobre Japón, consolidando una relación humana basada en el respeto y la madurez, no en la manipulación de su antiguo poder Ecclesia.
+- **Investigación independiente:** Colabora con discreción y sin protagonismo invasivo en el contraste de discrepancias documentales del caso Ravenwood y la pista Veylan.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.

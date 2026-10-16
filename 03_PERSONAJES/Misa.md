@@ -91,3 +91,10 @@ Se acerca con cautela compasiva a Max, atiende su estado físico, ofrece aliment
 - **Ruta autónoma vigente:** `Meta:` sostener el seguimiento médico de los supervivientes y un protocolo de atención de campo. `Ambición:` ser autoridad médica reconocida por criterio y compasión, no solo por potencia curativa. `Vínculo:` Jasmine, Torin, Amane y las comunidades atendidas. `Obstáculo / hito:` transformar prácticas de Sawardo en procedimiento seguro; sus curaciones extremas siguen limitadas.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+---
+
+## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (SUPERVISIÓN MÉDICA Y NUTRICIONAL)
+
+- **Salud y acondicionamiento:** Seguimiento nutricional y protocolos de recuperación para los jóvenes aventureros durante sus jornadas de expedición.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.

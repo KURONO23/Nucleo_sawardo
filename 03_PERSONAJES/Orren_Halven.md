@@ -93,3 +93,10 @@ No atribuirle conocimiento de la identidad de Max, de G1 ni del patrocinador fin
 - **Ruta autónoma vigente:** `Meta:` mantener el funcionamiento diario de Casa Ardel. `Ambición:` conservar poder práctico aunque no controle el financiamiento. `Vínculo:` Severin, Corven y trabajadores. `Obstáculo / hito:` detectar una orden contradictoria y decidir a quién obedecer.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+---
+
+## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (GESTIÓN AUTÓNOMA EN CASA ARDEL)
+
+- **Independencia profesional:** Tras la salida de Marcos (Max), asumió la conducción ética y autónoma de los libros y asuntos de Casa Ardel, desvinculándose de las maniobras ilícitas de Corven Marr.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.

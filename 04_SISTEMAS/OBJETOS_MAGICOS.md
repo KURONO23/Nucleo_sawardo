@@ -115,3 +115,25 @@ En el mundo conocido, los objetos mágicos circulan en tiendas gremiales, taller
   2. *Peso Cero Constante:* No transmite la masa almacenada al exterior; cuelga del cinturón de Max sin esfuerzo físico.
   3. *Compatibilidad con la Caja Temporal de Sawardo:* Mediante la estabilización rúnica y líquida de Aria, permite almacenar seres vivos en suspensión temporal absoluta al 100%, transportando incluso criaturas de Rango S como el Devorador.
   4. *Inventario Rápido:* Extracción instantánea de comida fresca, agua, herramientas y botín mediante simple intención de Max.
+
+---
+
+## RELIQUIAS Y OBJETOS DEL AÑO 3 (SUBASTA DE LA LLAVE DE BRONCE Y DESARROLLOS)
+
+### 1. Cofre de los Siete Sellos (Adjudicado a Max por 607 oro)
+- **Origen y naturaleza:** Reliquia antigua de mecanismos rúnicos concéntricos no forzados. Dispone de siete discos metálicos que requieren una secuencia exacta de giro para su apertura sin dañar el contenido interior.
+- **Estado:** En custodia documental en la residencia de Max; en fase de análisis pacífico con la Dra. Eleanor Whitmore y la Sociedad de Estudios Históricos.
+
+### 2. Fragmento de Núcleo Carmesí (Adjudicado a Max por 1.000 oro)
+- **Origen y naturaleza:** Fragmento mineral de alta concentración de maná puro y resonancia térmica latente. Capaz de alimentar matrices energéticas o prototipos arcanos avanzados.
+- **Estado:** En depósito seguro bajo custodia gremial en el Palacio de los Gremios de Aldoria; objeto de interés del maestro artificiero Hugo von Altenberg.
+
+### 3. Lente del Cartógrafo (Inspeccionada en la Llave de Bronce)
+- **Origen y propiedades:** Dispositivo monocular con aro regulable que permite visualizar discontinuidades estructurales, oquedades y cámaras ocultas en muros de mampostería. Demostrada en laboratorio por la Maestra Elwen del Círculo Arcano.
+
+### 4. Terminal Regional Portátil G1 (Proyecto G1)
+- **Diseño:** Prototipo de telecomunicación rúnica y resonancia de nodos desarrollado por Galwin, Aria, Daichi y Mika.
+- **Estado en Lluvia:** Dos terminales autorizados en operación: Terminal G1-A (en posesión de Yuki Moriyama) y Terminal de enlace en Gutiérrez Estate (conducido por Aria).
+
+### 5. Diadema Nekomimi
+- **Detalle afectivo:** Diadema con orejas de gato obsequiada por Max a Liora en Gutiérrez Estate durante los días 16–17 de Verdalia; símbolo de cariño y alegría compartida en el círculo íntimo.

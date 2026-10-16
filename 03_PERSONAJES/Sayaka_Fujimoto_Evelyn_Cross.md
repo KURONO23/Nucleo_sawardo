@@ -104,3 +104,11 @@ Sayaka rechazó un lote defectuoso de Cerveza Esmeralda. El hecho confirma su ve
 - **Ruta autónoma vigente:** `Meta:` proteger calidad, margen y reputación de Esmeralda. `Ambición:` dirigir una industria que no repita el agotamiento de su vida terrestre. `Vínculo:` Natalia, Galwin y productores. `Obstáculo / hito:` detener un lote defectuoso aunque pierda una venta.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+---
+
+## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (CONTROL DE CALIDAD Y CÍRCULO JAPONÉS)
+
+- **Cervecería Esmeralda:** Ejerció su derecho de veto técnico rechazando con firmeza un lote defectuoso de producción para proteger el estándar de la marca.
+- **Comunidad de reencarnados:** Coordinó con Yuki y Cecilia/Mizuki Takahashi la organización de una reunión informal y gastronómica del círculo japonés, libre de ataduras y compromisos corporativos.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.

@@ -110,3 +110,16 @@ Haruto acepta la disculpa de Mizuki sin conceder perdón completo. Mantiene su p
 - **Ruta autónoma vigente:** `Meta:` acompañar a Ren y Leo y registrar límites de su Adaptación. `Ambición:` proteger sin sobreproteger y vivir fuera de la recompensa. `Vínculo:` Liora, Siri, Ren y Leo. `Obstáculo / hito:` ceder el mando de una decisión de campo; un compromiso con Liora es posibilidad futura, no hecho ni meta automática.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (ENTRENAMIENTO EN SAWARDO Y RANGO A NIVEL 46)
+
+- **Liderazgo de Vanguardia en Sawardo (11–15 de Lluvia / 180 días subjetivos):**
+  1. **Habilidad 《Adaptación》:** Amoldamiento físico y lectura cinética de campo.
+  2. **Espada de Trueno:** Canalización de relámpago en su katana (concepto Chidori / Cuarto Hokage).
+  3. **Paso Relámpago I (*Shunshin*):** Movilidad explosiva con frenado fiable y cambios bruscos de ángulo.
+  4. **Battōjutsu de Precisión:** Desenvaine eléctrico instantáneo.
+  5. **Corte Relámpago:** En perfeccionamiento técnico para reducir su ventana de vulnerabilidad.
+- **Evaluación Gremial (17 de Lluvia):**
+  Ratificado en **RANGO A (Nivel 46)** por **Elowen Vardis**. Expediente de elegibilidad para examen de Rango S en trámite formal.
+- **Vínculo con Liora:** Relación sentimental estable y serena; apoyo a su carrera musical.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.

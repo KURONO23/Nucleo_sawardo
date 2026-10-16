@@ -216,3 +216,10 @@ Aria puede iniciar una vigilancia exterior discreta alrededor de Gutiérrez Esta
 - **Ruta autónoma vigente:** `Meta:` estudiar la Lágrima de Vael y controlar sus límites sin convertirla en una solución automática. `Ambición:` ser socia, memoria y autoridad técnica con criterio propio. `Vínculo:` su intimidad con Max convive con amistades, curiosidad y desacuerdos propios. `Obstáculo / hito:` decidir qué investigar y qué proteger durante una ausencia; la causa de la marca antigua sigue abierta.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (VACACIONES, INSTRUCCIÓN Y RELIQUIAS)
+
+- **Vacaciones en Elaris:** Asistencia técnica y paseos familiares con Max, Serath, Aldric y Thalion.
+- **Instructora en Sawardo:** Evaluadora mágica de combate, exigiendo resistencia física a Leo y control telúrico a Ren.
+- **Gestión de reliquias:** Custodia gremial segura del Fragmento de Núcleo Carmesí y coordinación con la Dra. Eleanor Whitmore para el descifrado del Cofre de los Siete Sellos.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.

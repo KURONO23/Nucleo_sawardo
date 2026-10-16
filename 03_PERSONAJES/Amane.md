@@ -155,3 +155,10 @@ Amane sigue siendo su referencia principal para magia y combate. La expedición 
 - **Ruta autónoma vigente:** `Meta:` seguir enseñando magia y combate a Ren mientras aprende a dejarlo salir. `Ambición:` ser una maestra capaz de producir autonomía, no dependencia. `Vínculo:` Kael, Ren y Los Ventura. `Obstáculo / hito:` revisar el cuaderno de Ren después de cada salida y aceptar errores de bajo riesgo.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+---
+
+## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (TUTORÍA MÁGICA DE REN)
+
+- **Maestra de magia y combate:** Supervisión del aprendizaje de Ren (Rango S, nivel 82), exigiéndole control de maná y criterio de retirada antes que poder desmedido.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.

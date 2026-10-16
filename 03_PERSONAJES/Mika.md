@@ -84,3 +84,10 @@ Su primera mejora tendrá un coste: un falso positivo obligará al equipo a repe
 - **Ruta autónoma vigente:** `Meta:` calibrar ruinas y distinguir Resonancia de Nodo de falso positivo. `Ambición:` crear una memoria técnica reproducible para G1 y G2. `Vínculo:` Daichi y Ren, además de Hwan-Rei. `Obstáculo / hito:` repetir una medición que retrase una entrega.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+---
+
+## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (ANÁLISIS DE SEÑALES EN LA TORRE)
+
+- **Mediciones técnicas:** Registro de fluctuaciones en los nodos de la Torre y cotejo de datos con Daichi y Ren.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.

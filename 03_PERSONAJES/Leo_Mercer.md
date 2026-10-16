@@ -87,3 +87,18 @@ Leo mantiene Quest Log en fase de diseño verificable. La primera misión con Re
 - **Ruta autónoma vigente:** `Meta:` evolucionar Quest Log con objetivos sugeridos, evidencia y retirada. `Ambición:` coordinar expediciones sin obedecer una interfaz ciegamente. `Vínculo:` Natalia, Ren, Haruto y Liora. `Obstáculo / hito:` rechazar una misión lateral atractiva para proteger al equipo.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (ENTRENAMIENTO EN SAWARDO Y ASCENSO A RANGO C)
+
+- **Entrenamiento Intensivo en Sawardo (11–15 de Lluvia / 180 días subjetivos):**
+  Bajo la tutela de Max, Aria y Jasmine, Leo entrenó su cuerpo y su sistema 《Quest Log — Forjador de Destino》:
+  1. **Refuerzo Corporal y Absorción de Daño:** Tolerancia a impactos masivos (aguantando embates de Aria).
+  2. **《Refuerzo de Arma I》:** Imbuición física de maná en armas, rompiendo troncos de árboles con armas reparadas por Reversi.
+  3. **《Guardia Compartida I》:** Despliegue de barrera en arco para proteger aliados o estandartes.
+  4. **《Impacto Resonante I》:** Golpe de choque cinético para desestabilizar adversarios pesados.
+  5. **《Impulso Reforzado I》:** Movilidad de interposición rápida.
+  6. **Evolución de Quest Log:** Sincronizó 23 misiones cooperativas y 18 paquetes de recompensa, consolidando su criterio de rechazar misiones secundarias riesgosas por voluntad propia.
+- **Ascenso oficial a Rango C (17 de Lluvia):**
+  Evaluado ante el Comité de **Elowen Vardis**. Demostró control de objetivo (proteger antes que destruir) y criterio de retirada. Promovido de **Rango D (nivel 20) a RANGO C (nivel 29)** con vía futura a Rango B.
+- **Vínculo con Greta Hoffmann:** Juegos de estrategia, cafés y conversaciones distendidas sin cuadernos ni informes; relación de afecto creciente sin noviazgo cerrado.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.

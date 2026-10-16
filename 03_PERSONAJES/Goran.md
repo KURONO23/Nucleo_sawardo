@@ -86,3 +86,11 @@ En el proyecto de *La tragedia del último barril*, Goran conserva el papel de a
 - **Ruta autónoma vigente:** `Meta:` dirigir compañía, editorial, _Tragedia_ y búsqueda óptica. `Ambición:` que la cultura local continúe con autores propios. `Vínculo:` Biro, Darian, actores, copistas y estudiantes. `Obstáculo / hito:` escoger qué obra producir sin sobrecargar a la compañía.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+---
+
+## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (DIRECCIÓN TEATRAL Y AUDICIONES)
+
+- **Audiciones y casting de *La tragedia del último barril* (12 de Lluvia):** Asesoró a Biro en la selección de Tobias Mercerfield, Edgar Wainwright y Clara Bellamy en el Teatro de Aldoria, cuidando la contención dramática de los actores y protegiendo escrupulosamente la autoría de Biro.
+- **Ética de producción:** Mantiene la regla estricta de no sobrecargar a los actores (máximo 2 funciones por semana, descansos garantizados y calendario de ensayos sin presiones de estreno apresurado).
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
