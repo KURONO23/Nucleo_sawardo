@@ -39,6 +39,7 @@ La repetición del 25 de Ámbar es un solapamiento de continuidad entre conversa
 4. `AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md`
 5. `AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`
 6. `AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md`
+7. `AÑO_3/15_01_de_Solalto_Año_3.md`
 
 Los archivos mensuales sustituyen los fragmentos anteriores. El cuarto conserva el arco completo de Verdalia (1 al 31 de Verdalia) y el quinto cubre del 1 de Lluvia al 1 de Floris del Año 3 (Días continuos 746 al 776). Incluye Elaris, la Gran Subasta, la Academia Gutiérrez, el incidente causal de Chronos, la preparación de *La tragedia del último barril*, los cumpleaños de Kenji y Haruto y el cierre financiero de Lluvia.
 

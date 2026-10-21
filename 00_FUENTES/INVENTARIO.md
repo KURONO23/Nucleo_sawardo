@@ -45,6 +45,7 @@ La frase “no se detectaron otras fuentes” describe únicamente el inventario
 | `historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` | 1–31 de Albor, Año 3 | Fuente primaria del tramo de Albor |
 | `historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` | 1–28 de Bruma, Año 3 | Minas Quebradas, Elaris, Festival, G1-A, cierre financiero y Operación «Somos Pobres» |
 | `historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md` | 1–31 de Floris, Año 3 | Estreno de Biro, Zhong-Kyo, Elaris, G1.03, Serath-Maru, relaciones, nueve autores y cumpleaño de Serath |
+| `historia_original/AÑO_3/15_01_de_Solalto_Año_3.md` | 1 de Solalto, Año 3 | Cierre contable de Floris con Natalia y Aria, auditoría G1.03, preparativos de La cámara secreta |
 | `historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md` | 1 de Verdalia–1 de Lluvia, Año 3 | Fuente narrativa del arco de Verdalia, la infiltración de Marcos, el arco autónomo de Haruto y el retorno del control de Max |
 | `04_SISTEMAS/FESTIVAL DE LA CERVEZA TEATRO.md` | Origen teatral y desarrollo cultural del festival | Transcripción temática conservada fuera de `00_FUENTES`; debe tratarse como fuente histórica separada hasta resolver su ubicación matriz |
 
