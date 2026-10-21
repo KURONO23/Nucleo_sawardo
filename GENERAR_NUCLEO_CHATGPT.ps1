@@ -1,4 +1,4 @@
-<#
+﻿<#
 .SYNOPSIS
   Genera el paquete estable y sin ZIP del Núcleo Sawardo para ChatGPT.
 .DESCRIPTION
@@ -109,7 +109,7 @@ foreach ($folder in $contentRoots) {
   $folderPath = Join-Path $root $folder
   if (-not (Test-Path -LiteralPath $folderPath)) { continue }
   Get-ChildItem -LiteralPath $folderPath -Recurse -File -Filter '*.md' | ForEach-Object {
-    $relative = [System.IO.Path]::GetRelativePath($root, $_.FullName).Replace('\','/')
+    $relative = $_.FullName.Substring($root.Length).TrimStart('\','/').Replace('\','/')
     $excluded = $false
     foreach ($pattern in $excludePatterns) {
       if ($relative -match $pattern) { $excluded = $true; break }

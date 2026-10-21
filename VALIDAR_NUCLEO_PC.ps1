@@ -1,4 +1,4 @@
-<#
+﻿<#
 .SYNOPSIS
   Comprobación de solo lectura para el núcleo local de PC.
 .DESCRIPTION
@@ -6,6 +6,8 @@
 #>
 
 $ErrorActionPreference = 'Stop'
+$PSDefaultParameterValues['Get-Content:Encoding'] = 'UTF8'
+$PSDefaultParameterValues['Select-String:Encoding'] = 'UTF8'
 $root = Split-Path -Parent $MyInvocation.MyCommand.Path
 $errorCount = 0
 $required = @(
