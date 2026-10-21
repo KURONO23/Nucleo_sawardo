@@ -68,3 +68,39 @@
 - [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]]
 - **Corrección autoral prevalente:** «Mara» fue un nombre provisional descartado; usar siempre **Greta Hoffmann**.
 
+---
+
+## EVOLUCIÓN CANÓNICA — 27 DE LLUVIA Y 1 DE FLORIS, AÑO 3
+
+- Resolvió por criterio propio un conflicto con un proveedor que pretendía cambiar el precio después de aceptar un anticipo; la escena confirma competencia profesional autónoma.
+- Cumplió la partida pendiente con Leo y volvió a desafiar su necesidad de preverlo todo. Disfrutó que él aceptara otra partida sin convertirla en objetivo.
+- Asistió al cumpleaños de Haruto y bromeó con Leo sobre acudir a una fiesta sin registrar objetivos.
+- **Estado relacional:** cercanía en desarrollo; **no son pareja**.
+- **Fuente:** [Lluvia a 1 de Floris, Año 3](../00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md).
+
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** resolvió un conflicto con proveedor y eligió repetir por gusto la partida pendiente con Leo.
+- **Crecimiento:** combina lectura contractual con elección personal, sin convertirse en premio ni tutora de Leo.
+- **Coste y límite:** defender condiciones comerciales tensó al proveedor y no garantiza continuidad del acuerdo.
+- **Relaciones vivas:** mantiene su círculo con Liora, Elena y Nadia; la afinidad con Leo permanece abierta.
+- **Siguiente hito:** negociar un acuerdo nuevo sin renunciar a un encuentro elegido por ella.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## EVOLUCIÓN RELACIONAL — LEO, 1 DE FLORIS
+
+- Propuso por iniciativa propia una revancha y prolongó el encuentro con un café.
+- Disfrutó que Leo estuviera presente sin consultar recompensas ni buscar una utilidad inmediata.
+- Su interés se expresa como elección repetida y curiosidad personal; no acepta todavía la etiqueta de pareja.
+
+## ADDENDUM — FLORIS, AÑO 3
+
+- Participó en dos misiones florales y valoró que Leo escuchara al grupo cuando debieron cambiar de ruta.
+- Aceptó nuevas citas y planteó preguntas directas sin convertir la relación en recompensa.
+- Existe interés mutuo; **no hay noviazgo formal**.
+- **Fuente:** [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md).
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

@@ -93,3 +93,16 @@ Fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Añ
 - **Ruta autónoma vigente:** `Meta:` perfeccionar la forja de materiales monstruosos y cuidar su reputación. `Ambición:` que su taller sea referencia técnica, no solo proveedor de dagas. `Vínculo:` clientes, aprendices y otros herreros de Thornhaven. `Obstáculo / hito:` comparar una pieza nueva con las dagas de Max sin depender de que Max vuelva a encargarle trabajo.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** comparó materiales recuperados con estándares de resistencia y rechazó vender una pieza como equivalente monstruosa.
+- **Crecimiento:** defendió credibilidad artesanal frente a beneficio inmediato.
+- **Coste y límite:** perdió una venta y aún desconoce usos fiables de ciertos materiales.
+- **Relaciones vivas:** recibe datos de Romina y exploradores sin prometer resultados.
+- **Siguiente hito:** producir una pieza de prueba con propiedades documentadas.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

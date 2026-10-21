@@ -100,3 +100,7 @@
 - **Ruta autónoma vigente:** `Meta:` mejorar muebles, telas y ergonomía. `Ambición:` convertir su taller en escuela artesanal. `Vínculo:` clientes y proveedores. `Obstáculo / hito:` rechazar una copia de baja calidad y explicar por qué.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

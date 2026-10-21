@@ -3,6 +3,10 @@
 ## Identidad estable
 Adrian Voss es observador y antagonista sistémico. Su habilidad Breakpoint detecta tensiones, dependencias y posibles rupturas con contexto suficiente; no lee mentes, no controla personas ni le revela secretos que no pueda conocer plausiblemente.
 
+## CORRECCIÓN AUTORAL — QUIÉN LO MOVIÓ
+
+**Corven Marr fue quien movió a Adrian Voss.** Lo escogió, orientó y puso en circulación como instrumento de observación y presión. Adrian no pierde por ello voluntad propia ni queda convertido en una marioneta: desconocemos si obedecía por convicción, deuda, miedo, promesa, dependencia u otra forma de influencia.
+
 ## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
 Tras comprobar compensación distribuida en Aldoria, abandona la búsqueda de una ruptura única e introduce fricciones pequeñas para medir corrección. El siguiente intento de dos problemas legítimos simultáneos no está ejecutado.
 
@@ -88,6 +92,14 @@ No narrar como ocurrido hasta que suceda en escena.
 - **Psicológicamente:** Aterrorizado y quebrado en su soberbia analítica; aprendió que provocar a la gente de Max despierta a un dios que puede congelar el tiempo y desfigurarlo a voluntad.
 - **Operatividad:** Retirado de cualquier hostilidad directa; reveló el nombre de su superior **Corven Marr** y permanece en silencio en las sombras.
 
+## ADDENDUM — SILENCIO PROPIO HASTA 1 DE FLORIS, AÑO 3
+
+- Después de su derrota, Corven redujo el contacto y dejó que intermediarios midieran su utilidad y su miedo.
+- Adrian recibió una solicitud indirecta de observación y no respondió. No es redención ni ruptura confirmada: es el primer límite verificable que coloca frente al hombre que lo movió.
+- Sigue comprendiendo sistemas y fricciones, pero el recuerdo del Reversi altera su disposición a provocar a la gente de Max.
+- Su siguiente decisión permanece abierta: volver como instrumento, negociar independencia, advertir, esconderse o redefinir el uso de Breakpoint requiere desarrollo futuro.
+- Véase [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[OPERACION_RAVENWOOD_ARDEL_VEYLAN]].
+
 ---
 
 ## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
@@ -96,3 +108,7 @@ No narrar como ocurrido hasta que suceda en escena.
 - **Ruta autónoma vigente:** `Meta:` reconstruir su seguridad y decidir si vuelve a observar. `Ambición:` comprender el coste de su habilidad sin convertirse en herramienta de Corven. `Vínculo:` Corven y quienes vigilan su recuperación. `Obstáculo / hito:` una decisión independiente que confirme o rompa su inactividad.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

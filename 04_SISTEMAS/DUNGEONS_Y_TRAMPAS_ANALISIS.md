@@ -54,7 +54,8 @@ Cuando Leo abre 《QUEST LOG》 o Haruto enfoca su análisis sobre un corredor a
 
 ## 3. MEGADUNGEONS INTEGRADOS — NIVELES Y JEFES
 
-### 1. La Aguja Esmeralda (*The Emerald Spire*)
+### 1. La Aguja Esmeralda (*The Emerald Spire*) — `NO_CANON / PROPUESTA DERIVADA`
+- **Estado:** No aparece en la historia original y no existe en el canon vigente. Las referencias de este análisis son material de adaptación descartado, no geografía confirmada.
 - **Estatus:** 16 niveles mapeados en la meseta central conectada a la Aguja Muerta.
 - **Monstruos de Guardia:** Goblins y arañas (pisos 1-4), autómatas de bronce (pisos 5-8), miconidos y quimeras (pisos 9-12), Ojo Tirano dormido y guardianes de maná (pisos 13-16).
 - **Objetivo Principal:** El núcleo de transmisión rúnica que enlaza la meseta central con el haz celeste de Aldoria y Tornhaven.

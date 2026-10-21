@@ -79,7 +79,7 @@ El primer reconocimiento con Haruto y Leo sigue pendiente de escena. Ren contin�
 
 ---
 
-## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+## ESTADO HISTÓRICO — 1 DE LLUVIA, AÑO 3
 
 - **Crecimiento y estado:** Alcanzó nivel 23, desarrolló Púa de Tierra I y Trampa de Apoyo I, registró resonancias y conectó su magia terrestre con botánica y restauración de suelos. Su amistad con Elena Weissmann ganó intimidad, pero no existe romance formal.
 - **Ruta autónoma vigente:** `Meta:` seguir aprendiendo con Amane y preparar misiones con Haruto y Leo. `Ambición:` reconciliar sus dos continuidades sin que la Torre decida quién es. `Vínculo:` Mika, Daichi, Amane, Haruto y Leo. `Obstáculo / hito:` tomar una decisión mágica acotada y registrarla en su cuaderno.
@@ -88,7 +88,7 @@ El primer reconocimiento con Haruto y Leo sigue pendiente de escena. Ren contin�
 
 ## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (ENTRENAMIENTO EN SAWARDO Y ASCENSO A RANGO C)
 
-- **Entrenamiento Intensivo en Sawardo (11–15 de Lluvia / 180 días subjetivos):**
+- **Entrenamiento intensivo en Sawardo (11–15 de Lluvia / cinco meses subjetivos):**
   Siguiendo las pautas de Max (*«moldear tu maná hasta que sacar 5 púas de tierra te parezca tan fácil como respirar, desplazarte en paredes como si caminaras tranquilamente y detectar en el terreno objetos como un detector de metales»*) y la tutela de Amane:
   1. **Moldeado y Púas de Tierra I:** Estabilizó su maná para desplegar 5 púas de roca simultáneas de forma instantánea y fluida.
   2. **Lanzas Minerales:** Proyección precisa de estacas de piedra contra blancos en movimiento.
@@ -97,7 +97,41 @@ El primer reconocimiento con Haruto y Leo sigue pendiente de escena. Ren contin�
   5. **Detección Telúrica (Pulso Sísmico):** Capacidad de enviar pulsos de maná por el suelo para ubicar metales, cavidades huecas, raíces profundas y anomalías estructurales (probado con maese Orven y la maestra Elwen en la subasta).
   6. **Priorización Táctica:** Aprendió a no malgastar maná intentando abarcar todo el campo a la vez, priorizando amenazas clave.
 - **Cacería de graduación:** Participó en el derribo coordinado de los wyverns de Blackpeak.
-- **Ascenso oficial a Rango C (17 de Lluvia):**
-  Compareció ante el Comité de Evaluación Extraordinaria presidido por **Elowen Vardis**. Realizó una demostración práctica de control espacial y priorización de maná. Fue ascendido formalmente de **Rango D (nivel 23) a RANGO C (Nivel 32)**, elogiado por su criterio defensivo y su magia de soporte.
+- **Ascenso oficial a Rango C (20 de Lluvia):**
+  Realizó una demostración práctica de control espacial y priorización de maná. Fue ascendido formalmente de **Rango D (nivel 23) a RANGO C (nivel 32)**, elogiado por su criterio defensivo y su magia de soporte.
 - **Vínculo con Elena Weissmann:** Mantiene su amistad íntima y colaboración botánica en la Botica Weissmann, contrastando muestras de suelo y vegetación sin presiones románticas obligatorias.
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
+
+## VIDA AUTÓNOMA — 21 DE LLUVIA A 1 DE FLORIS, AÑO 3
+
+- Dirigió una práctica de lectura telúrica, identificó una falsa alarma mineral y documentó el error antes de recibir la revisión de Amane.
+- Contrastó suelo y vegetación con Elena Weissmann y separó junto a Mika resonancia real de ruido instrumental.
+- Mantiene nivel 32 y rango C; el avance es metodológico y de autonomía.
+- Véase [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** dirigió lectura telúrica, registró una falsa alarma y contrastó muestras con Elena Weissmann y Mika.
+- **Crecimiento:** empezó a conservar sus errores y correcciones como parte del método, sin esperar que Amane decida cada interpretación.
+- **Coste y límite:** mantiene nivel y rango; la resonancia todavía puede confundirse con ruido.
+- **Relaciones vivas:** Amane supervisa con mayor distancia; Elena aporta botánica y Mika instrumentación sin anular su lectura.
+- **Siguiente hito:** repetir una lectura útil fuera del entorno controlado.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## EVOLUCIÓN RELACIONAL — ELENA WEISSMANN, 1 DE FLORIS
+
+- Devolvió las notas del herbario con su falsa alarma señalada, sin intentar disimular el error.
+- Aceptó acompañar a Elena en una segunda salida de observación porque ella se lo pidió.
+- La confianza adquiere intimidad cotidiana y vulnerabilidad intelectual; no existe declaración ni pareja confirmada.
+
+## ADDENDUM — EXPEDICIÓN DE ELARIS, FLORIS AÑO 3
+
+- Conserva **rango C y nivel 32**. Usó Pulso Sísmico, Adherencia Telúrica y sus técnicas de tierra sin volverse omnisciente; sus lecturas fueron contrastadas por Mika y Daichi.
+- Protegió al equipo, cartografió cavidades y aceptó falsos positivos. No controló la ruina ni recibió ascenso.
+- Se despidió de Elena, regresó y mantuvo nuevas citas; la cercanía es romántica, sin noviazgo formal.
+- Amane continúa siendo su maestra.
+- **Fuente:** [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md).
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

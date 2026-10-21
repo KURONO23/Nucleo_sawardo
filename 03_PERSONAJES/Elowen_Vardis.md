@@ -19,12 +19,12 @@
 
 - **Ubicación:** Sede Central del Gremio de Aventureros, Aldoria.
 - **Responsabilidad:** Supervisión del registro de rangos extraordinarios y control de promociones aceleradas.
-- **Último hecho cerrado:** Presidió la evaluación del 17 de Lluvia de Haruto Kazagami, Leo Mercer y Ren, aprobando el ascenso de Leo y Ren a Rango C y validando la elegibilidad futura de Haruto hacia el Rango S.
+- **Último hecho cerrado:** Presidió la evaluación del 20 de Lluvia de Leo Mercer y Ren, aprobando su ascenso a Rango C. El expediente de elegibilidad futura de Haruto hacia el Rango S continúa abierto.
 
 ## 3. Cronología canónica
 
 ### Año 3
-- **17 de Lluvia:** Convocatoria y dirección de la sesión extraordinaria con los aspirantes de la Casa Gutiérrez. Dictaminó que la coordinación de equipo, el uso de magia de apoyo y la defensa estructurada justificaban plenamente el salto de Rango D a C para Leo y Ren, habilitando su futura postulación a Rango B.
+- **20 de Lluvia:** Comunicó los resultados de los exámenes de Leo y Ren: ambos superaron las pruebas y ascendieron de Rango D a C, quedando habilitados para una futura postulación a Rango B si cumplen los requisitos adicionales.
 
 ## 4. Evolución causal
 
@@ -32,7 +32,7 @@
 - **Antes:** Escepticismo habitual ante progresiones anormalmente rápidas vinculadas a mentores rango S.
 - **Hecho:** Verificó en persona los registros, el criterio táctico y la madurez defensiva de Haruto, Leo y Ren.
 - **Cambio:** Reconoció la validez pedagógica del método de Max sin relajar los estándares gremiales.
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
 
 ## 5. Relaciones vivas
 
@@ -49,4 +49,8 @@
 
 ## 7. Fuentes y correcciones
 
-- `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

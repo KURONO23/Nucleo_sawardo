@@ -96,3 +96,43 @@
 - **Ruta autónoma vigente:** `Meta:` organizar logística y representación de Minas Quebradas. `Ambición:` que la comunidad negocie sin depender del prestigio de Kazuki. `Vínculo:` Kazuki, mineros y delegaciones. `Obstáculo / hito:` fijar un protocolo de retorno y mantenimiento.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+---
+
+## VIDA AUTÓNOMA COMPATIBLE — 21 DE LLUVIA A 1 DE FLORIS, AÑO 3
+
+- Reorganizó **El Pico Roto** después del Festival: barriles, cocina, abastecimiento y horarios compatibles con los turnos mineros.
+- Mantuvo la Cerveza Pico Roto accesible para su gente. Separó solo una partida pequeña para estudiar intercambios futuros; la ruta con Vivienne continúa `PENDIENTE`.
+- Exhibió las copas como triunfo colectivo y escuchó en la taberna necesidades sobre comida, descanso y suministros, que comunicó directamente a Kazuki con su franqueza habitual.
+- **Límite rector:** Hessa no es operadora de G1, artificiera, secretaria ni subordinada de Kazuki. Puede emitir sus **informes quincenales independientes** sobre turnos, abastecimiento, comunicación y vida comunitaria, pero no se le atribuyen mediciones, calibraciones o diagnósticos técnicos. Su autoridad nace de la taberna, la cerveza, la logística cotidiana y la comunidad minera.
+- Integración: [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** reorganizó El Pico Roto para los turnos mineros, protegió el precio local de su cerveza y trasladó necesidades concretas a Kazuki.
+- **Crecimiento:** convirtió prestigio del Festival en autoridad comunitaria sin abandonar su oficio ni convertirse en funcionaria.
+- **Coste y límite:** reservar una partida para intercambio redujo disponibilidad local; no cerró distribución con Vivienne.
+- **Relaciones vivas:** exige a Kazuki escuchar a la comunidad y conserva independencia frente a proyectos técnicos.
+- **Siguiente hito:** decidir si una ruta comercial beneficia realmente a El Pico Roto.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## EVOLUCIÓN RELACIONAL — KAZUKI, 1 DE FLORIS
+
+- Discutió de frente la prioridad de abastecimiento frente a repuestos y presentó consecuencias concretas sobre los turnos mineros.
+- No suavizó su posición por jerarquía ni aceptó convertirse en informante administrativa.
+- Kazuki modificó el orden de trabajo. La relación gana respeto mediante desacuerdo productivo, no romance automático.
+
+## ADDENDUM — FLORIS, AÑO 3
+
+- **Acción propia:** el 6 de Floris reunió en El Pico Roto a trabajadores de jornadas ordinarias y preguntó por problemas que no suelen aparecer cuando llega una inspección.
+- **Hallazgos:** recogió dificultades con los turnos y fallos de comunicación entre cuadrillas. Los registró sin prometer soluciones que no controla.
+- **Informes quincenales independientes:** consolidó esas observaciones en su siguiente informe comunitario, dirigido a las cuadrillas y a la memoria colectiva de Minas Quebradas. El documento pertenece a Hessa y a su red de trabajadores; no se entrega a Kazuki como superior, no es un encargo suyo ni un parte técnico de mantenimiento.
+- **Crecimiento causal:** pasa de trasladar quejas puntuales a sostener una memoria comunitaria periódica que hace visibles problemas normales, no solo emergencias o visitas oficiales.
+- **Coste y límite:** escuchar, contrastar y registrar consume tiempo fuera de la barra; no puede corregir por sí sola turnos, vibraciones o estructura minera.
+- **Relaciones vivas:** las cuadrillas ganan un canal propio que no depende de hablar con el líder minero. Kazuki puede responder a la presión o evidencia comunitaria como cualquier dirigente afectado, pero no dirige, recibe ni aprueba los informes.
+- **Siguiente hito:** convocar su próxima revisión comunitaria, comprobar si cambió la comunicación entre cuadrillas y decidir qué asuntos hace públicos, cuáles devuelve a las cuadrillas y cuáles exige discutir colectivamente.
+- **Fuente:** corrección autoral sobre los informes independientes y [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md), escena del 6 de Floris en Minas Quebradas.
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

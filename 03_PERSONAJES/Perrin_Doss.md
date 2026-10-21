@@ -99,3 +99,16 @@ La química entre Perrin Doss y Branik Tor es uno de los pilares cómicos más s
 - **Ruta autónoma vigente:** `Meta:` mantener el reglamento y los Juegos del Barril. `Ambición:` demostrar que la precisión también puede ser popular. `Vínculo:` Branik, jueces y competidores. `Obstáculo / hito:` arbitrar una disputa sin favorecer a Aldoria.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** revisó reglas y puntos de disputa de los Juegos del Barril.
+- **Crecimiento:** convierte precisión en memoria institucional, incluso cuando limita ventaja local.
+- **Coste y límite:** reglas más claras exponen decisiones anteriores debatibles.
+- **Relaciones vivas:** equilibra la energía de Branik y expectativas de cerveceros.
+- **Siguiente hito:** arbitrar una disputa sin favorecer a Aldoria.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

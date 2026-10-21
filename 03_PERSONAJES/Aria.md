@@ -222,4 +222,35 @@ Aria puede iniciar una vigilancia exterior discreta alrededor de Gutiérrez Esta
 - **Vacaciones en Elaris:** Asistencia técnica y paseos familiares con Max, Serath, Aldric y Thalion.
 - **Instructora en Sawardo:** Evaluadora mágica de combate, exigiendo resistencia física a Leo y control telúrico a Ren.
 - **Gestión de reliquias:** Custodia gremial segura del Fragmento de Núcleo Carmesí y coordinación con la Dra. Eleanor Whitmore para el descifrado del Cofre de los Siete Sellos.
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
+
+---
+
+## EVOLUCIÓN CANÓNICA — 21 DE LLUVIA A 1 DE FLORIS, AÑO 3
+
+- Analizó el escaneo de Chronos, distinguió proyección de transferencia y ayudó a estabilizar el regreso de Serath. Su exclusión del desplazamiento no reduce su autoridad técnica.
+- Habló con Max sobre la posibilidad futura de formar parte de la vida de sus hijos como «tía Aria», sin convertir ese futuro posible en resultado confirmado.
+- Participó en el cierre financiero del 1 de Floris con sus gafas acuáticas y validó la separación entre saldo actual, dividendos históricos y patrimonio.
+- Conserva voz propia, criterio técnico y vida fuera de la contabilidad doméstica.
+- **Fuente:** [Lluvia a 1 de Floris, Año 3](../00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md).
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** detectó dobles conteos del cierre, mantuvo análisis elemental de G1 y respetó límites de información durante Chronos.
+- **Crecimiento:** integra sensibilidad extraordinaria con trazabilidad y consentimiento, sin usar poder como sustituto de procedimiento.
+- **Coste y límite:** sabe más señales de las que puede explicar con certeza y debe aceptar no intervenir.
+- **Relaciones vivas:** coopera con Natalia, Galwin, Thalion y Max sin decidir por ellos.
+- **Siguiente hito:** delimitar qué observación puede compartir durante la auditoría G1.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## ADDENDUM — FLORIS, AÑO 3
+
+- Leyó por placer, respondió a lectores por elección y ayudó en cuentas concretas sin quedar reducida a contadora.
+- Sus mini-Arias son extensiones limitadas, no personas independientes ni fuentes omniscientes.
+- Participó en el cumpleaños de Serath como familia y conoce el secreto de filiación.
+- Mantiene ideas propias para su cumpleaños del 22 de Solalto, todavía sin decidir.
+- **Fuente:** [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md).
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

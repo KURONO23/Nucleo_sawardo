@@ -16,4 +16,4 @@
 
 ## Estado
 
-Punto narrativo vigente en [[CURRENT_STATE_1_LLUVIA_AÑO3]]. [[CURRENT_STATE]] es su resumen operativo. El corte del 18 de Verdalia se conserva como historia de la infiltración de Marcos. Los archivos con 4–5 de Verdalia en el nombre conservan el error histórico de rotulado y deben leerse como 4–5 de Verdalia cuando describen ese tramo. Contradicciones y memoria de errores en [[CONTRADICCIONES]].
+Punto narrativo vigente en [[CURRENT_STATE_1_FLORIS_AÑO3]]. [[CURRENT_STATE]] es su resumen operativo. Los cortes del 18 de Verdalia y 1 y 20 de Lluvia se conservan como historia. Los archivos con 4–5 de Verdalia en el nombre conservan el error histórico de rotulado y deben leerse como 4–5 de Verdalia cuando describen ese tramo. Contradicciones y memoria de errores en [[CONTRADICCIONES]].

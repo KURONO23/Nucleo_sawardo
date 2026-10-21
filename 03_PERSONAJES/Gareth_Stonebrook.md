@@ -104,3 +104,16 @@ Gareth sirve productos de hornos nuevos y usa el recalzado de ruedas como argume
 - **Ruta autónoma vigente:** `Meta:` mantener misiones de rango B y experiencia táctica. `Ambición:` convertirse en instructor confiable para aventureros jóvenes. `Vínculo:` Marcus, Lyra y Biro. `Obstáculo / hito:` organizar una práctica sin depender del grupo principal.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** preparó una práctica para aventureros jóvenes centrada en retirada y comunicación.
+- **Crecimiento:** desplazó parte de su identidad desde ejecutor de rango B hacia instructor.
+- **Coste y límite:** enseñar exige tiempo y revela que su experiencia no siempre es explicable.
+- **Relaciones vivas:** coordina con Marcus, Lyra y Biro sin depender del grupo principal.
+- **Siguiente hito:** ejecutar la práctica y evaluar a otro líder.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

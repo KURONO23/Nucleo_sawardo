@@ -100,3 +100,16 @@ Todo esto sigue como posibilidad, no hecho.
 - **Ruta autónoma vigente:** `Meta:` proteger su investigación y el sombrero verde mientras observa la expansión cultural. `Ambición:` descubrir la verdad sin destruir la relación que la sostiene. `Vínculo:` Dravenn, Goran y círculos nobles. `Obstáculo / hito:` decidir qué sospecha compartir y qué guardar.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** conservó sus sospechas y el sombrero verde sin convertir intuición en acusación.
+- **Crecimiento:** aprendió que proteger una verdad posible también exige no destruir vínculos con una certeza prematura.
+- **Coste y límite:** guardar silencio aumenta tensión personal y no resuelve la duplicidad percibida.
+- **Relaciones vivas:** mantiene lazos con Dravenn, Astrid y Maeve; su vínculo secreto con Max no se redefine fuera de cámara.
+- **Siguiente hito:** decidir qué evidencia compartir y con quién.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

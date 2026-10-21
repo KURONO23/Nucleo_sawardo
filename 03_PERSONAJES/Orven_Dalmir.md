@@ -31,7 +31,7 @@
 - **Antes:** Tasador comercial acostumbrado a la vanidad de nobles coleccionistas.
 - **Hecho:** Presenció el interés genuinamente técnico y científico de Max, Aria y Vivienne por las limitaciones de los artefactos.
 - **Cambio:** Estableció un canal de confianza preferencial con Casa Gutiérrez para futuras evaluaciones.
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
 
 ## 5. Relaciones vivas
 
@@ -48,4 +48,17 @@
 
 ## 7. Fuentes y correcciones
 
-- `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** sostuvo límites de acceso y preparación técnica para análisis no invasivos.
+- **Crecimiento:** hizo de la contención una contribución positiva, no mera negativa.
+- **Coste y límite:** restringir acceso genera tensión entre investigadores.
+- **Relaciones vivas:** coordina con Eleanor y Elwen sin ceder custodia informal.
+- **Siguiente hito:** supervisar una prueba autorizada sin ampliar alcance.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

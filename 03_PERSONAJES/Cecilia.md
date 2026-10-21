@@ -106,4 +106,31 @@ Cecilia/Mizuki fue presentada formalmente a Yuki/Lady Marianne y eligió el alia
 - **Identidad canónica unificada:** Cecilia y **Mizuki Takahashi** son la misma persona: reencarnada de Osaka, analista de redes y antigua «falsa santa». En círculos cercanos recuperó su nombre real Mizuki y adoptó el alias cultural `FRIEREN`.
 - **Encuentro informal con Max y Yuki (1–6 de Lluvia):** Recibió a Max, Yuki y Aria en un encuentro distendido recordando la visita a Pequeño Zhong-Kyo y el takoyaki. Compartió una conversación nostálgica sobre Japón, consolidando una relación humana basada en el respeto y la madurez, no en la manipulación de su antiguo poder Ecclesia.
 - **Investigación independiente:** Colabora con discreción y sin protagonismo invasivo en el contraste de discrepancias documentales del caso Ravenwood y la pista Veylan.
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** contrastó desde fuera patrones de Veylan y Casa Ardel, conservando sus lecturas de Ecclesia como orientación y no como prueba.
+- **Crecimiento:** sostuvo una investigación útil sin manipular a sus participantes y aceptó que comprender una red no le concede autoridad sobre ella.
+- **Coste y límite:** avanzó más despacio y mantuvo separado su deseo de reparación con Haruto.
+- **Relaciones vivas:** coopera con Yuki bajo acceso limitado; respeta los límites de Pequeño Zhong-Kyo y el no perdón completo de Haruto.
+- **Siguiente hito:** aportar una coincidencia verificable que sobreviva sin Ecclesia.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## EVOLUCIÓN RELACIONAL — HARUTO, 1 DE FLORIS
+
+- Entregó una observación útil por el canal acordado y no utilizó el contacto para reiterar disculpas o solicitar perdón.
+- Aceptó la distancia de Haruto como límite legítimo, no como problema que deba resolver mediante Ecclesia.
+- La reparación avanza de palabras a conducta consistente. El perdón completo permanece abierto.
+
+## ADDENDUM — MIZUKI EN FLORIS, AÑO 3
+
+- Mizuki Takahashi continúa siendo la identidad personal vigente detrás de la antigua Santa Cecilia; la colaboración no borra sus daños anteriores.
+- Trabaja con Yuki en Ravenwood, separa indicios de conclusiones y participa en la visita cultural sin abandonar responsabilidades.
+- Haruto conserva distancia y no le concede perdón completo.
+- **Pendiente:** sostener conducta verificable y encontrar una coincidencia que sobreviva sin Ecclesia.
+- **Fuente:** [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md).
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

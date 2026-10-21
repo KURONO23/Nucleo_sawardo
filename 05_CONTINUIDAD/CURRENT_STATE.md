@@ -1,24 +1,29 @@
-# CURRENT STATE — 20 DE LLUVIA, AÑO 3
+# CURRENT STATE — 31 DE FLORIS, AÑO 3
 
-> **ESTADO RECTOR OPERATIVO.** El presente operativo del Núcleo Sawardo es el **20 de Lluvia, Año 3, Día continuo 765**.
-> Desarrollo completo: [[CURRENT_STATE_20_LLUVIA_AÑO3]]. Fuente matriz: `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+> **ESTADO RECTOR OPERATIVO:** 31 de Floris, Año 3 · Día continuo 806 · 23:45.  
+> Desarrollo completo: [[CURRENT_STATE_31_FLORIS_AÑO3]]. Fuente matriz: `00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md`.
+> Vida fuera de cámara corregida: [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Este ciclo es rector sobre el resumen parcial anterior.
 
 ## Punto exacto de reanudación
-- **Lugar:** Gutiérrez Estate, Aldoria (Comedor familiar y jardines).
-- **Presentes:** Max Gutiérrez, Serath Vale, Rey Aldric Theron y Gran Mago Thalion.
-- **Situación:** Disfrutando del almuerzo familiar quincenal («cada 14 días sin ministros ni protocolos») con comida peruana (Lomo Saltado y Pollo a la Brasa).
-- **Sawardo:** Desactivado.
 
-## Resumen de situación al 20 de Lluvia
-1. **Vacaciones reales en Elaris (5 de Lluvia):** Misión cumplida con éxito en tiempo detenido; vínculo entre Aldric y Serath plenamente sanado.
-2. **Subasta de la Llave de Bronce (9–10 de Lluvia):** Adjudicados el *Cofre de los Siete Sellos* (607 oro) y el *Fragmento de Núcleo Carmesí* (1.000 oro). Caja líquida en **910.068 oro**.
-3. **entrenamiento intensivo en Sawardo (broma de «Academia Gutiérrez») (11–16 de Lluvia):** 180 días subjetivos de entrenamiento en Sawardo. Haruto (nivel 46), Leo (nivel 29) y Ren (nivel 28+).
-4. **Ascenso gremial (17 de Lluvia):** Leo Mercer y Ren promovidos oficialmente a **RANGO C** por el Comité de Evaluación presidido por **Elowen Vardis**. Haruto ratificado en **RANGO A** con elegibilidad para S en trámite.
-5. **Reencarnados y Diplomacia:** Alianza estable y comunicación fluida con **Mizuki Mizuhara** (Santa de la Iglesia), Yuki y Cecilia.
+- **Lugar:** dormitorio matrimonial de Gutiérrez Estate, Aldoria.
+- **Situación:** Serath terminó su cumpleaños, escribió en su cuaderno privado y descansa junto a Max.
+- **Sawardo:** desactivado.
+- **Siguiente fecha:** 1 de Solalto, Año 3.
+
+## Estado inmediato
+
+1. **G1.03:** funciona de forma limitada entre dos terminales autorizados; auditoría independiente pendiente. No existe G2.
+2. **Serath-Maru:** diagnóstico y lista de materiales preparados; cuatro meses de trabajo deseado, sin autorización de gran travesía.
+3. **Elaris:** Ren, Daichi y Mika regresaron con mapa e hipótesis; no confirmaron nodo ni relación con G1.03.
+4. **Relaciones:** Natalia y Kael son pareja. Leo–Greta y Ren–Elena avanzan sin noviazgo formal. Haruto–Liora siguen estables. Biro–Vivienne mantienen acercamiento gradual.
+5. **Cultura:** Biro revisa *La tragedia del último barril*; Los Cinco escriben *Mi fin de semana con el muerto*; Harry Potter II se prepara desde el 10 de Solalto.
+6. **Misterios:** Ravenwood, Corven Marr y V. Sable siguen abiertos.
+7. **Nueve autores:** investigan de forma independiente con 100 oro personales de Max cada uno; no existen nuevos contratos automáticos.
 
 ## Próximas fechas
-- **26 de Lluvia, Año 3:** Cumpleaños de Kenji Gutiérrez.
-- **1 de Floris:** Cumpleaños de Haruto.
-- **8 de Floris:** Cumpleaños de Ryu.
-- **17 de Floris:** Cumpleaños de Liora.
-- **31 de Floris:** Cumpleaños de Serath Vale.
+
+- **10 de Solalto:** inicio previsto de *Harry Potter y la cámara secreta*.
+- **14 de Solalto:** cumpleaños de Natalia.
+- **22 de Solalto:** cumpleaños de Aria.
+- **30 de Solalto:** cumpleaños de Sayaka/Evelyn.

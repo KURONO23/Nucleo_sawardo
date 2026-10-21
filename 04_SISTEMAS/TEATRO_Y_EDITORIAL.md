@@ -66,6 +66,14 @@ Las grandes comedias populares no fueron concebidas de forma individual, sino de
 
 ## 4. EL PROCESO DE CASTING Y AUDICIONES DE GORAN
 
+## ADDENDUM CULTURAL — FLORIS, AÑO 3
+
+- *La tragedia del último barril* se estrenó el 12 de Floris: Biro es autor y Goran director. Biro decidió revisar el segundo acto antes de reposiciones.
+- Corte económico del estreno: 720 entradas, 1.440 oro de taquilla, 1.230 de gastos registrados y 210 de excedente provisional.
+- *Mi fin de semana con el muerto* está en escritura secreta por Los Cinco del Barril: Biro y Darian escriben desde su dinámica dispareja; Goran edita; Haruto corrige humanidad sin sentimentalismo falso; Max aporta coherencia y participa.
+- *La piedra filosofal*: 4.000 ejemplares conciliados; 2.760 ventas, 400 entregas culturales, 520 en almacén y 320 en distribución pendiente.
+- Los nueve autores de *Relatos del Camino* conservan nombres, derechos y rutas separadas. Recibieron 100 oro personales de Max cada uno para investigar; no es anticipo ni contrato.
+
 - **La Regla de las Audiciones:** Goran y Max establecieron un protocolo riguroso donde se busca capacidad actoral y química humana, no simple renombre nobiliario.
 - **Nilo Ferran:** Descubierto y pulido como el actor protagonista para *Austin Powers*; el casting se diseñó específicamente para que Nilo encontrara su propio ritmo cómico y carisma pícaro sin limitarse a imitar a Max.
 - **Astrid Halvern:** La actriz dravenniana que conquistó el papel de Brienne cargando el pesado escudo real de utilería dravenniana en el ciclo de *Dunk y Egg*.

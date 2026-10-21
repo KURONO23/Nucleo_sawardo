@@ -156,4 +156,41 @@ Natalia participa en la inspección de calidad y costes de Esmeralda junto a Eli
 
 - **Conciliación financiera de Lluvia:** Certificó el saldo líquido rector de **910.068 monedas de oro** tras la liquidación de las compras de la subasta del 10 de Lluvia (−1.607 oro).
 - **Gestión empresarial:** Administración de Natalia Logistics, sueldos blindados de 800 oro/mes (para ella, Elise y Vivienne) y expansión de almacenes en Tornhaven.
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
+
+## EVOLUCIÓN CANÓNICA — CIERRE DEL 1 DE FLORIS, AÑO 3
+
+- Dirigió junto a Vivienne, Elise y Aria la conciliación de Lluvia y fijó la liquidez rectora en **919.241 oro**.
+- Mantuvo separados caja, patrimonio, fondo del Festival y dividendos históricos pendientes.
+- El flujo estructural de **7.270 oro/mes** ya incorpora nóminas y costes ordinarios registrados; no debe duplicarse.
+- **Fuente:** [Lluvia a 1 de Floris, Año 3](../00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md).
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** preparó el cierre, separó fondos y ayudó a Leo a convertir Quest Log en criterios de riesgo.
+- **Crecimiento:** extendió su administración desde cifras hacia decisiones comprensibles para otros.
+- **Coste y límite:** mantuvo partidas antiguas sin cerrar antes que conciliarlas falsamente.
+- **Relaciones vivas:** coordina con Elise, Vivienne y Aria; Kael pidió una conversación futura, todavía no ocurrida.
+- **Siguiente hito:** presentar pendientes verificables y conversar con Kael fuera del trabajo.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## EVOLUCIÓN RELACIONAL — KAEL, 30 DE LLUVIA A 1 DE FLORIS
+
+- Aceptó una comida tardía con Kael después del cierre, fuera de funciones de la Casa y la Guardia.
+- Escuchó que Kael reconocía sus celos respecto a Leo y expresaba interés sin ocultarlo detrás de bromas.
+- Confirmó que también busca a Kael por elección, pero rechazó que terceros, rumores o comidas anteriores decidieran por ambos.
+- Aceptó un paseo en Floris como siguiente paso. No aceptó todavía un noviazgo ni promesa de exclusividad.
+- Su crecimiento consiste en permitir espacio afectivo sin entregar claridad, agenda ni autonomía profesional.
+- Estado: `INTERÉS RECÍPROCO EXPRESADO / CORTE CONSCIENTE EN INICIO`.
+
+## ADDENDUM — 26–31 DE FLORIS, AÑO 3
+
+- Natalia y Kael iniciaron por decisión propia una relación romántica, compartieron su primer beso y el día 31 acordaron considerarse pareja.
+- Exigió que la relación preserve vida, objetivos y responsabilidades independientes.
+- Sus amistades cercanas lo saben; no existe anuncio público.
+- Estado: `PAREJA FORMAL / AUTONOMÍA CONSERVADA`.
+- **Fuente:** [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md).
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

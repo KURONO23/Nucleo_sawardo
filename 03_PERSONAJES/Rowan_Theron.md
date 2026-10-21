@@ -104,3 +104,22 @@
 - **Ruta autónoma vigente:** `Meta:` apoyar artes, ingeniería y festividades sin convertirlas en adorno real. `Ambición:` ser mecenas cultural con responsabilidad pública. `Vínculo:` artistas, Galwin y estudiantes. `Obstáculo / hito:` financiar un proyecto que pueda sobrevivir sin la Corona.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** reservó una partida cultural pequeña y exigió planes de continuidad independientes de la Corona.
+- **Crecimiento:** pasó de patronazgo entusiasta a patrocinio responsable que pregunta qué sobrevive después del estreno.
+- **Coste y límite:** negar dinero automático puede decepcionar a artistas cercanos.
+- **Relaciones vivas:** dialoga con Goran, Biro y posibles organizadoras culturales sin sustituir su autoría.
+- **Siguiente hito:** elegir una iniciativa financiable con capacidad real.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## CICLO `AUTÓNOMO_DERIVADO` — 1 A 31 DE FLORIS, AÑO 3
+
+- Tras el estreno de *La tragedia del último barril*, consultó por separado a dirección, actores y personal técnico sobre una reposición sostenible.
+- Rechazó financiar una función ceremonial inmediata y reservó apoyo limitado para seguridad escénica, conservación de vestuario y formación de un responsable no dependiente de la Corona.
+- Evoluciona de admirador cultural a mecenas que pregunta qué permanece después del aplauso.
+- **Coste:** decepciona a quienes querían una celebración visible y no puede financiar todos los proyectos.
+- **Siguiente hito:** comprobar el uso del apoyo y elegir entre bibliotecas, teatro o torneo interescolar.
+- **Límite familiar:** admira a Serath como Comandante Suprema; desconoce que es su hermana biológica.
+- Integración: [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]].

@@ -2,9 +2,11 @@
 
 ## Estado
 
-**DESARROLLO ACTIVO — TERMINALES FUNCIONALES LIMITADOS**, 4 de Verdalia, Año 3.
+**REVISIÓN G1-0.3 ESTABLE DE TALLER — LISTA PARA DEMOSTRACIÓN**, 1 de Floris, Año 3.
 
 La revisión 0.2 y la prohibición de prueba del 26 de Bruma se conservan abajo como fase histórica de seguridad. Desde el 1 de Verdalia existen pruebas activas posteriores documentadas.
+
+La revisión 0.3 no es G2 ni una autorización de despliegue. Es el primer G1 suficientemente estable, reproducible y reparable para que Galwin lo presente formalmente a Max, Daichi, Mika, Thalion y, después de la revisión técnica, al rey Aldric.
 
 ## Principio
 
@@ -29,6 +31,10 @@ No copiar un teléfono terrestre. Copiar principios que Aldoria pueda construir,
 - Mika: documentación, nodos y compatibilidad de tránsito.
 - Daichi: método, seguridad y control de evidencia.
 - Max y Aria: referencia conceptual y límites de copia.
+- Tilda Bronzeforge: materiales, disipación térmica y carcasa modular.
+- Jorik Runespan: ensamblaje reproducible y manual técnico.
+- Sivra Coppervein: calibración rúnica y control de calidad.
+- Uldan Greypin: mantenimiento de campo y sustitución de reguladores.
 
 ## Fase histórica — 26 de Bruma
 
@@ -68,4 +74,44 @@ La directriz vigente desde el 4 de Verdalia, Año 3, separa tres trabajos que an
 | Ruinas y nodos | Mika + Daichi | Distinguir resonancia, artefacto y falso positivo | No pueden abrir ni gobernar la red |
 | Campo y protección | Haruto + Ren | Tomar decisiones bajo presión sin competir por protagonismo | Ren sigue en aprendizaje con Amane |
 | Ruta y evidencias | Leo | Convertir objetivos en tareas verificables | Quest Log no manda sobre el grupo |
+
+### Avance autónomo — 21 de Lluvia a 1 de Floris, Año 3
+
+- Daichi comprobó que consultas demasiado rápidas podían confundir ecos con respuestas y estableció una pausa verificable.
+- Mika clasificó falsos positivos por humedad y vibración e inició una bitácora reproducible de calibración y fallos.
+- Ren participó en una práctica controlada y registró una lectura errónea sin ocultarla.
+- Galwin identificó que parte de la inestabilidad no procedía del alcance, sino del retorno de resonancia entre el modulador y la infraestructura antigua. Diseñó un **amortiguador de eco rúnico** que obliga a separar emisión, espera y confirmación antes de aceptar una respuesta.
+- **Tilda Bronzeforge** dirigió la carcasa modular; después de que el primer montaje sobrecalentara una placa, corrigió la ventilación con medidas verificables. **Sivra Coppervein** separó el fallo térmico de las lecturas rúnicas.
+- **Jorik Runespan** redactó el manual 0.3. **Uldan Greypin** dirigió el segundo equipo, detectó dos instrucciones ambiguas y reprodujo desmontaje, montaje y sustitución del regulador sin ayuda oral de Galwin.
+- Galwin no rehízo su solución: auditó las mediciones, exigió desmontaje y remontaje independientes y aceptó el módulo cuando el segundo equipo pudo reproducirlo.
+- La revisión **G1-0.3** superó 48 horas de banco, ciclos de encendido y apagado, sustitución de regulador, mensajería entre destinos autorizados y recuperación controlada tras pérdida de señal. No abrió destinos nuevos ni aumentó el alcance autorizado.
+- Kazuki limitó la prueba exterior a una ventana programada. Hessa no participa como operadora técnica de G1. **No se abrió una red nueva, no comenzó G2 y no se activaron ruinas.**
+- Integración global: [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+### Capacidades de la revisión G1-0.3
+
+| Mejora | Resultado comprobado | Límite |
+|---|---|---|
+| Amortiguador de eco rúnico | Reduce respuestas duplicadas y obliga a confirmar señal | No identifica por sí solo el origen de una resonancia |
+| Regulador reemplazable | Permite sustituir una pieza sin desmontar el terminal completo | Solo técnicos formados pueden intervenir |
+| Carcasa modular de aprendices | Mejora refrigeración, acceso y reparación | No es miniaturización de bolsillo |
+| Secuencia de recuperación | Reinicio seguro tras pérdida de señal | No recupera mensajes no confirmados |
+| Manual de ensamblaje 0.3 | Otro equipo del taller reprodujo el montaje | Requiere auditoría externa de Daichi y Mika |
+
+### Presentación pendiente al iniciar Floris
+
+- Galwin tiene preparado el terminal, el módulo abierto, el registro del fallo inicial y el manual 0.3.
+- Solicita una primera demostración técnica ante **Max, Aria, Daichi, Mika, Leo y Thalion**.
+- Si la revisión técnica la aprueba, propondrá una demostración institucional ante **Aldric**, enfocada en mantenimiento regional, seguridad y continuidad operativa.
+- Max todavía no ha aceptado fecha ni condiciones; Aldric todavía no ha aprobado despliegue, presupuesto o ampliación.
+- Este frente comparte la apertura de Floris con los ensayos de *La tragedia del último barril*.
+
+## ADDENDUM TÉCNICO — 30–31 DE FLORIS, AÑO 3
+
+- Denominación rectora: **G1.03**. Es el único modelo existente; **G2 no existe**.
+- Dos terminales autorizados demostraron mensajería local, confirmación, recuperación controlada y mantenimiento reproducible.
+- No es telefonía, red pública ni infraestructura nacional.
+- Daichi y Mika prepararán auditoría independiente de temperatura, pérdida de señal y condiciones límite.
+- Elaris no confirmó un nodo operativo ni una relación causal con G1.03.
+- Galwin conserva dirección; Jorik y Sivra trabajan en secuencias y límites; Tilda y Uldan mantienen el frente mecánico/Serath-Maru sin abandonar G1.03.
 

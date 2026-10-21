@@ -169,4 +169,34 @@
 ## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (ALTA COCINA EN LA HACIENDA)
 
 - **Gastronomía de Gutiérrez Estate:** Apoyo en la preparación culinaria de las reuniones familiares (incluyendo el festín peruano de Lomo Saltado y Pollo a la Brasa del 20 de Lluvia). Próximo a cumplir 17 años el 26 de Lluvia.
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
+
+---
+
+## EVOLUCIÓN CANÓNICA — 26 DE LLUVIA, AÑO 3
+
+- Cumplió **17 años** después de terminar su jornada de enseñanza en Casa del Puente.
+- Max, Ryu, Serath, Hwan-Rei, sus aprendices y su círculo lo celebraron sin obligarlo a cocinar para los demás.
+- Recibió el cuaderno artesanal *Las recetas de Kenji Gutiérrez — Sabores de dos mundos*. El regalo reconoce su derecho a construir un legado culinario propio; no le atribuye recetas futuras todavía no escritas.
+- Conserva su identidad como cocinero, maestro joven, hermano biológico de Ryu y hermano adoptivo de Max.
+- **Fuente:** [Lluvia a 1 de Floris, Año 3](../00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md).
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** enseñó una preparación completa a dos aprendices y abrió su cuaderno con una receta propia todavía en prueba.
+- **Crecimiento:** pasó de conservar recetas recibidas a producir legado culinario con autoría y responsabilidad de enseñanza.
+- **Coste y límite:** la receta no quedó aprobada y enseñar ralentizó el servicio.
+- **Relaciones vivas:** trabaja con Ryu y Hwan-Rei sin depender operativamente de Max.
+- **Siguiente hito:** corregir la receta y comprobar que un aprendiz puede repetirla.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## ADDENDUM — FLORIS, AÑO 3
+
+- Sostuvo Pequeño Zhong-Kyo y Casa del Puente durante visitas y celebraciones sin abandonar aprendices ni cocina.
+- Continúa iterando recetas con Hwan-Rei y evita cambiar demasiadas variables simultáneamente.
+- **Pendiente:** lograr una receta repetible por aprendices y seguir apoyando la comunidad sin depender de Max.
+- **Fuente:** [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md).
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

@@ -91,3 +91,16 @@ Tras el enlace matrimonial de Max y Serath (Día 260):
 - **Ruta autónoma vigente:** `Meta:` absorber negocios vulnerables mediante presión fiscal y judicial. `Ambición:` ampliar el poder de House Credence. `Vínculo:` Tobias, Veinhardt y redes legales. `Obstáculo / hito:` una resistencia coordinada que le quite un objetivo sin cerrar su arco.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** reajustó su presión al encontrar resistencia documental organizada.
+- **Crecimiento:** reconoce que prestigio y amenaza indirecta no bastan contra una comunidad que conserva pruebas.
+- **Coste y límite:** pierde rapidez y debe exponerse más si quiere avanzar.
+- **Relaciones vivas:** Tobias deja de ser un objetivo aislado y se vuelve nodo de oposición.
+- **Siguiente hito:** elegir entre negociación, procedimiento formal o una maniobra más arriesgada.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

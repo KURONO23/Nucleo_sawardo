@@ -1,6 +1,6 @@
 # CRONOLOGÍA MAESTRA UNIFICADA — DÍA 1 AL DÍA 634
 
-> **ENCABEZADO HISTÓRICO:** el documento fue iniciado con corte en el Día 634, pero recibió adiciones posteriores. El presente operativo es [[CURRENT_STATE_1_LLUVIA_AÑO3]]; el corte de 18 de Verdalia es histórico y no debe usarse para reanudar.
+> **ENCABEZADO HISTÓRICO:** el documento fue iniciado con corte en el Día 634, pero recibió adiciones posteriores. El presente operativo es [[CURRENT_STATE_1_FLORIS_AÑO3]]; los cortes anteriores son históricos y no deben usarse para reanudar.
 
 ## INTEGRACIÓN HISTÓRICA — 4 A 5 DE VERDALIA, AÑO 3 (fecha corregida)
 
@@ -173,8 +173,31 @@
 - **6 al 8 de Lluvia:** Regreso al tiempo real. Inspección preliminar de los lotes de la Casa de Subastas de la Llave de Bronce con maese **Orven Dalmir** y demostración de la *Lente del Cartógrafo* por la maestra **Elwen**.
 - **9 de Lluvia:** Gran Subasta de la Llave de Bronce. Max adquiere el *Cofre de los Siete Sellos* (607 oro) y el *Fragmento de Núcleo Carmesí* (1.000 oro). Contacto y correspondencia con la **Dra. Eleanor Whitmore**, **Thomas Reed**, **Edmund Fletcher**, **Hugo von Altenberg** y **Oliver Bennett**. El *Atlas de los Mundos Inconclusos* es vendido a Casa Veylan por 140.000 oro.
 - **10 de Lluvia:** Liquidación formal de compras. El saldo líquido personal de Max se concilia en **910.068 monedas de oro**.
-- **11 al 15 de Lluvia (180 días subjetivos en Sawardo):** **La entrenamiento intensivo en Sawardo (broma de «Academia Gutiérrez»).** Max dirige 5 meses subjetivos de entrenamiento intensivo estilo «Escuela Tortuga» para **Haruto Kazagami**, **Leo Mercer** y **Ren** (asistidos por Aria y Siri). Leo desarrolla refuerzo corporal defensivo; Ren domina 5 púas de tierra y detección telúrica; Haruto integra espada de trueno (Chidori/4to Hokage) y Paso Relámpago I; Max ensaya *Reversi* hacia *Crazy Diamond*.
+- **11 al 15 de Lluvia (cinco meses subjetivos en Sawardo):** **Entrenamiento intensivo en Sawardo (broma de «Academia Gutiérrez»).** Max dirige cinco meses subjetivos de entrenamiento intensivo estilo «Escuela Tortuga» para **Haruto Kazagami**, **Leo Mercer** y **Ren** (asistidos por Aria y Siri). Leo desarrolla refuerzo corporal defensivo; Ren domina 5 púas de tierra y detección telúrica; Haruto integra espada de trueno (Chidori/4to Hokage) y Paso Relámpago I; Max ensaya *Reversi* hacia *Crazy Diamond*.
 - **16 de Lluvia:** Graduación de los tres aprendices y cacería de wyverns en Blackpeak. Regreso al tiempo real de Aldoria.
-- **17 de Lluvia:** **Comité de Evaluación Extraordinaria del Gremio de Aventureros**, presidido por **Elowen Vardis**. **Leo Mercer** (nivel 29) y **Ren** (nivel 28+) ascienden oficialmente a **RANGO C**. **Haruto Kazagami** es confirmado en **RANGO A (nivel 46)** con trámite de elegibilidad a Rango S.
+- **20 de Lluvia:** **Exámenes de ascenso del Gremio de Aventureros**, con resultados comunicados por **Elowen Vardis**. **Leo Mercer** (nivel 29) y **Ren** (nivel 32) ascienden oficialmente a **RANGO C**. **Haruto Kazagami** conserva el **RANGO A (nivel 46)** con trámite de elegibilidad a Rango S.
 - **18 de Lluvia:** Celebración y noche íntima de Max con Serath (retorno del legendario «Sí»).
-- **20 de Lluvia — PRESENTE RECTOR (Día continuo 765):** Almuerzo familiar quincenal en Gutiérrez Estate. El rey Aldric y Thalion asisten sin séquito para compartir un festín de comida peruana (Lomo Saltado y Pollo a la Brasa) con Max y Serath.
+- **20 de Lluvia — CORTE HISTÓRICO (Día continuo 765):** Almuerzo familiar quincenal en Gutiérrez Estate. El rey Aldric y Thalion asisten sin séquito para compartir un festín de comida peruana con Max y Serath.
+
+---
+
+## ERA XIV — CHRONOS, EL ÚLTIMO BARRIL Y APERTURA DE FLORIS (21 DE LLUVIA AL 1 DE FLORIS, AÑO 3)
+
+- **21 de Lluvia (Día continuo 766):** Max, Serath y Aria prueban el Ojo de Chronos en Thornhaven. El escaneo cartográfico deriva en una conexión causal con Max del Año 73; Serath actúa como observadora temporal y regresa al mismo punto causal. No se crea una línea alternativa. Chronos relaciona referencias, pero no concede selección libre de destinos.
+- **22 al 24 de Lluvia:** Biro, Goran, Haruto, Darian y Max revisan *La tragedia del último barril*. Biro conserva la autoría y guía interpretativa sin convertirse en protagonista. Tobias Mercerfield, Edgar Wainwright y Clara Bellamy integran el reparto principal. Estreno provisional: **12 de Floris**.
+- **26 de Lluvia:** Kenji Gutiérrez cumple **17 años** y recibe el cuaderno *Las recetas de Kenji Gutiérrez — Sabores de dos mundos*.
+- **27 de Lluvia:** Greta resuelve un conflicto contractual y juega con Leo; la cercanía sigue sin noviazgo confirmado.
+- **28 de Lluvia:** Elena Weissmann y Ren documentan suelo y muestras vegetales para un posible herbario medicinal, sin convertir correlaciones en conclusiones.
+- **29–30 de Lluvia:** mejoran el segundo acto y la preparación técnica del teatro; se organizan los expedientes del cierre mensual.
+- **1 de Floris (Día continuo 776):** Haruto cumple **19 años** y recibe una vaina artesanal simbólica. Casa Gutiérrez cierra Lluvia en **919.241 oro** líquidos. A las 21:10 termina la cena de agradecimiento en los jardines; este es el **PRESENTE RECTOR**.
+
+## ERA X — FLORIS COMPLETO (DÍAS 776–806)
+
+- **8 de Floris:** cumpleaños de Ryu y celebración vinculada al Serath-Maru.
+- **12 de Floris:** estreno de *La tragedia del último barril*, original de Biro y dirigida por Goran.
+- **15 de Floris:** visita cultural de Max y Serath a Pequeño Zhong-Kyo junto al grupo japonés; Yuki y Mizuki no abandonan Ravenwood.
+- **17 de Floris:** cumpleaños de Liora; Ren, Daichi y Mika quedan listos para Elaris.
+- **18–19 de Floris:** se concilian los primeros resultados de Harry Potter y del estreno; nace *Mi fin de semana con el muerto*.
+- **20–29 de Floris:** expedición a Elaris, misiones florales, crecimiento de relaciones y rutas de los nueve autores.
+- **30 de Floris:** demostración limitada de G1.03, informe de Elaris y plan del Serath-Maru.
+- **31 de Floris (Día 806):** cumpleaños de Serath; Natalia y Kael formalizan pareja. A las 23:45 termina Floris: **PRESENTE RECTOR**.

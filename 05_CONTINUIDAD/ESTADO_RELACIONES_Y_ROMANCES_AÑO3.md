@@ -65,6 +65,40 @@ El sistema puede mostrar una posibilidad, rumor o malentendido, pero debe marcar
 
 Cada misión propuesta puede modificar una relación —confianza, respeto, deuda, rivalidad, afecto o cansancio— sin que eso implique romance. Al cerrar una misión se actualizarán las fichas de quienes participaron y esta matriz, conservando también lo que **no** cambió.
 
+## Actualización gradual — 1 de Floris, Año 3
+
+| Vínculo | Paso ocurrido fuera de cámara | Estado rector |
+|---|---|---|
+| **Kael–Natalia** | Conversaron durante una comida tardía el 30 de Lluvia. Kael reconoció sus celos y su interés; Natalia confirmó interés propio, rechazó los rumores como sustituto de una decisión y aceptó un paseo en Floris. | `CORTE CONSCIENTE EN INICIO`. Interés recíproco verbalizado; todavía no son pareja formal. |
+
+## Corte rector — 31 de Floris, Año 3
+
+| Vínculo | Paso confirmado | Estado exacto |
+|---|---|---|
+| Natalia–Kael | Citas, primer beso, decisión mutua y formalización el día 31 | `PAREJA FORMAL`; anuncio público pendiente |
+| Haruto–Liora | Cumpleaños, descanso y misiones compartidas | `PAREJA FORMAL ESTABLE` |
+| Leo–Greta | Misiones y citas por iniciativa propia | `INTERÉS RECÍPROCO`; sin noviazgo |
+| Ren–Elena | Despedida, regreso y nuevas citas | `CERCANÍA ROMÁNTICA`; sin noviazgo |
+| Biro–Vivienne | Caminata y correspondencia gradual | `ACERCAMIENTO`; sin relación definida |
+| Elise–Goran | Trabajo conjunto de vestuario | `PROFESIONAL`; no romance confirmado |
+| **Haruto–Liora** | Hablaron de horarios, tutela juvenil y tiempo privado; acordaron proteger una noche por ciclo. | `PAREJA ESTABLE / ACUERDO COTIDIANO`. Sin compromiso matrimonial decidido. |
+| **Leo–Greta** | Greta propuso revancha; compartieron café y conversación no instrumental. | `AFINIDAD RECÍPROCA / ELECCIÓN REPETIDA`. Sin noviazgo. |
+| **Ren–Elena Weissmann** | Ren devolvió notas corregidas y Elena lo invitó a otra salida de observación. | `CONFIANZA ÍNTIMA EN DESARROLLO`. Sin declaración romántica. |
+| **Mizuki–Haruto** | Ella entregó información sin pedir absolución; él la aceptó manteniendo distancia. | `REPARACIÓN LIMITADA`. Aceptación funcional, no perdón completo. |
+| **Biro–Vivienne** | Compartieron una revisión logística solicitada por Biro, con respeto de autoría. | `CONFIANZA PROFESIONAL`. Romance posible, no afirmado. |
+| **Misa–Torin** | Ajustaron rotación comparando fatiga médica y patrullas. | `RESPETO OPERATIVO CRECIENTE`. No romance. |
+| **Kazuki–Hessa** | Discutieron prioridades y llegaron a una solución sin subordinación. | `CONFIANZA POR DISENSO`. No romance. |
+| **Max–Selene** | Sin avance autónomo. | `TENSIÓN ABIERTA / REQUIERE DECISIÓN DE MAX`. |
+
+### Próximo escalón permitido
+
+- Kael y Natalia: cumplir el paseo y comprobar si su interés sobrevive fuera del contexto laboral.
+- Leo y Greta: una elección personal que implique vulnerabilidad o prioridad real, todavía sin formalización automática.
+- Ren y Elena: afrontar un desacuerdo metodológico sin perder cercanía.
+- Haruto y Liora: aplicar el acuerdo cuando aparezca una obligación incompatible.
+- Mizuki y Haruto: una segunda interacción respetuosa sin que Mizuki reclame recompensa emocional.
+- Los vínculos profesionales solo cambiarán de naturaleza si ambos personajes muestran deseo inequívoco en escenas posteriores.
+
 ---
 
 ## ESTADO DE RELACIONES AL 20 DE LLUVIA, AÑO 3

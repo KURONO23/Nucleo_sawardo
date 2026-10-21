@@ -65,3 +65,39 @@
 - [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]]
 - **Desambiguación:** [[Elena]] sigue siendo la madre de Suri; Elena Weissmann es otra persona.
 
+---
+
+## EVOLUCIÓN CANÓNICA — 28 DE LLUVIA Y 1 DE FLORIS, AÑO 3
+
+- Estudió muestras vegetales y perfiles de suelo junto a Ren. Insistió en distinguir observación, correlación y propiedad comprobada antes de atribuir efectos a una planta.
+- Preparó ilustraciones botánicas y sostuvo su turno en la botica; el posible herbario medicinal continúa como proyecto gradual, no como resultado terminado.
+- En el cumpleaños de Haruto mostró a Ren un libro de ilustraciones útil para una salida futura.
+- **Estado relacional:** colaboración y cercanía gradual; **no existe pareja confirmada**.
+- **Fuente:** [Lluvia a 1 de Floris, Año 3](../00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md).
+
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** abrió un cuaderno provisional de herbario, colaboró con Ren y descartó una atribución medicinal sin evidencia suficiente.
+- **Crecimiento:** aprendió a preferir una conclusión incompleta antes que una propiedad útil pero falsa.
+- **Coste y límite:** el descarte deja una muestra sin uso y exige más observación.
+- **Relaciones vivas:** construye colaboración intelectual con Ren y contacto profesional naciente con Misa; no hay pareja confirmada.
+- **Siguiente hito:** identificar o descartar una muestra mediante prueba reproducible.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## EVOLUCIÓN RELACIONAL — REN, 1 DE FLORIS
+
+- Valoró que Ren conservara y señalara su error en las notas.
+- Fue ella quien propuso una segunda salida de observación, haciendo explícito que desea continuar compartiendo tiempo y trabajo.
+- La cercanía es recíproca y más personal, pero todavía puede desarrollarse como amistad profunda o romance futuro.
+
+## ADDENDUM — FLORIS, AÑO 3
+
+- Despidió a Ren antes de Elaris y lo recibió tras su regreso sin exigir información reservada.
+- Compartieron otra cena y una cercanía ya claramente personal.
+- El vínculo avanza hacia romance, pero **todavía no existe declaración de noviazgo**.
+- **Fuente:** [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md).
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

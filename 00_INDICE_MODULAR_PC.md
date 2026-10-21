@@ -2,9 +2,17 @@
 
 > Entrada ligera para trabajar el núcleo sin cargar todo el vault. La fuente `00_FUENTES/historia_original/` es intocable y se consulta solo para verificar una escena concreta.
 
+## Cierre mensual
+
+- [[06_AGENTES/AUDITOR_CIERRE_MENSUAL|Auditor de Cierre Mensual]] — auditoría obligatoria al completar cada mes; coordina fuentes, vida autónoma, propagación, economía, relaciones y validación.
+
 ## Estado rector
 
-- [[05_CONTINUIDAD/CURRENT_STATE_1_LLUVIA_AÑO3|Estado actual — 1 de Lluvia, Año 3]]
+- [[05_CONTINUIDAD/CURRENT_STATE_31_FLORIS_AÑO3|Estado actual — 31 de Floris, Año 3]]
+- [[05_CONTINUIDAD/DELTA-RP-030_01_A_31_FLORIS_AÑO3|Integración 1–31 de Floris]]
+- [[05_CONTINUIDAD/CICLO_AUTONOMO_01_A_31_FLORIS_AÑO3|Ciclo autónomo de Floris]]
+- [[05_CONTINUIDAD/INFORME_PROPAGACION_31_FLORIS_AÑO3|Informe de propagación de Floris]]
+- [[05_CONTINUIDAD/CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3|Ciclo autónomo global — personajes, ciudades y proyectos]]
 - [[05_CONTINUIDAD/INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3|Integración Verdalia 19–1 Lluvia]]
 - [[05_CONTINUIDAD/CURRENT_STATE|Resumen operativo vigente]]
 - [[07_ROLEPLAY/DELTA-RP-4_5_VERDALIA_A3_CHAT_2026-10-08|Delta histórico 4–5 de Verdalia, conservado con nombre heredado]]

@@ -100,3 +100,38 @@ El Día 500, Kazuki viajó personalmente a la capital de Aldoria bajo una identi
 - **Ruta autónoma vigente:** `Meta:` ordenar Minas Quebradas, drenaje, repuestos y responsables. `Ambición:` construir una comunidad que sobreviva a su ausencia y a su orgullo. `Vínculo:` Hessa, mineros y equipos de la Corona. `Obstáculo / hito:` delegar una decisión técnica sin corregirla por reflejo.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## VIDA AUTÓNOMA — 21 DE LLUVIA A 1 DE FLORIS, AÑO 3
+
+- Delegó en una cuadrilla local una decisión menor de drenaje y aceptó la solución al comprobar seguridad y mantenimiento, sin corregirla por orgullo.
+- Escuchó de Hessa necesidades concretas recogidas en El Pico Roto sobre comida, descanso y suministros; ella actúa como contrapunto comunitario, no como su administradora técnica. No se descubrió una red de nodos nueva.
+- Véase [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** delegó a una cuadrilla local un tramo de drenaje en Minas Quebradas y aceptó su solución segura.
+- **Crecimiento:** comenzó a ejercer liderazgo territorial sin corregir todo para imponer su estilo.
+- **Coste y límite:** mantiene responsabilidad por una infraestructura que todavía tiene repuestos y mapas incompletos.
+- **Relaciones vivas:** escucha a Hessa como voz comunitaria y limita el enlace G1 a pruebas programadas.
+- **Siguiente hito:** presentar resultados de mantenimiento sin convertir una hipótesis de nodos en certeza.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## EVOLUCIÓN RELACIONAL — HESSA, 1 DE FLORIS
+
+- Discutió con Hessa sobre priorizar repuestos o abastecimiento de cocina durante un turno exigente.
+- Aceptó el orden propuesto por la comunidad después de que Hessa demostrara el impacto cotidiano.
+- La confianza crece porque puede ceder ante evidencia local sin convertir a Hessa en subordinada ni interés romántico automático.
+
+## ADDENDUM — FLORIS, AÑO 3
+
+- **Acción propia:** el 6 de Floris inspeccionó con dos integrantes de mantenimiento una instalación de Minas Quebradas. La reparación anterior resistía, pero una vibración reaparecía bajo cargas mayores.
+- **Decisión demostrada:** no forzó la prueba ni fingó que el problema estaba resuelto. Reconoció que la causa seguía incompleta, detuvo la operación y ordenó volver a medir.
+- **Crecimiento causal:** su aptitud para comprender estructuras ya no se presenta como respuesta instantánea. Acepta incertidumbre técnica y permite que la cuadrilla participe en el diagnóstico.
+- **Relación con Hessa:** Hessa conduce una esfera comunitaria independiente desde El Pico Roto. No le entrega informes a Kazuki, no trabaja para él y no sustituye a mantenimiento. Kazuki puede verse obligado a responder políticamente a problemas que las cuadrillas hagan visibles mediante esa esfera, pero su diagnóstico técnico y los documentos de Hessa permanecen separados.
+- **Coste y límite:** la instalación sigue operativamente restringida durante cargas altas; no se ha demostrado la causa total ni una red subterránea.
+- **Siguiente hito:** completar con mantenimiento nuevas mediciones de vibración, delegar una parte del diagnóstico y documentar una prueba segura. La ruta de Hessa avanza por cuenta propia y no funciona como insumo administrativo de Kazuki.
+- **Fuente:** [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md), escena del 6 de Floris en Minas Quebradas.
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

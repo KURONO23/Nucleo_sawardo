@@ -145,4 +145,24 @@ El coste es personal: seguir una pista sin Max implica exposición, paciencia y 
 
 - **Red de mini-Arias e inteligencia:** Coordinación de vigilancia discreta sobre los movimientos comerciales de Ravenwood y apoyo encubierto a la investigación judicial de Yuki.
 - **Instructora táctica de Leo Mercer:** Transmitió a Leo principios de movilidad, sigilo y observación de campo, fortaleciendo su criterio de supervivencia y retirada táctica.
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** ordenó rutas, fechas y manifiestos de V. Sable en tres grados de confianza y registró una ruta abandonada tras consultas visibles.
+- **Crecimiento:** su movilidad de campo se convirtió en investigación disciplinada; distingue intermediario vulnerable de culpable.
+- **Coste y límite:** la red reaccionó y borró hábitos, reduciendo observación directa.
+- **Relaciones vivas:** coordina con Kira y recibe de Misa consecuencias médicas sin fusionar expedientes.
+- **Siguiente hito:** seguir el cambio de ruta sin exponer supervivientes ni forzar una identidad.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## ADDENDUM — FLORIS, AÑO 3
+
+- Continuó el expediente V. Sable, descartó hipótesis y contrastó rutas sin convertir coincidencias en identidad.
+- En el frente cultural sigue siendo la lectora y analista más constante de Harry Potter; Misa reacciona con mayor emoción y Amane acompaña con interés menos libresco.
+- **Pendiente:** verificación independiente de la coincidencia de rutas.
+- **Fuente:** [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md).
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

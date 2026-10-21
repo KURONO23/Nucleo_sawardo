@@ -1,6 +1,6 @@
 # CURRENT STATE — 20 DE LLUVIA, AÑO 3 (DÍA CONTINUO 765)
 
-> **ESTADO RECTOR DE CONTINUIDAD GLOBAL.** Consolidado a partir de la fuente matriz `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`. Sustituye como presente rector al corte del 1 de Lluvia.
+> **ESTADO RECTOR DE CONTINUIDAD GLOBAL.** Consolidado a partir de la fuente matriz `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`. Sustituye como presente rector al corte del 1 de Lluvia.
 
 ---
 
@@ -29,7 +29,7 @@
    - Apertura de canales de investigación y correspondencia científica con la **Dra. Eleanor Whitmore** (Sociedad de Estudios Históricos) y el maestro artificiero **Hugo von Altenberg**.
    - Casa Veylan adquirió el *Atlas de los Mundos Inconclusos* por 140.000 oro (Max no participó en esa puja).
 
-3. **La entrenamiento intensivo en Sawardo (broma de «Academia Gutiérrez») en Sawardo (11 al 15 de Lluvia / 180 días subjetivos):**
+3. **Entrenamiento intensivo en Sawardo (broma de «Academia Gutiérrez») (11 al 15 de Lluvia / cinco meses subjetivos):**
    - Max convocó a **Haruto Kazagami**, **Leo Mercer** y **Ren**, asistidos por Aria y Siri, a un régimen de entrenamiento intensivo de 5 meses subjetivos.
    - **Leo:** Perfeccionó el refuerzo corporal defensivo, absorción de daño y rotura de árboles con armas reforzadas.
    - **Ren:** Moldeado fluido de maná de tierra (5 púas simultáneas), movimiento vertical en muros y detección telúrica de metales y anomalías.
@@ -37,10 +37,9 @@
    - **Max:** Batería de pruebas de *Reversi* sobre fracturas y metales, explorando la reversión controlada de la materia (*Crazy Diamond*).
    - **Graduación:** Cacería coordinada de wyverns en Blackpeak.
 
-4. **El Comité de Evaluación Extraordinaria del Gremio (17 de Lluvia):**
-   - Presidido por **Elowen Vardis**.
+4. **Exámenes gremiales (20 de Lluvia):**
    - **Leo Mercer:** Promovido oficialmente de Rango D (nivel 20) a **RANGO C (nivel 29)**.
-   - **Ren:** Promovido oficialmente de Rango D (nivel 23) a **RANGO C (Nivel 32)**.
+   - **Ren:** Promovido oficialmente de Rango D (nivel 23) a **RANGO C (nivel 32)**.
    - **Haruto Kazagami:** Ratificado en **RANGO A (nivel 46)**, con apertura de expediente de elegibilidad para Rango S.
 
 5. **Vida Conyugal e Intimidad (16–18 de Lluvia):**

@@ -6,6 +6,8 @@
 
 Al final de cada turno narrativo donde Max deba tomar una decisión o actuar, se separa la escena con una línea horizontal y se presentan **exactamente 5 opciones numeradas**:
 
+Max debe participar activamente en la escena cuando está presente: recibe preguntas, reacciones, información y consecuencias dirigidas a él. Las opciones preservan esa participación sin convertir una propuesta en una decisión ya tomada.
+
 ```markdown
 ---
 ### ¿Qué hace Max?
@@ -30,6 +32,7 @@ Al final de cada turno narrativo donde Max deba tomar una decisión o actuar, se
 1. Las opciones son **propuestas**: ninguna ocurre en la historia hasta que el usuario la elige explícitamente o propone una alternativa propia.
 2. Cada opción propone primero la **acción observable** de Max y luego su **diálogo** en formato `Max: "texto"`.
 3. No cerrar con preguntas genéricas como *"¿Qué quieres hacer?"*. El usuario siempre tiene la libertad de escribir su propia acción sin limitarse a la lista.
+4. Las cinco etiquetas son fijas: **Buena, Neutral, Caótica, Especial y Automática**. El contenido cambia con la escena; no repetir soluciones de plantilla.
 
 ---
 

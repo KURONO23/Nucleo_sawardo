@@ -63,6 +63,8 @@ Max posee y administra directamente en su bolsa dimensional y en su hacienda las
 
 1. **La Esfera Matriz Causal (El Ojo de Chronos - Lote 12 / 80.000 oro):**
    - Núcleo de interfaz de realidad que no pudo ser analizado por el Sistema de Haruto; ancla el portal secreto de teletransporte a la fortaleza de Serath y mantiene la estabilidad de la finca.
+   - El 21 de Lluvia, Año 3, produjo un escaneo cartográfico de Thornhaven y una conexión con Max del Año 73. Sus capas pueden representar terreno y establecer correspondencias espaciales, temporales y causales.
+   - **Límite de seguridad:** una referencia no equivale a autorización ni permite escoger libremente destino o fecha. No activar para desplazamientos deliberados sin protocolo, observadores y medios de interrupción.
 2. **Pareja de Ópalos de Resonancia Acústica (Lote 05):**
    - Piedra de comunicación instantánea en su cinto sintonizada permanentemente con la que reposa en el despacho militar de Serath Vale en Aldoria.
 3. **Carta de Navegación Celestial de Jade (Lote 06):**

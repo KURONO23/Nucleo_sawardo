@@ -92,3 +92,16 @@ No fijar su lealtad, rango, origen, riqueza ni conocimiento de la identidad de M
 - **Ruta autónoma vigente:** `Meta:` sostener mensajeros y circuitos comerciales. `Ambición:` convertirse en intermediario indispensable sin ser el sacrificable de nadie. `Vínculo:` Corven, Orren y proveedores. `Obstáculo / hito:` elegir qué ruta cortar tras una factura o marca anómala.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** cortó una ruta redundante de mensajería después de la fractura con Corven.
+- **Crecimiento:** dejó de confiar en que su valor provenía solo del acceso y comenzó a preservar supervivencia e información propias.
+- **Coste y límite:** perdió velocidad y alcance; cortar una ruta también delata que percibió presión.
+- **Relaciones vivas:** mantiene una alianza dañada con Corven y contactos funcionales con Ardel, sin control probado del dinero.
+- **Siguiente hito:** decidir si repara la relación, vende información o protege su red independiente.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

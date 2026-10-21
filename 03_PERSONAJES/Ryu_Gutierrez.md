@@ -160,4 +160,24 @@
 ## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (RUTAS FLUVIALES Y CARTOGRAFÍA)
 
 - **Navegación fluvial y marítima:** Ampliación de cartas náuticas y rutas fluviales entre Aldoria y los muelles francos de Tornhaven.
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** revisó una ruta del Serath-Maru y cedió a otro tripulante la explicación de maniobra.
+- **Crecimiento:** convirtió experiencia de navegación en formación de tripulación, tolerando estilos distintos si son seguros.
+- **Coste y límite:** una ruta sigue condicionada por información incompleta y clima.
+- **Relaciones vivas:** fortalece Casa del Puente con Kenji y la memoria documental de Hwan-Rei.
+- **Siguiente hito:** validar la ruta y dejar un segundo instructor operativo.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## ADDENDUM — FLORIS, AÑO 3
+
+- Celebró su cumpleaños el día 8 y regresó al trabajo sin quedar congelado en la fiesta.
+- Formó tripulación y sostuvo prácticas de navegación mientras Galwin diagnosticaba el Serath-Maru.
+- **Límite:** el barco no está listo para la gran travesía a Zhong-Kyo.
+- **Fuente:** [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md).
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

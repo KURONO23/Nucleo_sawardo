@@ -1,5 +1,10 @@
 # Registro de nombres canonizados y variedad aldeoriana
 
+## Autores aldorianos confirmados
+
+- Tomas Elwick; Mara Venn; Edric Pell; Helena Foss; Bram Toller; Irena Snowe; Perrin Vale; Osmund Reeve; Lysa Merren.
+- Son nueve personas distintas y autores de nueve relatos independientes; nunca condensarlos en «autores anónimos».
+
 **Estado:** vigente desde 5 de Verdalia, Año 3.
 
 Este registro evita que el generador de personajes repita por inercia los mismos nombres. No cambia personajes existentes: las repeticiones antiguas se conservan y se etiquetan como colisiones intencionales o identidades separadas.
@@ -35,3 +40,21 @@ Antes de proponer otro personaje con estos nombres, exigir instrucción directa 
 ## Regla anti-Mara y anti-repetición
 
 El núcleo no puede rellenar un personaje nuevo con “Mara”, “Kael”, “Darian” u otro nombre frecuente solo porque encaje con el arquetipo. Si el nombre aparece repetido en una propuesta automática, la propuesta se invalida y debe pasar de nuevo por este registro.
+
+## Altas — 1 de Floris, Año 3
+
+- **Tilda Bronzeforge:** discípula de Galwin; materiales y temperatura.
+- **Jorik Runespan:** discípulo de Galwin; ensamblaje y documentación.
+- **Sivra Coppervein:** discípula de Galwin; calibración y control de calidad.
+- **Uldan Greypin:** discípulo adulto de Galwin; mantenimiento de campo.
+
+Los cuatro nombres pasaron búsqueda completa sin coincidencias en fichas ni matriz histórica antes de su creación.
+
+### Círculo de Sayaka / Cervecería Esmeralda
+
+- **Iria:** representante comercial joven ya confirmada sin nombre en la fuente.
+- **Tomas:** segundo representante comercial joven confirmado sin nombre.
+- **Samira:** joven de Solaria vinculada al intercambio lingüístico de Sayaka.
+- **Lenn:** asistente de producción de Esmeralda integrado en su círculo.
+
+Los cuatro nombres se fijan por recuperación autoral después de búsqueda sin coincidencia exacta. Sus apellidos permanecen `DESCONOCIDOS` para no fabricar familias o procedencias no demostradas.

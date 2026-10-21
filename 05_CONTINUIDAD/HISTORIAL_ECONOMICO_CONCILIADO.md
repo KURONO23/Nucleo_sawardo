@@ -33,13 +33,23 @@ No se encontró respaldo en las fuentes auditadas para abrir la partida con **8.
 
 - El último saldo líquido rector continúa en **905.905 oro**.
 - El flujo estructural continúa en **7.270 oro/mes**, antes de dividendos variables.
-- Sayaka rechazó un lote defectuoso de Cerveza Esmeralda. El hecho es canónico; cantidad, coste y pérdida permanecen `PENDIENTE_DE_CONCILIAR`.
+- Sayaka rechazó un lote defectuoso de Cerveza Esmeralda. En este corte histórico cantidad, coste y pérdida estaban `PENDIENTE_DE_CONCILIAR`; el cierre posterior del 1 de Floris fija una pérdida societaria neta de 600 oro.
 - La futura gala de Vivienne todavía no tiene fecha, invitados ni presupuesto; no cargar gastos inexistentes.
 
 ## Festival y Esmeralda
 
 - Festival: fondo inicial 24.000; compromisos iniciales aproximados 17.600; ingresos directos estimados 26.500; gastos 19.200; superávit operativo 7.300; fondos vinculados al cierre aproximadamente 12.100. Esos valores describen el circuito del Festival y no deben sumarse dos veces a la caja personal.
 - Cervecería Esmeralda, reparto posterior documentado: Evelyn 30%, Max 15%, Natalia 10%, Goran 12%, Darian 11%, Haruto 10%, Biro 7% y reserva societaria 5%.
+
+## Cierre definitivo de pendientes — 1 de Floris, Año 3
+
+- Patrimonio contable conservador de Max/Casa Gutiérrez, sin fondo restringido: **1.495.348 oro**.
+- Fondo del Festival conciliado y separado: **12.100 oro**.
+- Distribución total de Esmeralda en Lluvia: **16.000 oro**; Max recibe 2.400 y Sayaka/Evelyn 4.800 conforme a porcentajes.
+- Dividendos antiguos: `CERRADOS SIN ASIENTO ADICIONAL` por imposibilidad de distinguirlos de saldos ya conciliados.
+- Lote defectuoso: coste bruto 720, recuperación 120, pérdida neta societaria **600 oro**.
+- Segmentación: Dragón de Oro Aldoria 4.000/mes; el bloque 2.870 pasa a denominarse **Circuito comercial de Tornhaven**, sin fingir que pertenece íntegramente al restaurante.
+- Expediente rector: [[CIERRE_PENDIENTES_ECONOMICOS_1_FLORIS_A3]].
 
 ## Fuentes
 
@@ -58,4 +68,20 @@ No se encontró respaldo en las fuentes auditadas para abrir la partida con **8.
 | 10 de Lluvia, Año 3 | **910.068 oro** | Pendiente de tasación | Festival separado | 7.270/mes base | Liquidación formal de compras: Cofre (−607) y Núcleo Carmesí (−1.000) |
 | 20 de Lluvia, Año 3 | **910.068 oro** | Supera 1.460.000 oro | Festival separado | 7.270/mes base | Cierre tras graduación de la Academia y almuerzo real |
 
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
+
+---
+
+## Addendum delta RP — cierre de Lluvia y apertura de Floris, Año 3
+
+| Momento | Liquidez personal | Movimiento confirmado | Estado |
+|---|---:|---:|---|
+| 20 de Lluvia | 910.068 oro | Base conciliada | Confirmado |
+| Cierre ordinario de Lluvia | +7.270 oro | Flujo estructural neto | Confirmado |
+| Dividendo Esmeralda | +2.400 oro | Distribución a Max | Confirmado para este cierre; no fijar como mensual |
+| Gastos 21 de Lluvia–1 de Floris | −497 oro | Regalos, celebraciones y gastos valorados | Confirmado |
+| **1 de Floris** | **919.241 oro** | **Nuevo saldo líquido rector** | **Confirmado** |
+
+- La nómina administrativa y el coste de Galwin ya forman parte del flujo neto de 7.270.
+- Patrimonio histórico de referencia en ese momento: 1.460.000–1.500.000 oro. El cierre posterior fija valor contable conservador de 1.495.348 oro.
+- Fuente: `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.

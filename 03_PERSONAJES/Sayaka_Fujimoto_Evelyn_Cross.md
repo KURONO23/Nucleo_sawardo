@@ -111,4 +111,58 @@ Sayaka rechazó un lote defectuoso de Cerveza Esmeralda. El hecho confirma su ve
 
 - **Cervecería Esmeralda:** Ejerció su derecho de veto técnico rechazando con firmeza un lote defectuoso de producción para proteger el estándar de la marca.
 - **Comunidad de reencarnados:** Coordinó con Yuki y Cecilia/Mizuki Takahashi la organización de una reunión informal y gastronómica del círculo japonés, libre de ataduras y compromisos corporativos.
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** liberó solo el lote aprobado y mantuvo inmovilizado el defectuoso.
+- **Crecimiento:** priorizó reputación y seguridad sobre recuperar rápido el coste.
+- **Coste y límite:** el rechazo produce pérdida aún no cuantificada.
+- **Relaciones vivas:** exige a Natalia y Elise separar calidad, inventario y dividendos.
+- **Siguiente hito:** determinar causa del fallo y prevenir repetición sin inventar cifras.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## CIERRE EMPRESARIAL Y VIDA PROPIA — 1 DE FLORIS, AÑO 3
+
+### Empresa
+
+- Cerró Lluvia con autoridad operativa intacta. La distribución societaria total fue de **16.000 oro**; su 30% equivale a **4.800 oro personales**.
+- El lote inmovilizado queda valorado en 720 oro brutos, recuperación de 120 y pérdida neta societaria de **600 oro**. Sayaka no traslada la pérdida a trabajadores ni libera producto para esconderla.
+- Ordenó separar lotes conformes, observados y rechazados; la fábrica continuó sin depender de su presencia nocturna.
+- La expansión internacional queda subordinada a capacidad de almacén, estabilidad de ruta y desempeño de las tres líneas existentes.
+
+### Sayaka no está sola
+
+- Vive en su propia residencia y puede experimentar silencio o soledad, pero ya no está socialmente aislada ni existe solamente como «la directora de Max».
+- Su círculo confirmado y ahora individualizado incluye a **Iria** y **Tomas**, representantes comerciales jóvenes; **Samira**, enlace solariana con quien practica idiomas; y **Lenn**, asistente de producción de Esmeralda.
+- Conserva amistad con Yuki. Durante Lluvia finalmente convirtió la nota «escribirle esta semana» en una invitación sencilla a tomar té y hablar de Japón, sin agenda empresarial.
+- Una vez por semana sale de la fábrica a la hora prevista y comparte comida, práctica lingüística o conversación con parte de ese círculo. No todas las reuniones incluyen a todos y no dependen de Max.
+- Biro, Darian y Haruto brindaron por ella y propusieron una futura reunión de accionistas destinada a apoyarla; Sayaka mantiene derecho a fijar duración y agenda.
+- No se le asigna romance para corregir su soledad. Su crecimiento actual es amistad elegida, descanso sin culpa, disfrute doméstico y una empresa capaz de continuar cuando ella cierra la puerta.
+
+### Identidades sin fragmentación
+
+- En la fábrica utiliza normalmente **Evelyn Cross**; Yuki y su círculo reencarnado pueden llamarla **Sayaka** en intimidad.
+- Iria, Tomas y Lenn la conocen como Evelyn. Samira conoce el nombre Sayaka porque ella decidió compartirlo durante su amistad; no es información pública.
+- Sayaka y Evelyn continúan siendo una sola mujer, no dos personalidades ni dos vidas rivales.
+
+### Siguiente etapa
+
+- Identificar la causa técnica del lote sin buscar un culpable conveniente.
+- Celebrar la junta de accionistas con datos completos y límite de tiempo.
+- Realizar una salida sin objetivo comercial con Yuki y su círculo.
+- Elegir una actividad personal que no transforme inmediatamente en producto o ingreso.
+
+Véase [[CIERRE_PENDIENTES_ECONOMICOS_1_FLORIS_A3]], [[Iria_Representante_Esmeralda]], [[Tomas_Representante_Esmeralda]], [[Samira_Enlace_Solaria]] y [[Lenn_Asistente_Esmeralda]].
+
+## ADDENDUM — FLORIS, AÑO 3
+
+- Recibió reconocimiento del directorio de Esmeralda y demostró que puede delegar una ausencia sin que la cervecería dependa de su presencia constante.
+- Participó en Pequeño Zhong-Kyo como Sayaka, no solo como directora Evelyn, y compartió recuerdos de Japón.
+- Retomó control de calidad y preparació la operación de Harry Potter II exigiendo aforo y datos antes de comprometer producción.
+- **Pendiente:** cumpleaños del 30 de Solalto y equilibrio entre identidad, descanso y responsabilidad.
+- **Fuente:** [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md).
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

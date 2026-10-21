@@ -115,3 +115,33 @@ Fuente: `00_FUENTES/historia_original/AÑO_1/02_01_Bruma_a_18_Bruma_y_05_Solalto
 - **Ruta autónoma vigente:** `Meta:` proteger la casa, cumplir como combatiente y sostener su vínculo creciente con Natalia. `Ambición:` desarrollar una disciplina propia fuera de las bromas de pareja que otros le asignen. `Vínculo:` Natalia, Amane como compañera de equipo y los guardianes. `Obstáculo / hito:` resolver una tarea y elegir por sí mismo cómo hablar de Natalia.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** completó una escolta rutinaria con disciplina y pidió a Natalia hablar fuera del trabajo.
+- **Crecimiento:** separó deber marcial de vida afectiva y tomó iniciativa sin asumir respuesta.
+- **Coste y límite:** la conversación sigue pendiente; no existe pareja confirmada.
+- **Relaciones vivas:** mantiene responsabilidades con Vigilia y vínculo abierto con Natalia.
+- **Siguiente hito:** sostener la conversación con claridad y aceptar cualquier resultado.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## EVOLUCIÓN RELACIONAL — NATALIA, 30 DE LLUVIA A 1 DE FLORIS
+
+- Durante una comida tardía reconoció ante Natalia que sus celos respecto a Leo habían sido injustos.
+- Expresó interés de forma directa, sin exigir una respuesta inmediata ni convertir protección en derecho afectivo.
+- Aceptó que las bromas del círculo no definen la relación y que Natalia necesita hechos claros y tiempo propio.
+- Ambos acordaron un paseo en Floris. Kael no interpreta esa aceptación como noviazgo formal.
+- Su crecimiento consiste en cambiar posesividad silenciosa por vulnerabilidad responsable y capacidad de aceptar límites.
+- Estado: `INTERÉS RECÍPROCO EXPRESADO / CORTE CONSCIENTE EN INICIO`.
+
+## ADDENDUM — 26–31 DE FLORIS, AÑO 3
+
+- Expresó con claridad que quería conocer a Natalia como algo más que amiga y construir una relación real.
+- Aceptó su condición de mantener vidas y deberes propios; el día 31 ambos formalizaron pareja.
+- No convierte nervios, celos previos ni bromas del grupo en control sobre ella.
+- Estado: `PAREJA FORMAL / ANUNCIO PÚBLICO PENDIENTE`.
+- **Fuente:** [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md).
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

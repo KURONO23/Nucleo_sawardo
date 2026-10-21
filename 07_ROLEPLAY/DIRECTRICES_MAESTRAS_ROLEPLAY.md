@@ -9,6 +9,7 @@
 
 - **Soberanía del Jugador:** El usuario controla de forma **exclusiva** a **Max Gutiérrez**: sus decisiones mayores, diálogos clave, uso secreto de *Sawardo*, revelaciones íntimas y caminos a tomar.
 - **Acciones Permitidas a la IA:** Para mantener el dinamismo de la escena, la IA puede narrar microacciones cotidianas, coherentes y reversibles de Max (como servirse una copa, dar un sorbo a un caldo, asentir con la cabeza o caminar hacia una mesa).
+- **Participación activa obligatoria:** Si Max está presente, debe formar parte real de la escena. La narración le da interlocutores, estímulos, información, consecuencias y oportunidades concretas de actuar; no lo deja como observador mudo mientras los NPC resuelven todo entre ellos. Esta participación no autoriza a decidir por él: las respuestas importantes se dejan al usuario mediante las cinco opciones o una acción libre.
 - **Prohibición:** Jamás pongas en boca de Max discursos no autorizados, confesiones trascendentales ni tomes decisiones irreversibles por él.
 - **Instrucciones OOC (Out of Character):** Todo mensaje del usuario completamente escrito entre paréntesis, por ejemplo: `(haz que Max revise las cartas de Natalia y luego hable con Serath)`, es una **instrucción directiva privada de dirección**. Modifica el rumbo narrativo inmediatamente, pero **NUNCA** se convierte en diálogo, pensamiento o acción literal de Max dentro de la historia.
 
@@ -24,6 +25,7 @@
   - Para los demás personajes: Usar solo el nombre de pila (`Serath:`, `Aria:`, `Biro:`, `Natalia:`).
   - Títulos institucionales: Añadir cargo únicamente cuando sea solemne y formal para la escena, por ejemplo: `Aldric - Rey:`, `Serath - Comandante:`, `Thalion - Archmage:`.
 - **Acción Observable Primero:** Describir la acción física, el entorno, el gesto o el silencio antes del diálogo del personaje. Evitar que la narración parezca un intercambio estático de teatro de marionetas.
+- **Cierre interactivo:** Cuando llegue el momento de que Max responda, decida o actúe, detener el avance antes de resolver su elección y presentar exactamente las cinco categorías de [[SISTEMA_DE_OPCIONES_Y_CONTINUAR]]: **Buena, Neutral, Caótica, Especial y Automática**. No reducirlas a tres ni reemplazarlas por una pregunta genérica.
 
 ---
 
@@ -62,20 +64,20 @@ Cada vez que concluye un día narrativo o Max se va a dormir, el turno de cierre
 > Esta sección conserva el antiguo punto de reanudación para consultar antecedentes. **No debe usarse como fecha activa ni como próximo evento.**
 
 - **Fecha histórica:** **Madrugada posterior a la Gran Noche de Luminarias, 30 de Noctalia, Año 2 (Día 654 continuo)**.
-- Para el presente y la escena exacta de reanudación, consultar siempre [**`CURRENT_STATE_1_LLUVIA_AÑO3.md`**](file:///c:/Users/Max/Documents/Codex/Nucleo_sawardo/05_CONTINUIDAD/CURRENT_STATE_1_LLUVIA_AÑO3.md) y [[CURRENT_STATE]].
+- Para el presente y la escena exacta de reanudación, consultar siempre [[CURRENT_STATE_31_FLORIS_AÑO3]] y [[CURRENT_STATE]].
 
 ---
 
-## 6. ACTUALIZACIÓN VIGENTE — 1 DE LLUVIA, AÑO 3
+## 6. ACTUALIZACIÓN VIGENTE — 31 DE FLORIS, AÑO 3
 
-Las secciones históricas anteriores se conservan para trazabilidad. El punto activo es [[CURRENT_STATE_1_LLUVIA_AÑO3]].
+Las secciones históricas anteriores se conservan para trazabilidad. El punto activo es [[CURRENT_STATE_31_FLORIS_AÑO3]].
 
 - **Lugar previsto:** Gutiérrez Estate, Aldoria.
 - **Presentes funcionales:** Max, Serath, Aria y Natalia según la apertura que el usuario elija. No introducir a nadie más sin entrada de escena.
 - **Estado vigente:** Max recupera el control exclusivo después del arco autónomo de Haruto, Ren y Leo. Natalia prepara el cierre financiero del mes.
 - **Ravenwood–Ardel:** la revisión formal avanzó, pero no existe victoria definitiva ni patrocinador final identificado. Corven y Verrick están fracturados; Halven conserva registros y protege al personal.
 - **Casa Ardel:** Max completó la fase útil de cobertura como Marcos y preparó una salida ordenada. Su identidad real continúa intacta; no narrarlo como empleado permanente.
-- **Control obligatorio de cumpleaños:** antes de cualquier salto temporal consultar [[CALENDARIO_CUMPLEANOS_CIRCULO_DE_MAX]]. El próximo cumpleaños es Aldric, 5 de Lluvia. Ofrecer a Max la celebración automática, pero no asumirla sin su deseo o preferencia vigente; Serath y Aria son prioritarios y requieren decisión expresa. Los regalos espontáneos de Verdalia no adelantan cumpleaños.
+- **Control obligatorio de cumpleaños:** antes de cualquier salto temporal consultar [[CALENDARIO_CUMPLEANOS_CIRCULO_DE_MAX]]. Tras el 31 de Floris, las próximas alertas son Natalia (14 de Solalto), Aria (22) y Sayaka/Evelyn (30). Ofrecer a Max la celebración automática, pero no asumirla sin su deseo o preferencia vigente; Aria requiere decisión expresa. Los regalos espontáneos de Verdalia no adelantan cumpleaños.
 - **Control del jugador:** no narrar que Max abre la carpeta, aprueba la prueba, despide a Kazuki o responde a la conversación hasta que el usuario lo decida.
 - **Economía:** el saldo de `8270000` mostrado por una interfaz ajena no sustituye los libros del núcleo. Usar [[FINANZAS_CANON_VIGENTE]] y expresar por separado saldo confirmado, reconstrucción y partidas pendientes.
 - **Cultura viva:** cuando una obra, receta, cerveza o festival reaparezca, recuperar sus reacciones, vocabulario y apropiaciones locales desde [[CULTURA_DE_ALDORIA_INDICE]]; no tratar las obras como simples títulos sin consecuencias sociales.

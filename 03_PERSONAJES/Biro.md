@@ -175,4 +175,41 @@ Biro continúa puliendo un final sobrio para *La tragedia del último barril*. L
 - **Autoría e integridad artística:** Goran asesora el ritmo y la contención de los actores, pero la autoría de Biro permanece intocable y soberana.
 - **Los Cinco del Barril y Serath:** En la taberna, celebró con Max, Goran, Haruto y Darian, bautizando humorísticamente a Serath como «Comandante Suprema del Barril». Ante la mirada atónita de todos por sus ocurrencias, soltó su inocente y legendario: *«¿Qué?»*.
 - **Defensa inquebrantable:** Ratificado como el mayor baluarte defensivo del grupo (Nivel 68 en la lectura narrativa de Lluvia).
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
+
+---
+
+## EVOLUCIÓN CANÓNICA — LA TRAGEDIA DEL ÚLTIMO BARRIL
+
+- Entre el 22 y el 30 de Lluvia defendió la intención de su obra y guio a los intérpretes, pero **no asumió el papel protagonista**: hacerlo habría absorbido sus demás compromisos.
+- Conserva la decisión final sobre el texto. Goran coordina dirección y pruebas; Max, Haruto y Darian aportan observaciones sin imponer cambios.
+- Reparto principal confirmado: Tobias Mercerfield, Edgar Wainwright y Clara Bellamy.
+- Estreno previsto para el **12 de Floris, Año 3**, condicionado a ensayo general y seguridad escénica; no darlo por realizado.
+- **Fuente:** [Lluvia a 1 de Floris, Año 3](../00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md).
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** llevó su obra de manuscrito a montaje, guio actores y defendió un final sobrio sin abandonar deberes de aventurero.
+- **Crecimiento:** asumió autoría pública y aprendió a traducir intención literaria en decisiones actorales.
+- **Coste y límite:** revisiones y obligaciones reducen tiempo; estreno y ensayo general siguen pendientes.
+- **Relaciones vivas:** acepta dirección de Goran y aportes de Darian sin ceder la última palabra del texto.
+- **Siguiente hito:** superar el ensayo general y decidir qué crítica incorporar.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## EVOLUCIÓN RELACIONAL — VIVIENNE, 1 DE FLORIS
+
+- Solicitó por iniciativa propia una lectura logística de la obra y escuchó observaciones sobre público, capacidad y costes.
+- Defendió el núcleo del texto sin reaccionar como si toda corrección fuera un ataque.
+- La confianza con Vivienne crece como colaboración profesional y afinidad personal; no se declara romance.
+
+## ADDENDUM — FLORIS, AÑO 3
+
+- Estrenó *La tragedia del último barril* como autor, recibió elogios y crítica y decidió revisar antes de permitir reposiciones.
+- Mejoró el segundo acto eliminando explicaciones repetidas sin borrar sus silencios ni entregar su voz a Goran o Max.
+- Su contacto con Vivienne avanza mediante caminata, notas y respeto profesional; no existe relación formal.
+- Escribe *Mi fin de semana con el muerto* con Darian y Los Cinco del Barril.
+- **Fuente:** [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md).
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

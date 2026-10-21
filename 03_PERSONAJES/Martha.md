@@ -98,3 +98,16 @@
 - **Ruta autónoma vigente:** `Meta:` mantener la taberna como lugar seguro de descanso. `Ambición:` defender una clientela donde aventureros y mercaderes sean tratados con dignidad. `Vínculo:` Maria y trabajadores portuarios. `Obstáculo / hito:` manejar un rumor sin convertirlo en acusación.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** frenó el rumor de favoritismo sobre ascensos remitiendo a criterios de evaluación.
+- **Crecimiento:** defendió reputación institucional mediante evidencia, no autoridad emocional.
+- **Coste y límite:** el rumor no desaparece por completo y responder también puede amplificarlo.
+- **Relaciones vivas:** complementa la orientación de Maria y la autoridad de Kira.
+- **Siguiente hito:** establecer una respuesta pública breve y consistente.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

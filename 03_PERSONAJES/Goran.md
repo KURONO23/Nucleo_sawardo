@@ -93,4 +93,25 @@ En el proyecto de *La tragedia del último barril*, Goran conserva el papel de a
 
 - **Audiciones y casting de *La tragedia del último barril* (12 de Lluvia):** Asesoró a Biro en la selección de Tobias Mercerfield, Edgar Wainwright y Clara Bellamy en el Teatro de Aldoria, cuidando la contención dramática de los actores y protegiendo escrupulosamente la autoría de Biro.
 - **Ética de producción:** Mantiene la regla estricta de no sobrecargar a los actores (máximo 2 funciones por semana, descansos garantizados y calendario de ensayos sin presiones de estreno apresurado).
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** distribuyó ensayos, gira y descanso para evitar agotar a la compañía, y mantuvo investigación óptica en fase experimental.
+- **Crecimiento:** dirige capacidad humana además de espectáculo y distingue acompañar a Biro de sustituirlo.
+- **Coste y límite:** proteger descanso restringe fechas; no existe cámara funcional.
+- **Relaciones vivas:** delega bloques a Edda, Bram y otros actores y negocia con Vivienne.
+- **Siguiente hito:** conducir el ensayo general y elegir qué experimento óptico merece repetición.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## ADDENDUM — FLORIS, AÑO 3
+
+- Dirigió el estreno de Biro, separó recepción artística de cierre contable y respetó la decisión final del autor.
+- Consolidó cifras de *La piedra filosofal* y recuperó las rutas individuales de los nueve autores de *Relatos del Camino*.
+- Edita *Mi fin de semana con el muerto* y evalúa con Elise un departamento de vestuario; esta relación es profesional.
+- **Pendiente:** coordinar Harry Potter II desde el 10 de Solalto sin abandonar las dos obras.
+- **Fuente:** [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md).
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

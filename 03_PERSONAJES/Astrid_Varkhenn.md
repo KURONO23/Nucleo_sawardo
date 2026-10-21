@@ -63,3 +63,16 @@ Insiste en usar el escudo durante toda la secuencia de Dunk y Egg: la utilería 
 - **Ruta autónoma vigente:** `Meta:` representar a Dravenn y mantener sus delegaciones seguras. `Ambición:` unir fuerza marcial y diplomacia cultural. `Vínculo:` Maeve, Selene y la montaña. `Obstáculo / hito:` respaldar una iniciativa cultural que no controle.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** protegió una delegación comercial-cultural y respaldó un intercambio que no controla.
+- **Crecimiento:** amplió liderazgo marcial hacia confianza diplomática.
+- **Coste y límite:** apoyar sin dirigir implica aceptar resultados ajenos.
+- **Relaciones vivas:** trabaja con Maeve y Selene preservando funciones distintas.
+- **Siguiente hito:** sostener seguridad sin absorber la iniciativa cultural.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

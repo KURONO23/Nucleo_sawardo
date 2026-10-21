@@ -37,4 +37,17 @@
 
 ## 6. Fuentes y correcciones
 
-- `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** organizó observaciones comparables sobre los objetos custodiados sin atribuirles función.
+- **Crecimiento:** separó descripción, hipótesis e interpretación.
+- **Coste y límite:** produjo menos conclusiones rápidas.
+- **Relaciones vivas:** contrasta con Eleanor y otros académicos sin competir por abrir primero.
+- **Siguiente hito:** diseñar un registro común de resultados negativos.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

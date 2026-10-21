@@ -99,4 +99,17 @@ No atribuirle conocimiento de la identidad de Max, de G1 ni del patrocinador fin
 ## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (GESTIÓN AUTÓNOMA EN CASA ARDEL)
 
 - **Independencia profesional:** Tras la salida de Marcos (Max), asumió la conducción ética y autónoma de los libros y asuntos de Casa Ardel, desvinculándose de las maniobras ilícitas de Corven Marr.
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** retuvo órdenes contradictorias, protegió al personal doméstico y ordenó el archivo operativo de Casa Ardel.
+- **Crecimiento:** dejó de limitarse a hacer funcionar la casa y comenzó a defender su legitimidad mediante trazabilidad.
+- **Coste y límite:** su prudencia puede incomodar a Severin y ralentiza órdenes auténticas; desconoce las capas superiores.
+- **Relaciones vivas:** conserva la confianza ganada por Marcos sin saber que era Max y no queda subordinado a Yuki.
+- **Siguiente hito:** determinar qué orden merece confrontación interna sin exponerse como investigador.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

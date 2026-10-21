@@ -65,3 +65,16 @@
 - [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]]
 - No confundir su independencia musical con pertenencia automática a Editorial Estrella Verde o la Compañía Goran.
 
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** interpretó una pieza instrumental propia ante amigas y aceptó revisar el cierre.
+- **Crecimiento:** expuso obra personal incompleta sin depender de validación de la compañía.
+- **Coste y límite:** la pieza aún no entra en producción ni repertorio.
+- **Relaciones vivas:** recibe crítica de Liora, Greta y Elena conservando decisión artística.
+- **Siguiente hito:** presentar una segunda versión y elegir si la ofrece a Goran.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

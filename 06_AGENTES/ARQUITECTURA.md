@@ -18,6 +18,8 @@ CRONISTA DE DESARROLLO     MOTOR DE VIDA AUTÓNOMA
         │
 CRONISTA SOCIAL
         │
+AUDITOR DE CIERRE MENSUAL ── solo al cambiar de mes
+        │
 DIRECTOR NARRATIVO
         │
      JUGADOR
@@ -25,11 +27,36 @@ DIRECTOR NARRATIVO
 
 El Compresor de Memoria opera después de escenas/arcos y no participa normalmente en la respuesta narrativa.
 
+## Excepción obligatoria: actualización por fuentes nuevas
+
+Cuando Max informa que agregó, reemplazó o amplió `00_FUENTES/historia_original/` y solicita actualizar el núcleo, la carga selectiva normal queda sustituida por un **despliegue completo de los trece agentes**. Se organizan en oleadas por concurrencia, pero ninguno se omite. Cada uno informa hallazgos o `SIN_CAMBIO_DEMOSTRADO`; el Auditor no puede cerrar y el Compresor no puede publicar el paquete final hasta recibir los trece resultados, propagar los cambios y completar validación y compilación ChatGPT.
+
+## Oleada obligatoria al incorporar fuentes
+
+```text
+                 ORQUESTADOR PRINCIPAL
+                /          |           \
+       FUENTE Y CANON   PERSONAJES    MUNDO/SISTEMAS
+            |           RELACIONES      ECONOMÍA
+            \              |            /
+             \_____ CRUCE Y PROPAGACIÓN _____/
+                           |
+               AUDITOR DE CIERRE MENSUAL
+                           |
+                  VALIDACIÓN + CHATGPT
+```
+
+- Se activa cada vez que el usuario informa material nuevo en `00_FUENTES` y pide actualizar.
+- En actualizaciones provocadas por fuentes nuevas, reemplazadas o ampliadas, se ejecutan obligatoriamente los trece perfiles en oleadas. La selección parcial solo se permite en tareas ordinarias que no integran fuentes.
+- Cada archivo tiene un solo escritor asignado. Los demás agentes entregan evidencia y propuestas para evitar conflictos.
+- El cierre exige una matriz de todas las personas y entidades nombradas, incluso cuando el resultado sea `SIN_CAMBIO_DEMOSTRADO`.
+- El agente principal conserva responsabilidad por coherencia, integración y entrega final.
+
 ## Perfil operativo de modelos
 
 El núcleo PC usa GPT-5.6 Luna como modelo predeterminado y distribuye el esfuerzo por riesgo, según la tabla de [[AGENT_REGISTRY]]: ligero (`low`), medio (`medium`), alto (`high`) y muy alto (`xhigh`). `max` queda reservado para una reauditoría excepcional.
 
-La asignación es una política de enrutamiento, no un conjunto de procesos residentes. En una sesión normal, el orquestador carga solo los agentes pertinentes y aplica el perfil indicado; no ejecuta once agentes ni relee toda la bóveda en cada turno.
+La asignación es una política de enrutamiento, no un conjunto de procesos residentes. En una sesión normal, el orquestador carga solo los agentes pertinentes y aplica el perfil indicado; no ejecuta doce agentes ni relee toda la bóveda en cada turno.
 
 La ruta de bajo consumo es:
 
@@ -45,7 +72,7 @@ Si una tarea falla o deja una contradicción, se escala una sola vez al perfil s
 
 La tabla específica está en [[PERFILES_ANTIGRAVITY_GEMINI]]. En Antigravity no se inventa un nivel “muy alto”: se obtiene mediante **Gemini 3.1 Pro High + segunda pasada independiente**. Flash se reserva para presentación y coordinación; Pro se reserva para canon, historia original y contradicciones.
 
-## Once agentes justificados
+## Trece agentes justificados
 
 1. **Guardián del Canon:** autoridad de continuidad, fuentes y contradicciones.
 2. **Árbitro RP:** interpreta input/OOC, protege control de Max y enruta contexto.
@@ -58,6 +85,8 @@ La tabla específica está en [[PERFILES_ANTIGRAVITY_GEMINI]]. En Antigravity no
 9. **Custodio de Historia Original e Impacto:** recupera cadenas causales completas y detecta crecimiento directo o indirecto nacido de la historia original.
 10. **Cronista de Desarrollo de Personajes:** convierte interacciones en evolución acumulativa, preservando la autoría del personaje.
 11. **Motor de Vida Autónoma:** mueve rutinas, relaciones y proyectos fuera de cámara con tiempo, recursos, obstáculos y agencia propios.
+12. **Auditor de Cierre Mensual:** al cambiar de mes cruza todos los dominios, exige propagación individual y bloquea cierres que solo existan como resumen.
+13. **Agente de Prompts para Roleplay:** convierte escenas pegadas e instrucciones breves de Max en prompts ejecutables, con comprobación mínima de personajes, habilidades, relaciones y conocimiento antes de entregarlos al Director.
 
 ## Fusiones deliberadas
 
@@ -75,6 +104,8 @@ La tabla específica está en [[PERFILES_ANTIGRAVITY_GEMINI]]. En Antigravity no
 - El **Cronista de Desarrollo de Personajes** no sustituye al Maestro de Personajes: el Maestro interpreta voz y conducta actual; el Cronista conserva cómo esa persona cambió con el tiempo.
 - El **Motor de Vida Autónoma** no sustituye al Director: propone avances causales fuera de cámara; el Director decide cómo presentarlos sin controlar a Max.
 - Los tres se crean porque la historia ya demostró errores repetidos por resumir eventos sin resolución, registrar interacciones sin crecimiento y congelar NPC cuando Max no está presente.
+- El **Auditor de Cierre Mensual** no duplica al Compresor: el Compresor reduce y organiza memoria; el Auditor comprueba cobertura transversal, convoca especialistas y no permite cerrar hasta que cada consecuencia alcance sus archivos de destino.
+- El **Agente de Prompts para Roleplay** no sustituye al Árbitro ni al Director: prepara o corrige la instrucción que usará el juego, pero no narra la escena, no decide por Max y no posee autoridad para fijar canon.
 
 ## Crecimiento
 

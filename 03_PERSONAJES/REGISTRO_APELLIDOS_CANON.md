@@ -4,7 +4,7 @@ Este registro sirve como primera barrera para crear personajes nuevos. No sustit
 
 ## Apellidos confirmados en el elenco activo
 
-Gutiérrez · Vale · Theron · Thornwell · Silverstream · Goldcrest · Ironheart · Swiftwind · Ashford · Vyre · Holt · Gearwright · Kazagami · Mercer · Fujimoto · Cross · Moriyama · Varkhenn · Arvaux · Venn · Dorne · Carrow · Ellsen · Hale · Marr · Dossan · Halven · Ardel · Rei · Voss · Credence · Veinhardt · Ferran · Quill · Sorel · Muir · Tor · Doss · Weissmann · Hoffmann · Falkenberg.
+Gutiérrez · Vale · Theron · Thornwell · Silverstream · Goldcrest · Ironheart · Swiftwind · Ashford · Vyre · Holt · Gearwright · Kazagami · Mercer · Fujimoto · Cross · Moriyama · Varkhenn · Arvaux · Venn · Dorne · Carrow · Ellsen · Hale · Marr · Dossan · Halven · Ardel · Rei · Voss · Credence · Veinhardt · Ferran · Quill · Sorel · Muir · Tor · Doss · Weissmann · Hoffmann · Falkenberg · Bronzeforge · Runespan · Coppervein · Greypin.
 
 ## Reglas de uso
 
@@ -25,3 +25,4 @@ Gutiérrez · Vale · Theron · Thornwell · Silverstream · Goldcrest · Ironhe
 La regla de unicidad se añadió después de la auditoría de nombres de Año 3. No altera ninguna ficha existente; solo controla altas futuras.
 
 - **Verdalia, Año 3:** se registran Weissmann, Hoffmann y Falkenberg para las amigas de Liora. La repetición del nombre Elena es una decisión autoral explícita y queda desambiguada siempre mediante **Elena Weissmann** frente a [[Elena]], madre de Suri. «Mara» fue rechazado como nombre provisional de Greta Hoffmann.
+- **1 de Floris, Año 3:** se registran Bronzeforge, Runespan, Coppervein y Greypin para los cuatro discípulos individualizados de Galwin. La búsqueda previa no halló colisiones.

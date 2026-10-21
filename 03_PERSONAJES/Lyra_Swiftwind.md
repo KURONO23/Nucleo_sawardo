@@ -108,3 +108,16 @@
 - **Ruta autónoma vigente:** `Meta:` sostener movilidad y apoyo en incursiones. `Ambición:` ser reconocida por su lectura de rutas, no solo por acompañar a Marcus. `Vínculo:` Marcus, Gareth y Biro. `Obstáculo / hito:` proponer una ruta propia con retirada clara.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** propuso una ruta con puntos claros de retirada.
+- **Crecimiento:** hizo visible su lectura espacial como competencia propia, no solo apoyo a Marcus.
+- **Coste y límite:** la opción más segura es más lenta y puede ser rechazada por clientes.
+- **Relaciones vivas:** discute planificación con Marcus, Gareth y Romina.
+- **Siguiente hito:** guiar la ruta y ajustar el mapa con evidencia.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

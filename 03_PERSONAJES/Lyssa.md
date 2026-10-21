@@ -109,3 +109,16 @@ Fuente: `00_FUENTES/historia_original/AÑO_1/02_01_Bruma_a_18_Bruma_y_05_Solalto
 - **Ruta autónoma vigente:** `Meta:` coordinar vigilancia ágil y logística urbana. `Ambición:` dirigir una red de enlaces civiles que anticipe problemas sin militarizar la ciudad. `Vínculo:` Torin y comerciantes de Aldoria. `Obstáculo / hito:` resolver un incidente de ruta sin esperar una orden central.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** resolvió una interrupción de mensajería usando comerciantes y puestos civiles.
+- **Crecimiento:** aprendió a sostener seguridad sin convertir toda dificultad en respuesta militar.
+- **Coste y límite:** la red civil es más lenta y requiere confianza que puede agotarse.
+- **Relaciones vivas:** complementa el registro de costes de Torin y el trabajo de Kael.
+- **Siguiente hito:** formalizar una contingencia sin absorber a colaboradores civiles.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

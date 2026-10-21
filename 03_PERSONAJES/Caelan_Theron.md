@@ -58,3 +58,22 @@ En Dravenn combina coordinación con procedimiento: trabaja con Astrid y formali
 - **Ruta autónoma vigente:** `Meta:` aprender administración y escuchar a sectores que no son corte. `Ambición:` ser heredero con criterio propio, no una copia de Aldric. `Vínculo:` Rowan y tutores políticos. `Obstáculo / hito:` defender una propuesta ante un consejo dividido.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** comparó propuestas de Gremio, mercaderes y Guardia y defendió una prueba vial limitada con revisión trimestral.
+- **Crecimiento:** avanza como heredero administrativo capaz de formular mecanismos de control, no solo apoyar al rey.
+- **Coste y límite:** su propuesta queda en evaluación y enfrenta intereses incompatibles.
+- **Relaciones vivas:** trabaja bajo encargo de Aldric pero sostiene argumentos propios ante el consejo.
+- **Siguiente hito:** responder objeciones presupuestarias sin convertir la prueba en reforma nacional.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## CICLO `AUTÓNOMO_DERIVADO` — 1 A 31 DE FLORIS, AÑO 3
+
+- Consultó por separado a pequeños comerciantes, Guardia y responsables de caminos sobre la prueba vial.
+- Detectó que su diseño inicial trasladaba demasiado tiempo de espera a vendedores modestos; redujo el tramo piloto y añadió revisión a treinta días.
+- Defendió la corrección sin usar la autoridad de Aldric para cerrar la discusión. Aprende a modificar una propuesta ante evidencia sin confundir rectificación con debilidad.
+- **Coste:** la reforma se vuelve menos vistosa y parte del consejo interpreta el cambio como vacilación.
+- **Siguiente hito:** supervisar el piloto y comparecer con resultados verificables.
+- **Límite familiar:** respeta a Serath como Comandante Suprema; desconoce que es su hermana biológica.
+- Integración: [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]].

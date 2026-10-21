@@ -38,7 +38,7 @@ Biro no queda fijado como “el tanque que escribió una obra”. La obra es par
 
 `MANUSCRITO → LECTURA PRIVADA → REVISIÓN → LECTURA PÚBLICA → ENSAYO → ESTRENO → CRÍTICA → EDICIÓN/TRANSMISIÓN`.
 
-Estado actual: manuscrito y lectura privada de trabajo confirmados; casting definitivo, ensayo general y estreno siguen `PENDIENTE_DE_ESCENA`. Goran asesora y dirige la compañía, pero no roba la autoría de Biro. Darian puede aportar disciplina y experiencia; copistas y actores pueden criticar, adaptar o defender la obra sin sustituir la voz de su autor.
+Estado vigente al 31 de Floris: *La tragedia del último barril* se estrenó el 12 de Floris con recepción favorable. Biro conserva la autoría y Goran la dirección; crítica formal, taquilla definitiva, edición y posible reposición continúan pendientes. La segunda obra, *Mi fin de semana con el muerto*, permanece en escritura confidencial: Biro y Darian escriben, Goran edita, Haruto humaniza y Max aporta coherencia sin sustituir la autoría.
 
 Cada etapa debe dejar algo en Biro: una decisión de estilo, una inseguridad enfrentada, una relación profesional nueva, una crítica que acepte o rechace, una habilidad escénica y una consecuencia para la compañía. Si Max no participa, Biro y Goran continúan con la ruta que ya tienen.
 

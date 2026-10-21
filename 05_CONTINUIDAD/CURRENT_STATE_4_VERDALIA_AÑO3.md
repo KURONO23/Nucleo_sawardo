@@ -1,6 +1,6 @@
 # ESTADO ACTUAL — 4 DE VERDALIA, AÑO 3
 
-> **CORTE HISTÓRICO:** corresponde al **4 de Verdalia, Año 3**. Después existió el corte del [[CURRENT_STATE_18_VERDALIA_AÑO3|18 de Verdalia]]; el presente rector es [[CURRENT_STATE_1_LLUVIA_AÑO3]].
+> **CORTE HISTÓRICO:** corresponde al **4 de Verdalia, Año 3**. Después existieron los cortes del [[CURRENT_STATE_18_VERDALIA_AÑO3|18 de Verdalia]] y [[CURRENT_STATE_1_LLUVIA_AÑO3|1 de Lluvia]]; el presente rector es [[CURRENT_STATE_20_LLUVIA_AÑO3]].
 
 > Estado rector posterior a [[CURRENT_STATE_26_BRUMA_AÑO3]]. No borra ese corte: lo conserva como situación histórica anterior.
 

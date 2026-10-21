@@ -97,4 +97,35 @@ Se acerca con cautela compasiva a Max, atiende su estado físico, ofrece aliment
 ## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (SUPERVISIÓN MÉDICA Y NUTRICIONAL)
 
 - **Salud y acondicionamiento:** Seguimiento nutricional y protocolos de recuperación para los jóvenes aventureros durante sus jornadas de expedición.
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** mantuvo seguimiento de supervivientes de V. Sable y probó un formulario reproducible de atención de campo.
+- **Crecimiento:** transformó cuidado personal en protocolo que dos curanderos pueden aplicar sin ella.
+- **Coste y límite:** estandarizar no sustituye juicio clínico; algunos síntomas no permiten inferir ruta ni agresor.
+- **Relaciones vivas:** aporta a Jasmine y Kira evidencia médica delimitada y regula cargas de entrenamiento con Amane.
+- **Siguiente hito:** validar el protocolo en más casos sin convertir pacientes en instrumentos de investigación.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## EVOLUCIÓN RELACIONAL — TORIN, 1 DE FLORIS
+
+- Comparó indicadores de fatiga médica con el registro de desgaste de patrullas de Torin.
+- Ambos ajustaron una rotación sin que Torin minimizara el cuidado ni Misa asumiera mando operativo.
+- Aumentan respeto y facilidad de colaboración; no se canoniza romance.
+
+## ADDENDUM — FLORIS, AÑO 3
+
+- Conservó seguimiento médico en el expediente V. Sable y evitó que la investigación ignorara el coste humano.
+- Frente a Harry Potter mantiene la respuesta más emocional y protectora del trío, sin sustituir el análisis de Jasmine.
+- **Pendiente:** cruzar consecuencias médicas sin revelar ni exponer supervivientes.
+- **Fuente:** [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md).
+
+## CICLO `AUTÓNOMO_DERIVADO` — 1 A 31 DE FLORIS, AÑO 3
+
+- Revisó el seguimiento de supervivientes de V. Sable y separó síntomas persistentes de inferencias sobre rutas o agresores.
+- Entregó a dos curanderos una versión acotada de su formulario. Uno confundió agotamiento con secuela mágica; Misa corrigió el criterio sin retirarles el caso.
+- Crece de sanadora indispensable a supervisora que puede formar y delegar sin abandonar el juicio clínico.
+- **Coste:** debe revisar expedientes y aceptar errores menores; el protocolo no cubre curaciones extremas.
+- **Siguiente hito:** ampliar la muestra, proteger datos privados y comparar herbología con Elena sin absorber su investigación.
+- Integración: [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]].

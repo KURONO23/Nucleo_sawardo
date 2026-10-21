@@ -347,6 +347,27 @@ Durante la operación Marcos, Max mantiene la cobertura sin llevar G1 encima. `D
 ## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (SUBBASTA, REVERSI Y VIDA CONYUGAL)
 
 - **Tesorería líquida rectora:** **910.068 monedas de oro** (tras liquidar 607 oro del *Cofre de los Siete Sellos* y 1.000 oro del *Fragmento de Núcleo Carmesí* adquiridos en la Casa de la Llave de Bronce el 10 de Lluvia).
-- **Entrenamiento en Sawardo:** Supervisó 180 días subjetivos de entrenamiento para Haruto, Leo y Ren; experimentó con **Reversi** hacia la restauración compleja de materia (*Crazy Diamond*).
+- **Entrenamiento en Sawardo:** Supervisó cinco meses subjetivos de entrenamiento para Haruto, Leo y Ren; experimentó con **Reversi** hacia la restauración compleja de materia (*Crazy Diamond*).
 - **Vida conyugal y familiar:** Reencuentro íntimo con Serath (noche del 16/17 de Lluvia) y anfitrión gastronómico peruano en el almuerzo real quincenal con Aldric y Thalion (20 de Lluvia).
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
+
+---
+
+## EVOLUCIÓN CANÓNICA — 21 DE LLUVIA A 1 DE FLORIS, AÑO 3
+
+- Investigó Chronos con Serath y Aria en Thornhaven. Aprendió que sus referencias pueden activar correspondencias causales y que no debe confundir una consulta cartográfica con una orden de desplazamiento.
+- Ayudó a Biro sin apropiarse de la obra: respetó su autoría y el papel director de Goran.
+- Celebró los cumpleaños de Kenji y Haruto con regalos ligados a identidad y memoria, no a ventajas de poder.
+- Aprobó el cierre financiero del 1 de Floris: **919.241 oro** líquidos. Patrimonio y caja permanecen conceptualmente separados.
+- Punto actual: cena terminada en los jardines de Gutiérrez Estate, 1 de Floris, 21:10. Toda decisión posterior continúa reservada al usuario.
+- **Fuente:** [Lluvia a 1 de Floris, Año 3](../00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md).
+
+## ADDENDUM — FLORIS, AÑO 3
+
+- Participó en familia, teatro, editorial y proyectos sin absorber autoría: Biro conserva su obra, Galwin y aprendices G1.03, y los nueve autores sus historias.
+- Entregó 900 oro personales a los nueve autores para investigar, sin comprar derechos ni imponer resultados.
+- Acompañó el cumpleaños de Serath, le regaló un cuaderno privado y perdió 3–2 el duelo amistoso.
+- Presentó *Mi fin de semana con el muerto*: aporta coherencia, pero escribe con Biro y Darian y acepta edición de Goran y crítica de Haruto.
+- **Voz vigente:** conversador, bromista y expresivo; mayúsculas solo para gritos reales. Futuras acciones y respuestas siguen bajo control exclusivo del usuario.
+- **Punto actual:** 31 de Floris, 23:45, descansando con Serath.
+- **Fuente:** [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md).

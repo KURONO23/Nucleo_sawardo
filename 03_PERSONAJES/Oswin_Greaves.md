@@ -93,3 +93,16 @@
 - **Ruta autónoma vigente:** `Meta:` custodiar audiencias, proclamas y registros. `Ambición:` dejar un protocolo de palacio claro para la siguiente generación. `Vínculo:` Aldric y escribientes. `Obstáculo / hito:` resolver una anomalía de archivo sin dañar la confianza institucional.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** detectó dos versiones de una orden de almacén y conservó ambas hasta aclarar procedencia.
+- **Crecimiento:** convirtió el archivo en defensa activa contra errores y manipulación.
+- **Coste y límite:** la retención demora despacho y no revela por sí sola intención criminal.
+- **Relaciones vivas:** aporta trazabilidad a Aldric y Caelan sin interpretar políticamente más de lo documentado.
+- **Siguiente hito:** fijar un procedimiento de corrección que preserve el registro anterior.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

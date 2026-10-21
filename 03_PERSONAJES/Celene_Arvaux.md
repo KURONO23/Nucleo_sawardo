@@ -78,3 +78,16 @@ En el estreno de *Austin Powers* y las grandes funciones de la Compañía Goran,
 - **Ruta autónoma vigente:** `Meta:` leer alianzas y proteger margen político de Serath. `Ambición:` influir sin convertirse en la persona que decide por todos. `Vínculo:` círculo de Serath y casas nobles. `Obstáculo / hito:` negociar una concesión sin sacrificar a una comunidad menor.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** logró que una casa menor asumiera una obligación logística sin perder acceso al consejo.
+- **Crecimiento:** mostró negociación que combina firmeza, salida digna y continuidad política.
+- **Coste y límite:** la concesión deja vigilancia futura y no crea lealtad permanente.
+- **Relaciones vivas:** actúa dentro del círculo real sin convertir cercanía con Aldric en imposición.
+- **Siguiente hito:** comprobar el cumplimiento sin humillar a la casa participante.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

@@ -89,4 +89,30 @@ Su crecimiento está en aceptar que el método también debe enseñar y no solo 
 ## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (INVESTIGACIÓN DE RESONANCIAS EN LA TORRE)
 
 - **Protocolos empíricos:** Medición y catalogación rigurosa de las resonancias R-01 a R-03 en la Red de Nodos de Aldoria, evitando interpretaciones prematuras.
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
+
+## VIDA AUTÓNOMA — 21 DE LLUVIA A 1 DE FLORIS, AÑO 3
+
+- Detectó mediante pruebas adversariales que consultas demasiado rápidas de G1 podían confundirse con ecos y exigió una pausa verificable.
+- Aprobó una exploración técnica pequeña y sin activación cuando Mika y Ren cumplieron criterios escritos: convirtió desconfianza en permiso controlado.
+- Véase [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** sometió G1 a consultas rápidas y enlace desconectado, descubriendo que un eco podía confundirse con respuesta.
+- **Crecimiento:** su desconfianza se volvió método: además de impedir, ahora define condiciones bajo las cuales sí permite probar.
+- **Coste y límite:** endureció tiempos y frustró al taller, pero evitó una falsa validación.
+- **Relaciones vivas:** reconoce el rigor de Mika y autoriza una exploración menor cuando Ren cumple criterios.
+- **Siguiente hito:** auditar la demostración sin convertir cautela en veto permanente.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## ADDENDUM — FLORIS, AÑO 3
+
+- Diseñó con Ren y Mika la expedición controlada a Elaris y separó observaciones, hipótesis y conclusiones.
+- Reconoció una infraestructura probable de control/distribución de flujo, sin declarar nodo ni conexión G1.03.
+- Prepara con Mika la auditoría independiente del terminal para Solalto.
+- **Fuente:** [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md).
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

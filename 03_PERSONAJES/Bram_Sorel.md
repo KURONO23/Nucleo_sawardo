@@ -56,3 +56,16 @@ Bram defiende la literatura seria del grupo y sostiene una voz dramática propia
 - **Ruta autónoma vigente:** `Meta:` perfeccionar Lord Corvin Varel y mentorizar actores jóvenes. `Ambición:` dejar escuela de interpretación dramática. `Vínculo:` Nilo y Goran. `Obstáculo / hito:` aceptar una crítica que no provenga de Max.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** dirigió una lectura con actores jóvenes y aceptó observaciones ajenas.
+- **Crecimiento:** comienza a transformar experiencia dramática en enseñanza.
+- **Coste y límite:** enseñar reveló hábitos que él daba por universales.
+- **Relaciones vivas:** colabora con Goran, Nilo y aprendices sin reclamar dirección total.
+- **Siguiente hito:** corregir un método después de una crítica que no venga de Max.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

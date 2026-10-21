@@ -137,4 +137,31 @@ Elise revisa calidad y costes del circuito de Cerveza Esmeralda junto a Natalia 
 ## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (TALLERES TEXTILES Y PRODUCCIÓN)
 
 - **Producción textil avanzada:** Consolidación de talleres con máquinas de coser y prendas de alta costura con aplicaciones de seda de acero estelar; sueldo asegurado de 800 oro/mes.
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
+
+## EVOLUCIÓN CANÓNICA — CIERRE DEL 1 DE FLORIS, AÑO 3
+
+- Participó en la conciliación de Lluvia y reafirmó que vender más no equivale necesariamente a ganar más.
+- Ayudó a mantener la tasación patrimonial separada de la liquidez y pendiente de actualización.
+- Fue reconocida por Max y cenó con el equipo administrativo después del cierre; su oficio textil conserva identidad propia.
+- **Fuente:** [Lluvia a 1 de Floris, Año 3](../00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md).
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** revisó costes, inició estándares de repuestos y detuvo una tasación antes de inflar patrimonio.
+- **Crecimiento:** consolidó una ética de valor comprobable sobre la apariencia de prosperidad.
+- **Coste y límite:** cifras incompletas retrasan decisiones y pueden parecer ineficiencia.
+- **Relaciones vivas:** contrasta con Natalia, Vivienne, Sayaka y Galwin.
+- **Siguiente hito:** cerrar una tasación con procedencia y criterio reproducibles.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## ADDENDUM — FLORIS, AÑO 3
+
+- Diseñó vestuario y propuso evaluar inventario, funciones, personal y una prueba antes de formalizar Dirección de Vestuario y Producción Textil.
+- Exige autoridad sobre modificaciones técnicas cuya seguridad deba responder.
+- Su cercanía con Goran es profesional; el teatro abre un nuevo frente de oficio, no un romance automático.
+- **Fuente:** [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md).
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

@@ -123,3 +123,22 @@ Torin presenta a Kira la petición de un **Turno de umbral** y una ronda entre l
 - **Ruta autónoma vigente:** `Meta:` mantener patrullas, guardianes y rutas seguras. `Ambición:` formar una guardia profesional que pueda responder sin el mito de Max. `Vínculo:` Misa, Lyssa y los guardianes. `Obstáculo / hito:` registrar una mejora de seguridad y el coste de cubrir más territorio.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** rotó liderazgo de patrulla y registró el coste real de cubrir una ruta adicional.
+- **Crecimiento:** hizo medible el desgaste de Vigilia del Umbral y probó mando compartido.
+- **Coste y límite:** la cobertura extra redujo descanso y no puede mantenerse indefinidamente.
+- **Relaciones vivas:** coordina con Lyssa y Kael desde responsabilidades diferenciadas.
+- **Siguiente hito:** decidir qué ruta retirar o reforzar con recursos reales.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## EVOLUCIÓN RELACIONAL — MISA, 1 DE FLORIS
+
+- Entregó a Misa datos reales de desgaste y aceptó modificar una rotación por criterios médicos.
+- Descubre que pedir ayuda preventiva no disminuye su autoridad de patrulla.
+- La relación gana confianza operativa y consideración personal, sin romance confirmado.
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

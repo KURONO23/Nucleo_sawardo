@@ -1,12 +1,13 @@
 # 🌌 PORTAL CENTRAL — NÚCLEO SAWARDO
 
 > [!INFO] **ESTADO OPERATIVO VIGENTE**
-> - **Fecha Canónica:** **1 de Lluvia, Año 3 (Día continuo 746)**.
-> - **Escena Activa:** Mañana preparada en Gutiérrez Estate; el control exclusivo de Max regresa y Natalia está lista para presentar el cierre financiero.
+> - **Fecha Canónica:** **31 de Floris, Año 3 (Día continuo 806)**.
+> - **Escena Activa:** 21:10 en los jardines de Gutiérrez Estate; terminó la cena posterior al cierre financiero y Max sigue bajo control exclusivo del usuario.
 > - **Operación en curso:** Revisión de la garantía contra Ravenwood; responsabilidades de Corven y Verrick todavía no resueltas.
 > - **Comunicaciones:** Dos terminales **G1** en enlace directo (`DOCTOR` y `BAKARINA`) entre Max, [[03_PERSONAJES/Aria|Aria]] y [[03_PERSONAJES/Yuki_Moriyama_Lady_Marianne|Yuki]]. Mizuki investiga por separado en el exterior.
-> - **Alerta de Cumpleaños:** 🎂 Próximo: **Aldric, 5 de Lluvia**. Después Kenji (26 de Lluvia), Haruto (1 de Floris), Ryu (8), Liora (17) y Serath (31).
-> - **Documento de Continuidad Principal:** [[05_CONTINUIDAD/CURRENT_STATE_1_LLUVIA_AÑO3|CURRENT_STATE_1_LLUVIA_AÑO3]]
+> - **Alerta de Cumpleaños:** 🎂 Próxima: **Natalia, 14 de Solalto**. Después Aria (22) y Sayaka/Evelyn (30).
+> - **Documento de Continuidad Principal:** [[05_CONTINUIDAD/CURRENT_STATE_31_FLORIS_AÑO3|CURRENT_STATE_31_FLORIS_AÑO3]]
+> - **Frentes de apertura de Solalto:** auditoría de **G1.03**; materiales del Serath-Maru; *La cámara secreta* desde el 10; dos obras teatrales y misterios abiertos.
 > - **Frentes de Max:** Casa Ardel entra en cierre ordenado; Ravenwood, Cecilia/Mizuki, G1/cámara histórica, Gremio/Kira y economía siguen disponibles según decisión del usuario.
 
 ---

@@ -134,3 +134,23 @@ Fuentes: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`,
 - **Ruta autónoma vigente:** `Meta:` mantener el expediente de V. Sable y la cadena de custodia. `Ambición:` que Thornhaven investigue amenazas complejas sin depender de un aventurero excepcional. `Vínculo:` Jasmine, interrogadores y comerciantes protegidos. `Obstáculo / hito:` producir una hipótesis graduada que pueda compartir con la Corona.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** separó Ravenwood, Casa Ardel y V. Sable en cadenas de custodia distintas; verificó beneficiarios ordinarios del fondo de veteranos sin inventar un saldo conciliado.
+- **Crecimiento:** convirtió su experiencia de exaventurera S en método institucional transferible. Ya no protege el Gremio solo por autoridad personal: obliga a que archivos y decisiones sobrevivan a su ausencia.
+- **Coste y límite:** la separación ralentiza investigaciones y deja pendientes cifras y culpables; Kira acepta esa demora antes que fabricar certeza.
+- **Relaciones vivas:** coordina con Jasmine y Misa sin absorber sus especialidades, y permite que Maria y Martha sostengan orientación y reputación interna.
+- **Siguiente hito:** decidir qué misión o discrepancia merece escalar, manteniendo separados V. Sable y Ravenwood.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## ADDENDUM — FLORIS, AÑO 3
+
+- Coordinó misiones florales de riesgo graduado sin permitir entradas a zonas protegidas ni persecuciones innecesarias.
+- Ayudó a Leo a distinguir una relación elegida de un objetivo de Quest Log.
+- Mantiene separado V. Sable de Ravenwood y exige que una coincidencia documental sobreviva verificación independiente.
+- **Fuente:** [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md).
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

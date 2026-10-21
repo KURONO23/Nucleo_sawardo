@@ -29,7 +29,7 @@
 - **Antes:** Peritajes puramente burocráticos para compradores de la alta sociedad.
 - **Hecho:** Intercambio de preguntas técnicas de ingeniería con Max, Ren y Aria durante la prueba de la lente.
 - **Cambio:** Valoró positivamente el enfoque práctico y desmitificador de la Casa Gutiérrez.
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
 
 ## 5. Relaciones vivas
 
@@ -46,4 +46,17 @@
 
 ## 7. Fuentes y correcciones
 
-- `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** registró manipulación, ubicación y condición de piezas custodiadas.
+- **Crecimiento:** consolidó memoria técnica que permite detectar cambios sin especulación.
+- **Coste y límite:** la vigilancia no explica la naturaleza de los objetos.
+- **Relaciones vivas:** complementa a Orven y a los académicos desde custodia.
+- **Siguiente hito:** verificar inventario después de la primera prueba.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

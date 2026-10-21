@@ -34,3 +34,7 @@ Las peticiones, su clasificación pendiente, costes y estados se conservan en [[
 ## ADDENDUM — CIERRE DE MICROINTERACCIONES
 
 - La fuente identifica al grupo como Jasmine, Misa, Amane y Biro y registra su presencia en la transición de Año 2 a Año 3; el POV colectivo no borra sus voces individuales (`00_FUENTES/historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md`, 540–582 y 4112).
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

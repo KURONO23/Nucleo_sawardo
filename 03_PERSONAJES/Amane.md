@@ -161,4 +161,17 @@ Amane sigue siendo su referencia principal para magia y combate. La expedición 
 ## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (TUTORÍA MÁGICA DE REN)
 
 - **Maestra de magia y combate:** Supervisión del aprendizaje de Ren (Rango S, nivel 82), exigiéndole control de maná y criterio de retirada antes que poder desmedido.
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** redujo una sesión cuando el control fino de Ren se degradó y revisó su cuaderno sin borrar la interpretación inicial.
+- **Crecimiento:** evoluciona de instructora que corrige hacia maestra que deja evidencia del razonamiento del alumno.
+- **Coste y límite:** permitir errores controlados exige paciencia y riesgo medido.
+- **Relaciones vivas:** confía más en Ren y coordina cargas con Misa sin apropiarse del proceso.
+- **Siguiente hito:** dejar que Ren tome una decisión de campo con criterio de retirada.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

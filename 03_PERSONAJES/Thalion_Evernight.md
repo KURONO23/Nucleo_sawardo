@@ -126,4 +126,24 @@ Fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Añ
 
 - **Vacaciones en Elaris (5 de Lluvia):** Acompañó al rey Aldric, Serath, Max y Aria en el viaje en tiempo detenido de Sawardo. Asumió a regañadientes pero con afecto el apodo humorístico impuesto por Max: «Don Teodoro, estudioso de bibliotecas antiguas».
 - **Vínculo doméstico:** Participa activamente en el almuerzo familiar quincenal en Gutiérrez Estate (20 de Lluvia degustando cocina peruana con Aldric, Serath y Max, bajo la regla cómica de un límite de diez minutos para discursos mágicos).
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** redactó el criterio de nodos «observar, aislar, repetir y solo después conectar» y comunicó a Aldric riesgos institucionales de Chronos sin divulgar secretos.
+- **Crecimiento:** transformó conocimiento excepcional en límites de seguridad comprensibles para otros.
+- **Coste y límite:** su prudencia retrasa experimentos y no resuelve la función original de la red.
+- **Relaciones vivas:** sirve de puente entre taller, Corona, Aria y Serath sin apropiarse de sus decisiones.
+- **Siguiente hito:** revisar la demostración G1 y delimitar qué puede estudiar la Corona.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## ADDENDUM — FLORIS, AÑO 3
+
+- Recibió el informe de Elaris sin confundir cavidades con nodo ni relacionarlas automáticamente con G1.03.
+- Ayudó a Aldric a participar en el cumpleaños de Serath como padre y mantuvo el secreto familiar.
+- **Pendiente:** revisar la auditoría de G1.03 y futuras pruebas de Elaris con prudencia metodológica.
+- **Fuente:** [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md).
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

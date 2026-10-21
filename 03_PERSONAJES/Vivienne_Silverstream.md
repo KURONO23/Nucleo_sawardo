@@ -132,4 +132,37 @@ Vivienne concibió por iniciativa propia una gala noble-cultural benéfica auté
 ## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (GRAN SUBASTA Y ACUERDOS TÉCNICOS)
 
 - **Subasta de la Llave de Bronce (6–10 de Lluvia):** Representó a Casa Gutiérrez en la inspección de catálogos y negociaciones con el maestro artificiero Hugo von Altenberg y el constructor Edmund Fletcher. Sueldo de 800 oro/mes asegurado.
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
+
+## EVOLUCIÓN CANÓNICA — CIERRE DEL 1 DE FLORIS, AÑO 3
+
+- Participó en la conciliación final de Lluvia y en la distinción entre operaciones, activos y caja disponible.
+- Fue reconocida por Max por su capacidad de negociar y sostener rutas sin perder criterio.
+- Cenó con Natalia, Elise, Max, Serath y Aria después del cierre; su vida y ambiciones fuera del trabajo siguen abiertas, no resueltas por la escena.
+- **Fuente:** [Lluvia a 1 de Floris, Año 3](../00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md).
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** rechazó una carga que saturaba almacenamiento y abrió estudio logístico de una gala benéfica.
+- **Crecimiento:** combina ambición social con límites de capacidad y propósito.
+- **Coste y límite:** perdió una oportunidad comercial; gala sin fecha, presupuesto ni invitados finales.
+- **Relaciones vivas:** negocia con Natalia, Elise, Goran y posibles patronos sin gastar dinero de Max.
+- **Siguiente hito:** definir beneficiario y presupuesto viable para presentar.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## EVOLUCIÓN RELACIONAL — BIRO, 1 DE FLORIS
+
+- Respondió a la solicitud de Biro con observaciones logísticas concretas y evitó reescribir su obra desde criterios comerciales.
+- Reconoció su crecimiento como autor y conservó una conversación más cálida después del trabajo.
+- Existe confianza profesional y afinidad abierta; no hay corte ni relación romántica confirmada.
+
+## ADDENDUM — FLORIS, AÑO 3
+
+- Acompañó a Biro durante el estreno y observó cómo respondió a los nobles sin hablar por él.
+- Compartieron una primera caminata y mantuvieron contacto posterior. Hay afinidad y deseo de volver a verse, sin relación definida.
+- Apoya con criterio comercial sin apropiarse de la autoría ni transformar cada encuentro en negociación.
+- **Fuente:** [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md).
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

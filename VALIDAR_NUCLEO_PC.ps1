@@ -13,6 +13,9 @@ $required = @(
   '00_LEER_PRIMERO.md',
   '00_INICIO_OBSIDIAN.md',
   '05_CONTINUIDAD/CURRENT_STATE.md',
+  '05_CONTINUIDAD/CURRENT_STATE_31_FLORIS_AÑO3.md',
+  '05_CONTINUIDAD/DELTA-RP-030_01_A_31_FLORIS_AÑO3.md',
+  '05_CONTINUIDAD/CURRENT_STATE_1_FLORIS_AÑO3.md',
   '05_CONTINUIDAD/CURRENT_STATE_1_LLUVIA_AÑO3.md',
   '05_CONTINUIDAD/INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3.md',
   '05_CONTINUIDAD/CURRENT_STATE_18_VERDALIA_AÑO3.md',
@@ -21,9 +24,13 @@ $required = @(
   '05_CONTINUIDAD/RUTA_OPTIMA_DE_CRECIMIENTO_DEL_ELENCO_AÑO3.md',
   '05_CONTINUIDAD/PROTOCOLO_EVOLUCION_UNIVERSAL_ESTILO_ARIA_AÑO3.md',
   '05_CONTINUIDAD/PROTOCOLO_EVOLUCION_UNIVERSAL_ESTILO_KAZUKI_AÑO3.md',
+  '05_CONTINUIDAD/MATRIZ_UNIVERSAL_VIDA_AUTONOMA_AÑO3.md',
+  '05_CONTINUIDAD/CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3.md',
   '00_FUENTES/historia_original/AÑO_3/10_01_de_Albor_a_31_de_Albor_Año_3.md',
   '00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md',
   '00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md',
+  '00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md',
+  '00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md',
   '03_PERSONAJES/REGISTRO_NOMBRES_CANON.md',
   '03_PERSONAJES/REGISTRO_APELLIDOS_CANON.md',
   '03_PERSONAJES/PLANTILLA_FICHA_CANONICA.md',
@@ -88,6 +95,74 @@ if (Test-Path -LiteralPath $nameRegistry) {
   Write-Output 'Registro de nombres: OK'
 }
 
+$autonomyMatrix = Join-Path $root '05_CONTINUIDAD/MATRIZ_UNIVERSAL_VIDA_AUTONOMA_AÑO3.md'
+if (Test-Path -LiteralPath $autonomyMatrix) {
+  $matrixText = Get-Content -LiteralPath $autonomyMatrix -Raw
+  $nonCharacterFiles = @(
+    'ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3.md','INDEX.md','PLANTILLA_FICHA_CANONICA.md',
+    'REGISTRO_APELLIDOS_CANON.md','REGISTRO_COMPANIA_GORAN.md','REGISTRO_NOMBRES_CANON.md','Max38.md'
+  )
+  $characterFiles = @(Get-ChildItem -LiteralPath (Join-Path $root '03_PERSONAJES') -File -Filter '*.md' | Where-Object {
+    $_.Name -notin $nonCharacterFiles
+  })
+  $uncoveredCharacters = @($characterFiles | Where-Object { $matrixText -notmatch [regex]::Escape($_.Name) })
+  if ($uncoveredCharacters.Count -gt 0) {
+    $errorCount += $uncoveredCharacters.Count
+    Write-Output 'ERROR DE VIDA AUTÓNOMA: FICHAS SIN COBERTURA EN LA MATRIZ UNIVERSAL:'
+    $uncoveredCharacters | ForEach-Object { Write-Output (' - ' + $_.Name) }
+  } elseif ($matrixText -notmatch 'corto.+mediano.+largo' -or $matrixText -notmatch 'Dos cierres congelados') {
+    $errorCount++
+    Write-Output 'ERROR DE VIDA AUTÓNOMA: LA MATRIZ NO EXIGE TRES HORIZONTES Y CONTROL DE CONGELAMIENTO'
+  } else {
+    Write-Output ('Vida autónoma universal: ' + $characterFiles.Count + ' fichas cubiertas con tres horizontes')
+  }
+
+  $monthlyAutonomy = Join-Path $root '05_CONTINUIDAD/CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3.md'
+  if (Test-Path -LiteralPath $monthlyAutonomy) {
+    $monthlyText = Get-Content -LiteralPath $monthlyAutonomy -Raw
+    $advanceCount = ([regex]::Matches($monthlyText, '`AVANCE-AUTÓNOMO`|`AVANCE_AUTÓNOMO`')).Count
+    if ($advanceCount -lt 100) {
+      $errorCount++
+      Write-Output ('ERROR DE VIDA AUTÓNOMA: EL CICLO MENSUAL SOLO CONTIENE ' + $advanceCount + ' AVANCES ACTIVOS')
+    }
+    $missingMonthlyLink = @($characterFiles | Where-Object {
+      $_.Name -ne 'Diemos.md' -and (Get-Content -LiteralPath $_.FullName -Raw) -notmatch 'CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3'
+    })
+    if ($missingMonthlyLink.Count -gt 0) {
+      $errorCount += $missingMonthlyLink.Count
+      Write-Output 'ERROR DE VIDA AUTÓNOMA: FICHAS SIN PROPAGACIÓN DEL CICLO MENSUAL:'
+      $missingMonthlyLink | ForEach-Object { Write-Output (' - ' + $_.Name) }
+    } elseif ($advanceCount -ge 100) {
+      Write-Output ('Ciclo autónomo de Floris: ' + $advanceCount + ' trayectorias activas propagadas')
+    }
+  }
+}
+
+$sourceUpdateRuleFiles = @(
+  'AGENTS.md',
+  '06_AGENTES/AGENT_REGISTRY.md',
+  '06_AGENTES/AUDITOR_CIERRE_MENSUAL.md',
+  '06_AGENTES/ARQUITECTURA.md',
+  'CHATGPT_NUCLEO/01_INSTRUCCIONES_DE_OPERACION.md',
+  'GENERAR_NUCLEO_CHATGPT.ps1'
+)
+$missingSourceUpdateRule = foreach ($file in $sourceUpdateRuleFiles) {
+  $path = Join-Path $root $file
+  if (-not (Test-Path -LiteralPath $path)) {
+    $file
+    continue
+  }
+  $ruleText = Get-Content -LiteralPath $path -Raw
+  if ($ruleText -notmatch '(?i)trece agentes') { $file }
+}
+if ($missingSourceUpdateRule) {
+  $errorCount += @($missingSourceUpdateRule).Count
+  Write-Output 'ERROR DE ORQUESTACIÓN: LA REGLA DE FUENTES NUEVAS NO EXIGE LOS TRECE AGENTES EN:'
+  $missingSourceUpdateRule | ForEach-Object { Write-Output (' - ' + $_) }
+} else {
+  Write-Output 'Regla de fuentes nuevas: despliegue obligatorio de los trece agentes'
+}
+
 $md = @(Get-ChildItem -LiteralPath $root -Recurse -File -Filter '*.md' | Where-Object {
   $_.FullName -notlike "$source*"
 })
@@ -113,7 +188,7 @@ if ($stalePresent) {
   Write-Output 'ERROR: EL CORTE DE 18 DE VERDALIA SIGUE USADO COMO PRESENTE:'
   $stalePresent | ForEach-Object { Write-Output (' - ' + $_) }
 } else {
-  Write-Output 'Presente operativo: 1 de Lluvia; 18 de Verdalia queda histórico'
+  Write-Output 'Presente operativo: 31 de Floris; 1 de Floris, Lluvia y Verdalia quedan históricos'
 }
 
 $staleSourceNames = @(
@@ -171,9 +246,9 @@ if ($serathWrongDate) {
 }
 
 $operationalFlorisPatterns = @(
-  '(?i)(presente|estado operativo|estado canónico|desarrollo activo)[^\r\n]{0,80}\b[1-5]\s+de\s+Floris\b',
-  '(?i)\bpruebas?[^\r\n]{0,80}\b[1-5]\s+de\s+Floris\b',
-  '(?i)\badenda[^\r\n]{0,80}\b[1-5]\s+de\s+Floris\b',
+  '(?i)(presente|estado operativo|estado canónico|desarrollo activo)[^\r\n]{0,80}\b[2-5]\s+de\s+Floris\b',
+  '(?i)\bpruebas?[^\r\n]{0,80}\b[2-5]\s+de\s+Floris\b',
+  '(?i)\badenda[^\r\n]{0,80}\b[2-5]\s+de\s+Floris\b',
   '(?i)\b1\s+a\s+4\s+de\s+Floris\b',
   '(?i)\b4[–-]5\s+de\s+Floris\b'
 )
@@ -201,18 +276,28 @@ if (Test-Path -LiteralPath $galwinRegistry) {
 
 if (Test-Path -LiteralPath $current) {
   $currentText = Get-Content -LiteralPath $current -Raw
-  foreach ($requiredFact in @('1 de Lluvia','Día continuo 746')) {
+  foreach ($requiredFact in @('31 de Floris','Día continuo 806','23:45')) {
     if ($currentText -notmatch [regex]::Escape($requiredFact)) {
       $errorCount++
       Write-Output ('ERROR EN ESTADO RECTOR: falta el hecho vigente: ' + $requiredFact)
     }
+  }
+  foreach ($requiredFact in @('G1.03','Serath-Maru','Natalia y Kael son pareja','Ravenwood','V. Sable','No existe G2')) {
+    if ($currentText -notmatch [regex]::Escape($requiredFact)) {
+      $errorCount++
+      Write-Output ('ERROR EN ESTADO RECTOR: falta el resultado de Floris: ' + $requiredFact)
+    }
+  }
+  if ($currentText -match '180 días subjetivos|Ren \(nivel 28\+\)|Ascenso gremial \(17 de Lluvia\)') {
+    $errorCount++
+    Write-Output 'ERROR EN ESTADO RECTOR: persiste una versión contradictoria de la Academia o del ascenso gremial'
   }
 }
 
 $ageRegistry = Join-Path $root '05_CONTINUIDAD/REGISTRO_DE_EDADES_Y_CUMPLEANOS.md'
 if (Test-Path -LiteralPath $ageRegistry) {
   $ageText = Get-Content -LiteralPath $ageRegistry -Raw
-  foreach ($requiredAge in @('| **Max Gutiérrez** | **38** | 25 de Ventisca, Año 2 | **39** |','| **Serath Vale** | **32** | 31 de Floris, Año 2 | **33** |','| **Haruto Kazagami** | **17** | 1 de Floris, Año 2 | **18** |','| **Kenji Gutiérrez** | 15 | 26 de Lluvia, Año 2 | **16** |','| **Ryu Gutiérrez** | 17 | Cumpleaños transcurrido | **18** |')) {
+  foreach ($requiredAge in @('| **Max Gutiérrez** | **38** | 25 de Ventisca, Año 2 | **39** |','| **Serath Vale** | **32** | 31 de Floris, Año 3 | **34** |','| **Haruto Kazagami** | **17** | 1 de Floris, Año 3 | **19** |','| **Kenji Gutiérrez** | 15 | 26 de Lluvia, Año 3 | **17** |','| **Ryu Gutiérrez** | 17 | 8 de Floris, Año 3 | **19** |','| **Liora** | — | 17 de Floris, Año 3 | **23** |')) {
     if ($ageText -notmatch [regex]::Escape($requiredAge)) {
       $errorCount++
       Write-Output ('ERROR EN EDADES: falta el registro: ' + $requiredAge)

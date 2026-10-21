@@ -184,4 +184,24 @@ Yuki compara el informe independiente de Mizuki con la cadena Max–Aria–Yuki 
 - **Causa judicial Ravenwood:** Rastreo de inconsistencias en los libros contables de Casa Ardel y análisis de los intermediarios de Veylan.
 - **Soporte de comunicación:** Enlace continuo con Aria mediante el terminal regional G1.
 - **Reencuentro cultural con Mizuki Takahashi:** Participó en la velada nostálgica con Max y Aria recordando Pequeño Zhong-Kyo y planificando el almuerzo con Sayaka.
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** dirigió la revisión de Ravenwood, dividió acceso a originales y copias y ordenó contrastes sin entregar la investigación a Max.
+- **Crecimiento:** pasó de defender su casa mediante presencia y criterio personal a construir una defensa documental que otros pueden ejecutar.
+- **Coste y límite:** el procedimiento ralentizó respuestas y no identificó al patrocinador; aceptó incertidumbre antes que una acusación débil.
+- **Relaciones vivas:** trabaja con Mizuki por información limitada y exige a Orren y Severin pruebas, no lealtad declarada.
+- **Siguiente hito:** decidir qué inconsistencia puede convertirse en una solicitud formal sin revelar todo lo que Ravenwood sospecha.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## ADDENDUM — FLORIS, AÑO 3
+
+- Delegó tareas para asistir a Pequeño Zhong-Kyo y retomó Ravenwood sin tratar el descanso como abandono.
+- Trabaja con Mizuki en autorizaciones, proveedores y discrepancias; exige evidencia antes de acusar.
+- Corven Marr continúa libre y recibe información. Yuki no ha resuelto quién financia la operación.
+- **Fuente:** [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md).
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

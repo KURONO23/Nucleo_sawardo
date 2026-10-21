@@ -90,4 +90,30 @@ Su primera mejora tendrá un coste: un falso positivo obligará al equipo a repe
 ## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (ANÁLISIS DE SEÑALES EN LA TORRE)
 
 - **Mediciones técnicas:** Registro de fluctuaciones en los nodos de la Torre y cotejo de datos con Daichi y Ren.
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
+
+## VIDA AUTÓNOMA — 21 DE LLUVIA A 1 DE FLORIS, AÑO 3
+
+- Clasificó falsos positivos de resonancia causados por humedad y vibración del taller.
+- Inició una bitácora reproducible de terminales, calibraciones y fallos y retrasó una mejora dos días para proteger la calidad.
+- Véase [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** clasificó falsos positivos por humedad y vibración e inició una bitácora común de calibraciones.
+- **Crecimiento:** pasó de ser la persona que comprende la señal a diseñar un método que otros pueden verificar.
+- **Coste y límite:** demoró una entrega dos días y acepta que aún no distingue todos los ecos.
+- **Relaciones vivas:** cruza mediciones con Ren, Sivra y Daichi sin ceder la interpretación a ninguno.
+- **Siguiente hito:** establecer umbrales provisionales para la cámara de Elaris.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## ADDENDUM — FLORIS, AÑO 3
+
+- Contrastó las lecturas telúricas de Ren y detectó discrepancias de agua y pendiente en Elaris.
+- No aceptó que la ruina explicara automáticamente G1.03.
+- Prepara pruebas independientes de temperatura, pérdida de señal y condiciones límite para Solalto.
+- **Fuente:** [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md).
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

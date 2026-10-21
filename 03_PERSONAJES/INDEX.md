@@ -1,5 +1,17 @@
 # Índice operativo de personajes
 
+## Autores de *Relatos del Camino*
+
+- [[Tomas_Elwick]]
+- [[Mara_Venn]]
+- [[Edric_Pell]]
+- [[Helena_Foss]]
+- [[Bram_Toller]]
+- [[Irena_Snowe]]
+- [[Perrin_Vale]]
+- [[Osmund_Reeve]]
+- [[Lysa_Merren]]
+
 > Estado vigente de todas las fichas al 1 de Lluvia, Año 3: [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]]. Esta actualización es aditiva y no borra cronologías históricas.
 
 
@@ -86,8 +98,16 @@ Todas las fichas canónicas y recurrentes tienen una ruta de metas, ambiciones, 
 - [[Mika]] — Artífice de la Torre; cumpleaños 24 Ámbar (Día 587); terminal portátil reforzado entregado por Max.
 - [[Leo_Mercer]] — Aprendiz canadiense con Quest Log bajo tutela de Natalia Thornwell.
 - [[Haruto_Kazagami]] / [[Liora]] — Aliado isekai (Núcleo Adaptativo / Siri); Liora en análisis social de rumores.
-- [[APRENDICES_TALLER_GALWIN]] — Ficha colectiva de aprendices; nombres individuales aún no fijados.
+- [[APRENDICES_TALLER_GALWIN]] — ficha colectiva e historia compartida de los cuatro discípulos de Galwin.
+- [[Tilda_Bronzeforge|Tilda Bronzeforge]] — discípula de Galwin; materiales, temperatura y carcasa de G1.
+- [[Jorik_Runespan|Jorik Runespan]] — discípulo de Galwin; ensamblaje y documentación reproducible.
+- [[Sivra_Coppervein|Sivra Coppervein]] — discípula de Galwin; calibración rúnica y control de calidad.
+- [[Uldan_Greypin|Uldan Greypin]] — discípulo adulto de Galwin; mantenimiento de campo y diagnóstico.
 - [[Sayaka_Fujimoto_Evelyn_Cross]] — Socia cervecera (30% Cervecería Esmeralda); doble identidad.
+- [[Iria_Representante_Esmeralda|Iria]] — representante comercial de Esmeralda y miembro del círculo propio de Sayaka.
+- [[Tomas_Representante_Esmeralda|Tomas]] — representante de rutas, retornos y capacidad comercial de Esmeralda.
+- [[Samira_Enlace_Solaria|Samira]] — enlace solariana, compañera de idiomas y amiga de Sayaka.
+- [[Lenn_Asistente_Esmeralda|Lenn]] — asistente de producción que sostiene registros y delegación operativa.
 - [[Yuki_Moriyama_Lady_Marianne]] — Diplomática y noble de corte; respeto estricto de límites personales.
 - [[Cecilia]] — Observadora técnica exterior de sistemas.
 
@@ -120,4 +140,4 @@ Todas las fichas canónicas y recurrentes tienen una ruta de metas, ambiciones, 
 
 ## Actualización histórica — 26 de Bruma, Año 3
 
-Para reconstruir aquel corte de Max, Serath, Aria, Kazuki, Natalia y los equipos de investigación, consultar [[CURRENT_STATE_26_BRUMA_AÑO3]] y [[RELACIONES_ADDENDUM_26_BRUMA_AÑO3]]. Para el presente usar [[CURRENT_STATE_1_LLUVIA_AÑO3]] y [[CURRENT_STATE]]. Las descripciones anteriores se conservan como evolución histórica, pero no prevalecen sobre el estado más reciente.
+Para reconstruir aquel corte de Max, Serath, Aria, Kazuki, Natalia y los equipos de investigación, consultar [[CURRENT_STATE_26_BRUMA_AÑO3]] y [[RELACIONES_ADDENDUM_26_BRUMA_AÑO3]]. Para el presente usar [[CURRENT_STATE_1_FLORIS_AÑO3]] y [[CURRENT_STATE]]. Las descripciones anteriores se conservan como evolución histórica, pero no prevalecen sobre el estado más reciente.

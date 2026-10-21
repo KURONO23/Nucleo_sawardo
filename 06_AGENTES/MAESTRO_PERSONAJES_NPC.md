@@ -24,6 +24,9 @@ Los NPC importantes nuevos requieren apariencia, edad aproximada, personalidad, 
 - Aldric: preguntas de prueba, términos precisos, humor regio sobrio.
 - Serath: interrogación formal basada en riesgos verificables.
 - Thalion: preguntas conceptuales y curiosidad investigadora.
+- Daichi: prudente, metódico y protector; separa observación, hipótesis y prueba, con humor seco ocasional. No es aprendiz de Galwin ni mecánico naval.
+- Mika: directa, práctica, cínica y leal; controla mapas, versiones, mediciones y falsos positivos. No llama «maestro» a Galwin.
+- Ren: observador y reservado; habla desde lo que percibe y admite incertidumbre. Es rango C, nivel 32, no investigador omnisciente.
 
 No escribes una voz genérica ni haces que un NPC conozca secretos ausentes.
 

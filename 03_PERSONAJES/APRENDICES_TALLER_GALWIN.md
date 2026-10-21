@@ -1,8 +1,13 @@
 # Aprendices del taller de Galwin — Ficha colectiva de continuidad
 
-## Estado al 4 de Verdalia, Año 3
+## Estado vigente — 1 de Floris, Año 3
 
-Grupo de aprendices del taller de Galwin. La historia original confirma que Galwin forma aprendices, pero no fija todavía sus nombres individuales; esta ficha conserva ese límite y registra su crecimiento sin fabricar identidades.
+Grupo de aprendices del taller de Galwin. La directriz autoral del 1 de Floris individualiza a cuatro integrantes sin borrar la etapa en la que funcionaban como colectivo:
+
+- [[Tilda_Bronzeforge|Tilda Bronzeforge]] — materiales, temperatura y carcasa.
+- [[Jorik_Runespan|Jorik Runespan]] — ensamblaje, secuencias y manuales.
+- [[Sivra_Coppervein|Sivra Coppervein]] — calibración rúnica y control de calidad.
+- [[Uldan_Greypin|Uldan Greypin]] — mantenimiento de campo y sustitución de componentes.
 
 ## Nueva responsabilidad
 
@@ -22,3 +27,31 @@ Un error de temperatura puede arruinar un lote y retrasar una entrega; no se bor
 ## Persistencia autónoma
 
 El taller ya no depende de que Galwin esté presente para avanzar. Cada aprendiz debe dejar una nota de mantenimiento, una pregunta abierta y el siguiente paso para quien continúe el turno.
+
+---
+
+## CRECIMIENTO AUTÓNOMO — REVISIÓN G1-0.3
+
+- Pasaron de mantener el horno a fabricar un componente no crítico pero estructural del G1: una carcasa modular con regulador reemplazable, aislamiento y puntos de prueba.
+- Su primer montaje sobrecalentó una placa. No ocultaron el fallo: separaron causa, rediseñaron la ventilación y repitieron las mediciones.
+- Dividieron el trabajo en dos equipos: uno construyó y otro desmontó, verificó y volvió a ensamblar usando únicamente el manual.
+- Galwin aceptó el diseño porque el segundo montaje reprodujo el resultado sin que él tomara las herramientas.
+- Ya pueden asumir montaje, mantenimiento y diagnóstico de módulos externos del G1 bajo revisión. **Todavía no son maestros, no intervienen en el núcleo causal, no autorizan destinos y no construyen G2.**
+- Sus nombres y especialidades ya están fijados. El logro de G1-0.3 sigue siendo colectivo y no convierte a ninguno en maestro.
+
+## Siguiente hito
+
+Participar en la demostración de G1-0.3 explicando su módulo, el fallo inicial y la corrección. Galwin presentará el sistema, pero **Tilda, Jorik, Sivra y Uldan** deberán defender su propio trabajo ante Max, Daichi, Mika, Thalion y, si se autoriza, Aldric.
+
+## ADDENDUM — 30 DE FLORIS, AÑO 3
+
+- **Jorik Runespan** ejecutó encendido y secuencia de enlace de G1.03.
+- **Sivra Coppervein** documentó condiciones límite y recuperación; exige auditoría externa.
+- **Tilda Bronzeforge** justificó componentes reutilizables del Serath-Maru y revisa materiales.
+- **Uldan Greypin** sostiene montaje, vibración y mantenimiento mecánico del barco.
+- Ya demuestran trabajo defendible, pero no son maestros, no autorizan destinos, no tocan un supuesto G2 y no terminan el barco por montaje narrativo.
+- **Fuente:** [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md).
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

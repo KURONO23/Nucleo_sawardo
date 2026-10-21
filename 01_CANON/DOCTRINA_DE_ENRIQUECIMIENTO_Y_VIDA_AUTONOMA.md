@@ -106,7 +106,35 @@ Cada personaje importante mantiene:
 
 La ausencia de Max puede causar autonomía, no congelación. Sin embargo, ningún avance ocurre solo porque “sería bonito”: necesita tiempo, capacidad, motivación, recursos y una cadena causal compatible con el canon.
 
+### Corrección autoral — la ausencia de cámara no impide resultados
+
+Cuando transcurre un intervalo suficiente, el Motor de Vida Autónoma puede establecer **hechos nuevos de canon derivado fuera de cámara**, aunque la fuente no contenga una escena individual del personaje. No son retroescrituras ni simples propuestas: son consecuencias causales del tiempo vivido, sus capacidades, decisiones previas, responsabilidades, recursos, vínculos y obstáculos.
+
+Cada avance debe etiquetarse `AUTÓNOMO_DERIVADO`, indicar el intervalo exacto y superar estas pruebas:
+
+1. parte del último estado confirmado y no contradice la voz ni la ficha;
+2. consume tiempo y recursos realmente disponibles;
+3. contiene una acción o decisión propia del personaje;
+4. produce aprendizaje, práctica, error, coste, descanso o cambio verificable;
+5. modifica al menos una habilidad, método, relación, proyecto o responsabilidad;
+6. deja una consecuencia observable y una vía por la que otros puedan conocerla;
+7. no decide por Max ni resuelve silenciosamente una decisión mayor.
+
+`SIN_CAMBIO_DEMOSTRADO` describe únicamente que la fuente no mostró una escena; **no autoriza a congelar al personaje**. Si el intervalo permite actividad normal, el agente debe construir y auditar un ciclo autónomo proporcional. Solo puede dejarlo sin avance cuando exista una causa concreta: lesión, viaje, falta de recursos, espera obligatoria, descanso elegido, bloqueo institucional o un intervalo demasiado breve. Esa pausa también se registra y debe tener condición de salida.
+
+Toda persona recurrente mantiene tres horizontes:
+
+- **Corto plazo:** siguiente acción observable dentro de días o semanas.
+- **Mediano plazo:** competencia, relación o proyecto que puede madurar durante uno o varios meses.
+- **Largo plazo:** transformación personal o huella en el mundo que orienta su arco sin garantizar el resultado.
+
+En cada cierre mensual debe progresar al menos uno de los tres horizontes o quedar documentada la causa de estancamiento. Ningún personaje puede atravesar dos cierres mensuales consecutivos sin avance, coste, cambio de prioridad o pausa causal auditada.
+
+**Independencia de trayectoria:** hacer crecer dos personajes relacionados no autoriza a convertir a uno en secretario, informante, asistente o recurso funcional del otro. Sus metas, productos, destinatarios, autoridad y criterios de éxito se registran por separado. En particular, los informes comunitarios de Hessa pertenecen a Hessa y a las cuadrillas de Minas Quebradas: no son reportes para Kazuki ni parte de su cadena técnica.
+
 El tablero [[REGISTRO_DE_VIDA_AUTONOMA_Y_METAS_AÑO3]] funciona como índice rector para el elenco completo. Misa, Jasmine, Kira y cualquier personaje que no aparezca durante un tramo conservan metas, ambiciones, vínculos y problemas activos; una ficha no se considera detenida solo porque la cámara siga a Max.
+
+La cobertura exhaustiva se controla mediante [[MATRIZ_UNIVERSAL_VIDA_AUTONOMA_AÑO3]]. Toda ficha individual —salvo Max, controlado por el usuario— debe aparecer allí. Crear una ficha nueva obliga a incorporarla a la matriz y asignarle los tres horizontes antes de cerrar la actualización.
 
 ## 5. Escala de autonomía
 

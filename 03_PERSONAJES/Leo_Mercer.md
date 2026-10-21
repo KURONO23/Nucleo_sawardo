@@ -81,7 +81,7 @@ Leo mantiene Quest Log en fase de diseño verificable. La primera misión con Re
 
 ---
 
-## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+## ESTADO HISTÓRICO — 1 DE LLUVIA, AÑO 3
 
 - **Crecimiento y estado:** Alcanzó nivel 20, convirtió Quest Log en una ayuda que admite evidencia y retirada y empezó a aprender movilidad y defensa de Jasmine y Biro. Con Greta aprende a disfrutar sin convertir cada encuentro en tarea; su cercanía sigue abierta.
 - **Ruta autónoma vigente:** `Meta:` evolucionar Quest Log con objetivos sugeridos, evidencia y retirada. `Ambición:` coordinar expediciones sin obedecer una interfaz ciegamente. `Vínculo:` Natalia, Ren, Haruto y Liora. `Obstáculo / hito:` rechazar una misión lateral atractiva para proteger al equipo.
@@ -90,7 +90,7 @@ Leo mantiene Quest Log en fase de diseño verificable. La primera misión con Re
 
 ## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (ENTRENAMIENTO EN SAWARDO Y ASCENSO A RANGO C)
 
-- **Entrenamiento Intensivo en Sawardo (11–15 de Lluvia / 180 días subjetivos):**
+- **Entrenamiento intensivo en Sawardo (11–15 de Lluvia / cinco meses subjetivos):**
   Bajo la tutela de Max, Aria y Jasmine, Leo entrenó su cuerpo y su sistema 《Quest Log — Forjador de Destino》:
   1. **Refuerzo Corporal y Absorción de Daño:** Tolerancia a impactos masivos (aguantando embates de Aria).
   2. **《Refuerzo de Arma I》:** Imbuición física de maná en armas, rompiendo troncos de árboles con armas reparadas por Reversi.
@@ -98,7 +98,40 @@ Leo mantiene Quest Log en fase de diseño verificable. La primera misión con Re
   4. **《Impacto Resonante I》:** Golpe de choque cinético para desestabilizar adversarios pesados.
   5. **《Impulso Reforzado I》:** Movilidad de interposición rápida.
   6. **Evolución de Quest Log:** Sincronizó 23 misiones cooperativas y 18 paquetes de recompensa, consolidando su criterio de rechazar misiones secundarias riesgosas por voluntad propia.
-- **Ascenso oficial a Rango C (17 de Lluvia):**
-  Evaluado ante el Comité de **Elowen Vardis**. Demostró control de objetivo (proteger antes que destruir) y criterio de retirada. Promovido de **Rango D (nivel 20) a RANGO C (nivel 29)** con vía futura a Rango B.
+- **Ascenso oficial a Rango C (20 de Lluvia):**
+  Demostró control de objetivo (proteger antes que destruir) y criterio de retirada. Fue promovido de **Rango D (nivel 20) a RANGO C (nivel 29)** con vía futura a Rango B.
 - **Vínculo con Greta Hoffmann:** Juegos de estrategia, cafés y conversaciones distendidas sin cuadernos ni informes; relación de afecto creciente sin noviazgo cerrado.
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
+
+## VIDA AUTÓNOMA — 21 DE LLUVIA A 1 DE FLORIS, AÑO 3
+
+- Convirtió junto a Natalia los registros de Quest Log en una plantilla de riesgo, evidencia y retirada.
+- Rechazó una tarea lateral para cumplir la partida acordada con Greta, eligiendo una relación y descanso sin tratarlos como recompensa.
+- Mantiene nivel 29 y rango C; el avance es de decisión y disciplina defensiva, no una habilidad nueva.
+- Véase [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** convirtió datos de Quest Log en una plantilla de riesgo, evidencia y retirada, y rechazó una tarea que interfería con su encuentro con Greta.
+- **Crecimiento:** aprendió que una recompensa no convierte una misión en obligación y que elegir descanso también es criterio.
+- **Coste y límite:** mantiene nivel y rango; no obtiene habilidad nueva ni control total de Quest Log.
+- **Relaciones vivas:** colabora con Natalia, Haruto y Ren; su cercanía con Greta avanza sin noviazgo confirmado.
+- **Siguiente hito:** aplicar su plantilla bajo presión sin obedecer ciegamente al sistema.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## EVOLUCIÓN RELACIONAL — GRETA, 1 DE FLORIS
+
+- Después de la partida, Greta propuso una revancha y Leo aceptó sin consultar Quest Log ni convertir el encuentro en objetivo.
+- Compartieron café y una conversación sin entrenamiento, contrato o recompensa como excusa.
+- Leo empieza a elegir compañía por deseo propio. Existe afinidad recíproca repetida, todavía sin noviazgo.
+
+## ADDENDUM — FLORIS, AÑO 3
+
+- Completó con Greta, Haruto y Liora dos misiones florales y organizó una maniobra segura cuando cambió el terreno.
+- Invitó a Greta por decisión propia, sin Quest Log, y aceptó hablar directamente del vínculo.
+- Hay interés recíproco; **todavía no son pareja formal**.
+- **Fuente:** [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md).
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

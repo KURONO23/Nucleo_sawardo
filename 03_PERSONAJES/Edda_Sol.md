@@ -49,3 +49,16 @@ Edda deja silencios y responde a Austin desde su propia voz; el contraste se vue
 - **Ruta autónoma vigente:** `Meta:` seguir construyendo a Isola Ren con autoridad y matiz. `Ambición:` que una actriz de formación clásica pueda dirigir una escena. `Vínculo:` Mara, Nilo y estudiantes. `Obstáculo / hito:` asumir una responsabilidad de ensayo sin que Goran la resuelva.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** asumió la conducción de un bloque de ensayo.
+- **Crecimiento:** añadió dirección práctica a su formación clásica y aprendió a corregir sin imponer una única técnica.
+- **Coste y límite:** administrar tiempos redujo su preparación individual.
+- **Relaciones vivas:** trabaja con Mara, Nilo y actores nuevos como referente accesible.
+- **Siguiente hito:** dirigir una escena difícil y aceptar una solución del elenco.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

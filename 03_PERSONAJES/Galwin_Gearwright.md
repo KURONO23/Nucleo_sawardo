@@ -16,7 +16,7 @@ Su prioridad vigente es G1 funcional limitado: piezas auditables, permisos de de
 - Aria: colaboradora elemental y de seguridad.
 - Sayaka: trabajo de calderas y mantenimiento de Esmeralda.
 - Daichi, Mika, Ren, Kazuki y Thalion: red de revisión de Torre/G1.
-- Aprendices: responsables del horno, pruebas y registro de fallos; sus identidades aún no están fijadas.
+- [[Tilda_Bronzeforge|Tilda Bronzeforge]], [[Jorik_Runespan|Jorik Runespan]], [[Sivra_Coppervein|Sivra Coppervein]] y [[Uldan_Greypin|Uldan Greypin]]: discípulos responsables de materiales, documentación, calibración y mantenimiento de campo.
 
 ## RUTA AUTÓNOMA — `SEMILLA`
 Delegar el horno para formar aprendices, estabilizar G1 antes de G2 y estudiar ruinas mediante observación/recolección controlada. Son líneas de crecimiento, no avance concluido.
@@ -99,7 +99,7 @@ Colabora activamente con el Archimago Thalion Evernight y los artífices de la C
 La obsesión de Galwin con el horno deja de ser el centro de su jornada. Por decisión propia, convierte su taller en una escuela de responsabilidad distribuida:
 
 - **El horno pasa a sus aprendices.** Ellos se encargan de mantenimiento, ajustes de temperatura, pruebas de materiales y registro de fallos. Galwin revisa hitos y seguridad, pero deja de arrebatarles las herramientas ante cada imperfección.
-- **Los aprendices empiezan a crecer de verdad.** Cada mejora debe llevar responsable, medida, resultado y coste. Un arreglo que funciona a medias no se oculta: se conserva como lección del taller. Sus nombres individuales todavía no están fijados en el canon, por lo que no se inventan identidades para llenar el hueco.
+- **Los aprendices empiezan a crecer de verdad.** Cada mejora debe llevar responsable, medida, resultado y coste. Tilda, Jorik, Sivra y Uldan conservan especialidades, errores y ambiciones propias; un arreglo que funciona a medias no se oculta.
 - **G1 es su prioridad inmediata.** Galwin se concentra en volver reproducible el G1 funcional limitado: piezas intercambiables, diagnóstico, mantenimiento y documentación que otra persona pueda auditar.
 - **G2 queda después de G1.** Puede diseñar requisitos y módulos en papel, pero no activará ni presentará G2 como terminado mientras G1 no tenga pruebas repetibles y un protocolo de fallo aceptable.
 - **Las ruinas se vuelven parte de su agenda técnica.** Organiza una revisión de tecnología antigua porque sospecha que sus soluciones de materiales, conducción y memoria pueden mejorar G1 y orientar G2. La expedición será de observación y recuperación controlada; no se copiará una red desconocida por entusiasmo.
@@ -132,4 +132,40 @@ La delegación del horno continúa. Galwin concentra su tiempo en hacer reproduc
 
 - **Soporte rúnico de nodos:** Ejecución del contrato de mantenimiento técnico de telecomunicaciones (500 oro/mes).
 - **Desarrollo de prototipos:** Pruebas de integración de receptores y antenas de cristal para la siguiente fase de terminales portátiles.
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
+
+---
+
+## AVANCE AUTÓNOMO CANONIZADO — G1-0.3, 21 DE LLUVIA A 1 DE FLORIS
+
+- Galwin aisló una causa de inestabilidad: el retorno de resonancia entre modulador e infraestructura antigua podía producir ecos confundibles con respuestas.
+- Creó un **amortiguador de eco rúnico** y una secuencia obligatoria de emisión, espera y confirmación.
+- Dirigió pruebas, pero no fabricó cada pieza. Sus aprendices desarrollaron la carcasa modular y corrigieron un primer fallo de temperatura por cuenta propia.
+- Exigió que un segundo equipo reprodujera el montaje únicamente con el manual. Al conseguirlo, aceptó que el diseño de sus discípulos entrara en G1-0.3.
+- La revisión superó 48 horas de banco, reinicios, pérdida controlada de señal, sustitución de regulador y mensajería autorizada.
+- **Estado:** suficientemente estable para demostración y auditoría, no para despliegue general. G2 continúa sin construirse.
+
+### Tema de apertura de Floris
+
+Galwin tiene preparada una presentación de G1-0.3 para Max, Aria, Daichi, Mika, Leo y Thalion. Tilda explicará el fallo térmico; Jorik, el manual; Sivra, la calibración; y Uldan, la reproducción y reparación. Si supera esa auditoría, solicitará mostrarla a Aldric como infraestructura regional mantenible. No se ha decidido por Max la fecha ni se ha concedido autorización real.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** aisló el eco de resonancia, diseñó un amortiguador rúnico y llevó G1-0.3 a estabilidad de taller con pruebas reproducibles.
+- **Crecimiento:** dejó de ser el único solucionador y convirtió el taller en una escuela técnica donde el método puede superar al maestro.
+- **Coste y límite:** conservó un sobrecalentamiento fallido y renunció a una mejora vistosa para priorizar mantenimiento; G2 no comenzó.
+- **Relaciones vivas:** confía tareas críticas a Tilda, Jorik, Sivra y Uldan y acepta auditoría de Daichi y Mika.
+- **Siguiente hito:** presentar G1-0.3 a Max, especialistas y Corona sin prometer despliegue.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## ADDENDUM — 30–31 DE FLORIS, AÑO 3
+
+- Demostró que G1.03 funciona de manera limitada entre dos terminales autorizados; no prometió red pública ni G2.
+- Dividió a sus cuatro aprendices entre terminal y Serath-Maru sin abandonar ninguno.
+- Presentó diagnóstico de motor, sellado, refrigeración, vibración y materiales, con cuatro meses como horizonte deseado.
+- Aceptó auditoría independiente de Daichi y Mika.
+- **Fuente:** [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md).
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

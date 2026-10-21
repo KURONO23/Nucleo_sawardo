@@ -15,7 +15,15 @@ Un personaje no evoluciona solo porque tenga una ambición escrita. La evolució
 7. **Coste o fallo:** qué perdió, retrasó, rechazó o todavía no puede hacer.
 8. **Siguiente pregunta:** qué objetivo nace de esa experiencia.
 
-La ausencia de una persona de la escena no cancela su crecimiento. Si no existe una escena fuente para el intervalo, se conserva el último hecho confirmado y se registra una ruta pendiente, nunca un resultado inventado.
+La ausencia de una persona de la escena no cancela su crecimiento. Si no existe una escena fuente para el intervalo, se parte del último hecho confirmado y se ejecuta un ciclo `AUTÓNOMO_DERIVADO`: acción propia, práctica, error, coste o decisión proporcional que puede convertirse en canon derivado después de auditoría. Solo las decisiones mayores permanecen como ruta pendiente.
+
+Cada personaje debe mantener metas en tres escalas:
+
+1. **Corto plazo:** próxima acción medible en días o semanas.
+2. **Mediano plazo:** habilidad, relación o proyecto que madura durante meses.
+3. **Largo plazo:** cambio de identidad, legado o impacto mundial que orienta su arco.
+
+El cierre mensual mueve al menos una escala y revisa las otras dos. Una persona no puede quedar congelada durante dos cierres consecutivos solo porque no apareció ante Max.
 
 ## 2. Kazuki como patrón de referencia
 
@@ -63,6 +71,10 @@ Qué hizo sin Max:
 Relación que cambió:
 Institución/comunidad/cultura afectada:
 Coste, fallo o límite:
+Meta corta y progreso:
+Meta mediana y progreso:
+Meta larga y progreso:
+Indicador de próxima revisión:
 Siguiente hito observable:
 Pregunta que queda abierta:
 Fuente o escena:
@@ -153,6 +165,7 @@ El [[MOTOR_DE_VIDA_AUTONOMA]] y el [[CRONISTA_DESARROLLO_DE_PERSONAJES]] deben c
 - un coste o límite;
 - un siguiente hito que todavía no sea hecho;
 - una fuente o evidencia trazable.
+- si fue fuera de cámara, etiqueta `AUTÓNOMO_DERIVADO`, intervalo, cadena causal y vía de conocimiento.
 
 Si una ficha no puede completar estos campos, se marca `CRECIMIENTO_PENDIENTE`, no `VALIDADA`.
 
@@ -160,6 +173,6 @@ Si una ficha no puede completar estos campos, se marca `CRECIMIENTO_PENDIENTE`, 
 
 - No convertir rutas en hechos retroactivos.
 - No borrar metas, personalidades, rangos, ascensos ni vínculos existentes.
-- No fabricar escenas para cubrir un intervalo vacío.
+- No fabricar recuerdos ni afirmar que hubo una escena mostrada. Sí crear deltas `AUTÓNOMO_DERIVADO` para cubrir intervalos reales con vida causal, proporcional y auditada.
 - No resolver romances, culpables, tecnologías o retornos sin evidencia.
 - No tocar ni reorganizar `00_FUENTES/historia_original`.

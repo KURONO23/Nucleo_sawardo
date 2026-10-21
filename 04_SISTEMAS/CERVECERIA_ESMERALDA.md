@@ -42,3 +42,14 @@ En el gran festival celebrado en los prados de Aldoria, las siete naciones confi
 
 ## VINCULACIÓN CON EL FESTIVAL
 - Para el desglose completo del evento, el cronograma de Bruma del Año 2, la Prueba de Afrodita y los pabellones de las 7 delegaciones, consultar: [[FESTIVAL_INTERNACIONAL_DE_LA_CERVEZA]].
+
+## ESTADO EMPRESARIAL — 1 DE FLORIS, AÑO 3
+
+- Dirección operativa y veto de calidad: **Sayaka Fujimoto / Evelyn Cross**.
+- Propiedad vigente: Sayaka 30%, Max 15%, Natalia 10%, Goran 12%, Darian 11%, Haruto 10%, Biro 7% y reserva societaria 5%.
+- Distribución total de Lluvia: **16.000 oro**. Sayaka recibe 4.800; Max recibe 2.400.
+- El lote rechazado se valora en 720 oro brutos, con recuperación de 120 y pérdida societaria neta de **600 oro**.
+- La producción conforme continuó; el defecto fue localizado y no paralizó la fábrica.
+- Los dividendos antiguos se cierran sin asiento adicional para evitar doble pago.
+- La expansión internacional permanece condicionada a almacenes, rutas, calidad y capacidad; no existe ampliación automática.
+- Véase [[CIERRE_PENDIENTES_ECONOMICOS_1_FLORIS_A3]].

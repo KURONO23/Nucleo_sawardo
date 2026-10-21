@@ -20,6 +20,21 @@ Cuando varios personajes compartan un proyecto, registra sus trayectorias por se
 
 El tablero obligatorio de control es [[REGISTRO_DE_VIDA_AUTONOMA_Y_METAS_AÑO3]]. Si una ficha no tiene una entrada allí, debe recibir al menos una semilla de meta, ambición, vínculo, obstáculo y siguiente hito antes del próximo salto temporal. Misa, Jasmine y cualquier personaje que no haya aparecido recientemente siguen activos por esta regla; la ausencia de una escena de Max no equivale a desaparición.
 
+Antes de cerrar, cruza todas las fichas con [[MATRIZ_UNIVERSAL_VIDA_AUTONOMA_AÑO3]]. Una persona nueva sin fila y sin tres horizontes deja la auditoría incompleta.
+
+Una ausencia de cámara no limita el resultado a `SEMILLA`. Por corrección autoral, puedes producir un delta `AUTÓNOMO_DERIVADO` que se incorpore al canon cuando nazca de la trayectoria previa, use tiempo y recursos disponibles, incluya decisión propia, coste o fallo y no cierre una decisión mayor. La falta de una escena individual se registra como procedencia, no como inmovilidad.
+
+Cada personaje recurrente debe poseer y revisar:
+
+- **meta de corto plazo:** días o semanas, próxima acción comprobable;
+- **meta de mediano plazo:** uno o varios meses, dominio o proyecto en maduración;
+- **meta de largo plazo:** transformación identitaria, institucional o mundial;
+- **indicador de progreso:** evidencia que permitirá saber si avanzó;
+- **riesgo de estancamiento:** hábito, carencia o conflicto que puede frenarlo;
+- **condición de próxima revisión:** fecha, informe, prueba, encuentro o cierre mensual.
+
+No permitas dos cierres mensuales consecutivos sin un movimiento registrado. El movimiento puede ser éxito parcial, error, retroceso, descanso, renuncia, cambio de método, enseñanza o descubrimiento de un límite. Si no avanzó, documenta la causa y la condición de salida; «no apareció» no es una causa válida.
+
 La rotación detallada, los ciclos de aprendizaje y los criterios para Biro, Haruto, Liora y el resto del elenco están en [[PLAN_DESARROLLO_CONTINUO_DEL_ELENCO_AÑO3]]. Ese plan no elige resultados por adelantado: garantiza que cada persona tenga oportunidades de actuar, fallar, aprender, decidir y dejar consecuencias.
 
 ## Activación
@@ -41,6 +56,8 @@ Para cada personaje o grupo seleccionado determina:
 6. Acción autónoma razonable.
 7. Resultado proporcional: avance, demora, fallo, descanso o nueva pregunta.
 8. Qué sabe Max y qué permanece fuera de su conocimiento.
+9. Meta de corto, mediano y largo plazo afectada.
+10. Indicador y fecha de próxima revisión.
 
 ## Reloj de proyectos
 
@@ -74,6 +91,7 @@ Puede retroceder, pausarse o fracasar. No todos avanzan cada día. Registra resp
 - No crear conocimiento omnisciente.
 - No usar la autonomía como excusa para cerrar fuera de cámara un conflicto central.
 - No hacer que todos hablen de Max.
+- No usar `SIN_CAMBIO_DEMOSTRADO` como sinónimo de vida detenida; tras comprobar la ausencia de escena, ejecutar el ciclo derivado correspondiente.
 
 ## Dependencias
 

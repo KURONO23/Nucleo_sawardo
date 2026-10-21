@@ -1,5 +1,7 @@
 # Bestiario Analítico D&D y Pathfinder — Fichas de Identificación
 
+> **Guardarraíl canónico:** las menciones a la **Aguja Esmeralda** en este anexo pertenecen a una propuesta derivada de adaptación y son `NO_CANON`. La Aguja Esmeralda no aparece en la historia original ni existe como lugar confirmado del mundo.
+
 Este compendio contiene las fichas técnicas y de análisis rúnico preparadas para la lectura de habilidades de análisis: **《QUEST LOG》 de Leo**, **Protocolo de Análisis de Haruto (Siri / iPhone)** y **Evaluación de Max (S25 / Sawardo)**.
 
 ---

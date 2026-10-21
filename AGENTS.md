@@ -82,6 +82,41 @@ historias/<nombre>/
 5. Escribe o edita con foco en la experiencia del lector.
 6. Revisa continuidad, causalidad, ritmo, voz y corrección lingüística antes de entregar.
 
+## Actualización obligatoria cuando se agregan fuentes
+
+Cuando el usuario indique que agregó, reemplazó o amplió contenido dentro de `00_FUENTES/historia_original/` y pida actualizar el núcleo, el agente principal debe **desplegar subagentes especializados**. Queda prohibido resolver esa actualización mediante una sola lectura o una única pasada individual.
+
+### Despliegue total obligatorio
+
+En toda actualización causada por fuentes nuevas deben activarse los **trece agentes registrados del Núcleo Sawardo**, sin omitir ninguno:
+
+1. Guardián del Canon.
+2. Custodio de Historia Original e Impacto.
+3. Árbitro RP.
+4. Maestro de Personajes y NPC.
+5. Cronista de Desarrollo de Personajes.
+6. Guardián de Sawardo y Sistemas.
+7. Cronista Social.
+8. Maestro del Mundo y Aventuras.
+9. Motor de Vida Autónoma.
+10. Auditor de Cierre Mensual.
+11. Agente de Prompts para Roleplay.
+12. Director Narrativo.
+13. Compresor de Memoria.
+
+El despliegue se realiza en **oleadas** cuando exista un límite de concurrencia. Participar no significa inventar cambios: cada agente debe entregar hallazgos verificables o declarar `SIN_CAMBIO_DEMOSTRADO` para su dominio. El agente principal conserva autoridad final, cruza los trece informes, resuelve solapamientos y mantiene **un solo responsable de escritura por archivo**.
+
+No puede declararse una fuente integrada si falta el informe de cualquiera de los trece agentes. El informe final debe enumerarlos, indicar qué revisó cada uno y registrar su resultado, incluso cuando sea `SIN_CAMBIO_DEMOSTRADO`.
+
+### Cierre obligatorio
+
+- Activar [[AUDITOR_CIERRE_MENSUAL]] si la fuente termina un mes o el usuario solicita consolidación mensual.
+- Propagar cada cambio a sus destinos reales: fichas, relaciones, cronología, mundo, sistemas, finanzas, hilos, calendario y estado rector. Un dato que solo quede en un resumen se considera `NO_PROPAGADO`.
+- Actualizar también los lanzadores, el registro de agentes y el paquete `sawardo_CHATGPT` cuando cambie el presente operativo.
+- Ejecutar `VALIDAR_NUCLEO_PC.ps1` y regenerar la versión ChatGPT antes de declarar el cierre.
+- Informar qué agentes participaron, qué frentes cubrió cada uno, qué quedó abierto y el resultado de validación.
+- Las fuentes originales permanecen en solo lectura. La corrección autoral vigente permite crear deltas `AUTÓNOMO_DERIVADO` durante intervalos fuera de cámara: deben partir de hechos previos, tiempo, recursos, personalidad, metas y costes verificables, y no pueden resolver decisiones mayores ni controlar a Max. `SIN_CAMBIO_DEMOSTRADO` solo describe ausencia de escena fuente; no congela al personaje. Cada recurrente mantiene metas de corto, mediano y largo plazo y no puede atravesar dos cierres consecutivos sin avance, retroceso, descanso causal o bloqueo con condición de salida.
+
 ## Respuesta de bienvenida
 
 Usa este panel breve:

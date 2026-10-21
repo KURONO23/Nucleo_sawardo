@@ -26,13 +26,13 @@ Las fuentes originales permanecen intactas aun cuando contengan el error. La sub
 | Personaje | Edad inicial comprobada | Cumpleaños atravesado | Edad cronológica vigente | Confianza | Observación |
 |---|---:|---|---:|---|---|
 | **Max Gutiérrez** | **38** | 25 de Ventisca, Año 2 | **39** | Alta con incidencia | El canon posterior fija ese cumpleaños como el primero que modifica su edad dentro de la cronología vigente. El antiguo Día 399 se conserva como versión desplazada, no se suma por segunda vez. |
-| **Serath Vale** | **32** | 31 de Floris, Año 2 | **33** | Alta | El 26 de Bruma, Año 3 todavía antecede su siguiente 31 de Floris. |
+| **Serath Vale** | **32** | 31 de Floris, Año 3 | **34** | Alta | Cumplió años y fue celebrada en familia al cierre de Floris. |
 | **Kira** | **58** | Cumpleaños narrado en el tramo 542–577 | **59** | Media-alta | Falta estabilizar su fecha mensual en el calendario maestro, pero la celebración está narrada. |
-| **Haruto Kazagami** | **17** | 1 de Floris, Año 2 | **18** | Alta | Cumplirá 19 el 1 de Floris del Año 3; todavía no ocurrió. |
+| **Haruto Kazagami** | **17** | 1 de Floris, Año 3 | **19** | Alta | Cumplió 19 y fue celebrado con Liora y su círculo; recibió una vaina artesanal simbólica. |
 | **Sayaka Fujimoto / Evelyn Cross** | **27** | 30 de Solalto, Año 2 | **28** | Alta | Una persona, dos identidades respetadas; no duplicar la edad. |
-| **Ryu Gutiérrez** | 17 | Cumpleaños transcurrido | **18** | Alta | La fuente de transición al Año 3 lo identifica expresamente con 18 años. |
-| **Kenji Gutiérrez** | 15 | 26 de Lluvia, Año 2 | **16** | Alta | Cumplirá 17 el 26 de Lluvia del Año 3; esa fecha todavía no ocurrió. |
-| **Liora** | — | 17 de Floris | **22** | Alta para el estado de Noctalia/Año 2 | La fuente la identifica expresamente con 22; no cumple de nuevo antes del 26 de Bruma, Año 3. |
+| **Ryu Gutiérrez** | 17 | 8 de Floris, Año 3 | **19** | Alta | Su cumpleaños fue celebrado con familia y tripulación. |
+| **Kenji Gutiérrez** | 15 | 26 de Lluvia, Año 3 | **17** | Alta | Cumplió 17 y recibió el cuaderno *Las recetas de Kenji Gutiérrez — Sabores de dos mundos*. |
+| **Liora** | — | 17 de Floris, Año 3 | **23** | Alta | Cumplió años durante Floris y aceptó una celebración centrada en sus elecciones. |
 | **Aria** | más de 800 | 22 de Solalto, conmemoración | **más de 800** | Alta | No aplicar aritmética humana a una Gran Undine. La fecha funciona también como conmemoración identitaria. |
 | **Aldric Theron** | `DESCONOCIDA` | 5 de Lluvia | `DESCONOCIDA` | — | Apariencia/cuerpo rejuvenecido de aproximadamente 40–42 no equivale a edad cronológica. |
 
@@ -42,10 +42,17 @@ Las fuentes originales permanecen intactas aun cuando contengan el error. La sub
 - **Galwin Gearwright:** su fecha del 27 de Albor del Año 3 ya transcurrió, pero la celebración no está documentada. Edad cronológica: `DESCONOCIDA`; no inventar retrospectivamente regalos, asistentes ni actividades.
 - **Aldric Theron:** su cumpleaños del 5 de Lluvia del Año 3 todavía no ocurrió. Edad cronológica: `DESCONOCIDA`.
 - **Kenji Gutiérrez:** conserva **16 años** hasta el 26 de Lluvia. Las especias e implementos recibidos el 8 de Verdalia fueron un regalo espontáneo de Max, no un cumpleaños.
-- **Serath Vale:** continúa con **33 años**; su cumpleaños del 31 de Floris todavía no ocurre.
-- **Próxima alerta:** Aldric cumple el **5 de Lluvia**. Después: Kenji, 26 de Lluvia; Haruto, 1 de Floris; Ryu, 8 de Floris; Liora, 17 de Floris; Serath, 31 de Floris.
+- **Serath Vale:** tiene **34 años** tras el 31 de Floris, Año 3.
+- **Próxima alerta:** Natalia, 14 de Solalto; después Aria, 22, y Sayaka/Evelyn, 30.
 - Calendario operativo completo: [[CALENDARIO_CUMPLEANOS_CIRCULO_DE_MAX]].
 - No se suman edades a personajes sin edad inicial demostrada.
+
+## Actualización — 1 de Floris, Año 3
+
+- **Kenji Gutiérrez:** cumplió **17 años** el 26 de Lluvia.
+- **Haruto Kazagami:** cumplió **19 años** el 1 de Floris.
+- **Próxima alerta:** Natalia Thornwell, 14 de Solalto. Después Aria, 22, y Sayaka/Evelyn, 30.
+- Fuente: [Lluvia a 1 de Floris, Año 3](../00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md).
 
 ## Cumpleaños conocidos con edad todavía desconocida
 

@@ -17,7 +17,9 @@
 - **En público / mando militar:** Tono formal, firme, sobrio, directo e interrogativo. Reduce problemas complejos a riesgos operativos, evidencias comprobadas y órdenes precisas. No se vuelve complaciente por cortesía de salón ni sonríe para agradar a la nobleza.
 - **En intimidad / con Max:**
   - Voz cercana, afectuosa, madura y cómplice. Llama a Max invariablemente **«Max»**, con una cadencia que equilibra ternura y firmeza conyugal.
+  - **Tratamiento canónico obligatorio:** no llama a Max **«amor»**. Su cariño se expresa mediante el tono, la mirada, el contacto, la confianza y la cercanía cuando están a solas, sin sustituir su nombre por apelativos románticos genéricos.
   - Humor seco y doméstico: disfruta pinchar a Max cuando este intenta esquivar compromisos sociales o inventa justificaciones ridículas (*«Max... define "varias veces"»*).
+  - **Gag recurrente de la respuesta «sí»:** ante una pregunta concreta de Serath —especialmente una cantidad o una explicación— Max puede responder evasivamente **«Sí»**; Serath replica, seca pero cariñosa: **«Eso no responde mi pregunta»**. Ejemplo tonal: *«Max, ¿cuántas barras de chocolate has comprado?» —«Sí.» —«Eso no responde mi pregunta.»* Debe aparecer con naturalidad y moderación, no en cada conversación.
   - Complicidad conyugal plena: apoya las iniciativas culturales y la Operación «Somos Pobres», pero impone límites sensatos para que el hogar no se vuelva un circo.
   - En el entrenamiento de servicio doméstico (Verdalia, Año 3): se divirtió utilizando su porte y exigencia de corte para elevar la dificultad de la cobertura de Max como «Marcos».
 - **Reacción emocional confirmada:** Ante Darian y su círculo íntimo, Serath habla de Max con serenidad y orgullo sobrio, dejando claro que su elección matrimonial fue un acto de soberanía personal y amor correspondido.
@@ -82,6 +84,7 @@
 - `00_FUENTES/historia_original/AÑO_3/11_01_de_Bruma_a_28_de_Bruma_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md`
 - [[CURRENT_STATE_5_VERDALIA_AÑO3]]
 - **Canon autoral explícito:** Luce exactamente con el peinado de **Ada Wong de Resident Evil** (corte bob asimétrico elegante/táctico), mismo color de cabello **negro azabache** y esa misma mirada penetrante, inteligente y serena.
+- **Corrección autoral explícita — 19 de octubre de 2026:** Serath siempre se dirige a su esposo como **«Max»**, nunca como **«amor»**. En privado lo trata con cariño por medio de su conducta y su tono. Se conserva como patrón cómico la pregunta concreta de Serath, la respuesta evasiva **«Sí»** de Max y su réplica **«Eso no responde mi pregunta»**. El ejemplo de las barras de chocolate fija la voz del gag, no un suceso fechado por sí mismo.
 
 ---
 
@@ -144,4 +147,37 @@
 - **Vacaciones en Elaris (5 de Lluvia):** Acercamiento emotivo definitivo con su padre Aldric en Elaris bajo tiempo detenido («Señora Serena»).
 - **Intimidad matrimonial:** Noche del 16/17 de Lluvia con Max tras la graduación de los muchachos, marcada por el regreso del legendario «Sí».
 - **Comandante Suprema del Barril:** Bautizada con humor por Biro en la taberna; co-anfitriona del almuerzo familiar quincenal con su padre y Thalion (20 de Lluvia).
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
+
+---
+
+## EVOLUCIÓN CANÓNICA — 21 DE LLUVIA A 1 DE FLORIS, AÑO 3
+
+- Acompañó la prueba de Chronos en Thornhaven y actuó como observadora causal durante la conexión con el Año 73. Regresó al mismo punto temporal sin crear una línea alternativa.
+- Exigió límites claros frente a los experimentos peligrosos de Max y sostuvo su papel de esposa y autoridad de seguridad, no de espectadora pasiva.
+- Participó en las celebraciones de Kenji y Haruto y coordinó la cena de agradecimiento del 1 de Floris.
+- Su próximo cumpleaños sigue fijado para el **31 de Floris**; no celebrarlo ni avanzarlo automáticamente.
+- **Fuente:** [Lluvia a 1 de Floris, Año 3](../00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md).
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** mantuvo operativa la Guardia durante Chronos, delegó suministros en Elara y rumores de rutas en Maelis.
+- **Crecimiento:** reforzó mando distribuido y aceptó que supervisar no implica ejecutar cada función.
+- **Coste y límite:** delegar la obliga a evaluar errores ajenos sin recuperar control por reflejo.
+- **Relaciones vivas:** la reparación con Aldric se sostiene en hábitos; Thalion comparte riesgos delimitados, no secretos completos.
+- **Siguiente hito:** revisar resultados de turnos y descansos con sus oficiales.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## ADDENDUM — 31 DE FLORIS, AÑO 3
+
+- Cumplió **34 años**.
+- Celebró su cumpleaños sin ceremonia militar: duelo amistoso ganado 3–2, cocina, almuerzo familiar y tiempo con Aldric, Thalion, Aria y Max.
+- Recibió de Max un cuaderno azul noche privado y de Aldric una insignia de su primer entrenamiento. Escribió que no necesita dejar de ser comandante para ser Serath.
+- En intimidad trata a su esposo con cariño y lo llama **Max**, nunca «amor» como muletilla.
+- Desea conocer Zhong-Kyo en el Serath-Maru, pero no condiciona el aniversario a que el barco esté listo.
+- **Pendiente:** regresar a sus responsabilidades conservando descanso y espacio personal.
+- **Fuente:** [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md).
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

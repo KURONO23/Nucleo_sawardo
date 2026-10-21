@@ -104,7 +104,7 @@ Haruto acepta la disculpa de Mizuki sin conceder perdón completo. Mantiene su p
 
 ---
 
-## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+## ESTADO HISTÓRICO — 1 DE LLUVIA, AÑO 3
 
 - **Crecimiento y estado:** Lideró un equipo pequeño, cedió decisiones a Ren y Leo, practicó Adaptación sin anticiparse de forma automática y cerró Verdalia en nivel 39. Su relación con Liora es estable y no se transforma automáticamente en compromiso.
 - **Ruta autónoma vigente:** `Meta:` acompañar a Ren y Leo y registrar límites de su Adaptación. `Ambición:` proteger sin sobreproteger y vivir fuera de la recompensa. `Vínculo:` Liora, Siri, Ren y Leo. `Obstáculo / hito:` ceder el mando de una decisión de campo; un compromiso con Liora es posibilidad futura, no hecho ni meta automática.
@@ -113,13 +113,57 @@ Haruto acepta la disculpa de Mizuki sin conceder perdón completo. Mantiene su p
 
 ## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (ENTRENAMIENTO EN SAWARDO Y RANGO A NIVEL 46)
 
-- **Liderazgo de Vanguardia en Sawardo (11–15 de Lluvia / 180 días subjetivos):**
+- **Liderazgo de Vanguardia en Sawardo (11–15 de Lluvia / cinco meses subjetivos):**
   1. **Habilidad 《Adaptación》:** Amoldamiento físico y lectura cinética de campo.
   2. **Espada de Trueno:** Canalización de relámpago en su katana (concepto Chidori / Cuarto Hokage).
   3. **Paso Relámpago I (*Shunshin*):** Movilidad explosiva con frenado fiable y cambios bruscos de ángulo.
   4. **Battōjutsu de Precisión:** Desenvaine eléctrico instantáneo.
   5. **Corte Relámpago:** En perfeccionamiento técnico para reducir su ventana de vulnerabilidad.
-- **Evaluación Gremial (17 de Lluvia):**
-  Ratificado en **RANGO A (Nivel 46)** por **Elowen Vardis**. Expediente de elegibilidad para examen de Rango S en trámite formal.
+- **Estado gremial al 20 de Lluvia:**
+  Conserva el **RANGO A (nivel 46)**. Su expediente de elegibilidad para examen de Rango S sigue en trámite formal.
 - **Vínculo con Liora:** Relación sentimental estable y serena; apoyo a su carrera musical.
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
+
+---
+
+## EVOLUCIÓN CANÓNICA — 22 DE LLUVIA A 1 DE FLORIS, AÑO 3
+
+- Participó en la revisión y ensayos de *La tragedia del último barril*, aportando criterio sobre ritmo, progresión emocional y silencios sin desplazar la autoridad autoral de Biro ni la dirección de Goran.
+- Cumplió **19 años** el 1 de Floris. Liora, Leo, Ren, Max, Serath, Aria, los Cinco del Barril y amistades cercanas participaron en la celebración.
+- Max le regaló una vaina artesanal con una inscripción personal. Es un objeto afectivo: **no cambia el poder de su espada ni concede habilidades**.
+- Su rango vigente continúa en **A** y su nivel confirmado más reciente en **46**; la elegibilidad para rango S sigue en trámite, no resuelta.
+- **Fuente:** [Lluvia a 1 de Floris, Año 3](../00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md).
+
+### Vida autónoma durante el foco en Chronos y teatro
+
+- Programó descanso tras el entrenamiento intensivo, acompañó a Leo y Ren sin monopolizar decisiones y cedió a Ren la dirección de una práctica de terreno.
+- Permitió que Leo rechazara una tarea sugerida por Quest Log y reservó con Liora una noche sin entrenamiento ni teatro.
+- Este avance es de criterio y vínculos; no modifica su nivel 46 ni resuelve el rango S.
+- Desarrollo global: [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** repartió entrenamiento, teatro y descanso; cedió a Ren una práctica y aceptó que Leo cancelara una misión sugerida.
+- **Crecimiento:** dejó de medir liderazgo por cuánto soporta o controla y empezó a reconocer criterio ajeno y recuperación.
+- **Coste y límite:** la fatiga acumulada lo obligó a reducir intensidad; la reparación con Mizuki no equivale a perdón completo.
+- **Relaciones vivas:** protege tiempo recíproco con Liora y acompaña a Leo y Ren sin sustituirlos.
+- **Siguiente hito:** sostener liderazgo compartido cuando una decisión real del grupo contradiga su impulso protector.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## EVOLUCIÓN RELACIONAL — LIORA Y MIZUKI, 1 DE FLORIS
+
+- Con Liora habló de horarios, tutela juvenil y vida privada. Acordaron proteger una noche por ciclo y avisarse antes de aceptar compromisos incompatibles. Es crecimiento de pareja cotidiana, no compromiso matrimonial.
+- Aceptó de Mizuki una observación útil entregada por el canal acordado. Mantuvo distancia personal y no concedió perdón completo.
+- Aprende que poner límites no exige negar toda cooperación y que amar a Liora también implica proteger tiempo, no solo protegerla físicamente.
+
+## ADDENDUM — FLORIS, AÑO 3
+
+- Cumplió 19 años, acompañó a Liora sin desplazarla y compartió con ella misiones y descanso no competitivos.
+- En *Mi fin de semana con el muerto* detectó sentimentalismo artificial y exigió que la amistad se demostrara con fricción, lealtad y acciones.
+- Mantiene voz orgullosa, directa, sarcástica, competitiva y práctica; no se transforma en escritor ingenuo ni portavoz emocional.
+- **Pendiente:** revisar nuevas escenas sin quedar reducido a «humanizador» y sostener su propia vida con Liora.
+- **Fuente:** [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md).
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

@@ -50,3 +50,16 @@ La autoridad final es `00_FUENTES/historia_original/`; el registro de auditoría
 - **Ruta autónoma vigente:** `Meta:` consolidar al Capitán Draevorn y ampliar registros de espionaje escénico. `Ambición:` explorar papeles menos solemnes. `Vínculo:` Bram y Goran. `Obstáculo / hito:` defender un cambio de personaje ante la compañía.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** ensayó un registro menos solemne y defendió su utilidad ante la compañía.
+- **Crecimiento:** amplió su oficio más allá del personaje de autoridad o espionaje.
+- **Coste y límite:** la primera prueba perdió claridad y necesitó ajuste.
+- **Relaciones vivas:** recibe contraste de Bram y Goran sin copiar sus estilos.
+- **Siguiente hito:** sostener el nuevo registro en una escena completa.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

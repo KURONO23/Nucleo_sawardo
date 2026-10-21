@@ -41,3 +41,25 @@ El mundo conocido se compone de un continente central, un continente oriental tr
 ## 3. HISTORIA GEOGRÁFICA Y CONTINUIDAD
 
 Las referencias iniciales de la época del Día 32 (como la denominación genérica "Trade Kingdom" usada en los primeros textos) quedaron integradas en la geografía formal del mapa: Tornhaven como el gran puerto comercial costero, y Aldoria como la capital y sede de la Corona. Las fronteras, rutas de navegación y accidentes geográficos están plenamente definidos y coordinados con la Red de Atalayas.
+
+---
+
+## 4. PULSO REGIONAL — 21 DE LLUVIA A 1 DE FLORIS, AÑO 3
+
+- **Aldoria:** teatro, talleres, tabernas y copistas crecieron en actividad, pero también apareció fatiga laboral; instituciones y comerciantes empezaron a coordinar capacidad y descansos.
+- **Thornhaven:** mantuvo rutas, tasaciones, patrullas y comparación de datos de Blackpeak. El escaneo de Chronos no se hizo público.
+- **Minas Quebradas:** cuadrillas locales asumieron decisiones menores de drenaje. Hessa sostuvo El Pico Roto, la Cerveza Pico Roto, el abastecimiento de los turnos y la representación práctica de las necesidades mineras.
+- **Pequeño Zhong-Kyo:** recetas, traducciones y originales se registran por custodio y propósito; las versiones contradictorias se conservan.
+- **Elaris:** la visita de Aldric y su familia permaneció privada; su impacto fue familiar y administrativo, no un tratado ni una moda impuesta.
+- **Dravenn, Marevia, Solaria, Valdoria y Zhong-Kyo:** continúan solicitudes culturales y comerciales en evaluación; no hay giras o acuerdos mayores aprobados automáticamente.
+- Desarrollo causal completo: [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## 5. PULSO REGIONAL — 1 A 31 DE FLORIS, AÑO 3
+
+- **Aldoria:** teatro y editorial amplían trabajo estable; las relaciones personales avanzan sin absorber obligaciones públicas.
+- **Pequeño Zhong-Kyo / Casa del Puente:** Ryu, Kenji y Hwan-Rei sostienen navegación, recetas, traducción y comunidad sin esperar a Max.
+- **Elaris:** la expedición confirmó cavidades, metal y una probable infraestructura de control de flujo; no confirmó ciudad subterránea, nodo activo ni enlace G1.03.
+- **Ravenwood:** mejora la revisión documental; Corven Marr permanece libre y conserva intermediarios.
+- **Tornhaven/Serath-Maru:** continúan prácticas de navegación y un plan técnico de cuatro meses; el barco no está listo para Zhong-Kyo.
+- **Minas Quebradas / El Pico Roto:** una vibración bajo cargas altas mantiene una instalación en revisión. Hessa sostiene informes quincenales comunitarios independientes sobre turnos, abastecimiento y comunicación; Kazuki y mantenimiento conservan el diagnóstico técnico.
+- Desarrollo: [[CICLO_AUTONOMO_01_A_31_FLORIS_AÑO3]].

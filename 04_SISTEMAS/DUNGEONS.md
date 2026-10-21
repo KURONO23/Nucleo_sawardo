@@ -54,7 +54,8 @@ Con la reactivación de la Red de Atalayas y la exploración territorial de Max 
 
 Este anexo clasifica los grandes complejos de mazmorras legendarias, ruinas laberínticas y yacimientos subterráneos inspirados en los módulos icónicos de **D&D** y **Pathfinder**, integrados en la geografía de las naciones:
 
-### 1. La Aguja Esmeralda (*The Emerald Spire Superdungeon* - Pathfinder)
+### 1. La Aguja Esmeralda (*The Emerald Spire Superdungeon* - Pathfinder) — `NO_CANON / PROPUESTA DERIVADA`
+- **Estado:** No aparece en la historia original y no existe en el canon vigente. Este bloque se conserva únicamente como propuesta histórica de adaptación; no debe incorporarse a escenas, mapas, nodos ni continuidad salvo canonización autoral explícita futura.
 - **Ubicación:** Meseta central entre Aldoria y Valdoria, en las proximidades de la Aguja Muerta.
 - **Estructura:** Megadungeon vertical de dieciséis niveles que desciende hacia las entrañas del continente. La aguja exterior está hecha de cristal verde semitraslúcido indestructible conectado a la red milenaria de maná.
 - **Niveles Conocidos:**
@@ -83,4 +84,12 @@ Este anexo clasifica los grandes complejos de mazmorras legendarias, ruinas labe
 ### 5. Las Fosas de la Infraoscuridad (*The Underdark / Darklands* - D&D/Pathfinder)
 - **Ubicación:** Red interminable de cavernas colosales que se extiende por debajo de todo el continente central, accesible por simas en Dravenn y las grietas de Blackpeak.
 - **Habitantes:** Ciudades de elfos oscuros (drow), fortalezas de enanos grises (duergar), enclaves de azotamentes y lagos de agua sulfurosa habitados por aboleths.
+
+## ADDENDUM CANÓNICO — RUINAS DE ELARIS, FLORIS AÑO 3
+
+- Ren, Daichi y Mika ejecutaron una expedición controlada y regresaron el 29 de Floris.
+- Confirmaron cavidades, metal, anomalías de flujo y restos de una infraestructura probable de distribución o mantenimiento del camino.
+- Ren utilizó Pulso Sísmico y Adherencia Telúrica; Mika contrastó agua y pendientes; Daichi separó hipótesis de conclusión.
+- No se confirmó ciudad subterránea, nodo operativo, G2 ni relación causal con G1.03.
+- Fuente: [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md).
 

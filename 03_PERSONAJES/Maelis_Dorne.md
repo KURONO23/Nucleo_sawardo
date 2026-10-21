@@ -116,3 +116,16 @@ Trabajó en coordinación con la red de información civil de Natalia Thornwell 
 - **Ruta autónoma vigente:** `Meta:` filtrar rumores, contactos y movimientos. `Ambición:` construir contrainteligencia que proteja a la Guardia sin perseguir fantasmas. `Vínculo:` Celene, Elara y Serath. `Obstáculo / hito:` separar una pista útil de una maniobra de desinformación.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** descartó una alerta sin origen verificable y conservó por separado la pista útil.
+- **Crecimiento:** aprendió a no confundir prudencia con credulidad ni descarte con destrucción de evidencia.
+- **Coste y límite:** mantener una pista débil consume atención sin garantizar resultado.
+- **Relaciones vivas:** informa a Serath con grados de confianza y no compite con Elara por funciones.
+- **Siguiente hito:** verificar la pista mediante una fuente independiente.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.

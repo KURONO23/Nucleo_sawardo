@@ -1,6 +1,6 @@
 # Historia condensada — Año 3
 
-**Corte operativo:** 1 de Lluvia, Año 3, Día continuo 746. Este archivo resume la continuidad; para reanudar una escena manda [[CURRENT_STATE]]. El corte del 18 de Verdalia queda como historia de la infiltración de Marcos, no como presente rector.
+**Corte operativo:** 1 de Floris, Año 3, Día continuo 776. Este archivo resume la continuidad; para reanudar una escena manda [[CURRENT_STATE]]. Los cortes del 18 de Verdalia y 1 y 20 de Lluvia quedan como historia, no como presente rector.
 
 ## 1. Casa del Puente y Minas Quebradas
 
@@ -40,7 +40,7 @@ El próximo cumpleaños del calendario operativo es Aldric, el 5 de Lluvia; desp
 
 ## 8. Punto exacto de continuación
 
-Tras el 18 de Verdalia, Max cerró la fase útil de la cobertura de Marcos sin quedar atado a Casa Ardel: avanzó con Halven, Ravenwood, Cecilia/Mizuki, Kira y G1, y regresó a su vida con Serath. La revisión Ravenwood quedó abierta, no resuelta. Mientras esos frentes progresaban, Haruto, Ren y Leo desarrollaron un arco autónomo entre el 22 y el 31 de Verdalia: expedición, Guardián Lítico, crecimiento de niveles y preparación de la Operación Tres Caminos. El presente operativo es el 1 de Lluvia: Natalia está preparada para presentar el cierre financiero y el usuario recupera el control exclusivo de Max.
+Tras el 18 de Verdalia, Max cerró la fase útil de la cobertura de Marcos sin quedar atado a Casa Ardel: avanzó con Halven, Ravenwood, Cecilia/Mizuki, Kira y G1, y regresó a su vida con Serath. La revisión Ravenwood quedó abierta, no resuelta. Haruto, Ren y Leo completaron su arco autónomo y su entrenamiento posterior. Los cortes del 1 y 20 de Lluvia ya son históricos; el presente operativo avanzó al 1 de Floris y se consulta en [[CURRENT_STATE]].
 
 La revisión de Ravenwood, Veylan, V. Sable, G1, las ruinas y los asuntos de la Torre siguen abiertos según [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]].
 
@@ -61,5 +61,13 @@ La revisión de Ravenwood, Veylan, V. Sable, G1, las ruinas y los asuntos de la 
 2. **Gran Subasta de la Llave de Bronce (6 al 10 de Lluvia):** Adquisición del *Cofre de los Siete Sellos* (607 oro) y el *Fragmento de Núcleo Carmesí* (1.000 oro). Caja líquida en **910.068 oro**.
 3. **Elenco Teatral de Biro (12 de Lluvia):** Confirmación de Tobias Mercerfield, Edgar Wainwright y Clara Bellamy para *La tragedia del último barril* en el Teatro de Aldoria con la asesoría de Goran.
 4. **Entrenamiento Intensivo en Sawardo (11 al 15 de Lluvia / 180 días):** Haruto (Nivel 46, técnica rayo), Leo (Nivel 29, absorción y refuerzo) y Ren (Nivel 32, geomancia telúrica). Examen con wyverns en Blackpeak.
-5. **Ascenso Gremial (17 de Lluvia):** El Comité presidido por Elowen Vardis promueve a Leo y Ren a **Rango C** y ratifica a Haruto en **Rango A** (trámite de Rango S en marcha).
+5. **Ascenso gremial (20 de Lluvia):** El Comité presidido por Elowen Vardis promueve a Leo y Ren a **Rango C**; Haruto conserva el **Rango A** y su trámite de elegibilidad para S sigue abierto.
 6. **Almuerzo Familiar Quincenal (20 de Lluvia):** Max y Serath reciben al rey Aldric y a Thalion en Gutiérrez Estate con festín de Lomo Saltado y Pollo a la Brasa peruano.
+
+## 10. Cierre de Lluvia y apertura de Floris
+
+1. **Chronos (21 de Lluvia):** el escaneo de Thornhaven conecta causalmente el Año 3 con el Año 73; Serath regresa sin línea alternativa y el artefacto queda sujeto a límites de seguridad.
+2. **Teatro (22–30 de Lluvia):** Biro guía la interpretación sin protagonizar la obra; estreno provisional de *La tragedia del último barril* el 12 de Floris.
+3. **Cumpleaños:** Kenji cumple 17 el 26 de Lluvia; Haruto cumple 19 el 1 de Floris.
+4. **Vida autónoma:** Greta/Leo y Elena/Ren avanzan en encuentros propios sin noviazgo confirmado.
+5. **Cierre financiero:** Casa Gutiérrez fija la liquidez en **919.241 oro** el 1 de Floris.

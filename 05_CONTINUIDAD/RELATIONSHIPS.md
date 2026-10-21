@@ -16,7 +16,7 @@
 - **Max & Elise Goldcrest:** Admiración artística y apoyo en producción y contratos.
 - **Max & Vivienne Silverstream:** Alianza mercantil de alta gama y proyección internacional.
 
-## Vínculo romántico autónomo en desarrollo
+## Vínculo romántico autónomo en desarrollo — CORTE HISTÓRICO ANTERIOR A FLORIS
 - **Kael Ironheart & Natalia Thornwell:** Interés mutuo todavía no formalizado. Se buscan, comparten comidas y aceptan las bromas de Max/Biro; la cercanía de Kael con Natalia no debe sustituirse por la dupla deportiva de Afrodita con Amane.
 
 ## Corte Real y Guardia
@@ -50,3 +50,26 @@ La matriz anterior se conserva como corte del Año 2. Para evolución reciente u
 - **Mizuki–Haruto:** disculpa aceptada, reparación en curso; no canonizar perdón completo.
 - **Haruto–Liora:** pareja formal; la conversación sobre Mizuki no cierra automáticamente un compromiso.
 - **V. Sable–Ravenwood:** posible infraestructura compartida, todavía hipótesis; Dorsen Caravanarios es solo pista.
+
+## Actualización relacional — 1 de Floris, Año 3 — CORTE HISTÓRICO
+
+- **Kael–Natalia:** interés recíproco expresado durante una comida tardía del 30 de Lluvia. Kael reconoce sus celos; Natalia confirma que lo busca por elección y exige avanzar sin rumores. Acordaron un paseo en Floris. Corte consciente, todavía sin noviazgo formal.
+
+## ESTADO VIGENTE — actualización relacional del 31 de Floris, Año 3
+
+- **Max–Serath:** matrimonio estable. Serath recibe espacio personal, familiar y de descanso sin dejar su mando. En privado lo llama **Max**, no «amor». Zhong-Kyo es un deseo compartido condicionado a la seguridad del barco, no al valor del aniversario.
+- **Natalia–Kael:** iniciaron una relación el 26 y el 31 acordaron considerarse pareja. Conservan proyectos propios; todavía no hay anuncio público.
+- **Haruto–Liora:** pareja formal estable; cumpleaños, descanso y misiones muestran reciprocidad sin reducir a Liora a alguien que debe ser protegida.
+- **Leo–Greta:** interés mutuo y citas por iniciativa propia; no son pareja formal.
+- **Ren–Elena:** cercanía personal y citas; no existe declaración de noviazgo.
+- **Biro–Vivienne:** primera caminata y contacto posterior; acercamiento abierto, sin etiqueta.
+- **Elise–Goran:** cercanía profesional por vestuario y teatro; no romance confirmado.
+- **Aldric–Serath:** vínculo padre–hija reforzado de forma privada; secreto de filiación protegido.
+- **Haruto–Liora:** acuerdan proteger una noche por ciclo y avisarse antes de aceptar compromisos incompatibles. Pareja estable; sin propuesta matrimonial.
+- **Leo–Greta:** revancha propuesta por Greta, café y conversación elegida por ambos. Afinidad recíproca creciente; no pareja.
+- **Ren–Elena Weissmann:** una corrección compartida del herbario conduce a una segunda salida acordada. Confianza intelectual y cotidiana; no pareja.
+- **Mizuki–Haruto:** cooperación funcional con límites respetados. La disculpa no se convierte en perdón total.
+- **Biro–Vivienne:** crece confianza profesional mediante revisión logística de la obra; afinidad sin romance confirmado.
+- **Misa–Torin:** respeto operativo reforzado al ajustar fatiga y patrullas; no romance confirmado.
+- **Kazuki–Hessa:** la relación mejora porque pueden discutir prioridades sin subordinación ni ruptura.
+- **Max–Selene:** sin avance fuera de cámara; toda decisión requiere a Max.

@@ -112,4 +112,30 @@ Participa plenamente como parte de la familia extendida en las celebraciones de 
 ## EVOLUCIÓN CANÓNICA — 1 AL 20 DE LLUVIA, AÑO 3 (CARRERA ARTÍSTICA Y VIDA AFECTIVA)
 
 - **Música y vida social:** Avances en su carrera de canto, amistad con Elena Weissmann y Greta Hoffmann; relación afectiva estable y serena con Haruto Kazagami. Disfruta con gracia de la diadema Nekomimi regalada por Max.
-- **Fuente:** `00_FUENTES/historia_original/AÑO_3/Isekai 1 de Lluvia a 20 de lluvia  AÑO 3.md`.
+- **Fuente:** `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** reorganizó turnos de La Rosa de Medianoche, evitó convertirse en tutora permanente del grupo y reservó una noche privada con Haruto.
+- **Crecimiento:** protege simultáneamente negocio, intimidad y límites personales.
+- **Coste y límite:** delegar exige confiar en trabajadores y aceptar que no puede resolver toda necesidad juvenil.
+- **Relaciones vivas:** su pareja con Haruto sigue estable; no hay compromiso matrimonial automático.
+- **Siguiente hito:** sostener una decisión de negocio aunque reduzca el tiempo disponible para su círculo.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## EVOLUCIÓN RELACIONAL — HARUTO, 1 DE FLORIS
+
+- Explicó que apoyar a Leo y Ren no debía convertirla a ella ni a Haruto en tutores disponibles a toda hora.
+- Propuso proteger una noche por ciclo y pedir aviso antes de aceptar tareas que invadan ese espacio; Haruto aceptó.
+- La relación gana negociación cotidiana y previsibilidad. No existe propuesta matrimonial ni dependencia laboral.
+
+## ADDENDUM — FLORIS, AÑO 3
+
+- Celebró su cumpleaños aceptando cuidado sin perder iniciativa.
+- Participó como aventurera en misiones florales y recordó al grupo que no necesita que Haruto decida cada paso por ella.
+- La pareja Haruto–Liora permanece formal y estable, con descanso y experiencias propias.
+- **Fuente:** [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md).
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.
