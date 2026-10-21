@@ -85,3 +85,17 @@ No se encontró respaldo en las fuentes auditadas para abrir la partida con **8.
 - La nómina administrativa y el coste de Galwin ya forman parte del flujo neto de 7.270.
 - Patrimonio histórico de referencia en ese momento: 1.460.000–1.500.000 oro. El cierre posterior fija valor contable conservador de 1.495.348 oro.
 - Fuente: `00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md`.
+
+## ACTUALIZACIÓN — 1–15 DE SOLALTO, AÑO 3
+
+| Corte | Movimiento | Saldo líquido personal |
+|---|---|---:|
+| 1 de Floris | Base de reingreso | 919.241 oro |
+| Cierre de Floris | +8.934 oro | 928.175 oro |
+| G1.03 | −1.190 oro | 926.985 oro |
+| Viaje personal a la playa, 8 de Solalto | −1.800 oro | 925.185 oro |
+| 15 de Solalto | Sin nuevo débito personal confirmado | **925.185 oro** |
+
+- El viaje a la playa explica la liquidez final del corte y no debe duplicarse.
+- Solalto permanece abierto como cierre mensual; los costes empresariales pendientes no alteran todavía el saldo personal confirmado.
+- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.

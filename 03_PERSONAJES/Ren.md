@@ -135,3 +135,9 @@ El primer reconocimiento con Haruto y Leo sigue pendiente de escena. Ren contin�
 ## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
 
 - Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.
+
+## ADDENDUM DE ESTADO — 1–15 DE SOLALTO, AÑO 3
+
+- Ren y Elena comparten afecto y un beso confirmado, pero el vínculo no queda declarado como pareja formal.
+- La siguiente decisión relacional permanece abierta y depende de sus elecciones en escena.
+- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.

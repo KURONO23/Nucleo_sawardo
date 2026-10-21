@@ -104,6 +104,7 @@ Cada ficha debe mantener meta corta, mediana y larga; indicador; riesgo; coste o
 | [Ren — Ficha Canónica](../03_PERSONAJES/Ren.md) | `INCLUIDA` | corto · mediano · largo | cada cierre mensual |
 | [Romina — Exploradora de Blackpeak](../03_PERSONAJES/Romina_Exploradora_Blackpeak.md) | `INCLUIDA` | corto · mediano · largo | cada cierre mensual |
 | [Príncipe Rowan Theron — Ficha Canónica](../03_PERSONAJES/Rowan_Theron.md) | `INCLUIDA` | corto · mediano · largo | cada cierre mensual |
+| [Efraín Quispe Aramayo — Ficha de semilla antagonista](../03_PERSONAJES/Efrain_Quispe_Aramayo.md) | `INCLUIDA / SEMILLA` | corto · mediano · largo | al activar el arco; no inventar avance retroactivo |
 | [Rul y Daren — Ficha Canónica de Contactos Externos](../03_PERSONAJES/Rul_Daren.md) | `INCLUIDA` | corto · mediano · largo | cada cierre mensual |
 | [Ryu Gutiérrez — Ficha Canónica y Hoja de Hitos](../03_PERSONAJES/Ryu_Gutierrez.md) | `INCLUIDA` | corto · mediano · largo | cada cierre mensual |
 | [Samira — Enlace de Solaria y amiga de Sayaka](../03_PERSONAJES/Samira_Enlace_Solaria.md) | `INCLUIDA` | corto · mediano · largo | cada cierre mensual |

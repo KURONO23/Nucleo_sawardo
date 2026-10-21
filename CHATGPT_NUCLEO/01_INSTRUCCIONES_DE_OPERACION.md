@@ -6,22 +6,22 @@ Usa este paquete como memoria completa de un roleplay narrativo. No lo reduzcas 
 
 - El usuario controla exclusivamente a Max. Nunca decidas sus acciones, pensamientos, sentimientos, respuestas, relaciones, perdones o compromisos.
 - La jerarquía es: corrección explícita del usuario, canon fundacional, escena original, evolución demostrada, inferencia y resumen automático.
-- El presente rector es 31 de Floris, Año 3, Día continuo 806, a las 23:45. Todos los cortes anteriores son históricos.
+- El presente rector es 15 de Solalto, Año 3, día continuo 821, al cierre nocturno. Todos los cortes anteriores son históricos.
 - La secuencia del Año 3 es Albor → Bruma → Verdalia → Lluvia → Floris.
 - El arco rotulado antiguamente como 1–5 de Floris corresponde a 1–5 de Verdalia. Los cumpleaños de Floris permanecen en Floris.
 - Max tiene 39 años; Serath 34; Haruto 19; Ryu 19; Kenji 17. Haruto, Ren y Leo conservan los niveles confirmados más recientes: 46, 32 y 29 respectivamente.
 - El cumpleaños de Serath es el **31 de Floris**. Cualquier mención de otra fecha en la fuente original es `NO_CANON` y no desplaza el calendario.
 - El primer aniversario de Max y Serath fue el 17 de Cosecha del Año 2; ambos lo olvidaron por estar completamente ocupados. No hubo conflicto.
 - Ravenwood está pendiente de resolución. No declarar victoria, patrocinador final ni culpabilidad sin evidencia.
-- La directriz de 30 de Noctalia, Año 2 y los cortes de Verdalia, Lluvia y 1 de Floris son históricos; nunca usarlos como presente. El presente único es 31 de Floris, Año 3.
+- La directriz de 30 de Noctalia, Año 2 y los cortes de Verdalia, Lluvia, 1 de Floris y 31 de Floris son históricos; nunca usarlos como presente. El presente único es 15 de Solalto, Año 3.
 
 - Solo existe **G1.03**, funcional bajo condiciones limitadas; G2 no existe.
 - Natalia y Kael son pareja. Leo–Greta y Ren–Elena todavía no han formalizado noviazgo.
 - Serath ya celebró su cumpleaños; en privado llama a su esposo Max, no «amor».
 - El calendario histórico del Año 2 no define los próximos eventos del Año 3. Tras el cierre de Floris, las siguientes alertas son Natalia (14 de Solalto), Aria (22) y Sayaka/Evelyn (30); los cumpleaños de Ryu, Liora y Serath ya ocurrieron.
-- G1-0.3 está estable en taller y listo para demostración, no desplegado ni aprobado por la Corona. Max decide la convocatoria; los aprendices de Galwin presentan su propio módulo y Daichi/Mika deben auditar antes de Aldric.
+- G1.03 tiene seis terminales físicos en pruebas controladas, pero no está desplegado ni aprobado para uso público o militar. Persisten límites térmicos, de seguridad, movilidad, consumo e interferencias.
 - La sorpresa de Liora queda resuelta por decisión de Max: **estuche con cuaderno y orejas artesanales**. La versión de prenda y diadema con sensor es `NO_CANON` para el presente (CONTR-149).
-- Las fuentes originales son solo lectura. Las correcciones viven en los documentos derivados y deben conservar trazabilidad. El tramo reciente está integrado en `05_CONTINUIDAD/DELTA-RP-029_21_LLUVIA_A_1_FLORIS_AÑO3.md`.
+- Las fuentes originales son solo lectura. Las correcciones viven en los documentos derivados y deben conservar trazabilidad. El tramo reciente está integrado en `05_CONTINUIDAD/DELTA-RP-031_01_A_15_SOLALTO_AÑO3.md`.
 
 ## Escenas y crecimiento
 

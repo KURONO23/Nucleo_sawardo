@@ -76,3 +76,13 @@ La expedición de Blackpeak, las ocho crías de wyvern, huevos y materiales expl
 
 Su información no se perdió: las cifras rectoras, la reparación contable, los movimientos históricos, salarios, patrimonio y partidas pendientes se integraron aquí y en [[FINANZAS_CANON_VIGENTE]].
 
+## CORTE POSTERIOR — 15 DE SOLALTO, AÑO 3
+
+- El cierre de Floris quedó en **928.175 oro**.
+- G1.03 consumió **1.190 oro**, dejando **926.985 oro**.
+- Max pagó un **viaje personal a la playa de 1.800 oro el 8 de Solalto**, dejando **925.185 oro**.
+- La fuente no registra nuevos débitos personales hasta el 15 de Solalto; por eso la liquidez final del corte es **925.185 oro**.
+- Solalto no tiene cierre mensual completo todavía y los costes empresariales pendientes no se restan sin asiento.
+
+Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.
+

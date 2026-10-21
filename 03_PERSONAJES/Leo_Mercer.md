@@ -135,3 +135,9 @@ Leo mantiene Quest Log en fase de diseño verificable. La primera misión con Re
 ## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
 
 - Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.
+
+## ADDENDUM DE ESTADO — 1–15 DE SOLALTO, AÑO 3
+
+- Leo y Greta sostienen una cercanía viva y un trabajo compartido, pero no se registra una formalización de pareja.
+- Su siguiente avance relacional queda abierto a una conversación o decisión propia; no se fija resultado fuera de escena.
+- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.

@@ -4,7 +4,7 @@
 
 - **Nombre:** Serath Vale.
 - **Rango y Oficio:** Comandante Suprema de la Guardia Real de Aldoria (Royal Guard); comandante militar supremo del reino; esposa de Max Josemar Gutiérrez.
-- **Linaje:** Hija biológica no reconocida de Su Majestad el Rey **Aldric Theron** (secreto de Estado absoluto que preserva con discreción de Estado). Medio hermana biológica de los príncipes Caelan y Rowan Theron.
+- **Linaje:** Hija biológica no reconocida de Su Majestad el Rey **Aldric Theron** (secreto de Estado absoluto que preserva con discreción de Estado). Conoce su origen y es medio hermana biológica de los príncipes Caelan y Rowan Theron; desconoce que ambos príncipes también conocen la verdad.
 - **Edad / Cumpleaños:** **33 años** (nacida el 31 de Floris; cumplió 33 el 31 de Floris de Año 2).
 - **Apariencia física canónica:**
   - **Peinado y cabello:** Luce exactamente con el corte y peinado de **Ada Wong de Resident Evil** (corte bob corto/asimétrico, impecablemente pulcro, elegante y táctico). Su cabello es de color **negro azabache profundo**.
@@ -181,3 +181,10 @@
 ## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
 
 - Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.
+
+## ADDENDUM DE ESTADO — 1–15 DE SOLALTO, AÑO 3
+
+- La embarcación vinculada a Serath se registra operativamente como **Serath-Maru**; `Serath-Max` queda como rótulo histórico corregido.
+- Serath-Maru continúa en reparación y pruebas parciales, con vibraciones y sin autorización para un viaje largo. No se validan como actuales las velocidades heredadas de fichas técnicas antiguas.
+- En la voz de Serath, cualquier apelativo afectivo debe conservar su relación y canon vigentes; no se reutiliza la forma errónea `mi amor` cuando el contexto exige dirigirse a Max.
+- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.

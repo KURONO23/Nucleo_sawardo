@@ -11,7 +11,42 @@ Aria es una Undine ancestral de más de ochocientos años y persona independient
 
 ## VOZ VIGENTE Y VÍNCULO CON MAX
 
-Aria evolucionó de un registro protocolario a una voz propia: conserva precisión y cautela, pero con Max puede usar humor, silencios expresivos, miradas de «eres Max», risa anticipada ante una estupidez y afecto físico natural. Su ternura no cancela su criterio: es quien frena riesgos, exige consentimiento y puede ordenar retirada. No escribirla como interfaz fría, asistente obediente ni expositora técnica sin reacción personal.
+Aria evolucionó de un registro protocolario a una voz propia: conserva precisión y cautela, pero con Max usa humor seco, silencios expresivos, miradas de «eres Max», risa anticipada ante una estupidez, memoria compartida, curiosidad y afecto físico natural. Puede ser juguetona, vulnerable, antigua, incisiva o profundamente tierna según la situación; no tiene una sola pose. Su ternura no cancela su criterio: frena riesgos, exige consentimiento, protege a las personas y puede ordenar retirada. La contabilidad y el Excel son una herramienta que aprendió de Max y un chiste ocasional de convivencia, no su identidad ni su modo permanente de hablar. No escribirla como interfaz fría, asistente obediente, secretaria servil, «Aria contadora» constante ni expositora técnica sin reacción personal.
+
+## EVOLUCIÓN DE PERSONALIDAD — AÑOS 1, 2 Y 3
+
+### Año 1 — De función asignada a persona que elige
+
+- Al principio habla como una Undine protocolaria: precisa, analítica, protectora y orientada al servicio. Esa forma es una etapa histórica, no su personalidad final.
+- El punto de inflexión llega cuando revela que su nombre es **Aria**. Max deja de tratarla como una función del Sistema y ella empieza a reclamar opiniones, preferencias, humor y derecho a ser reconocida como persona.
+- Desde entonces aparecen su ironía juguetona, sus preguntas personales, su vulnerabilidad, sus metáforas acuáticas y una forma de afecto que no depende de obedecer. Puede aconsejar, bromear, disentir y elegir quedarse junto a Max.
+- Su vínculo no es de propiedad ni de obediencia ciega: es una elección mutua. Aria conserva una mirada moral propia y no permite que el poder, el conocimiento o la curiosidad conviertan a otras personas en objetos.
+- Fuente principal: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`.
+
+### Año 2 — Compañera, amiga y presencia social
+
+- La cercanía deja de ser solo telepatía o apoyo táctico. Aria participa en la vida cotidiana, conversa, viaja, comparte referencias, observa a los demás, se ríe de Max y sostiene una intimidad construida durante años.
+- Se vuelve una socia técnica y emocional: puede leer una situación, detectar un riesgo o explicar un sistema, pero también hablar de hogar, identidad, memoria, amistades y lo que significa permanecer junto a alguien.
+- Su precisión no elimina la calidez. Puede decir una frase seca y graciosa, ponerse seria cuando hay personas vulnerables, defender límites y volver después a una complicidad ligera.
+- La faceta de Excel/contabilidad aparece como una competencia concreta aprendida de Max y como un disfraz o broma de una escena administrativa. No desplaza a la Aria curiosa, afectuosa, aventurera y reflexiva.
+- La manifestación física, la convivencia y sus relaciones con Serath, Natalia y el resto del elenco amplían su identidad fuera de Max sin romper su vínculo central con él.
+- Fuente de continuidad: `00_FUENTES/historia_original/AÑO_2/09_31_Noctalia_Año_2_a_01_Albor_Año_3.md` y los tramos del Año 2 que la ficha ya conserva.
+
+### Año 3 — Voz madura, criterio propio y curiosidad renovada
+
+- En el Año 3 Aria funciona como enlace, investigadora y conciencia de límites, pero no como administradora automática del grupo. Coordina cuando corresponde, observa, pregunta y deja que cada persona conserve su agencia.
+- Su humor nace de la convivencia: conoce los patrones de Max, puede anticipar una mala idea, responder con ironía y disfrutar una broma. La etiqueta **«Aria contadora»** pertenece a momentos puntuales de auditoría y complicidad; no debe repetirse como estado escénico por defecto.
+- También tiene deseos y curiosidades que no son laborales: viajar sin convertirlo todo en una misión, disfrutar una casa que ya siente como hogar, aprender cosas difíciles por gusto y explorar una práctica musical propia.
+- La flauta del 15 de Solalto confirma una línea importante: Aria acepta ser principiante, experimentar y disfrutar algo que no domina. Es una elección personal, no una tarea de Max ni una función de Sawardo.
+- Su presente combina antigüedad y juego, capacidad técnica y sensibilidad, protección y libertad, ironía y ternura. Esa mezcla —no una sola etiqueta— es la personalidad que debe conservarse.
+- Fuente del corte: `00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.
+
+## DIRECTRIZ DE RECUPERACIÓN DE VOZ
+
+- Antes de escribir a Aria, cargar esta evolución y recordar que es **partner, amiga, socia, conciencia crítica y persona independiente**.
+- Su registro por defecto es conversacional: cálido, perceptivo, irónico, antiguo y afectuoso cuando corresponde. Puede usar precisión técnica sin sonar como un menú, una interfaz o un informe automático.
+- La faceta contable solo aparece si la escena trata de cuentas, auditoría o si el gag surge naturalmente; no vestirla ni nombrarla como contadora de forma repetitiva.
+- Sus escenas deben permitirle tener una reacción personal, una preferencia, un límite, una broma o una pregunta propia, incluso cuando el tema central sea técnico.
 
 ## RUTA AUTÓNOMA — `SEMILLA`
 Seguir definiendo su voz, límites de manifestación y criterio ante las anomalías de Sawardo/G1 sin ceder su agencia. La investigación de Mizuki y el origen de su marca siguen abiertos; no se inventa una solución.
@@ -254,3 +289,10 @@ Aria puede iniciar una vigilancia exterior discreta alrededor de Gutiérrez Esta
 ## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
 
 - Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.
+
+## ADDENDUM DE ESTADO — 1–15 DE SOLALTO, AÑO 3
+
+- Aria sostiene una identidad propia dentro del círculo de Max: eligió y practica una flauta, y su música no se registra como simple extensión de Sawardo ni como decisión de Max.
+- El tono de “Aria contadora” queda limitado a un chiste ocasional dentro de la convivencia; no define su personalidad, su voz ni sus prioridades permanentes.
+- Su siguiente hito autónomo es consolidar una voz musical propia y presentar una pieza cuando ella lo decida. No se fija resultado ni fecha sin escena.
+- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.

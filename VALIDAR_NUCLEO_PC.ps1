@@ -15,6 +15,9 @@ $required = @(
   '00_LEER_PRIMERO.md',
   '00_INICIO_OBSIDIAN.md',
   '05_CONTINUIDAD/CURRENT_STATE.md',
+  '05_CONTINUIDAD/CURRENT_STATE_15_SOLALTO_AÑO3.md',
+  '05_CONTINUIDAD/DELTA-RP-031_01_A_15_SOLALTO_AÑO3.md',
+  '05_CONTINUIDAD/INFORME_PROPAGACION_15_SOLALTO_AÑO3.md',
   '05_CONTINUIDAD/CURRENT_STATE_31_FLORIS_AÑO3.md',
   '05_CONTINUIDAD/DELTA-RP-030_01_A_31_FLORIS_AÑO3.md',
   '05_CONTINUIDAD/CURRENT_STATE_1_FLORIS_AÑO3.md',
@@ -33,6 +36,7 @@ $required = @(
   '00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md',
   '00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md',
   '00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md',
+  '00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md',
   '03_PERSONAJES/REGISTRO_NOMBRES_CANON.md',
   '03_PERSONAJES/REGISTRO_APELLIDOS_CANON.md',
   '03_PERSONAJES/PLANTILLA_FICHA_CANONICA.md',
@@ -166,7 +170,7 @@ if ($missingSourceUpdateRule) {
 }
 
 $md = @(Get-ChildItem -LiteralPath $root -Recurse -File -Filter '*.md' | Where-Object {
-  $_.FullName -notlike "$source*"
+  $_.FullName -notlike "$source*" -and $_.FullName -notlike "$(Join-Path $root 'sawardo_CHATGPT')*"
 })
 
 $operationalFiles = @(
@@ -190,7 +194,7 @@ if ($stalePresent) {
   Write-Output 'ERROR: EL CORTE DE 18 DE VERDALIA SIGUE USADO COMO PRESENTE:'
   $stalePresent | ForEach-Object { Write-Output (' - ' + $_) }
 } else {
-  Write-Output 'Presente operativo: 31 de Floris; 1 de Floris, Lluvia y Verdalia quedan históricos'
+  Write-Output 'Presente operativo: 15 de Solalto; 31 de Floris, 1 de Floris, Lluvia y Verdalia quedan históricos'
 }
 
 $staleSourceNames = @(
@@ -278,7 +282,7 @@ if (Test-Path -LiteralPath $galwinRegistry) {
 
 if (Test-Path -LiteralPath $current) {
   $currentText = Get-Content -LiteralPath $current -Raw
-  foreach ($requiredFact in @('31 de Floris','Día continuo 806','23:45')) {
+  foreach ($requiredFact in @('15 de Solalto','Día continuo 821')) {
     if ($currentText -notmatch [regex]::Escape($requiredFact)) {
       $errorCount++
       Write-Output ('ERROR EN ESTADO RECTOR: falta el hecho vigente: ' + $requiredFact)
@@ -287,7 +291,7 @@ if (Test-Path -LiteralPath $current) {
   foreach ($requiredFact in @('G1.03','Serath-Maru','Natalia y Kael son pareja','Ravenwood','V. Sable','No existe G2')) {
     if ($currentText -notmatch [regex]::Escape($requiredFact)) {
       $errorCount++
-      Write-Output ('ERROR EN ESTADO RECTOR: falta el resultado de Floris: ' + $requiredFact)
+      Write-Output ('ERROR EN ESTADO RECTOR: falta el resultado de Solalto: ' + $requiredFact)
     }
   }
   if ($currentText -match '180 días subjetivos|Ren \(nivel 28\+\)|Ascenso gremial \(17 de Lluvia\)') {

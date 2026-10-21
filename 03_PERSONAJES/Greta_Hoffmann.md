@@ -104,3 +104,9 @@
 ## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
 
 - Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.
+
+## ADDENDUM DE ESTADO — 1–15 DE SOLALTO, AÑO 3
+
+- Greta mantiene con Leo una relación cercana y no formalizada; ambos tienen espacio para desarrollar su vínculo sin que el núcleo decida por ellos.
+- No se añade etiqueta de pareja ni resultado futuro sin una escena explícita.
+- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.

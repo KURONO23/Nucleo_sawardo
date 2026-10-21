@@ -1,6 +1,6 @@
 # Agent Registry
 
-> **Estado operativo global:** 31 de Floris, Año 3. Usar [[CURRENT_STATE]] y [[CURRENT_STATE_31_FLORIS_AÑO3]]; los estados anteriores son cortes históricos.
+> **Estado operativo global:** 15 de Solalto, Año 3, día continuo 821. Usar [[CURRENT_STATE]] y [[CURRENT_STATE_15_SOLALTO_AÑO3]]; los estados anteriores, incluido Floris, son cortes históricos.
 
 > **Regla de fuentes nuevas:** cuando Max anuncie una adición, reemplazo o ampliación en `00_FUENTES/historia_original/` y solicite actualizar, el orquestador debe desplegar **los trece agentes de este registro**, en oleadas si lo exige la concurrencia. Cada agente entrega hallazgos o `SIN_CAMBIO_DEMOSTRADO`. Ninguna fuente se considera integrada mientras falte uno de los trece informes, la propagación real, la validación o la regeneración de ChatGPT.
 

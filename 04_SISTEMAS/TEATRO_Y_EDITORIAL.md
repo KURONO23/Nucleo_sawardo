@@ -77,3 +77,9 @@ Las grandes comedias populares no fueron concebidas de forma individual, sino de
 - **La Regla de las Audiciones:** Goran y Max establecieron un protocolo riguroso donde se busca capacidad actoral y química humana, no simple renombre nobiliario.
 - **Nilo Ferran:** Descubierto y pulido como el actor protagonista para *Austin Powers*; el casting se diseñó específicamente para que Nilo encontrara su propio ritmo cómico y carisma pícaro sin limitarse a imitar a Max.
 - **Astrid Halvern:** La actriz dravenniana que conquistó el papel de Brienne cargando el pesado escudo real de utilería dravenniana en el ciclo de *Dunk y Egg*.
+
+## ADDENDUM CULTURAL — 1–15 DE SOLALTO, AÑO 3
+
+- La línea teatral sigue activa tras el estreno de *La tragedia del último barril*: Biro conserva autoría y Goran dirección; la revisión del segundo acto precede a nuevas reposiciones.
+- *Mi fin de semana con el muerto* continúa en escritura secreta por Los Cinco del Barril. No se registra todavía estreno, taquilla nueva ni contrato que sustituya los cortes económicos previos.
+- La actividad cultural del periodo se cruza con el cierre de *Harry Potter y la cámara secreta*, pero sus ingresos, costes y fondos restringidos deben mantenerse separados de la liquidez personal de Max hasta un cierre contable explícito.

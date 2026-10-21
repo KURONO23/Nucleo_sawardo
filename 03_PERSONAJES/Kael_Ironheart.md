@@ -145,3 +145,9 @@ Fuente: `00_FUENTES/historia_original/AÑO_1/02_01_Bruma_a_18_Bruma_y_05_Solalto
 ## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
 
 - Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.
+
+## ADDENDUM DE ESTADO — 1–15 DE SOLALTO, AÑO 3
+
+- Kael y Natalia mantienen su relación formal y su dinámica de apoyo; no se canoniza una nueva crisis ni una ruptura.
+- Su siguiente avance queda ligado a la vida autónoma del círculo y a decisiones en escena, no a un resultado impuesto por el núcleo.
+- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.

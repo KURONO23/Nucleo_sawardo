@@ -8,8 +8,13 @@
 
 ## Estado rector
 
-- [[05_CONTINUIDAD/CURRENT_STATE_31_FLORIS_AÑO3|Estado actual — 31 de Floris, Año 3]]
-- [[05_CONTINUIDAD/DELTA-RP-030_01_A_31_FLORIS_AÑO3|Integración 1–31 de Floris]]
+- [[05_CONTINUIDAD/CURRENT_STATE_15_SOLALTO_AÑO3|Estado actual — 15 de Solalto, Año 3]]
+- [[05_CONTINUIDAD/DELTA-RP-031_01_A_15_SOLALTO_AÑO3|Integración 1–15 de Solalto]]
+- [[05_CONTINUIDAD/INFORME_PROPAGACION_15_SOLALTO_AÑO3|Informe de propagación de Solalto — trece agentes]]
+- [[05_CONTINUIDAD/ARCO_LA_CORONA_DEL_GRAN_SABIO|Semilla de arco real — La Corona del Gran Sabio]]
+- [[05_CONTINUIDAD/CURRENT_STATE_15_SOLALTO_AÑO3|Estado actual — 15 de Solalto, Año 3]]
+- [[05_CONTINUIDAD/DELTA-RP-031_01_A_15_SOLALTO_AÑO3|Integración 1–15 de Solalto]]
+- [[05_CONTINUIDAD/INFORME_PROPAGACION_15_SOLALTO_AÑO3|Informe de propagación de Solalto]]
 - [[05_CONTINUIDAD/CICLO_AUTONOMO_01_A_31_FLORIS_AÑO3|Ciclo autónomo de Floris]]
 - [[05_CONTINUIDAD/INFORME_PROPAGACION_31_FLORIS_AÑO3|Informe de propagación de Floris]]
 - [[05_CONTINUIDAD/CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3|Ciclo autónomo global — personajes, ciudades y proyectos]]

@@ -25,3 +25,13 @@
 ## Actualización — 26 de Bruma, Año 3
 
 Usar [[CONOCIMIENTO_ADDENDUM_26_BRUMA_AÑO3]] para Referencia Temporal, Ancla Kazuki, habilidades de Mika/Ren/Daichi, cámara de Elaris, Proyecto G1 y balance pendiente. No convertir rumores públicos sobre G1 o nodos en conocimiento técnico real.
+
+## Actualización de conocimiento — 15 de Solalto, Año 3
+
+- **Natalia y Aria:** conocen y administran la cadena financiera: 928.175 al cierre de Floris, −1.190 de G1.03, −1.800 del viaje a la playa y 925.185 al 15 de Solalto.
+- **Max y el círculo técnico:** conocen que G1.03 tiene seis terminales físicos en pruebas, pero no una red pública, G2 ni seguridad validada ante captura.
+- **Galwin, Daichi, Mika y aprendices:** conocen las incidencias térmicas, de congestión, permisos y recuperación de mensajes.
+- **Equipos del Serath-Maru:** conocen las mejoras parciales y la vibración bajo carga reducida; no consideran autorizada una travesía larga.
+- **Asistentes de la lectura:** conocen la narración completa de *La cámara secreta*, sus hipótesis y sus reacciones. Ese conocimiento no convierte al basilisco de Hogwarts en criatura real de Aldoria.
+- **Serath:** conserva el secreto de su filiación; ninguna escena de Solalto lo hace público.
+- **Investigaciones:** V. Sable, Corven/Adrian, Elaris y Blackpeak siguen siendo líneas separadas; no hay resolución compartida.

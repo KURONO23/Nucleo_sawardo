@@ -89,3 +89,10 @@ Referencias: PDF, pp. 12-14, 447-488, 703-717, 868-872; `CONTR-007/010/012/056/0
 - Desde el aumento salarial del 26 de Bruma, el flujo ordinario base baja a **7.270 oro/mes**.
 - Dividendos de Esmeralda: activos, periódicos y variables; importe acumulado pendiente de conciliación.
 - Esta resolución desplaza las reconstrucciones provisionales de 899.895 y 908.365.
+
+## ADDENDUM ECONÓMICO — 15 DE SOLALTO, AÑO 3
+
+- La liquidez personal vigente de Max al 15 de Solalto es **925.185 oro**.
+- Cadena auditada: 919.241 al 1 de Floris → 928.175 al cierre de Floris → 926.985 después de G1.03 → **925.185** después del viaje personal a la playa de 1.800 oro del 8 de Solalto.
+- El viaje a la playa es el gasto que explica la reducción final; no debe contarse como gasto empresarial ni volver a descontarse.
+- El mes de Solalto sigue abierto: los costes empresariales y cualquier ingreso posterior requieren cierre o comprobante antes de modificar la liquidez personal.

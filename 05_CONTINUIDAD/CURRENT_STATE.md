@@ -1,29 +1,31 @@
-# CURRENT STATE — 31 DE FLORIS, AÑO 3
+# CURRENT STATE — 15 DE SOLALTO, AÑO 3
 
-> **ESTADO RECTOR OPERATIVO:** 31 de Floris, Año 3 · Día continuo 806 · 23:45.  
-> Desarrollo completo: [[CURRENT_STATE_31_FLORIS_AÑO3]]. Fuente matriz: `00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md`.
-> Vida fuera de cámara corregida: [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Este ciclo es rector sobre el resumen parcial anterior.
+> **ESTADO RECTOR OPERATIVO:** 15 de Solalto, Año 3 · Día continuo 821 · cierre nocturno.
+> Corte completo: [[CURRENT_STATE_15_SOLALTO_AÑO3]]. Delta: [[DELTA-RP-031_01_A_15_SOLALTO_AÑO3]].
+> Fuente matriz: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.
+> Los cortes de 31 de Floris y anteriores se conservan como historia y no desplazan este presente.
 
 ## Punto exacto de reanudación
 
-- **Lugar:** dormitorio matrimonial de Gutiérrez Estate, Aldoria.
-- **Situación:** Serath terminó su cumpleaños, escribió en su cuaderno privado y descansa junto a Max.
+- **Lugar:** Gutiérrez Estate, Aldoria, al cierre de la noche del 15 de Solalto.
+- **Situación:** Max está con Serath y Aria. La fuente se detiene antes de elegir la acción del 16.
 - **Sawardo:** desactivado.
-- **Siguiente fecha:** 1 de Solalto, Año 3.
+- **Liquidez personal:** **925.185 oro**, después de cierre de Floris, compra de G1.03 y viaje a la playa.
 
 ## Estado inmediato
 
-1. **G1.03:** funciona de forma limitada entre dos terminales autorizados; auditoría independiente pendiente. No existe G2.
-2. **Serath-Maru:** diagnóstico y lista de materiales preparados; cuatro meses de trabajo deseado, sin autorización de gran travesía.
-3. **Elaris:** Ren, Daichi y Mika regresaron con mapa e hipótesis; no confirmaron nodo ni relación con G1.03.
-4. **Relaciones:** Natalia y Kael son pareja. Leo–Greta y Ren–Elena avanzan sin noviazgo formal. Haruto–Liora siguen estables. Biro–Vivienne mantienen acercamiento gradual.
-5. **Cultura:** Biro revisa *La tragedia del último barril*; Los Cinco escriben *Mi fin de semana con el muerto*; Harry Potter II se prepara desde el 10 de Solalto.
-6. **Misterios:** Ravenwood, Corven Marr y V. Sable siguen abiertos.
-7. **Nueve autores:** investigan de forma independiente con 100 oro personales de Max cada uno; no existen nuevos contratos automáticos.
+1. **G1.03:** seis terminales físicos en fase experimental; no existe G2 ni red pública.
+2. **Serath-Maru:** mejoras parciales; vibración bajo carga reducida; sin autorización de travesía larga.
+3. **Harry Potter II:** lectura del 10 de Solalto concluida; efecto neto personal cero.
+4. **Teatro:** *Mi fin de semana con el muerto* conserva su final; continúan ensayos y ajustes de seguridad.
+5. **Relaciones:** Natalia–Kael son pareja; Leo–Greta y Ren–Elena avanzan sin noviazgo formal; Haruto–Liora siguen estables; Biro–Vivienne mantienen acercamiento abierto.
+   - En forma rectora: **Natalia y Kael son pareja**.
+6. **Misterios:** Ravenwood, Elaris, V. Sable, Corven/Adrian y Blackpeak siguen separados y abiertos.
+7. **Cierre mensual:** Solalto aún no está cerrado; los costos operativos empresariales siguen pendientes de conciliación.
 
-## Próximas fechas
+## Próximas fechas y decisiones
 
-- **10 de Solalto:** inicio previsto de *Harry Potter y la cámara secreta*.
-- **14 de Solalto:** cumpleaños de Natalia.
-- **22 de Solalto:** cumpleaños de Aria.
+- **16 de Solalto:** elegir la siguiente acción; las cinco opciones de la fuente permanecen abiertas.
+- **22 de Solalto:** cumpleaños prioritario de Aria; no resolverlo automáticamente.
 - **30 de Solalto:** cumpleaños de Sayaka/Evelyn.
+- **17 de Cosecha:** aniversario de Max y Serath.

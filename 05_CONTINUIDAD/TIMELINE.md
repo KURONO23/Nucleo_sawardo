@@ -201,3 +201,14 @@
 - **20–29 de Floris:** expedición a Elaris, misiones florales, crecimiento de relaciones y rutas de los nueve autores.
 - **30 de Floris:** demostración limitada de G1.03, informe de Elaris y plan del Serath-Maru.
 - **31 de Floris (Día 806):** cumpleaños de Serath; Natalia y Kael formalizan pareja. A las 23:45 termina Floris: **PRESENTE RECTOR**.
+
+## ERA XV — SOLALTO, AÑO 3 (DÍAS 807–821)
+
+- **1 de Solalto (Día 807):** Natalia y Aria cierran Floris en **928.175 oro**. G1.03 y la lectura de *La cámara secreta* se convierten en prioridades del mes.
+- **2 de Solalto (Día 808):** Max autoriza y paga **1.190 oro** por materiales y equipos para cuatro terminales G1.03 adicionales. Saldo: **926.985 oro**.
+- **3–7 de Solalto:** G1.03 avanza con pruebas controladas; el Serath-Maru recibe trabajos parciales; Biro, Darian y Goran desarrollan la nueva comedia; las relaciones autónomas avanzan sin formalizaciones automáticas.
+- **8 de Solalto (Día 814):** jornada/viaje de playa para el círculo ampliado. Gasto personal confirmado: **1.800 oro**. Saldo: **925.185 oro**.
+- **9 de Solalto:** se preparan recinto, narradores y materiales para la lectura. La tesorería conserva el saldo de 925.185 oro.
+- **10 de Solalto (Día 816):** se realiza *Harry Potter y la cámara secreta*. El evento tiene 1.220 asistentes; el efecto neto personal es cero después de gastos y bonificaciones.
+- **11–15 de Solalto (Días 817–821):** los equipos trabajan con autonomía. G1.03 alcanza seis terminales físicos, pero continúa experimental; Serath-Maru conserva una vibración bajo carga reducida; Aria inicia flauta; Leo–Greta y Ren–Elena profundizan su cercanía sin formalizarse.
+- **15 de Solalto:** cierre de seguimiento con **925.185 oro** líquidos. Solalto sigue pendiente de cierre mensual empresarial. Las cinco opciones del 16–21 quedan sin elegir.

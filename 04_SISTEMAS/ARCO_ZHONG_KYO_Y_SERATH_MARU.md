@@ -28,3 +28,9 @@ Con el oro y jade acumulados por sus hazañas y banquetes, Max adquirió en los 
 - **Bautismo:** Nombrado **Serath-Maru** en honor a la Comandante Suprema de Aldoria.
 - **El Mural del Casco:** Por encargo expreso de Max a maestros pintores de Zhong-Kyo, los costados del casco lucen un mural monumental: **un dragón oriental entrelazado con un sapo gigante brindando con tarros rebosantes de cerveza de espuma blanca**.
 - **Regreso Triunfal:** El buque sirvió como base naval de retorno a Aldoria, cargado de especias, té, sedas, arroz, salsas de soja fermentada y la tripulación de hermanos Gutiérrez listos para liderar la cocina del consorcio.
+
+## ADDENDUM DE CONTINUIDAD — 15 DE SOLALTO, AÑO 3
+
+- El retorno a Aldoria ya pertenece a la historia; el estado operativo presente es de reparación y prueba parcial.
+- El nombre rector es **Serath-Maru**. No debe confundirse con el rótulo legado `Serath-Max` de fichas técnicas anteriores.
+- La vibración sigue abierta y no existe autorización canónica para una travesía larga. Las rutas y capacidades futuras permanecen pendientes de comprobación en escena.

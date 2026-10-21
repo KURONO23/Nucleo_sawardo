@@ -4,11 +4,30 @@
 
 ## Corte narrativo
 
-- **Presente financiero de auditoría:** 1 de Floris, Año 3.
-- **Último cierre líquido exacto jugado:** 1 de Floris, Año 3.
-- **Tesorería personal líquida confirmada:** **919.241 oro**.
+- **Presente financiero de auditoría:** 15 de Solalto, Año 3, día continuo 821.
+- **Último cierre líquido exacto jugado:** 15 de Solalto, Año 3.
+- **Tesorería personal líquida confirmada a ese punto:** **925.185 oro**.
+- **Último cierre mensual completado:** Floris, con **928.175 oro** antes de los movimientos de Solalto.
 - **Advertencia temporal:** los cierres incompletos de Albor–Verdalia se conservan como historia contable, pero el asiento rector posterior del 1 de Floris ya fija liquidez, distribución de Lluvia y el cierre complementario de pendientes. No volver a sumar meses anteriores.
 - No volver a usar 824.000, 827.000, 827.695, 890.935, 898.955, 899.895, 908.365 o 914.375 como saldo presente. Son bases, cortes, subtotales o proyecciones históricas explicadas en el historial.
+
+## ACTUALIZACIÓN CANÓNICA — 1–15 DE SOLALTO, AÑO 3
+
+La fuente de 1–15 de Solalto confirma la siguiente cadena, que sustituye el saldo provisional del 1 de Floris como presente operativo:
+
+| Paso | Movimiento | Saldo líquido personal |
+|---|---:|---:|
+| Base del 1 de Floris | — | 919.241 oro |
+| Cierre de Floris | +8.934 oro | 928.175 oro |
+| Materiales y componentes de G1.03 | −1.190 oro | 926.985 oro |
+| **Viaje personal a la playa, 8 de Solalto** | **−1.800 oro** | **925.185 oro** |
+| Evento de Harry Potter II y movimientos personales posteriores | 0 oro nuevo | **925.185 oro** |
+
+- El viaje a la playa de Max es un **gasto personal confirmado** y ya está descontado. No debe volverse a restar.
+- La liquidez personal permanece en **925.185 oro** al 15 de Solalto. Los costes empresariales del periodo siguen pendientes de cierre mensual y no se inventa un débito adicional.
+- Solalto todavía **no** está cerrado como mes. Esta actualización no convierte ingresos brutos, taquilla ni fondos restringidos en dinero personal sin asiento explícito.
+- Fuente primaria: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.
+- Delta aplicado: `05_CONTINUIDAD/DELTA-RP-031_01_A_15_SOLALTO_AÑO3.md`.
 
 ## Conciliación que produce 905.905
 

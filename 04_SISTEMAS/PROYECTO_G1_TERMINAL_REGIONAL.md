@@ -115,3 +115,10 @@ La directriz vigente desde el 4 de Verdalia, Año 3, separa tres trabajos que an
 - Elaris no confirmó un nodo operativo ni una relación causal con G1.03.
 - Galwin conserva dirección; Jorik y Sivra trabajan en secuencias y límites; Tilda y Uldan mantienen el frente mecánico/Serath-Maru sin abandonar G1.03.
 
+## ADDENDUM OPERATIVO — 1–15 DE SOLALTO, AÑO 3
+
+- El frente continúa bajo **G1.03** y cuenta con **seis terminales físicos experimentales**: laboratorio, finca, taller de Galwin, teatro, archivo y punto técnico de Puerto Serena.
+- La compra de materiales y componentes de G1.03 quedó asentada como gasto de **1.190 oro**; no es una red pública ni un despliegue nacional.
+- El alcance probado sigue limitado a mensajería local, confirmación, recuperación controlada y mantenimiento reproducible. No se canoniza G2, telefonía, cobertura general ni causalidad con Elaris.
+- Daichi y Mika mantienen la auditoría de temperatura, pérdida de señal y condiciones límite. Galwin conserva la dirección técnica; el siguiente avance requiere evidencia de prueba, no solo disponibilidad de terminales.
+

@@ -53,3 +53,9 @@ Estas respuestas ocurrieron durante la planificación. Las imágenes de niños d
 - Lectura pública: `00_FUENTES/historia_original/AÑO_2/05_26_Solalto_a_14_Ambar_Año_2.md`, aproximadamente 57083–68018.
 - Registro transversal: [[RECEPCION_CULTURAL_DE_ALDORIA]].
 - Desarrollo longitudinal: [[CICLO_HARRY_POTTER_CONTINUIDAD_CULTURAL]].
+
+## ADDENDUM DE ESTADO — 10 DE SOLALTO, AÑO 3
+
+- La actividad de *Harry Potter y la cámara secreta* quedó cerrada en el evento del 10 de Solalto: **1.220 asistentes**, con **680 adultos de pago** y **540 niños con entrada gratuita**.
+- El resultado cultural y de recepción se conserva como cierre del evento; no se convierte automáticamente en dividendo personal ni altera la liquidez de Max.
+- La continuación editorial, la distribución posterior y cualquier nuevo balance quedan pendientes de un asiento o escena específica.

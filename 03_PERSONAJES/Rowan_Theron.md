@@ -4,7 +4,7 @@
 
 - **Nombre:** Rowan Theron.
 - **Título y Rango:** Segundo Príncipe de la Corona de Aldoria.
-- **Familia:** Hijo menor del Rey **Aldric Theron**; hermano menor del Príncipe Heredero **Caelan Theron** y medio hermano biológico de **Serath Vale** (secreto dinástico que desconoce por completo).
+- **Familia:** Hijo menor del Rey **Aldric Theron**; hermano menor del Príncipe Heredero **Caelan Theron** y medio hermano biológico de **Serath Vale**. Rowan conoce la verdad en secreto; Aldric y Serath no saben que él y Caelan la conocen.
 - **Apariencia:** Joven apuesto de unos veintidós años, cabello castaño claro con reflejos cobrizos, porte atlético y relajado, viste jubones de corte refinado pero cómodos, evitando ropajes excesivamente pesados de gala siempre que el protocolo se lo permite.
 - **Personalidad:** Curioso, jovial, entusiasta de las artes populares, la literatura, la ingeniería y las festividades cívicas. Prefiere pasar las tardes en los talleres de inventores o en las primeras filas del teatro antes que en audiencias ceremoniales de palacio.
 - **Límites:** No tiene ambiciones sobre el trono ni participa en conspiraciones palaciegas; es leal a su padre y a su hermano Caelan.
@@ -54,7 +54,7 @@
 | Rey Aldric Theron | Padre y soberano | Respeto filial y consejo perspicaz | Acata las decisiones de Estado |
 | Príncipe Caelan Theron | Hermano mayor y heredero | Fraternidad y apoyo leal | Caelan gobierna, Rowan dinamiza la cultura |
 | Max Josemar Gutiérrez | Ídolo creativo y aliado de la Corona | Admiración por sus historias y visión | Trato de príncipe a noble emérito |
-| Comandante Serath Vale | Admiración marcial (desconoce vínculo biológico) | Respeto hacia la jefa de la Guardia | Trato de protocolo real |
+| Comandante Serath Vale | Admiración marcial y vínculo fraternal secreto | Respeto hacia la jefa de la Guardia; Rowan conoce la verdad biológica | Serath no sabe que Rowan y Caelan lo saben |
 
 ## 6. Ruta autónoma — `SEMILLA`
 
@@ -68,7 +68,7 @@
 - `00_FUENTES/historia_original/AÑO_2/06_15_Ambar_a_25_Ambar_Año_2.md`
 - [[MICROINTERACCIONES_PERSONAJES_J_R]]
 - [[REGISTRO_DE_VIDA_AUTONOMA_Y_METAS_AÑO3]]
-- **Guardarraíl canónico:** Desconoce que Serath Vale es su media hermana biológica; preservar el secreto de Estado.
+- **Guardarraíl canónico:** Conoce que Serath Vale es su media hermana biológica, pero preservar la asimetría: Aldric y Serath no saben que Rowan y Caelan lo saben.
 
 ---
 
@@ -121,5 +121,26 @@
 - Evoluciona de admirador cultural a mecenas que pregunta qué permanece después del aplauso.
 - **Coste:** decepciona a quienes querían una celebración visible y no puede financiar todos los proyectos.
 - **Siguiente hito:** comprobar el uso del apoyo y elegir entre bibliotecas, teatro o torneo interescolar.
-- **Límite familiar:** admira a Serath como Comandante Suprema; desconoce que es su hermana biológica.
+- **Límite familiar:** admira a Serath como Comandante Suprema; conoce en secreto que es su hermana biológica y mantiene la revelación para un momento futuro.
 - Integración: [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]].
+
+## PUNTO DE QUIEBRE — DESPUÉS DEL FESTIVAL DE LA CERVEZA, AÑO 3
+
+- Después del Festival de la Cerveza de Año 3, Rowan despierta como huésped de una fusión con **Efraín Quispe Aramayo**, conciencia boliviana de la Tierra, y el **Gran Sabio / IA Integrada**.
+- El cambio ocurrió fuera de cámara y todavía no tiene aparición pública. Rowan conserva su personalidad, sus afectos, su humor y su voluntad; la fusión produce conflicto interno, no reemplazo automático.
+- Durante la integración, Rowan queda confinado en una cámara mental provisional. Sigue consciente y puede resistir mediante recuerdos, emociones y reflejos; su despertar físico y recuperación del control quedan para un arco posterior.
+- El conflicto político previsto nace de la crítica de Efraín a la nobleza, los privilegios hereditarios y la concentración de recursos. Su resentimiento de clase puede señalar abusos reales, pero su tendencia a tratar a toda persona poderosa como enemiga lo convierte en antagonista.
+- La contradicción se intensifica porque Efraín también nació con dinero, educación privada y contactos: denuncia el sistema desde dentro de una clase acomodada que lo protegió. El Gran Sabio puede ayudarlo a racionalizar esa hipocresía como una excepción moral.
+- El Gran Sabio comienza con aceleración de pensamiento, análisis, evasión automática, corrección mágica, pensamiento paralelo y diseño estratégico; su evolución exige datos, experiencia, coste e integración emocional.
+- **Guardarraíl:** Rowan ya conoce que Serath es su media hermana biológica; Efraín descubre este conocimiento dentro de la fusión, pero la asimetría permanece oculta para Aldric y Serath. La primera escena interna queda registrada en [[ROWAN_EFRAIN_DESPERTAR_POST_FESTIVAL_AÑO3]].
+- Desarrollo completo: [[ARCO_LA_CORONA_DEL_GRAN_SABIO]].
+
+## ADDENDUM DE DESARROLLO — FUSIÓN Y RESISTENCIA HASTA EL 15 DE SOLALTO, AÑO 3
+
+- Rowan permanece consciente y confinado dentro de la fusión con Efraín y el Gran Sabio. Todavía no recupera el control físico pleno; su resistencia opera mediante memoria, humor, afecto, criterio político y bloqueo emocional de impulsos.
+- Empieza a mermar el control decisorio de Efraín sin destruir su identidad: lo obliga a distinguir entre resentimiento y estrategia, entre pensar y poder actuar, y entre una institución reformable y un enemigo personal.
+- Reafirma su posición correcta dentro de la Corona: no es militar; su frente propio es cultural y social. Reconoce a Caelan como heredero administrativo y procedimental, y a Serath como autoridad militar suprema.
+- Impide que Efraín use a Caelan, Aldric o Max como recursos políticos inmediatos. La organización independiente queda en fase de propuesta cultural piloto; no existe movimiento público ni facción real.
+- Comprende que Max es libre no solo por su dinero, sino porque delega, permite autoría ajena y construye sistemas capaces de sobrevivir sin su presencia. Rowan decide que Efraín debe observar primero el trabajo que sostiene los resultados de Max.
+- Desea asistir, junto con Aldric y Caelan, a la futura representación de *Mi fin de semana con el muerto* cuando exista fecha. La obra sigue confidencial y no se fija estreno.
+- **Límite vigente:** la prueba de si el Gran Sabio responde a Rowan queda aplazada hasta después de que Efraín presencie la obra y, posteriormente, el trabajo acumulado detrás de las estructuras de Max.

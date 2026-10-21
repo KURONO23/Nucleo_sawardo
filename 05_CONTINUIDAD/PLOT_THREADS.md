@@ -146,3 +146,20 @@ Los procesos que avanzaron sin cámara —Ravenwood, V. Sable, G1/ruinas, Gremio
 2. **La tragedia del último barril — estado histórico:** los ensayos desembocaron en el estreno del 12 de Floris. En el estado vigente quedan crítica formal, taquilla, edición y posible reposición.
 
 Ambos frentes pueden avanzar en paralelo: tecnología mantenible e institución cultural propia. Ninguno requiere congelar al resto del mundo.
+
+## Hilos vigentes — 15 de Solalto, Año 3
+
+| Hilo | Estado | Próximo paso exacto |
+|---|---|---|
+| G1.03 | `SEIS TERMINALES / EXPERIMENTAL` | Corregir temperatura, comprobar seguridad ante captura y repetir pruebas; no desplegar ni crear G2. |
+| Serath-Maru | `PRUEBAS PARCIALES` | Repetir carga sostenida, revisar vibración y consumo antes de autorizar Zhong-Kyo. |
+| Harry Potter II | `LECTURA CERRADA / EVALUACIÓN` | Separar recepción cultural, inventarios y cuentas empresariales sin alterar la liquidez personal. |
+| Mi fin de semana con el muerto | `ENSAYOS Y SEGURIDAD` | Pulir segundo acto, utilería y caídas; conservar el final aprobado. |
+| Aria | `EVOLUCIÓN PERSONAL` | Continuar flauta y preparar, solo si Max decide, el cumpleaños del 22. |
+| Leo–Greta | `AFINIDAD RECÍPROCA` | Permitir nuevas citas sin declarar noviazgo. |
+| Ren–Elena | `AFECTO RECÍPROCO` | Continuar citas sin imponer etiqueta formal. |
+| Biro–Vivienne | `ACERCAMIENTO ABIERTO` | Registrar la cena y dejar que el vínculo avance por iniciativa de ambos. |
+| Elaris / V. Sable / Corven–Adrian / Blackpeak | `INVESTIGACIONES SEPARADAS` | Conseguir evidencia primaria; no fusionar identidades, culpables ni patrocinadores. |
+| Economía de Solalto | `MOVIMIENTOS REGISTRADOS / CIERRE PENDIENTE` | Conciliar costos empresariales; conservar 925.185 como liquidez personal actual. |
+| Decisión de Max | `CONTROL DEL JUGADOR` | Elegir una de las cinco opciones del 16 o formular una acción propia. |
+| Corona / Gran Sabio | `ACTIVO FUERA DE CÁMARA / DESARROLLO ROWAN–EFRAÍN` | Desarrollar el despertar posterior al Festival de la Cerveza; observar cómo Rowan, Efraín y el Gran Sabio negocian el cuerpo y el propósito antes de una aparición pública. |

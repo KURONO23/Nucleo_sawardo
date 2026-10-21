@@ -167,3 +167,9 @@ Haruto acepta la disculpa de Mizuki sin conceder perdón completo. Mantiene su p
 ## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
 
 - Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.
+
+## ADDENDUM DE ESTADO — 1–15 DE SOLALTO, AÑO 3
+
+- Haruto y Liora conservan un vínculo estable y de apoyo dentro del círculo; el periodo no introduce una ruptura ni un cambio de estado.
+- Haruto mantiene además su función editorial y de corrección humana en los proyectos culturales, sin convertirla en cierre económico personal.
+- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.

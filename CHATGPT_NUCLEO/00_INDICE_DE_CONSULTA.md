@@ -11,19 +11,19 @@ Este paquete contiene el núcleo completo, no una selección mínima. Conserva p
 1. `01_CANON/REGLAS_INMUTABLES.md`
 2. `01_CANON/CONTRADICCIONES.md`
 3. `05_CONTINUIDAD/CURRENT_STATE.md`
-4. `05_CONTINUIDAD/CURRENT_STATE_31_FLORIS_AÑO3.md`
-5. Calendarios, fichas de personajes, relaciones, hilos y sistemas pertinentes.
-6. Fuentes de `00_FUENTES/historia_original/`, siempre en solo lectura.
+4. `05_CONTINUIDAD/CURRENT_STATE_15_SOLALTO_AÑO3.md`
+5. `05_CONTINUIDAD/DELTA-RP-031_01_A_15_SOLALTO_AÑO3.md`
+6. Calendarios, fichas de personajes, relaciones, hilos y sistemas pertinentes.
+7. Fuentes de `00_FUENTES/historia_original/`, siempre en solo lectura.
 
 ## Presente rector
 
-- Fecha: **31 de Floris, Año 3 · Día 806 · 23:45**.
-- Día continuo: **776**.
-- Lugar: jardines de Gutiérrez Estate, 21:10.
+- Fecha: **15 de Solalto, Año 3 · Día continuo 821 · cierre nocturno**.
+- Lugar: Gutiérrez Estate, Aldoria.
 - Control: el usuario controla exclusivamente a Max.
-- Pendientes inmediatos: Max decide si convoca la demostración técnica de G1-0.3; en paralelo continúa la preparación del estreno del 12 de Floris.
+- Pendientes inmediatos: Max elige una de las cinco opciones abiertas para el 16 de Solalto; G1.03, Serath-Maru, teatro e investigaciones permanecen con sus límites vigentes.
 - Ravenwood: revisión avanzada, sin victoria definitiva ni patrocinador final identificado.
-- Integración del tramo reciente: [[DELTA-RP-029_21_LLUVIA_A_1_FLORIS_AÑO3]].
+- Integración del tramo reciente: [[DELTA-RP-031_01_A_15_SOLALTO_AÑO3]].
 - Sorpresa de Liora (16–17 de Verdalia): regalo canónico compuesto por un estuche con cuaderno y unas orejas artesanales (CONTR-149, resolución autoral).
 
 ## Consulta modular
@@ -43,4 +43,4 @@ La ausencia de Max no congela al elenco. Al cerrar una escena o avanzar el tiemp
 
 Consultar `CALENDARIO_CUMPLEANOS_CIRCULO_DE_MAX.md` antes de cada salto. La celebración automática solo se activa si Max la desea o existe una preferencia vigente. Serath y Aria son prioritarias y requieren aviso y decisión expresa. Sus fechas no se desplazan.
 
-El registro histórico del Año 2 no es una lista de próximos eventos. Desde el cierre del 31 de Floris, las siguientes alertas son Natalia, 14 de Solalto; Aria, 22 de Solalto; y Sayaka/Evelyn, 30 de Solalto.
+El registro histórico del Año 2 no es una lista de próximos eventos. Natalia ya celebró su cumpleaños el 14 de Solalto; las siguientes alertas son Aria, 22 de Solalto, y Sayaka/Evelyn, 30 de Solalto.

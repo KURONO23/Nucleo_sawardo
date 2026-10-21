@@ -8,7 +8,7 @@
 
 $ErrorActionPreference = 'Stop'
 $root = Split-Path -Parent $MyInvocation.MyCommand.Path
-$destination = 'C:\Users\Max\Documents\Codex\sawardo_CHATGPT'
+$destination = Join-Path $root 'sawardo_CHATGPT'
 $utf8 = [System.Text.UTF8Encoding]::new($false)
 
 if (-not (Test-Path -LiteralPath $destination)) {
@@ -16,14 +16,14 @@ if (-not (Test-Path -LiteralPath $destination)) {
 }
 
 $instructionsPath = Join-Path $destination '00_INSTRUCCIONES_Y_ESTADO.md'
-$corePath = Join-Path $destination '01_NUCLEO_SAWARDO_COMPLETO_31_FLORIS_AÑO3.md'
+$corePath = Join-Path $destination '01_NUCLEO_SAWARDO_COMPLETO_15_SOLALTO_AÑO3.md'
 $manifestPath = Join-Path $destination '02_MANIFIESTO_DEL_PAQUETE.md'
 
 $instructions = @"
 # NÚCLEO SAWARDO — INSTRUCCIONES Y PUNTO DE REANUDACIÓN
 
-**Versión:** 20 de octubre de 2026
-**Presente rector único:** 31 de Floris, Año 3, Día continuo 806, 23:45.
+**Versión:** 21 de octubre de 2026
+**Presente rector único:** 15 de Solalto, Año 3, Día continuo 821.
 **Lugar previsto:** Dormitorio matrimonial de Gutiérrez Estate.  
 **Control de Max:** pertenece exclusivamente al usuario.
 
@@ -35,10 +35,10 @@ Este paquete consta de dos documentos operativos y un manifiesto. Lee primero es
 - No decidir acciones, pensamientos, sentimientos, respuestas, perdones, romances ni compromisos de Max.
 - Max debe participar activamente en toda escena en la que esté presente: los NPC se dirigen a él, sus actos previos producen reacciones y recibe oportunidades concretas de intervenir. No dejarlo como espectador mudo, pero tampoco escribir por él decisiones o diálogos importantes.
 - Al llegar una decisión o intervención de Max, cerrar con **exactamente cinco opciones**: **Buena, Neutral, Caótica, Especial y Automática**. Cada una propone una acción y una línea de diálogo; ninguna ocurre hasta que el usuario la elige. El usuario también puede escribir una acción propia.
-- La secuencia del Año 3 es Albor → Bruma → Verdalia → Lluvia → Floris.
+- La secuencia del Año 3 es Albor → Bruma → Verdalia → Lluvia → Floris → Solalto.
 - El arco antes rotulado por error como 1–5 de Floris pertenece a Verdalia. Los cumpleaños de Floris no se desplazan.
-- Edades vigentes al cierre de Floris: Max 39, Serath 34, Haruto 19, Ryu 19 y Kenji 17.
-- Serath ya celebró su cumpleaños el 31 de Floris. Las siguientes alertas son Natalia (14 de Solalto), Aria (22) y Sayaka/Evelyn (30).
+- Edades vigentes al corte de Solalto: Max 39, Serath 34, Haruto 19, Ryu 19 y Kenji 17.
+- Natalia ya celebró su cumpleaños el 14 de Solalto. La siguiente alerta es Aria (22), seguida de Sayaka/Evelyn (30).
 - La celebración automática de cualquier cumpleaños solo ocurre si Max la desea expresamente o existe una preferencia vigente.
 - La actividad de *Harry Potter y la cámara secreta* está prevista desde el 10 de Solalto.
 - El primer aniversario de Max y Serath fue el 17 de Cosecha del Año 2; ambos lo olvidaron por estar completamente ocupados y no hubo conflicto.
@@ -54,7 +54,7 @@ Este paquete consta de dos documentos operativos y un manifiesto. Lee primero es
 
 ## Reanudación inmediata
 
-Serath terminó su cumpleaños y descansa con Max; Sawardo está desactivado. Solalto abre con la auditoría independiente de G1.03, materiales del Serath-Maru, Harry Potter II, dos obras teatrales y los misterios de Ravenwood, Corven Marr, V. Sable y Elaris. Natalia y Kael son pareja; Leo–Greta y Ren–Elena todavía no. Cargar **CURRENT_STATE.md**, **CURRENT_STATE_31_FLORIS_AÑO3.md**, **DELTA-RP-030_01_A_31_FLORIS_AÑO3.md**, el auditor mensual y las fichas pertinentes.
+El punto de reanudación es la noche del 15 de Solalto, día continuo 821. La liquidez personal confirmada es 925.185 oro: 928.175 al cierre de Floris, menos 1.190 de G1.03 y menos 1.800 del viaje personal a la playa del 8 de Solalto. Serath-Maru sigue en reparación y pruebas parciales; G1.03 tiene seis terminales experimentales; Harry Potter II cerró su evento; Natalia–Kael son pareja, Leo–Greta y Ren–Elena todavía no. Cargar **CURRENT_STATE.md**, **CURRENT_STATE_15_SOLALTO_AÑO3.md**, **DELTA-RP-031_01_A_15_SOLALTO_AÑO3.md**, **INFORME_PROPAGACION_15_SOLALTO_AÑO3.md**, el auditor mensual y las fichas pertinentes.
 "@
 [System.IO.File]::WriteAllText($instructionsPath, $instructions.TrimEnd() + "`r`n", $utf8)
 
@@ -64,7 +64,10 @@ $rootFiles = @(
   '00_LEER_PRIMERO.md',
   'README.md',
   '00_FUENTES/INVENTARIO.md',
-  '00_FUENTES/historia_original/00_INDICE_DE_FUENTES.md'
+  '00_FUENTES/historia_original/00_INDICE_DE_FUENTES.md',
+  '05_CONTINUIDAD/CURRENT_STATE_15_SOLALTO_AÑO3.md',
+  '05_CONTINUIDAD/DELTA-RP-031_01_A_15_SOLALTO_AÑO3.md',
+  '05_CONTINUIDAD/INFORME_PROPAGACION_15_SOLALTO_AÑO3.md'
 )
 $contentRoots = @(
   '01_CANON',
@@ -80,7 +83,7 @@ $contentRoots = @(
 )
 $excludePatterns = @(
   '^05_CONTINUIDAD/ARCHIVO_DELTAS_HISTORICOS/',
-  '^05_CONTINUIDAD/CURRENT_STATE_(?!31_FLORIS)',
+  '^05_CONTINUIDAD/CURRENT_STATE_(?!15_SOLALTO)',
   '^05_CONTINUIDAD/CONOCIMIENTO_ADDENDUM_',
   '^05_CONTINUIDAD/DELTA-',
   '^05_CONTINUIDAD/AUDITORIA',
@@ -91,8 +94,9 @@ $excludePatterns = @(
 )
 $priority = @(
   '05_CONTINUIDAD/CURRENT_STATE.md',
-  '05_CONTINUIDAD/CURRENT_STATE_31_FLORIS_AÑO3.md',
-  '05_CONTINUIDAD/DELTA-RP-030_01_A_31_FLORIS_AÑO3.md',
+  '05_CONTINUIDAD/CURRENT_STATE_15_SOLALTO_AÑO3.md',
+  '05_CONTINUIDAD/DELTA-RP-031_01_A_15_SOLALTO_AÑO3.md',
+  '05_CONTINUIDAD/INFORME_PROPAGACION_15_SOLALTO_AÑO3.md',
   '01_CANON/REGLAS_INMUTABLES.md',
   '01_CANON/CONTRADICCIONES.md',
   '05_CONTINUIDAD/CALENDARIO_CUMPLEANOS_CIRCULO_DE_MAX.md',
@@ -124,11 +128,11 @@ $ordered = @($priority | Where-Object { $unique -contains $_ }) + @($unique | Wh
 $builder = [System.Text.StringBuilder]::new()
 [void]$builder.AppendLine('# NÚCLEO SAWARDO — COMPILACIÓN COMPLETA PARA CHATGPT')
 [void]$builder.AppendLine()
-[void]$builder.AppendLine('**Edición:** 20 de octubre de 2026  ')
-[void]$builder.AppendLine('**Presente rector:** 31 de Floris, Año 3, Día continuo 806, 23:45  ')
+[void]$builder.AppendLine('**Edición:** 21 de octubre de 2026  ')
+[void]$builder.AppendLine('**Presente rector:** 15 de Solalto, Año 3, Día continuo 821  ')
 [void]$builder.AppendLine('**Alcance:** canon derivado vigente, mundo, todas las fichas de personajes, sistemas, continuidad operativa, agentes narrativos, roleplay, novela, amistades y finanzas.')
 [void]$builder.AppendLine()
-[void]$builder.AppendLine('Las fuentes narrativas originales y sus respaldos no se duplican aquí. Permanecen en el núcleo de PC como matriz de solo lectura. Los estados anteriores están incluidos únicamente como historia y nunca desplazan el estado rector del 31 de Floris.')
+[void]$builder.AppendLine('Las fuentes narrativas originales y sus respaldos no se duplican aquí. Permanecen en el núcleo de PC como matriz de solo lectura. Los estados anteriores están incluidos únicamente como historia y nunca desplazan el estado rector del 15 de Solalto.')
 
 foreach ($relative in $ordered) {
   $sourcePath = Join-Path $root $relative
@@ -149,12 +153,12 @@ $manifest = @"
 ## Archivos para subir
 
 1. **00_INSTRUCCIONES_Y_ESTADO.md**
-2. **01_NUCLEO_SAWARDO_COMPLETO_31_FLORIS_AÑO3.md**
+2. **01_NUCLEO_SAWARDO_COMPLETO_15_SOLALTO_AÑO3.md**
 
 ## Composición
 
 - Módulos compilados: $($ordered.Count)
-- Presente rector: 31 de Floris, Año 3, Día 806, 23:45.
+- Presente rector: 15 de Solalto, Año 3, Día continuo 821.
 - Personajes incluidos: todas las fichas Markdown vigentes de **03_PERSONAJES/**, incluidas Elena Weissmann, Nadia Falkenberg y Greta Hoffmann.
 - Incluye los agentes narrativos de **06_AGENTES/**, en especial el auditor de cierre mensual que propaga avances fuera de cámara sin deformar personajes ni convertir semillas en hechos.
 - Fuera del paquete: fuentes originales completas, **_RESPALDOS**, **tmp**, **.git**, **.obsidian**, auditorías históricas, deltas y fotografías históricas redundantes, exportaciones antiguas y archivos binarios.
@@ -163,7 +167,7 @@ $manifest = @"
 ## Integridad
 
 - **00_INSTRUCCIONES_Y_ESTADO.md** — SHA-256: $instructionHash
-- **01_NUCLEO_SAWARDO_COMPLETO_31_FLORIS_AÑO3.md** — SHA-256: $coreHash
+- **01_NUCLEO_SAWARDO_COMPLETO_15_SOLALTO_AÑO3.md** — SHA-256: $coreHash
 
 El manifiesto sirve para verificar la generación; no es necesario cargarlo en ChatGPT.
 "@

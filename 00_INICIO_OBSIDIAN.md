@@ -1,13 +1,13 @@
 # 🌌 PORTAL CENTRAL — NÚCLEO SAWARDO
 
 > [!INFO] **ESTADO OPERATIVO VIGENTE**
-> - **Fecha Canónica:** **31 de Floris, Año 3 (Día continuo 806)**.
+> - **Fecha Canónica:** **15 de Solalto, Año 3 (Día continuo 821)**.
 > - **Escena Activa:** 21:10 en los jardines de Gutiérrez Estate; terminó la cena posterior al cierre financiero y Max sigue bajo control exclusivo del usuario.
 > - **Operación en curso:** Revisión de la garantía contra Ravenwood; responsabilidades de Corven y Verrick todavía no resueltas.
-> - **Comunicaciones:** Dos terminales **G1** en enlace directo (`DOCTOR` y `BAKARINA`) entre Max, [[03_PERSONAJES/Aria|Aria]] y [[03_PERSONAJES/Yuki_Moriyama_Lady_Marianne|Yuki]]. Mizuki investiga por separado en el exterior.
+> - **Comunicaciones:** Seis terminales físicos **G1.03** en pruebas controladas; siguen pendientes seguridad, temperatura, movilidad, consumo e interferencias. No existe G2.
 > - **Alerta de Cumpleaños:** 🎂 Próxima: **Natalia, 14 de Solalto**. Después Aria (22) y Sayaka/Evelyn (30).
-> - **Documento de Continuidad Principal:** [[05_CONTINUIDAD/CURRENT_STATE_31_FLORIS_AÑO3|CURRENT_STATE_31_FLORIS_AÑO3]]
-> - **Frentes de apertura de Solalto:** auditoría de **G1.03**; materiales del Serath-Maru; *La cámara secreta* desde el 10; dos obras teatrales y misterios abiertos.
+> - **Documento de Continuidad Principal:** [[05_CONTINUIDAD/CURRENT_STATE_15_SOLALTO_AÑO3|CURRENT_STATE_15_SOLALTO_AÑO3]]
+> - **Frentes de apertura del 16 de Solalto:** Serath, G1.03, ensayo teatral, cumpleaños de Aria o salto controlado; ninguna opción está elegida.
 > - **Frentes de Max:** Casa Ardel entra en cierre ordenado; Ravenwood, Cecilia/Mizuki, G1/cámara histórica, Gremio/Kira y economía siguen disponibles según decisión del usuario.
 
 ---

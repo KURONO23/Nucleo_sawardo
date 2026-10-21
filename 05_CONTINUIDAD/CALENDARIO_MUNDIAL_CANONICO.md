@@ -1,7 +1,7 @@
-# CALENDARIO MUNDIAL CANÓNICO — PRESENTE: 31 DE FLORIS, AÑO 3
+# CALENDARIO MUNDIAL CANÓNICO — PRESENTE: 15 DE SOLALTO, AÑO 3
 
 > FUENTE MAESTRA ÚNICA del calendario narrativo de Aldoria / NÚCLEO_SAWARDO.
-> Autoridad temporal vigente al 31 de Floris, Año 3. Los registros del Año 2 y los cortes anteriores se preservan como historial.
+> Autoridad temporal vigente al 15 de Solalto, Año 3. Los registros del Año 2, Floris y los cortes anteriores se preservan como historial.
 
 ---
 
@@ -99,7 +99,16 @@
 
 - **27 de Albor — Galwin:** fecha transcurrida; celebración no documentada. No reconstruir detalles retrospectivamente.
 
-## 7. Presente canónico — 1 de Floris, Año 3
+## 7.2 Presente canónico — 15 de Solalto, Año 3
+
+- **Fecha actual:** 15 de Solalto, Año 3 · Día continuo 821 · cierre nocturno.
+- **Punto rector:** [[CURRENT_STATE_15_SOLALTO_AÑO3]].
+- **Corte previo:** 31 de Floris, Año 3, histórico; su cierre de liquidez fue 928.175 oro.
+- **Próxima decisión:** 16 de Solalto; ninguna de las cinco opciones de la fuente está elegida.
+- **Próxima alerta prioritaria:** Aria, 22 de Solalto. La preparación o celebración requiere decisión expresa de Max.
+- **Siguiente alerta:** Sayaka/Evelyn, 30 de Solalto.
+
+## 7.0 Corte histórico — 1 de Floris, Año 3
 
 - **Fecha actual:** 1 de Floris, Año 3 · Día continuo 776 · 21:10.
 - **Punto rector vigente:** [[CURRENT_STATE_1_FLORIS_AÑO3]].
@@ -107,7 +116,7 @@
 - **Max:** conserva control exclusivo del usuario; no avanzar automáticamente al estreno teatral ni resolver frentes abiertos fuera de escena.
 - **Cumpleaños:** la próxima fecha es Ryu, 8 de Floris. Después siguen Liora, 17 de Floris, y Serath, 31 de Floris.
 
-## 7.1 Presente canónico — 31 de Floris, Año 3
+## 7.1 Corte histórico — 31 de Floris, Año 3
 
 - **Fecha actual:** 31 de Floris, Año 3 · Día continuo 806 · 23:45.
 - **Punto rector:** [[CURRENT_STATE_31_FLORIS_AÑO3]].

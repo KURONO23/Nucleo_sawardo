@@ -25,6 +25,13 @@ Max, aplicando sus conocimientos de ingeniería civil, termodinámica y mecánic
   4. *Aparejo Velamen Auxiliar:* Velamen de junco salino impermeable mareviano para navegar a vela en caso de apagado de caldera.
 - **Velocidad Máxima:** 14 nudos constantes río arriba contra corriente; 18 nudos en mar abierto.
 
+## ADDENDUM OPERATIVO — SERATH-MARU, 15 DE SOLALTO, AÑO 3
+
+- La denominación operativa vigente es **Serath-Maru**. El rótulo anterior `Serath-Max` se conserva únicamente como referencia histórica y no debe usarse para el estado presente.
+- La embarcación está en reparación y pruebas parciales. La fuente no valida todavía las velocidades históricas de esta ficha como prestaciones operativas actuales.
+- Persisten vibraciones y límites de navegación; no se autoriza un viaje largo ni se presenta el buque como plenamente listo para travesía.
+- El frente mecánico continúa coordinado con G1.03, pero ninguna anomalía del buque se convierte por sí sola en una regla nueva de Sawardo.
+
 ---
 
 ## 3. NAVEGACIÓN Y CARTOGRAFÍA: LA CARTA CELESTIAL DE JADE

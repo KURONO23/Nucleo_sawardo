@@ -73,3 +73,14 @@ La matriz anterior se conserva como corte del Año 2. Para evolución reciente u
 - **Misa–Torin:** respeto operativo reforzado al ajustar fatiga y patrullas; no romance confirmado.
 - **Kazuki–Hessa:** la relación mejora porque pueden discutir prioridades sin subordinación ni ruptura.
 - **Max–Selene:** sin avance fuera de cámara; toda decisión requiere a Max.
+
+## ESTADO VIGENTE — actualización del 15 de Solalto, Año 3
+
+- **Max–Serath:** matrimonio estable. Serath conserva mando, criterio técnico y tiempo privado; el viaje a Zhong-Kyo depende de la seguridad del Serath-Maru.
+- **Natalia–Kael:** pareja formal desde el 31 de Floris. Las escenas de Solalto muestran continuidad y vida cotidiana; no crean una nueva fecha de formalización ni un anuncio público automático.
+- **Aria–Max/Serath:** vínculo familiar y de confianza. Aria pide una experiencia de cumpleaños compartida, pero la actividad concreta sigue pendiente de decisión de Max.
+- **Haruto–Liora:** pareja estable con tiempo compartido fuera del trabajo y del Gremio.
+- **Leo–Greta:** interés recíproco, conversación directa y planes propios; no noviazgo formal.
+- **Ren–Elena Weissmann:** afecto recíproco expresado, beso y nuevas citas; no noviazgo formal.
+- **Biro–Vivienne:** mayor cercanía y cena acordada; no romance confirmado.
+- **Galwin–Daichi–Mika–aprendices:** delegación técnica reforzada por pruebas reales de seis terminales; las responsabilidades siguen separadas.

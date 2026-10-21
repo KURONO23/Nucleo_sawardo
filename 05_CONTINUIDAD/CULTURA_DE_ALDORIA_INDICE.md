@@ -33,3 +33,9 @@ Al continuar una escena cultural, leer primero este índice, luego el expediente
 
 Los expedientes anteriores fueron ampliados con once capas de recuperación: génesis, escritura, casting, ensayos, desarrollo acto por acto, reacciones individualizadas, comentarios posteriores, reposiciones, adopciones, consecuencias económicas/sociales y trazabilidad de escenas. El control de cobertura y los huecos que no deben inventarse están en [[AUDITORIA_EXTRACCION_CULTURAL_EXHAUSTIVA]].
 
+## ACTUALIZACIÓN OPERATIVA — 10 DE SOLALTO, AÑO 3
+
+- El evento de *Harry Potter y la cámara secreta* se registra como cerrado con **1.220 asistentes**: 680 adultos de pago y 540 niños con entrada gratuita.
+- La recepción infantil y el Festival Infantil permanecen como consecuencias culturales; no se debe inventar una recaudación neta ni mezclarla con la tesorería personal de Max.
+- Cualquier reposición, distribución o cierre económico posterior requiere fuente o asiento explícito.
+

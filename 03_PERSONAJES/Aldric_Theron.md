@@ -139,3 +139,11 @@ Fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Añ
 ## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
 
 - Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.
+
+## ADDENDUM DE DESARROLLO — LECTURA PATERNAL Y POLÍTICA DE ROWAN HASTA EL 15 DE SOLALTO, AÑO 3
+
+- Ante la consulta privada de Caelan sobre el cambio de Rowan, Aldric evita convertir una sospecha en acusación. Reconoce que pensar en reformas o continuidad institucional no equivale por sí solo a traicionar a la Corona.
+- Recuerda que los resultados de Max ocultan trabajo, riesgo, financiación, errores, relaciones y delegación. Considera importante que Rowan y Efraín vean ese proceso antes de juzgar o imitar sus estructuras.
+- Decide no abrir una investigación oficial sobre Rowan. Prefiere observación familiar y límites claros: si aparece una acción ilegítima, la Corona responderá; mientras tanto, Rowan conserva espacio para pensar.
+- Acepta asistir con Caelan y Rowan a la futura representación de la nueva comedia de Max cuando exista una fecha. No autoriza todavía ningún acceso especial ni presión sobre el proyecto confidencial.
+- **Crecimiento:** refuerza su capacidad de distinguir entre una amenaza, una duda familiar y una reforma potencial. Protege la Corona sin convertir toda diferencia de criterio en sedición.

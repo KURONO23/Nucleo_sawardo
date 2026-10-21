@@ -72,3 +72,9 @@ La ausencia de fecha no significa ausencia de vínculo. Mantener en lista de inv
 
 La pregunta obligatoria es: **«¿El intervalo cruza algún cumpleaños del círculo de Max?»** Si la respuesta es sí, detener el salto y avisar al usuario. Para Serath y Aria se requiere decisión expresa; para los demás se ofrece la opción de celebración automática, pero no se activa sin deseo o preferencia vigente de Max.
 
+## Corte operativo — 15 de Solalto, Año 3
+
+- Natalia (14 de Solalto): fecha transcurrida dentro del tramo fuente; no se registra una celebración confirmada que deba inventarse retrospectivamente.
+- Aria (22 de Solalto): próxima fecha prioritaria; la fuente confirma su deseo de compartir tiempo, no la actividad concreta ni su celebración.
+- Sayaka/Evelyn (30 de Solalto): futura; detener cualquier salto que la cruce y ofrecer opciones a Max.
+
