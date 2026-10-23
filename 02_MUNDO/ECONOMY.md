@@ -96,3 +96,26 @@ Referencias: PDF, pp. 12-14, 447-488, 703-717, 868-872; `CONTR-007/010/012/056/0
 - Cadena auditada: 919.241 al 1 de Floris → 928.175 al cierre de Floris → 926.985 después de G1.03 → **925.185** después del viaje personal a la playa de 1.800 oro del 8 de Solalto.
 - El viaje a la playa es el gasto que explica la reducción final; no debe contarse como gasto empresarial ni volver a descontarse.
 - El mes de Solalto sigue abierto: los costes empresariales y cualquier ingreso posterior requieren cierre o comprobante antes de modificar la liquidez personal.
+
+## ACTUALIZACIÓN DERIVADA — 30 DE SOLALTO, AÑO 3
+
+- El cumpleaños de Sayaka/Evelyn produjo un gasto personal confirmado de **290 oro**.
+- Liquidez personal operativa: **924.895 oro**.
+- Las recompensas por 3.450 oro ganadas por Haruto, Ren y Leo se pagan directamente: 1.150 oro para cada uno. No existe un fondo colectivo y no entra dinero en la caja de Max.
+- La auditoría del 1 de Estival debe conciliar negocios, dividendos y gastos empresariales antes de declarar cerrado Solalto.
+
+## CIERRE RECTOR — 1 DE DORAVIA, AÑO 3
+
+- Liquidez personal conciliada al cierre de Estival: **925.223,3 oro**.
+- Cadena: apertura efectiva de Estival 935.165 − 20.211,7 de salidas = 914.953,3; cierre operativo de Estival +7.270 ordinarios +3.000 fijos de Esmeralda = **925.223,3 oro**.
+- Después del cierre, Max constituye un fondo infantil de 15.000 y complementa con 11.900 el remanente cervecero de 12.100. Liquidez personal libre: **898.323,3 oro**.
+- Fondos separados: Terreno A **9.445 oro**; Festival Infantil **15.000 oro**; Festival de la Cerveza **24.000 oro**.
+- Ambos presupuestos culturales son techos anuales. Los ingresos de cada evento reponen primero su propia reserva; una vez recuperada, no existe aporte personal automático de Max. Natalia, Elise y Vivienne pueden rechazar partidas desproporcionadas.
+- Las recompensas de Haruto, Ren y Leo son propiedad individual de ellos.
+
+## ADDENDUM ECONÓMICO — 18 DE DORAVIA, AÑO 3
+
+- La cifra de 898.323,3 oro es el último ancla libre antes de las operaciones posteriores; no se presenta como saldo final del 18 de Doravia.
+- La venta de materiales de la misión de Max tiene tres tasaciones incompatibles en las fuentes del corte. El estado vigente es **PENDIENTE_DE_CONCILIAR** hasta que Natalia, Elise y Vivienne revisen procedencia, peso y precio.
+- La taquilla y los gastos de *Mi fin de semana con el muerto* todavía no se contabilizan. Los pagos de Haruto, Ren y Leo siguen separados de la caja de Max.
+- Fuente: [[FINANZAS/FINANZAS_CANON_VIGENTE]] y [[01_CANON/CONTRADICCIONES]].

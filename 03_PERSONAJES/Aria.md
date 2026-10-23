@@ -39,7 +39,7 @@ Aria evolucionó de un registro protocolario a una voz propia: conserva precisi�
 - También tiene deseos y curiosidades que no son laborales: viajar sin convertirlo todo en una misión, disfrutar una casa que ya siente como hogar, aprender cosas difíciles por gusto y explorar una práctica musical propia.
 - La flauta del 15 de Solalto confirma una línea importante: Aria acepta ser principiante, experimentar y disfrutar algo que no domina. Es una elección personal, no una tarea de Max ni una función de Sawardo.
 - Su presente combina antigüedad y juego, capacidad técnica y sensibilidad, protección y libertad, ironía y ternura. Esa mezcla —no una sola etiqueta— es la personalidad que debe conservarse.
-- Fuente del corte: `00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.
+- Fuente del corte: `00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md` y `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3.md`.
 
 ## DIRECTRIZ DE RECUPERACIÓN DE VOZ
 
@@ -295,4 +295,10 @@ Aria puede iniciar una vigilancia exterior discreta alrededor de Gutiérrez Esta
 - Aria sostiene una identidad propia dentro del círculo de Max: eligió y practica una flauta, y su música no se registra como simple extensión de Sawardo ni como decisión de Max.
 - El tono de “Aria contadora” queda limitado a un chiste ocasional dentro de la convivencia; no define su personalidad, su voz ni sus prioridades permanentes.
 - Su siguiente hito autónomo es consolidar una voz musical propia y presentar una pieza cuando ella lo decida. No se fija resultado ni fecha sin escena.
-- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.
+- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3.md`.
+
+## ADDENDUM DE ESTADO — 1–18 DE DORAVIA, AÑO 3
+
+- Aria acompañó una misión botánica de clase C y mantuvo su humor sarcástico y alegre, incluyendo la discusión del flautín y su autonomía musical. No es una interfaz ni una caricatura: sus decisiones y curiosidad tienen voz propia.
+- Durante el estreno observó el resultado de los Cinco del Barril y conservó una posición de apoyo crítico. La red G1 no se trató como acceso fuera de Aldoria.
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].

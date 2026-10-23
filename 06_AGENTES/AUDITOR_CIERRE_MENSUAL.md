@@ -14,6 +14,10 @@ El mundo no espera a Max, pero tampoco progresa por milagro. Conservas la autor�
 - No se activa por un cambio de día ordinario ni interrumpe una escena todavía abierta.
 - También se activa cuando el usuario anuncia que agregó una fuente que completa o amplía un mes y solicita actualizar el núcleo.
 
+## Archivo íntegro de chats — regla obligatoria
+
+Antes de declarar el cierre, aplicar [[PROTOCOLO_ARCHIVO_CHAT_MENSUAL]]. Debe conservarse en Markdown la transcripción completa y releíble de todos los chats del mes, con los mensajes del usuario y las respuestas narrativas finales del asistente en orden cronológico. Un resumen, un estado rector o un delta nunca sustituyen esa copia. Si hubo varios chats, se incorporan todos en el mismo archivo mensual o en bloques claramente enlazados; los días sin escena se anotan como huecos, sin inventar contenido.
+
 ## Despliegue multiagente obligatorio ante fuentes nuevas
 
 La incorporación de una fuente nueva nunca se audita en una sola pasada individual. El orquestador debe desplegar obligatoriamente los **trece agentes de [[AGENT_REGISTRY]]**, en tantas oleadas concurrentes o sucesivas como sean necesarias:
@@ -57,7 +61,7 @@ No sustituye a esos agentes: coordina el cierre y comprueba que ningún resultad
 
 1. `CURRENT_STATE` del inicio del mes.
 2. Fuentes originales que cubren el mes, solo lectura.
-3. Deltas y estado rector al final del mes.
+3. Transcripción íntegra de todos los chats del mes, fuentes mensuales y estado rector al final del mes.
 4. `PLOT_THREADS`, `TIMELINE`, `RELATIONSHIPS`, `KNOWLEDGE`.
 5. Registro de vida autónoma, cumpleaños y calendario.
 6. Finanzas, sistemas, mundo y fichas de todas las personas afectadas.
@@ -158,17 +162,19 @@ Antes de declarar el mes cerrado:
 4. buscar etiquetas viejas que contradigan el nuevo presente;
 5. comprobar que las fuentes originales no fueron modificadas;
 6. contar fichas afectadas y comprobar campos de propagación;
-7. revisar que los misterios centrales sigan abiertos si no hubo resolución en escena;
-8. verificar que cada éxito tenga coste o límite;
-9. producir la lista de asuntos que pasan al mes siguiente.
-10. adjuntar la matriz `PERSONA/ENTIDAD NOMBRADA → FUENTE → CAMBIO O SIN CAMBIO → ARCHIVOS DE DESTINO` y comprobar que no existan nombres omitidos.
-11. adjuntar la matriz `PERSONA → META CORTA → META MEDIANA → META LARGA → AVANCE DEL MES → COSTE/PAUSA → PRÓXIMA REVISIÓN`.
-12. comprobar que nadie acumule dos cierres consecutivos congelado sin causa interna demostrable.
-13. comparar `03_PERSONAJES/` con [[MATRIZ_UNIVERSAL_VIDA_AUTONOMA_AÑO3]] y rechazar el cierre si falta una sola ficha individual.
+7. comprobar que la transcripción íntegra de cada chat del mes está archivada, indexada y coincide con el rango de fechas; 
+8. anotar cualquier hueco temporal sin rellenarlo por inferencia;
+9. revisar que los misterios centrales sigan abiertos si no hubo resolución en escena;
+10. verificar que cada éxito tenga coste o límite;
+11. producir la lista de asuntos que pasan al mes siguiente.
+12. adjuntar la matriz `PERSONA/ENTIDAD NOMBRADA → FUENTE → CAMBIO O SIN CAMBIO → ARCHIVOS DE DESTINO` y comprobar que no existan nombres omitidos.
+13. adjuntar la matriz `PERSONA → META CORTA → META MEDIANA → META LARGA → AVANCE DEL MES → COSTE/PAUSA → PRÓXIMA REVISIÓN`.
+14. comprobar que nadie acumule dos cierres consecutivos congelado sin causa interna demostrable.
+15. comparar `03_PERSONAJES/` con [[MATRIZ_UNIVERSAL_VIDA_AUTONOMA_AÑO3]] y rechazar el cierre si falta una sola ficha individual.
 
 ## Salida obligatoria
 
-1. Delta mensual.
+1. Transcripción íntegra de todos los chats del mes.
 2. `CURRENT_STATE` rector nuevo.
 3. Ciclo autónomo del mes.
 4. Informe de propagación frente por frente.

@@ -30,7 +30,7 @@ La dinámica de trabajo de Los Cinco del Barril funcionaba como una sala de guio
 | Miembro | Rol Central | Función Operativa y Creativa |
 | :--- | :--- | :--- |
 | **Max Josemar Gutiérrez** | **Conceptos, Producción y Dirección** | Aporta las premisas base adaptadas de la cultura pop y cinematográfica terrestre (*The Hangover*, *Beerfest*, etc.), financia las producciones, modera las disputas y supervisa el tono general para evitar anacronismos absurdos. |
-| **Goran** | **Dramaturgia Maestra y Dirección Escénica** | Convierte los conceptos caóticos en estructura teatral pura de tres actos. Diseña el ritmo, las entradas, salidas, pausas cómicas y tiene la **voz final irrevocable del libreto**. Dirige los ensayos de los actores. |
+| **Goran** | **Dramaturgia Maestra y Dirección Escénica** | Convierte los conceptos caóticos en una estructura teatral sólida por actos. Diseña el ritmo, las entradas, salidas, pausas cómicas y tiene la **voz final irrevocable del libreto**. Dirige los ensayos de los actores. |
 | **Darian Holt** | **El Filtro Lógico y Coherencia de Reglas** | Capitán veterano y camarada de guerra de Serath Vale. Es el ancla de sobriedad: verifica la causalidad temporal, las distancias físicas, los vacíos legales y la credibilidad táctica. Evita que las tramas dependan de que los personajes sean idiotas sin motivo. Por su obsesión con los reglamentos, Biro lo apodó burlonamente **«El Contador»** (germen del personaje *Nim*). |
 | **Biro** | **Caos Cómico y Fuerza de Impacto** | El motor de la exageración tabernera. Propone locuras desmedidas («¡orina de oso!», «¡un tigre!», «¡un burro!»), prueba la resistencia de las jarras y actúa como barómetro del humor popular directo. Si Biro no se ríe, el chiste no sirve. |
 | **Haruto Kazagami** | **Corazón Emocional y Humanidad** | El nexo entre la fantasía y el sentimiento humano. Haruto se asegura de que los personajes tengan alma, que el público se preocupe por ellos y que la comedia no sea cruel ni hueca. Aporta ideas de camaradería juvenil y redención emocional (defensor crucial de la escena de despedida de Selene Mar). |
@@ -87,3 +87,10 @@ Tras la consolidación de sus producciones, Max y Goran fueron invitados a la Ac
 - **Fórmula:** «Los Cinco del Barril + Jasmine».
 - **El Rol de Jasmine:** Actuó como el puente erudito y académico entre la retórica formal de los profesores de la corte y la espontaneidad práctica del taller de guionistas.
 - **Seminario «Del mito al MacGuffin»:** Masterclass donde explicaron cómo convertir leyendas populares estáticas en detonantes narrativos que mueven a los personajes, cómo dosificar la comedia sin destruir la tensión dramática y cómo construir arcos donde hasta el personaje más diminuto o absurdo tiene un momento de dignidad y triunfo.
+
+## ADDENDUM DE ESTADO — ESTRENO, 18 DE DORAVIA, AÑO 3
+
+- *Mi fin de semana con el muerto* completó cuatro actos y quince escenas. El final aprobado permaneció inamovible y el público recibió la obra con aplausos iniciales.
+- Max, Goran, Biro, Darian y Haruto quedaron visibles en los saludos. La recepción crítica, taquilla, gastos y posibles reposiciones siguen abiertos hasta la conciliación.
+- La bofetada del noble y las pequeñas venganzas del soldado fueron gags de marioneta y actuación; no hubo violencia real ni lesión.
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].

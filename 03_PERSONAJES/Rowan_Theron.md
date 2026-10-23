@@ -144,3 +144,17 @@
 - Comprende que Max es libre no solo por su dinero, sino porque delega, permite autoría ajena y construye sistemas capaces de sobrevivir sin su presencia. Rowan decide que Efraín debe observar primero el trabajo que sostiene los resultados de Max.
 - Desea asistir, junto con Aldric y Caelan, a la futura representación de *Mi fin de semana con el muerto* cuando exista fecha. La obra sigue confidencial y no se fija estreno.
 - **Límite vigente:** la prueba de si el Gran Sabio responde a Rowan queda aplazada hasta después de que Efraín presencie la obra y, posteriormente, el trabajo acumulado detrás de las estructuras de Max.
+
+## ADDENDUM DE ESTADO — 16–30 DE SOLALTO, AÑO 3
+
+- Rowan continúa confinado, pero usa su criterio cultural y administrativo para filtrar los informes que recibe Efraín.
+- Le interesa especialmente la separación entre dinero personal, pagos individuales de los aventureros y producción teatral: la considera evidencia de que una institución puede delegar sin volverse anónima.
+- No recupera todavía el control físico ni interviene en la política de Aldoria. Su próximo hito es observar la auditoría y la obra desde la distancia.
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3|transcripción del chat, 16–30 de Solalto]].
+
+## ADDENDUM DE ESTADO — 1–18 DE DORAVIA, AÑO 3
+
+- Rowan recibió informes públicos y cortesanos sobre el estreno, la delegación de Max y el movimiento cultural de Aldoria. No abandona su naturaleza contenida ni se vuelve antagonista automático.
+- Continúa confinado; Efraín y el Gran Sabio coexisten dentro de su cuerpo conforme a la historia paralela. Rowan conserva la capacidad de cuestionar el informe y de poner límites a interpretaciones precipitadas.
+- No tiene acceso directo al G1.04 ni a la Torre de los Nombres. Su siguiente hito es observar las consecuencias públicas del estreno.
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]] y [[00_FUENTES/historias_paralelas/GUIA_DE_CONVERGENCIA_ROWAN_EFRAIN_GRAN_SABIO]].

@@ -4,9 +4,10 @@
 
 ## Corte narrativo
 
-- **Presente financiero de auditoría:** 15 de Solalto, Año 3, día continuo 821.
-- **Último cierre líquido exacto jugado:** 15 de Solalto, Año 3.
-- **Tesorería personal líquida confirmada a ese punto:** **925.185 oro**.
+- **Presente financiero de auditoría:** 1 de Doravia, Año 3, día continuo 868.
+- **Último cierre líquido exacto jugado:** cierre mensual de Estival.
+- **Tesorería personal líquida disponible después de capitalizar ambos festivales:** **898.323,3 oro**.
+- **Saldo inmediatamente anterior a las nuevas reservas culturales:** 925.223,3 oro.
 - **Último cierre mensual completado:** Floris, con **928.175 oro** antes de los movimientos de Solalto.
 - **Advertencia temporal:** los cierres incompletos de Albor–Verdalia se conservan como historia contable, pero el asiento rector posterior del 1 de Floris ya fija liquidez, distribución de Lluvia y el cierre complementario de pendientes. No volver a sumar meses anteriores.
 - No volver a usar 824.000, 827.000, 827.695, 890.935, 898.955, 899.895, 908.365 o 914.375 como saldo presente. Son bases, cortes, subtotales o proyecciones históricas explicadas en el historial.
@@ -26,7 +27,7 @@ La fuente de 1–15 de Solalto confirma la siguiente cadena, que sustituye el sa
 - El viaje a la playa de Max es un **gasto personal confirmado** y ya está descontado. No debe volverse a restar.
 - La liquidez personal permanece en **925.185 oro** al 15 de Solalto. Los costes empresariales del periodo siguen pendientes de cierre mensual y no se inventa un débito adicional.
 - Solalto todavía **no** está cerrado como mes. Esta actualización no convierte ingresos brutos, taquilla ni fondos restringidos en dinero personal sin asiento explícito.
-- Fuente primaria: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.
+- Fuente primaria: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3.md`.
 - Delta aplicado: `05_CONTINUIDAD/DELTA-RP-031_01_A_15_SOLALTO_AÑO3.md`.
 
 ## Conciliación que produce 905.905
@@ -57,7 +58,7 @@ La fuente financiera del Año 2 fija un bloque recurrente histórico de **8.970 
 - **Dragón de Oro:** dos sedes canónicas, Tornhaven y Aldoria. La sede de Aldoria tiene **4.000 oro netos/mes** explicitados en el documento de cocina; el rendimiento mensual separado de la sede de Tornhaven queda `DESGLOSE_NO_CONFIRMADO`.
 - **Editorial Estrella Verde:** **750 oro/mes** como ingreso recurrente histórico; no existe un cierre individual más reciente que actualice esa cifra.
 - **Participaciones mercantes:** **1.350 oro/mes** en el bloque histórico; no se ha presentado un libro individual actualizado.
-- **Cervecería Esmeralda:** rentable, con dividendos periódicos activos y variables. No existe dividendo mensual fijo ni cifra acumulada conciliada; no se suma al 7.270 hasta el cierre de Natalia.
+- **Cervecería Esmeralda:** rentable. Desde la corrección autoral de Estival, Max recibe un **pago fijo mensual de 3.000 oro**; beneficios extraordinarios o dividendos variables se mantienen separados hasta conciliación.
 - **Thornhaven:** mantiene actividad comercial y la sede fundacional del Dragón de Oro, pero la tabla financiera no permite separar con seguridad el importe de 2.870.
 
 ## Seguimiento histórico de los tres meses del Año 3 antes del cierre de Floris
@@ -72,8 +73,8 @@ La fuente financiera del Año 2 fija un bloque recurrente histórico de **8.970 
 ## Cervecería Esmeralda
 
 - Estado: rentable.
-- Dividendos: activos y periódicos.
-- No existe un dividendo mensual fijo canonizado.
+- Pago fijo mensual de Max: **3.000 oro**, canonizado y acreditado en el cierre de Estival.
+- Dividendos o beneficios extraordinarios: variables y sujetos a conciliación separada.
 - El Festival tuvo impacto comercial positivo.
 - Los dividendos antiguos de Noctalia–Albor–Bruma quedan reconocidos como antecedente y cerrados **sin asiento adicional**, porque no pueden separarse con seguridad de saldos ya consolidados.
 - Prohibido inventar o sumar automáticamente una cantidad de Esmeralda al flujo de 7.270.
@@ -82,12 +83,31 @@ La fuente financiera del Año 2 fija un bloque recurrente histórico de **8.970 
 
 ### Festival de la Cerveza
 
-- Fondo histórico asignado: **24.000 oro**.
+- **Presupuesto anual fijo de referencia:** **24.000 oro**.
 - Cuenta independiente de la tesorería personal.
 - Premios de la Copa: **3.000 oro** pagados desde ese fondo; no descontarlos otra vez de Max.
 - Resultados competitivos del Año 3: confirmados (Aldoria ganó los Juegos del Barril; Dravenn/Casa Gravenholt ganó la Copa de Maestros).
 - Balance monetario final del Festival Año 3: **12.100 oro de remanente restringido**.
-- Capacidad para una nueva edición y Festival Infantil: todavía no cerrada con cifra exacta.
+- El 1 de Doravia Max autoriza completar el fondo de la edición del Año 4 hasta **24.000 oro**: se transfieren **11.900 oro** adicionales desde su liquidez personal.
+- La siguiente edición queda reservada para el **22–24 de Bruma, Año 4**. El presupuesto es un techo y una reserva, no una orden de gastarlo íntegramente.
+- Regla de autofinanciación: ingresos por puestos, entradas asociadas, alojamiento, patrocinios y actividad comercial reponen primero el fondo hasta 24.000 oro. Cuando la reserva se recupere, las ediciones futuras deben financiarse desde su propia cuenta; Max solo vuelve a aportar mediante decisión expresa ante un déficit justificado.
+
+### Festival Infantil
+
+- Fecha: **4 de Otoño, Año 3**.
+- Presupuesto anual fijo aprobado el 1 de Doravia: **15.000 oro**.
+- Capitalización inicial: **15.000 oro transferidos desde la liquidez personal de Max** a una cuenta cultural independiente.
+- La participación infantil esencial no depende de cobrar a los niños. La recuperación puede proceder de patrocinadores, puestos para adultos, comida, artesanía, donaciones y excedentes autorizados.
+- Regla de autofinanciación: los ingresos reponen primero la reserva anual de 15.000 oro. Una vez recuperada, el festival debe sostener futuras ediciones desde su propia cuenta; cualquier aporte nuevo de Max requiere déficit documentado y aprobación expresa.
+- Natalia, Elise y Vivienne pueden detener, reducir o devolver una partida desproporcionada. Presupuesto aprobado no equivale a gasto automático.
+
+### Movimiento de capital del 1 de Doravia
+
+| Movimiento | Importe | Saldo personal disponible |
+|---|---:|---:|
+| Saldo después del cierre de Estival | — | 925.223,3 oro |
+| Fondo inicial del Festival Infantil | −15.000 | 910.223,3 oro |
+| Complemento del Festival de la Cerveza: 12.100 → 24.000 | −11.900 | **898.323,3 oro** |
 
 ### Casa del Puente
 
@@ -140,6 +160,21 @@ El saldo actual del fondo no se infiere de esos depósitos históricos: pensione
 - Para reconstrucción anterior: [[HISTORIAL_FINANCIERO_CONSOLIDADO]].
 - Para la auditoría de los tres meses: [[AUDITORIA_FINANCIERA_AÑO3_1_LLUVIA]].
 
+## PROYECTO TERRENO A — CORTE 16 DE ESTIVAL, AÑO 3
+
+Este fondo está separado para su administración, pero el capital inicial de **20.000 oro** salió una sola vez de la liquidez personal de Max y ya está descontado antes del saldo rector de **925.223,3 oro**.
+
+| Concepto | Importe |
+|---|---:|
+| Capital entregado a Ryu y Kenji | 20.000 oro |
+| Gastos previos: reserva, agua, cercado, cajas, semillas, permisos y transporte | −10.300 oro |
+| Estudio de agua y consulta apícola del 14 de Estival | −255 oro |
+| **Saldo disponible** | **9.445 oro** |
+
+- El 16 de Estival se tomaron tres muestras de agua y no se compraron colonias.
+- El análisis químico y estacional sigue pendiente.
+- No sumar este saldo a la tesorería personal ni registrar nuevas compras hasta recibir el resultado.
+
 ---
 
 ## ACTUALIZACIÓN CANÓNICA — 10 AL 20 DE LLUVIA, AÑO 3
@@ -190,3 +225,70 @@ El saldo actual del fondo no se infiere de esos depósitos históricos: pensione
 - Max entregó **900 oro personales** a los nueve autores (100 cada uno). No es gasto de Estrella Verde, préstamo, anticipo ni compra de derechos.
 - Celebraciones, materiales del Serath-Maru, reposiciones y lecturas futuras no se contabilizan sin comprobante o cierre.
 - Fuente: `00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md`.
+
+## CIERRE PROVISIONAL — 30 DE SOLALTO, AÑO 3
+
+| Movimiento | Importe | Cuenta | Estado |
+|---|---:|---|---|
+| Saldo rector al 15 de Solalto | 925.185 | Max | Confirmado |
+| Cumpleaños Sayaka/Evelyn | −290 | Max | Confirmado |
+| Recompensas subyugaciones B | +3.450 | Pagos directos: 1.150 a Haruto, 1.150 a Ren y 1.150 a Leo | No afecta a Max |
+| Teatro | 0 | Producción | Sin contratos ni compras |
+
+**Liquidez personal vigente:** **924.895 oro**.  
+**Próxima revisión:** auditoría del 1 de Estival con Natalia, Elise y Vivienne.  
+**Regla:** no duplicar G1.03, playa ni los pagos individuales ya acreditados a Haruto, Ren y Leo.
+
+Fuente derivada: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3.md`.
+
+## CIERRE RECTOR — 1 DE DORAVIA, AÑO 3
+
+| Movimiento de Estival | Importe | Saldo personal |
+|---|---:|---:|
+| Saldo al 30 de Solalto | — | 924.895 oro |
+| Flujo ordinario mensual | +7.270 | 932.165 oro |
+| Pago fijo mensual de Esmeralda | +3.000 | 935.165 oro |
+| Cumpleaños de Kira | −82 | 935.083 oro |
+| Capital transferido al Terreno A | −20.000 | 915.083 oro |
+| Compras, transporte y almuerzo del 8 de Estival | −21,5 | 915.061,5 oro |
+| Cumpleaños de Elise | −8,2 | 915.053,3 oro |
+| Regalo de Biro | −40 | 915.013,3 oro |
+| Contribución al almuerzo familiar | −60 | **914.953,3 oro** |
+| Flujo ordinario neto del cierre de Estival | +7.270 | 922.223,3 oro |
+| Pago fijo de Esmeralda correspondiente a Estival | +3.000 | **925.223,3 oro** |
+| Fondo inicial del Festival Infantil | −15.000 | 910.223,3 oro |
+| Complemento al fondo cervecero | −11.900 | **898.323,3 oro** |
+
+- El regalo de Natalia por 175 oro pertenece al 14 de Solalto y no se descuenta de nuevo.
+- El Terreno A gastó 10.555 oro de su capital separado y conserva **9.445 oro**; esos gastos internos no vuelven a restarse a Max.
+- Los **12.100 oro** remanentes del Festival de la Cerveza se conservan y reciben 11.900, dejando su fondo en **24.000 oro**. El Festival Infantil recibe una cuenta independiente de **15.000 oro**.
+- **898.323,3 oro** es la liquidez personal libre después de constituir ambas reservas. Los 39.000 oro culturales no se consideran gastados hasta que existan comprobantes.
+- Las recompensas de Haruto, Ren y Leo son pagos personales de ellos y no afectan la caja de Max.
+- **914.953,3 oro** es el subtotal posterior a gastos y anterior al cierre operativo de Estival; no es el saldo final del 1 de Doravia.
+- La cifra **924.795 oro** aparecida durante la narración fue un subtotal incompleto y queda sustituida por esta conciliación.
+
+Fuente mensual: `00_FUENTES/historia_original/AÑO_3/16_01_de_Estival_a_01_de_Doravia_Año_3.md`.
+
+## CORTE PARCIAL — 18 DE DORAVIA, AÑO 3
+
+### Anclas confirmadas
+
+| Movimiento | Importe | Saldo o cuenta |
+|---|---:|---:|
+| Liquidez tras reservas culturales | — | 898.323,3 oro |
+| Almuerzo privado del 1 de Doravia | −180 | **898.143,3 oro** |
+| Festival Infantil | 15.000 | Fondo restringido |
+| Festival de la Cerveza | 24.000 | Fondo restringido |
+| Terreno A | 9.445 | Fondo separado |
+
+### Conciliación bloqueada
+
+- La fuente contiene tres tasaciones incompatibles del lote de Max: **27.450**, **21.240** y **42.120 oro netos** (`CONTR-150`).
+- La misión botánica conserva recompensas incompatibles en oro, especie y plata/cobre (`CONTR-151`).
+- Barril ceremonial y cerveza tienen gastos confirmados de **2.000** y **240 oro**, pero no se aplican a una cifra final mientras la rama de ingresos permanezca abierta.
+- El regalo de Jasmine registra **18 oro**; la taquilla y los costes del estreno no están cerrados.
+- **Liquidez exacta al 18 de Doravia:** `PENDIENTE_DE_CONCILIAR`.
+
+No escoger una rama por ser la última escrita ni sumar taquilla. La próxima escena contable con Natalia, Elise y Vivienne debe seleccionar evidencia, descartar duplicados y producir un asiento único.
+
+Fuente: `00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3.md`.

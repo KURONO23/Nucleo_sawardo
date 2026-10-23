@@ -115,3 +115,9 @@ En el proyecto de *La tragedia del último barril*, Goran conserva el papel de a
 ## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
 
 - Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.
+
+## ADDENDUM DE ESTADO — 1–18 DE DORAVIA, AÑO 3
+
+- Goran dirigió la edición y la coordinación del estreno de *Mi fin de semana con el muerto*. Los cuatro actos y quince escenas llegaron al público sin cambiar el final aprobado.
+- Recibió críticas y aplausos preliminares junto a Max, Haruto, Biro y Darian. Taquilla, gastos y repercusión política aún no tienen asiento definitivo.
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].

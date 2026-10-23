@@ -122,3 +122,36 @@ La directriz vigente desde el 4 de Verdalia, Año 3, separa tres trabajos que an
 - El alcance probado sigue limitado a mensajería local, confirmación, recuperación controlada y mantenimiento reproducible. No se canoniza G2, telefonía, cobertura general ni causalidad con Elaris.
 - Daichi y Mika mantienen la auditoría de temperatura, pérdida de señal y condiciones límite. Galwin conserva la dirección técnica; el siguiente avance requiere evidencia de prueba, no solo disponibilidad de terminales.
 
+## ADDENDUM OPERATIVO — 16–30 DE SOLALTO, AÑO 3
+
+> **Regla de nomenclatura:** G1.03 es la línea base histórica de Solalto. La revisión actual se denomina **G1.04**. No se borra la trazabilidad de G1.03 ni se declara G2.
+
+- G1.04 es una iteración de la misma línea G1: mejora mantenimiento reproducible, control térmico, tráfico multiusuario, permisos, revocación, consumo e interferencias.
+- La Instalación de Servicio Occidental, también llamada Taller Occidental en documentos previos, se usa como archivo técnico para diagnóstico, calibración, reparación menor, sustitución y diseño de terminales portátiles.
+- La instalación no es una fábrica automática, una puerta de tránsito ni una autorización para activar Aguja Muerta, relés antiguos o la red superior.
+- **Galwin** dirige la revisión; **Daichi** audita seguridad y fallos; **Mika** separa compatibilidad de hipótesis y falsos positivos; **Ren** apoya la lectura mágica; **Leo** mantiene evidencias, dependencias y retirada.
+- El estado sigue siendo **prototipo de revisión / validación pendiente**. Faltan pruebas térmicas, duración, seguridad ante captura, permisos, consumo, interferencias, mantenimiento reproducible y una decisión institucional de despliegue.
+
+## ADDENDUM OPERATIVO — 15–16 DE ESTIVAL, AÑO 3
+
+- Galwin entregó terminales o perfiles de prueba **G1.04** al círculo de Max para uso controlado. La entrega no convierte la red en pública ni abre acceso a la Red de Nodos.
+- El primer piloto colectivo confirmó mensajes breves, registros de entrenamiento, telemetría y mantenimiento básico. Yuki y Sayaka aportan una carga social realista; Haruto, Ren y Leo aportan datos de campo.
+- Se mantienen dos canales seguros certificados: `DOCTOR` (Max) y `BAKARINA` (Yuki). Los terminales de campo no deben confundirse con canales certificados; Mizuki no recibe un tercer G1 certificado.
+- El sistema debe conservar límites de temperatura, consumo, interferencia, revocación y pérdida de señal. La ráfaga de Haruto elevó el consumo y quedó registrada como casi-incidente, no como fracaso total.
+- **Prohibición vinculante:** no conectar G1.04 directamente con la Red de Nodos, la Torre de los Nombres ni la Aguja Muerta. Esas infraestructuras son secreto de Estado.
+
+## CIERRE TÉCNICO — 1 DE DORAVIA, AÑO 3
+
+- **G1.04 significa revisión 0.4** de la misma línea G1. Sustituye a G1.03 como denominación operativa actual sin borrar el historial técnico.
+- La frase posterior de Galwin sobre no «subir versión» significa no declarar una revisión superior a G1.04 durante las pruebas, no regresar a G1.03.
+- La telemetría colectiva y el límite automático ante el pico de Haruto funcionaron, pero la validación de duración, temperatura, captura, interferencias y mantenimiento continúa.
+- No existe G2, despliegue público ni conexión con Torre, Nodos o Aguja Muerta.
+
+## CORTE TÉCNICO — 18 DE DORAVIA, AÑO 3
+
+- G1.04 permanece confinado a **Aldoria**. No existe comunicación remota con Minas Quebradas; Kazuki solo conoce el proyecto por conversaciones anteriores.
+- La Instalación de Servicio Occidental permite que los aprendices diagnostiquen y corrijan conectores, humedad y fallos de mantenimiento sin intervención constante de Galwin.
+- Daichi completó una prueba adversarial de mensajes incompletos y pausa artificial; Mika separó pérdida de señal, humedad y falsos positivos.
+- La tercera prueba de mantenimiento sigue pendiente. Carcasa térmica, consumo irregular, captura e interferencias continúan como límites.
+- Prohibición reafirmada: ningún enlace directo con Torre de los Nombres, Red de Nodos o Aguja Muerta.
+

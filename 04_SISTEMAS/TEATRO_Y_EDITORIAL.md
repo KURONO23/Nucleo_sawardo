@@ -83,3 +83,34 @@ Las grandes comedias populares no fueron concebidas de forma individual, sino de
 - La línea teatral sigue activa tras el estreno de *La tragedia del último barril*: Biro conserva autoría y Goran dirección; la revisión del segundo acto precede a nuevas reposiciones.
 - *Mi fin de semana con el muerto* continúa en escritura secreta por Los Cinco del Barril. No se registra todavía estreno, taquilla nueva ni contrato que sustituya los cortes económicos previos.
 - La actividad cultural del periodo se cruza con el cierre de *Harry Potter y la cámara secreta*, pero sus ingresos, costes y fondos restringidos deben mantenerse separados de la liquidez personal de Max hasta un cierre contable explícito.
+
+## CANON ESTRUCTURAL — *MI FIN DE SEMANA CON EL MUERTO*
+
+La obra tiene **cuatro actos y quince escenas**. La estructura siguiente procede del libreto de trabajo original y no debe reducirse a tres actos:
+
+| Acto | Escenas | Núcleo |
+|---|---:|---|
+| **I — El fraude, la trampa y el «cadáver»** | 1–3 | El soldado descubre desvíos militares; el noble los invita a Bahía Serena; ambos encuentran al noble aparentemente muerto y deciden fingir que sigue vivo para protegerse y conservar las pruebas. |
+| **II — La fiesta y la escalada del absurdo** | 4–8 | Gafas y pañuelo, saludo ceremonial con el brazo inerte, retrato mágico, brindis forzados, vals con apoyo seguro y primeras señales de que el noble está recuperando movilidad. |
+| **III — El despertar y la caída del noble** | 9–11 | El veneno ficticio pierde efecto por su propia lógica; el noble despierta borracho y furioso; la inspección de la Corona llega y las pruebas y confesiones conducen a la detención del envenenador. |
+| **IV — El tribunal y el sistema** | 12–15 | El soldado afronta un tribunal militar por 47 reglamentos infringidos; los jueces comprometidos abandonan sus puestos; el barrendero comenta que quizá se libró; el aventurero entra celebrando. |
+
+### Final inamovible de Max
+
+El tribunal queda vacío, pero eso no equivale a una absolución: el proceso debe revisarse con una autoridad imparcial. El soldado permanece desconcertado durante un silencio de cinco segundos. Entra un barrendero, observa el estrado desierto y le dice: **«Oiga... creo que zafó de su problema»**. Entonces el aventurero entra corriendo con una jarra, celebra que su amigo ya no está ante los jueces y grita:
+
+> **«¡¡SÍ, EL SISTEMA FUNCIONA!!»**
+
+El soldado alza el puño y acepta la celebración absurda de su amigo; la coreografía de elevación debe ser segura. Suena una adaptación escénica de **_Sweet Victory_** y llega el **apagón inmediato**. Ese remate no se cambia.
+
+Los chistes nuevos, la utilería y las situaciones slapstick —especialmente las del noble-marioneta— pueden ampliarse dentro de los actos I–III y sus transiciones, siempre que no alteren la causalidad, la dignidad funcional del soldado ni ninguna parte del Acto IV y del final anterior.
+
+## ESTRENO — 18 DE DORAVIA, AÑO 3
+
+- La obra se representó íntegramente en el Teatro Estrella Verde con cuatro actos y quince escenas.
+- El final inamovible se conservó, incluida la adaptación instrumental de *Sweet Victory* y el apagón inmediato.
+- Perrin Doss y la marioneta sostuvieron al noble; Nilo Ferran, Kellan Muir y Edda Sol mantuvieron la amistad central y la inspectora competente pero limitada.
+- No hubo lesiones ni fallos de seguridad.
+- Los Cinco del Barril —Max, Goran, Haruto, Biro y Darian— saludaron juntos.
+- Recepción inmediata: ampliamente favorable. Taquilla, gastos, crítica formal, posibles reposiciones y consecuencias políticas continúan pendientes.
+- El aplauso de Marlowe, Credence y Veinhardt no constituye alianza ni aprobación uniforme.

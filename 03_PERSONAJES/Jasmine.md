@@ -166,3 +166,9 @@ El coste es personal: seguir una pista sin Max implica exposición, paciencia y 
 ## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
 
 - Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.
+
+## ADDENDUM DE ESTADO — 1–18 DE DORAVIA, AÑO 3
+
+- Jasmine conserva el regalo práctico de cumpleaños y el expediente V. Sable: hay una coincidencia de rutas, no una identidad ni un culpable confirmado.
+- Observó el proyecto teatral como parte del círculo social de Serath y puede comentar su recepción sin convertir rumores en hechos.
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].

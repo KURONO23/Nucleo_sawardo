@@ -171,4 +171,10 @@ Vivienne concibió por iniciativa propia una gala noble-cultural benéfica auté
 
 - Vivienne mantiene sus responsabilidades en la administración y en la actividad cultural del círculo.
 - El corte no confirma un nuevo dividendo personal ni un cambio de relación; cualquier remuneración futura requiere asiento separado.
-- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.
+- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3.md`.
+
+## ADDENDUM DE ESTADO — 1–18 DE DORAVIA, AÑO 3
+
+- Vivienne mantiene sus responsabilidades administrativas y revisará los asientos del estreno junto a Natalia y Elise. No se fija un dividendo nuevo sin soporte documental.
+- Su cumpleaños del 21 de Doravia permanece reservado en el calendario; la continuidad no lo resuelve antes de que Max pueda intervenir.
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]] y [[CALENDARIO_MUNDIAL_CANONICO]].

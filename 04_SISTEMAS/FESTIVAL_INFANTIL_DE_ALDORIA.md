@@ -5,6 +5,35 @@
 
 ---
 
+## CALENDARIO CANÓNICO Y RESPONSABILIDADES ANUALES
+
+El Festival Infantil es un **evento fijo anual del mundo**, no una actividad que dependa de que Max esté presente cada día.
+
+- **Última edición principal confirmada:** **4 de Otoño, Año 2**. Fue una edición internacional completa y quedó cerrada con sus estaciones, delegaciones, reglas de seguridad y mesa familiar.
+- **Edición satélite posterior:** la zona infantil del Festival de la Cerveza del Año 3 funcionó como mini festival cultural y piloto de actividades, pero **no reemplaza** la edición principal.
+- **Próxima edición reservada:** **4 de Otoño, Año 3**. El 1 de Doravia Max aprobó y capitalizó un presupuesto anual fijo de **15.000 oro**.
+
+### Responsables de preparación
+
+| Área | Responsable principal | Apoyo | Estado al 16 de Estival, Año 3 |
+|---|---|---|---|
+| Presupuesto, fondo y medición de impacto | **Natalia Thornwell** | Elise y Vivienne | 15.000 oro aprobados; desglose y recuperación por controlar |
+| Producción, contratos y proveedores | **Elise Goldcrest** | Vivienne Silverstream | Por abrir carpeta de edición |
+| Seguridad sanitaria y protocolos | **Misa** | Serath y guardia | Marco de seguridad existente; revisión anual pendiente |
+| Magia segura | **Amane** | Academia Real | Estaciones definidas; actualización pendiente |
+| Exploración y orientación | **Jasmine** | Lyssa y Torin | Diseño base existente |
+| Mecánica e inventos | **Galwin Gearwright** | Evelyn y aprendices | Adaptaciones prácticas por presupuestar |
+| Historias y cuentacuentos | **Goran / Estrella Verde** | Los Cinco del Barril | Curaduría de contenidos pendiente |
+| Agua e hidráulica | **Max y Aria** | Ryu y Kenji | Estación canónica; no requiere decisión inmediata |
+
+### Límite financiero
+
+El Festival Infantil tiene una cuenta propia capitalizada con **15.000 oro** de Max. No usa el remanente cervecero. El presupuesto es un techo anual: Natalia, Elise y Vivienne pueden rechazar partidas excesivas y ningún importe se considera gastado sin comprobante.
+
+Los ingresos por patrocinio, puestos para adultos, comida, artesanía y donaciones reponen primero esa reserva. La participación esencial de los niños no se condiciona a pagar. Una vez recuperados los 15.000 oro, las ediciones siguientes se autofinancian; un nuevo aporte personal de Max exige déficit documentado y autorización expresa.
+
+La preparación empieza durante Estival; el montaje y la ejecución pertenecen a la ventana previa y al **4 de Otoño**. No se debe narrar una edición ya realizada antes de esa fecha.
+
 ## 1. ORIGEN Y FILOSOFÍA PEDAGÓGICA
 
 El **Festival Infantil de Aldoria** (conocido popularmente como *El Festival de los Niños*) nació de la confluencia de dos necesidades cruciales:

@@ -140,4 +140,26 @@ El primer reconocimiento con Haruto y Leo sigue pendiente de escena. Ren contin�
 
 - Ren y Elena comparten afecto y un beso confirmado, pero el vínculo no queda declarado como pareja formal.
 - La siguiente decisión relacional permanece abierta y depende de sus elecciones en escena.
-- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.
+- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3.md`.
+
+## ADDENDUM DE ESTADO — 16–30 DE SOLALTO, AÑO 3
+
+- Avanza de nivel 32 a **nivel 33** tras las dos subyugaciones B y conserva rango C.
+- Usa la **Tabla de Contraste Telúrico I** para diferenciar vibración real de falso positivo durante el entrenamiento y las misiones.
+- Recibe **1.150 oro directamente**, como su parte individual de las recompensas; Max no participa ni administra ese dinero.
+- Continúa desarrollando su magia de tierra y su relación con Elena sin formalización automática.
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3|transcripción del chat, 16–30 de Solalto]].
+
+## ADDENDUM DE ESTADO — 17 DE ESTIVAL A 1 DE DORAVIA, AÑO 3
+
+- Participó con Haruto y Leo en una misión B de subyugación; tomó una decisión acotada de terreno y aceptó registrar un falso positivo antes de continuar.
+- El Gremio mostraba una lectura atrasada de nivel 28. Tras la corrección documental de Leo, Ren pasó de **nivel 33 a nivel 34**, conserva **Rango C** y mantiene sus límites de percepción telúrica.
+- Recibió **400 oro** de la recompensa colectiva de 1.200 oro. El dinero pertenece a Ren y no se incorpora a la caja de Max.
+- Fuente de continuidad: [[CURRENT_STATE_1_DORAVIA_AÑO3]].
+
+## ADDENDUM DE ESTADO — 2–18 DE DORAVIA, AÑO 3
+
+- Ren cerró el tramo de entrenamiento y misión en **nivel 35, Rango C**. La percepción telúrica conserva falsos positivos y límites; el ascenso procede de la actividad demostrada, no de una corrección administrativa aislada.
+- Continúa usando la Tabla de Contraste Telúrico I y las técnicas de tierra desarrolladas con Leo y Haruto; el equipo conserva la propiedad individual de sus recompensas.
+- No participó como actor principal del estreno, pero siguió el proyecto y sus consecuencias desde el círculo cercano.
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]] y [[04_SISTEMAS/ADVENTURER_SYSTEM]].

@@ -61,3 +61,9 @@
 ## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
 
 - Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.
+
+## ADDENDUM DE ESTADO — 1–18 DE DORAVIA, AÑO 3
+
+- Eleanor mantiene la caja de siete sellos cerrada y documentó patrones y secuencias sin forzar una apertura ni conectar el fragmento carmesí a una red.
+- El expediente puede adelantarse, pero no se declara descifrado. La Torre de los Nombres y los circuitos restringidos siguen fuera del conocimiento público.
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].

@@ -199,4 +199,18 @@ Natalia participa en la inspección de calidad y costes de Esmeralda junto a Eli
 
 - Natalia y Kael mantienen una relación formal y un frente compartido de vida cotidiana; el periodo no la revierte.
 - Natalia continúa siendo referencia del cierre económico y administrativo, pero Solalto aún no está cerrado y no se le atribuye un nuevo balance sin comprobante.
-- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.
+- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3.md`.
+
+## ADDENDUM DE ESTADO — 16 DE ESTIVAL, AÑO 3
+
+- Natalia queda consolidada como responsable administrativa de preparar el **Festival Infantil del 4 de Otoño, Año 3** y de revisar el impacto laboral y financiero de la siguiente edición del Festival de la Cerveza.
+- Su trabajo inmediato es abrir carpeta, presupuesto, responsables, proveedores, seguridad y métricas de impacto; no se da por ejecutado ningún contrato ni gasto.
+- El remanente restringido del Festival —**12.100 oro**— sigue separado. Natalia no autoriza usarlo automáticamente para el Festival Infantil.
+- Su vínculo con Kael continúa como pareja formal y su administración no queda congelada por los frentes culturales.
+
+## ADDENDUM DE ESTADO — 1–18 DE DORAVIA, AÑO 3
+
+- Natalia conserva la administración de los festivales y las cuentas de Max. La liquidez posterior al estreno y la misión no se cierra mientras subsistan las tres tasaciones incompatibles.
+- Supervisa que el dinero de Haruto, Ren y Leo permanezca en sus cuentas; no existe un fondo de graduados ni una transferencia automática a Max.
+- Su relación con Kael sigue estable y su siguiente revisión se integra al cierre mensual, no a una escena inventada fuera de cámara.
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].

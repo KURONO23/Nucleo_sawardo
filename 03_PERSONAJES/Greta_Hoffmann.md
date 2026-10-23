@@ -109,4 +109,4 @@
 
 - Greta mantiene con Leo una relación cercana y no formalizada; ambos tienen espacio para desarrollar su vínculo sin que el núcleo decida por ellos.
 - No se añade etiqueta de pareja ni resultado futuro sin una escena explícita.
-- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.
+- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3.md`.

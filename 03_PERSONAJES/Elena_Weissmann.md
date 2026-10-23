@@ -106,4 +106,4 @@
 
 - Elena y Ren comparten afecto y un beso confirmado, sin formalización de pareja en el estado vigente.
 - No se fuerza una definición posterior: el vínculo conserva una ruta abierta para la próxima escena.
-- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.
+- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3.md`.

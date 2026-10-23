@@ -2,7 +2,8 @@
 .SYNOPSIS
   Comprobación de solo lectura para el núcleo local de PC.
 .DESCRIPTION
-  No modifica archivos y nunca inspecciona el contenido de 00_FUENTES/historia_original.
+  No modifica archivos. Solo inspecciona la estructura del archivo mensual vigente
+  para contar turnos y roles; no reescribe fuentes originales.
 #>
 
 $ErrorActionPreference = 'Stop'
@@ -15,6 +16,11 @@ $required = @(
   '00_LEER_PRIMERO.md',
   '00_INICIO_OBSIDIAN.md',
   '05_CONTINUIDAD/CURRENT_STATE.md',
+  '05_CONTINUIDAD/CURRENT_STATE_18_DORAVIA_AÑO3.md',
+  '05_CONTINUIDAD/CURRENT_STATE_16_ESTIVAL_AÑO3.md',
+  '05_CONTINUIDAD/CURRENT_STATE_30_SOLALTO_AÑO3.md',
+  '05_CONTINUIDAD/INFORME_PROPAGACION_30_SOLALTO_AÑO3.md',
+  '05_CONTINUIDAD/INFORME_CIERRE_ESTIVAL_AÑO3.md',
   '05_CONTINUIDAD/CURRENT_STATE_15_SOLALTO_AÑO3.md',
   '05_CONTINUIDAD/DELTA-RP-031_01_A_15_SOLALTO_AÑO3.md',
   '05_CONTINUIDAD/INFORME_PROPAGACION_15_SOLALTO_AÑO3.md',
@@ -36,7 +42,9 @@ $required = @(
   '00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md',
   '00_FUENTES/historia_original/AÑO_3/13_01_de_Lluvia_a_01_de_Floris_Año_3.md',
   '00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md',
-  '00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md',
+  '00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3.md',
+  '00_FUENTES/historia_original/AÑO_3/16_01_de_Estival_a_01_de_Doravia_Año_3.md',
+  '00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3.md',
   '03_PERSONAJES/REGISTRO_NOMBRES_CANON.md',
   '03_PERSONAJES/REGISTRO_APELLIDOS_CANON.md',
   '03_PERSONAJES/PLANTILLA_FICHA_CANONICA.md',
@@ -77,6 +85,11 @@ $stale = foreach ($file in $launchers) {
 $current = Join-Path $root '05_CONTINUIDAD/CURRENT_STATE.md'
 if (Test-Path -LiteralPath $current) {
   $currentText = Get-Content -LiteralPath $current -Raw
+  $currentDetail = Join-Path $root '05_CONTINUIDAD/CURRENT_STATE_18_DORAVIA_AÑO3.md'
+  $stateForChecks = $currentText
+  if (Test-Path -LiteralPath $currentDetail) {
+    $stateForChecks += "`n" + (Get-Content -LiteralPath $currentDetail -Raw)
+  }
   foreach ($forbidden in @('Amanecer del Día 654','Gran Noche de Luminarias','Día 807','Día 854')) {
     if ($currentText -match [regex]::Escape($forbidden)) {
       $errorCount++
@@ -169,6 +182,51 @@ if ($missingSourceUpdateRule) {
   Write-Output 'Regla de fuentes nuevas: despliegue obligatorio de los trece agentes'
 }
 
+$maxVoiceFiles = @(
+  'AGENTS.md',
+  '01_CANON/REGLAS_INMUTABLES.md',
+  '07_ROLEPLAY/DIRECTRICES_MAESTRAS_ROLEPLAY.md',
+  '07_ROLEPLAY/ESTILO_DE_NARRACION_Y_VOZ.md',
+  '06_AGENTES/ARBITRO_RP.md',
+  '06_AGENTES/DIRECTOR_NARRATIVO.md',
+  'CHATGPT_NUCLEO/01_INSTRUCCIONES_DE_OPERACION.md'
+)
+$missingMaxVoiceRule = foreach ($file in $maxVoiceFiles) {
+  $path = Join-Path $root $file
+  if (-not (Test-Path -LiteralPath $path)) { continue }
+  $ruleText = Get-Content -LiteralPath $path -Raw
+  if ($ruleText -notmatch '(?is)cada bloque.{0,260}Max|Max.{0,260}cada bloque' -or $ruleText -notmatch '(?i)(mudo|callado)') { $file }
+}
+if ($missingMaxVoiceRule) {
+  $errorCount += @($missingMaxVoiceRule).Count
+  Write-Output 'ERROR DE RP: FALTA LA PARTICIPACIÓN VERBAL OBLIGATORIA DE MAX EN:'
+  $missingMaxVoiceRule | ForEach-Object { Write-Output (' - ' + $_) }
+} else {
+  Write-Output 'Regla de RP: Max habla e interactúa en cada bloque donde está presente'
+}
+
+$serathHumorFiles = @(
+  'AGENTS.md',
+  '01_CANON/REGLAS_INMUTABLES.md',
+  '07_ROLEPLAY/DIRECTRICES_MAESTRAS_ROLEPLAY.md',
+  '07_ROLEPLAY/ESTILO_DE_NARRACION_Y_VOZ.md',
+  'CHATGPT_NUCLEO/01_INSTRUCCIONES_DE_OPERACION.md',
+  'GENERAR_NUCLEO_CHATGPT.ps1'
+)
+$missingSerathHumor = foreach ($file in $serathHumorFiles) {
+  $path = Join-Path $root $file
+  if (-not (Test-Path -LiteralPath $path)) { $file; continue }
+  $ruleText = Get-Content -LiteralPath $path -Raw
+  if ($ruleText -notmatch '(?i)Eso no responde mi pregunta' -or $ruleText -notmatch '(?i)no voy a mentirte') { $file }
+}
+if ($missingSerathHumor) {
+  $errorCount += @($missingSerathHumor).Count
+  Write-Output 'ERROR DE VOZ: EL HUMOR MAX–SERATH NO ESTÁ PROPAGADO EN:'
+  $missingSerathHumor | ForEach-Object { Write-Output (' - ' + $_) }
+} else {
+  Write-Output 'Voz Max–Serath: evasión, réplica y picardía preservadas'
+}
+
 $md = @(Get-ChildItem -LiteralPath $root -Recurse -File -Filter '*.md' | Where-Object {
   $_.FullName -notlike "$source*" -and $_.FullName -notlike "$(Join-Path $root 'sawardo_CHATGPT')*"
 })
@@ -194,7 +252,7 @@ if ($stalePresent) {
   Write-Output 'ERROR: EL CORTE DE 18 DE VERDALIA SIGUE USADO COMO PRESENTE:'
   $stalePresent | ForEach-Object { Write-Output (' - ' + $_) }
 } else {
-  Write-Output 'Presente operativo: 15 de Solalto; 31 de Floris, 1 de Floris, Lluvia y Verdalia quedan históricos'
+  Write-Output 'Presente operativo: 18 de Doravia; Estival, Solalto y los meses anteriores quedan históricos'
 }
 
 $staleSourceNames = @(
@@ -282,14 +340,14 @@ if (Test-Path -LiteralPath $galwinRegistry) {
 
 if (Test-Path -LiteralPath $current) {
   $currentText = Get-Content -LiteralPath $current -Raw
-  foreach ($requiredFact in @('15 de Solalto','Día continuo 821')) {
-    if ($currentText -notmatch [regex]::Escape($requiredFact)) {
+  foreach ($requiredFact in @('18 de Doravia','PENDIENTE_DE_CONCILIAR')) {
+    if ($stateForChecks -notmatch [regex]::Escape($requiredFact)) {
       $errorCount++
       Write-Output ('ERROR EN ESTADO RECTOR: falta el hecho vigente: ' + $requiredFact)
     }
   }
-  foreach ($requiredFact in @('G1.03','Serath-Maru','Natalia y Kael son pareja','Ravenwood','V. Sable','No existe G2')) {
-    if ($currentText -notmatch [regex]::Escape($requiredFact)) {
+  foreach ($requiredFact in @('G1.04','G2','Serath-Maru','Natalia–Kael','Ravenwood','V. Sable')) {
+    if ($stateForChecks -notmatch [regex]::Escape($requiredFact)) {
       $errorCount++
       Write-Output ('ERROR EN ESTADO RECTOR: falta el resultado de Solalto: ' + $requiredFact)
     }
@@ -297,6 +355,34 @@ if (Test-Path -LiteralPath $current) {
   if ($currentText -match '180 días subjetivos|Ren \(nivel 28\+\)|Ascenso gremial \(17 de Lluvia\)') {
     $errorCount++
     Write-Output 'ERROR EN ESTADO RECTOR: persiste una versión contradictoria de la Academia o del ascenso gremial'
+  }
+}
+
+$estivalSource = Join-Path $root '00_FUENTES/historia_original/AÑO_3/16_01_de_Estival_a_01_de_Doravia_Año_3.md'
+if (Test-Path -LiteralPath $estivalSource) {
+  $estivalText = Get-Content -LiteralPath $estivalSource -Raw
+  $turnCount = ([regex]::Matches($estivalText, '(?m)^## Turno ')).Count
+  $userCount = ([regex]::Matches($estivalText, '(?m)^\*\*Usuario:\*\*')).Count
+  $assistantCount = ([regex]::Matches($estivalText, '(?m)^\*\*Asistente:\*\*')).Count
+  if ($turnCount -ne 46 -or $userCount -ne 46 -or $assistantCount -ne 46) {
+    $errorCount++
+    Write-Output ("ERROR EN FUENTE DE ESTIVAL: turnos=$turnCount usuarios=$userCount asistentes=$assistantCount; esperado 46/46/46")
+  } else {
+    Write-Output 'Fuente mensual de Estival: 46 turnos / 46 usuarios / 46 asistentes'
+  }
+}
+
+$doraviaSource = Join-Path $root '00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3.md'
+if (Test-Path -LiteralPath $doraviaSource) {
+  $doraviaText = Get-Content -LiteralPath $doraviaSource -Raw
+  $turnCount = ([regex]::Matches($doraviaText, '(?m)^## Turno ')).Count
+  $userCount = ([regex]::Matches($doraviaText, '(?m)^\*\*Usuario:\*\*')).Count
+  $assistantCount = ([regex]::Matches($doraviaText, '(?m)^\*\*Asistente:\*\*')).Count
+  if ($turnCount -ne 43 -or $userCount -ne 43 -or $assistantCount -ne 43) {
+    $errorCount++
+    Write-Output ("ERROR EN FUENTE DE DORAVIA: turnos=$turnCount usuarios=$userCount asistentes=$assistantCount; esperado 43/43/43")
+  } else {
+    Write-Output 'Fuente de Doravia: 43 turnos / 43 usuarios / 43 asistentes'
   }
 }
 

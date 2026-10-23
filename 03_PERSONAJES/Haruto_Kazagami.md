@@ -172,4 +172,26 @@ Haruto acepta la disculpa de Mizuki sin conceder perdón completo. Mantiene su p
 
 - Haruto y Liora conservan un vínculo estable y de apoyo dentro del círculo; el periodo no introduce una ruptura ni un cambio de estado.
 - Haruto mantiene además su función editorial y de corrección humana en los proyectos culturales, sin convertirla en cierre económico personal.
-- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.
+- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3.md`.
+
+## ADDENDUM DE ESTADO — 16–30 DE SOLALTO, AÑO 3
+
+- Conserva nivel 46 y la elegibilidad S sigue pendiente de evaluación formal.
+- Integró la **Matriz de Ritmo Relámpago I** en el entrenamiento de sus posturas de trueno y en las dos subyugaciones B.
+- Recibe **1.150 oro directamente**, como su parte individual de las recompensas; Max no participa ni administra ese dinero.
+- Mantiene a Liora y su vida propia fuera de Sawardo; el entrenamiento no convierte la pareja ni el rango en recompensa automática.
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3|transcripción del chat, 16–30 de Solalto]].
+
+## ADDENDUM DE ESTADO — 17 DE ESTIVAL A 1 DE DORAVIA, AÑO 3
+
+- Participó con Leo y Ren en una misión B de subyugación y evaluación de campo sin monopolizar el mando.
+- El registro gremial mostró inicialmente una lectura atrasada de nivel 43; Leo la corrigió contra la ficha vigente. Haruto pasó de **nivel 46 a nivel 47**, conserva **Rango A** y mantiene pendiente la evaluación S.
+- Recibió **400 oro** de la recompensa colectiva de 1.200 oro. El dinero pertenece a Haruto y no se incorpora a la caja de Max.
+- Fuente de continuidad: [[CURRENT_STATE_1_DORAVIA_AÑO3]].
+
+## ADDENDUM DE ESTADO — 2–18 DE DORAVIA, AÑO 3
+
+- Haruto cerró el tramo de entrenamiento y misión en **nivel 48, Rango A**. La evaluación S sigue pendiente; las lecturas atrasadas del gremio no crean niveles duplicados.
+- Su interfaz y Siri documentaron el uso de Paso Relámpago II y el combate no letal; conserva las técnicas de trueno como trabajo propio, no como copia automática de referencias externas.
+- Participó en el estreno como actor y colaborador de Los Cinco del Barril. Recibió y conserva su parte de recompensas; ese dinero no pertenece a Max.
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]] y [[04_SISTEMAS/ADVENTURER_SYSTEM]].

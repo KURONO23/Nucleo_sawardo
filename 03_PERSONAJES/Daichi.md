@@ -121,4 +121,11 @@ Su crecimiento está en aceptar que el método también debe enseñar y no solo 
 
 - Daichi conserva su papel de auditor independiente de G1.03: temperatura, pérdida de señal, recuperación y condiciones límite.
 - No se registra una conclusión técnica que permita ampliar el sistema a G2, red pública o cobertura nacional.
-- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.
+- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3.md`.
+
+## ADDENDUM DE ESTADO — 16–30 DE SOLALTO, AÑO 3
+
+- Audita G1.04 como revisión de G1.03, con foco en seguridad, temperatura, duración, captura, permisos, consumo e interferencias.
+- Acepta la Instalación/Taller Occidental solo como referencia documental de mantenimiento; no interpreta su existencia como permiso para activar relés o la capa superior.
+- Su siguiente decisión técnica requiere evidencia reproducible y una retirada segura.
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3|transcripción del chat, 16–30 de Solalto]].

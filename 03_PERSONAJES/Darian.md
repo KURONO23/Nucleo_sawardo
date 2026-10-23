@@ -134,3 +134,9 @@ Darian no es un colaborador ocasional ni un actor: es el **quinto miembro origin
 ## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
 
 - Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.
+
+## ADDENDUM DE ESTADO — 1–18 DE DORAVIA, AÑO 3
+
+- Darian actuó como el soldado y sostuvo la disciplina del montaje. La revancha cómica con la marioneta del noble se mantuvo como recurso escénico, con seguridad revisada.
+- Participó en los saludos finales junto a Los Cinco del Barril. No se fija todavía un contrato, una gira ni una alianza política.
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].

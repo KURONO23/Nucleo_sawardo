@@ -98,4 +98,4 @@ No se encontró respaldo en las fuentes auditadas para abrir la partida con **8.
 
 - El viaje a la playa explica la liquidez final del corte y no debe duplicarse.
 - Solalto permanece abierto como cierre mensual; los costes empresariales pendientes no alteran todavía el saldo personal confirmado.
-- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.
+- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3.md`.

@@ -163,3 +163,53 @@ Ambos frentes pueden avanzar en paralelo: tecnología mantenible e institución 
 | Economía de Solalto | `MOVIMIENTOS REGISTRADOS / CIERRE PENDIENTE` | Conciliar costos empresariales; conservar 925.185 como liquidez personal actual. |
 | Decisión de Max | `CONTROL DEL JUGADOR` | Elegir una de las cinco opciones del 16 o formular una acción propia. |
 | Corona / Gran Sabio | `ACTIVO FUERA DE CÁMARA / DESARROLLO ROWAN–EFRAÍN` | Desarrollar el despertar posterior al Festival de la Cerveza; observar cómo Rowan, Efraín y el Gran Sabio negocian el cuerpo y el propósito antes de una aparición pública. |
+
+## Hilos rectores — 30 de Solalto, Año 3
+
+| Hilo | Estado | Próximo paso exacto |
+|---|---|---|
+| **G1.04** | `PROTOTIPO DE REVISIÓN / VALIDACIÓN PENDIENTE` | Galwin dirige pruebas térmicas, seguridad, duración, permisos, consumo, interferencias y mantenimiento reproducible; G1.03 queda como línea histórica. |
+| **Aguja Muerta, relés y nodos** | `RESTRINGIDOS / SIN CONEXIÓN DIRECTA` | Usar la Instalación/Taller Occidental como referencia de reparación y diagnóstico; no activar capa superior ni red antigua. |
+| **Mi fin de semana con el muerto** | `SELECCIÓN PRELIMINAR AUTORIZADA` | Resolver motivo, pistas, lectura integral, prueba actor–marioneta y seguridad; conservar el final inamovible. |
+| **Cumpleaños de Sayaka/Evelyn** | `CERRADO` | No duplicar regalo ni gasto de 290 oro. |
+| **Cumpleaños de Kira** | `PRÓXIMO — 6 DE ESTIVAL` | Preparar regalo útil y celebración acorde a sus gustos, sin otro cuaderno por defecto. |
+| **Auditoría mensual** | `OBLIGATORIA — 1 DE ESTIVAL` | Natalia, Elise y Vivienne deben separar tesorería, dividendos, pagos individuales de los aventureros, teatro e inversiones antes del siguiente salto. |
+| **Rowan/Efraín/Gran Sabio** | `OBSERVACIÓN PALACIEGA` | Mostrar vida palaciega e informes fragmentarios sin intervención directa ni omnisciencia. |
+| **Relaciones jóvenes** | `VIVAS / GRADUALES` | Haruto–Liora estable; Leo–Greta y Ren–Elena avanzan sin formalización automática; Biro–Vivienne sigue abierto. |
+
+## Hilos vigentes — 16 de Estival, Año 3 (día continuo 852)
+
+| Hilo | Estado | Próximo paso exacto |
+|---|---|---|
+| **G1.04 de campo** | `PILOTO COLECTIVO / VALIDACIÓN PENDIENTE` | Comparar telemetría, consumo, temperatura, pérdida de señal y mantenimiento sin abrir red pública. |
+| **Canales certificados** | `DOCTOR–BAKARINA / RESTRINGIDOS` | Mantener dos terminales seguros; no conceder un tercer G1 certificado a Mizuki. |
+| **Terreno A** | `MUESTRAS TOMADAS` | Esperar análisis químico; no comprar colonias ni ampliar instalaciones antes del resultado. |
+| **Carta a Kazuki** | `TRÁNSITO INTERMEDIO` | Confirmar lectura con un solo aviso; no inventar respuesta ni peligro. |
+| **Torre y fragmento carmesí** | `CLASIFICADO / ANÁLISIS PRELIMINAR` | Mantener el fragmento con Max y entregar a Eleanor únicamente la documentación permitida. |
+| **Caja de siete sellos** | `CERRADA / CUSTODIA` | No abrir ni conectar con G1.04, Aguja Muerta o Red de Nodos. |
+| **Mi fin de semana con el muerto** | `OBRA PÚBLICAMENTE CONOCIDA / CONTENIDO RESERVADO` | Completar casting y prueba actor–marioneta; preservar la sorpresa para Yuki, Sayaka y Mizuki. |
+| **Rowan–Efraín–Gran Sabio** | `OBSERVACIÓN PALACIEGA` | Usar solo información pública; no revelar la consulta clasificada. |
+| **Corven–Severin–Veylan** | `SEPARADOS / ABIERTOS` | Buscar evidencia primaria sin fusionar identidades ni patrocinadores. |
+| **Biro–Vivienne y parejas jóvenes** | `VIDA AUTÓNOMA` | Dar escenas y decisiones propias sin usar G1 como atajo romántico. |
+| **Festival Infantil Año 3** | `EVENTO FIJO / FONDO CAPITALIZADO` | Edición del 4 de Otoño, Año 3 con techo restringido de **15.000 oro**. Preparar programa y proveedores; recuperar el fondo sin cobrar la participación infantil esencial. |
+| **Festival de la Cerveza Año 4** | `EVENTO FIJO / FONDO CAPITALIZADO` | Edición reservada para 22–24 de Bruma, Año 4, con techo de **24.000 oro**. Gastar solo contra partidas aprobadas y reponer el fondo con los ingresos del propio evento. |
+| **Estreno de Mi fin de semana con el muerto** | `FECHA FIJADA / PREPARACIÓN FINAL` | Goran fijó el 18 de Doravia, 20:00, Teatro Estrella Verde. Contratar, vestir, probar luces y conservar el final inamovible. |
+| **Almuerzo familiar Aldric–Thalion** | `FECHA RESERVADA / VIDA FAMILIAR` | Reunión fijada para el 25 de Doravia. Mantener el pacto familiar sin resolver asistentes, menú o conversación fuera de escena. |
+| **Haruto–Leo–Ren** | `MISIÓN B COMPLETADA / PROGRESIÓN ACTIVA` | El registro gremial atrasado 43/25/28 fue corregido contra las fichas vigentes: Haruto 46→47, Leo 30→31 y Ren 33→34; recompensa 1.200 oro repartida entre ellos. Aceptar nuevas misiones sin estancamiento. |
+| **Cierre mensual de Doravia** | `DETENIDO — DECISIÓN DEL USUARIO` | No avanzar después del 1 de Doravia hasta recibir la siguiente elección de Max. |
+
+## Hilos vigentes — 18 de Doravia, Año 3, 23:04
+
+| Hilo | Estado | Próximo paso exacto |
+|---|---|---|
+| **Mi fin de semana con el muerto** | `ESTRENO COMPLETADO / RECEPCIÓN ABIERTA` | Cerrar saludos y recepción; después conciliar taquilla, gastos, crítica y repercusiones sin convertir aplausos en alianza. |
+| **G1.04** | `LOCAL EN ALDORIA / TERCERA PRUEBA PENDIENTE` | Probar mantenimiento, humedad, carcasa térmica y consumo; no conectar a infraestructura clasificada. |
+| **Serath-Maru** | `30 MINUTOS A CARGA MEDIA / TRAVESÍA BLOQUEADA` | Revisar temperatura y desgaste antes de otra prueba. |
+| **Terreno A** | `FLORACIÓN PILOTO / SIN COLONIAS` | Medir estación y drenaje antes de atraer o comprar abejas. |
+| **Caja de siete sellos** | `CERRADA / SECUENCIA PARCIAL` | Eleanor continúa análisis documental; no forzar ni conectar al fragmento. |
+| **Kazuki** | `CARTA LEÍDA / RESPUESTA APLAZADA` | Max decide cuándo y cómo responder o visitar. |
+| **Haruto–Ren–Leo** | `48 / 35 / 32` | Mantener misiones y criterio; evaluación S de Haruto sigue abierta. |
+| **V. Sable** | `ANOMALÍA DOCUMENTAL` | Verificar tinta y manifiestos; no acusar sin identidad o patrocinador. |
+| **Corven–Severin–Veylan** | `SEPARADOS / ABIERTOS` | Seguir vías formales y evidencia primaria. |
+| **Finanzas de Doravia** | `PENDIENTE_DE_CONCILIAR` | Resolver CONTR-150 y CONTR-151 con Natalia, Elise y Vivienne; no fijar saldo final ni taquilla. |
+| **Calendario** | `ACTIVO` | Vivienne 21; almuerzo Aldric–Thalion 25; Amane 30; cierre mensual 31. |

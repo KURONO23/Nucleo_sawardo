@@ -150,4 +150,4 @@ Fuente: `00_FUENTES/historia_original/AÑO_1/02_01_Bruma_a_18_Bruma_y_05_Solalto
 
 - Kael y Natalia mantienen su relación formal y su dinámica de apoyo; no se canoniza una nueva crisis ni una ruptura.
 - Su siguiente avance queda ligado a la vida autónoma del círculo y a decisiones en escena, no a un resultado impuesto por el núcleo.
-- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.
+- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3.md`.

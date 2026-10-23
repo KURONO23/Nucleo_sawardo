@@ -2,7 +2,7 @@
 
 > Integración aditiva de la fuente original. La fuente permanece en solo lectura.
 > Último punto confirmado: 15 de Solalto, Año 3, día continuo 821, cierre nocturno.
-> Fuente matriz: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.
+> Fuente matriz: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3.md`.
 
 ## 1. Estado canónico integrado
 

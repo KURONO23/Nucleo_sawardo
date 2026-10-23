@@ -174,4 +174,19 @@ Galwin tiene preparada una presentación de G1-0.3 para Max, Aria, Daichi, Mika,
 
 - Galwin conserva la dirección técnica de G1.03, que opera con seis terminales físicos experimentales y un gasto documentado de 1.190 oro.
 - Mantiene la delegación de secuencias, límites y frente mecánico; el siguiente avance exige pruebas verificables de temperatura, pérdida de señal y recuperación, no una expansión automática.
-- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.
+- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3.md`.
+
+## ADDENDUM DE ESTADO — 16–30 DE SOLALTO, AÑO 3
+
+- Galwin convierte la revisión histórica G1.03 en la iteración operativa **G1.04**, sin saltar a G2.
+- Dirige la reinterpretación de la Instalación/Taller Occidental como archivo de mantenimiento: diagnóstico, calibración, reparación menor, sustitución y documentación.
+- Mantiene a Tilda, Jorik, Sivra y Uldan en tareas con curiosidad propia; no les entrega el núcleo de seguridad ni autoriza destinos.
+- Su siguiente hito es una validación reproducible con Daichi y Mika, no una demostración pública automática.
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3|transcripción del chat, 16–30 de Solalto]].
+
+## ADDENDUM DE ESTADO — 1–18 DE DORAVIA, AÑO 3
+
+- Galwin mantiene el G1.04 bajo mantenimiento reproducible y delega pruebas a sus discípulos; no convierte la Instalación Occidental ni los relés antiguos en una red abierta.
+- Coordinó una prueba del Serath-Maru con carga media de treinta minutos. Temperatura, desgaste y autorización para viajes largos continúan pendientes.
+- El siguiente hito es una tercera validación del G1.04 con Daichi y Mika, con documentación completa y sin detener el resto del taller.
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].

@@ -84,3 +84,58 @@ La matriz anterior se conserva como corte del Año 2. Para evolución reciente u
 - **Ren–Elena Weissmann:** afecto recíproco expresado, beso y nuevas citas; no noviazgo formal.
 - **Biro–Vivienne:** mayor cercanía y cena acordada; no romance confirmado.
 - **Galwin–Daichi–Mika–aprendices:** delegación técnica reforzada por pruebas reales de seis terminales; las responsabilidades siguen separadas.
+
+## ESTADO VIGENTE — 30 DE SOLALTO, AÑO 3 (DELTA RP-032)
+
+- **Max–Serath:** matrimonio estable; la complicidad privada y el humor de evasión permanecen vivos. Serath conserva criterio propio y no conoce detalles que Max decidió omitir de las misiones B.
+- **Natalia–Kael:** pareja formal, con vida propia y sin convertir la auditoría en una escena romántica automática.
+- **Haruto–Liora:** pareja estable; Haruto vuelve de Sawardo con crecimiento técnico y un fondo de recompensas que no pertenece a Max ni a la obra.
+- **Leo–Greta:** afinidad y citas sin noviazgo formal; Leo recibe una trayectoria de criterio y evidencia, no solo fuerza.
+- **Ren–Elena Weissmann:** cercanía y citas sin noviazgo formal; el progreso de Ren se apoya en percepción telúrica y magia de tierra.
+- **Biro–Vivienne:** confianza creciente durante la revisión logística y teatral, sin romance confirmado.
+- **Elise–Goran:** colaboración de vestuario, contratos y producción; no romance confirmado.
+- **Galwin–Daichi–Mika–aprendices:** relación profesional más madura: Galwin delega, Daichi audita, Mika separa hipótesis de compatibilidad y los aprendices defienden su trabajo.
+- **Rowan–Efraín–Gran Sabio:** eje palaciego en observación; la información llega de forma fragmentaria y no autoriza una intervención directa.
+
+Fuente: [[00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3|transcripción del chat, 16–30 de Solalto]].
+
+## ESTADO VIGENTE — 16 DE ESTIVAL, AÑO 3
+
+- **Max–Serath:** matrimonio estable; Serath conserva criterio, mando y límites de seguridad. El cierre del 16 de Estival mantiene su intimidad cotidiana sin convertirla en exposición de secretos clasificados.
+- **Max–Yuki:** amistad íntima y estratégica. En privado Yuki llama a Max **Max-san**; Max puede llamarla **Bakarina** únicamente con confianza. Yuki conoce que existe una nueva obra, pero no su contenido.
+- **Max–Mizuki:** vínculo de reencarnados con confianza recuperada y límites explícitos. Mizuki puede llamarlo **Max-san**; el alias cultural **Frieren** no borra su responsabilidad ni concede absolución. No recibe un tercer G1 certificado.
+- **Yuki–Mizuki:** colaboración cautelosa; comparan información sin convertir cooperación en perdón automático ni intimidad plena.
+- **Yuki–Sayaka:** amistad cultural y comunicación cotidiana mediante terminales de campo; su volumen de mensajes sirve como prueba de carga del G1.04.
+- **Natalia–Kael:** pareja formal, con cuentas y proyectos propios.
+- **Haruto–Liora:** pareja estable; el entrenamiento y el G1 no sustituyen su tiempo personal.
+- **Leo–Greta:** afinidad y citas, sin noviazgo formal.
+- **Ren–Elena Weissmann:** cercanía y citas, sin noviazgo formal.
+- **Biro–Vivienne:** confianza creciente durante la producción teatral, sin romance confirmado.
+- **Elise–Goran:** colaboración profesional; no romance confirmado.
+
+La obra puede ser conocida como proyecto de Los Cinco del Barril; su argumento, giro final y papeles se mantienen como sorpresa para Yuki, Sayaka y Mizuki.
+
+## ESTADO VIGENTE — 1 DE DORAVIA, AÑO 3
+
+- **Max–Serath:** matrimonio estable, íntimo y cotidiano; Serath conserva mando y límites propios. El humor del «Sí» sigue vigente sin volverla pasiva.
+- **Natalia–Kael:** pareja formal con vida compartida y responsabilidades propias.
+- **Haruto–Liora:** pareja estable; Haruto equilibra misiones, entrenamiento y tiempo personal.
+- **Leo–Greta** y **Ren–Elena:** vínculos recíprocos en crecimiento, todavía sin noviazgo automático.
+- **Biro–Vivienne:** acercamiento sostenido durante la producción teatral, sin etiqueta impuesta.
+- **Elise–Goran:** colaboración profesional; no romance confirmado.
+- **Rowan–Efraín–Gran Sabio:** convivencia interna compleja; el desgaste de Rowan no lo convierte en villano ni permite al Gran Sabio control omnisciente.
+
+Fuente íntegra: [[00_FUENTES/historia_original/AÑO_3/16_01_de_Estival_a_01_de_Doravia_Año_3]].
+
+## ESTADO VIGENTE — 18 DE DORAVIA, AÑO 3
+
+- **Max–Serath:** matrimonio estable, afectuoso y cotidiano. Serath acompaña el nerviosismo de Max ante su primera obra original y conserva criterio, mando y límites.
+- **Max–Aria:** confianza familiar con mayor autonomía; Aria acompaña, bromea y reclama que sus logros artísticos sean propios.
+- **Max–Kazuki:** amistad técnica y personal en pausa voluntaria; la carta fue leída y Max decide no responder todavía, sin ruptura ni emergencia.
+- **Los Cinco del Barril:** Max, Goran, Haruto, Biro y Darian quedan públicamente asociados al estreno.
+- **Natalia–Kael** y **Haruto–Liora:** parejas formales estables.
+- **Leo–Greta**, **Ren–Elena** y **Biro–Vivienne:** cercanía creciente; no existe formalización automática.
+- **Elise–Goran:** colaboración profesional fortalecida; no romance confirmado.
+- **Casas antagonistas–Max:** el aplauso reservado no crea alianza ni reconciliación.
+
+Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].

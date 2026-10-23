@@ -140,4 +140,26 @@ Leo mantiene Quest Log en fase de diseño verificable. La primera misión con Re
 
 - Leo y Greta sostienen una cercanía viva y un trabajo compartido, pero no se registra una formalización de pareja.
 - Su siguiente avance relacional queda abierto a una conversación o decisión propia; no se fija resultado fuera de escena.
-- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.
+- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3.md`.
+
+## ADDENDUM DE ESTADO — 16–30 DE SOLALTO, AÑO 3
+
+- Avanza de nivel 29 a **nivel 30** tras las dos subyugaciones B y conserva rango C.
+- Usa el **Sello de Evidencia: Transferencia de Fuerza I** para registrar masa, ángulo, contacto y desplazamiento; deja de ser una recompensa almacenada.
+- Recibe **1.150 oro directamente**, como su parte individual de las recompensas; Max no participa ni administra ese dinero.
+- Su afinidad con Greta continúa sin noviazgo formal.
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3|transcripción del chat, 16–30 de Solalto]].
+
+## ADDENDUM DE ESTADO — 17 DE ESTIVAL A 1 DE DORAVIA, AÑO 3
+
+- Coordinó con Haruto y Ren una misión B de subyugación, registrando objetivo, evidencia, retirada y resultado.
+- Detectó que el tablero del Gremio conservaba una lectura atrasada de nivel 25. La corrigió contra su ficha vigente: pasó de **nivel 30 a nivel 31**, conserva **Rango C** y Quest Log no recibió autoridad sobre el grupo.
+- Recibió **400 oro** de la recompensa colectiva de 1.200 oro. El dinero pertenece a Leo y no se incorpora a la caja de Max.
+- Fuente de continuidad: [[CURRENT_STATE_1_DORAVIA_AÑO3]].
+
+## ADDENDUM DE ESTADO — 2–18 DE DORAVIA, AÑO 3
+
+- Leo cerró el tramo de entrenamiento y misión en **nivel 32, Rango C**. Su defensa móvil, el Cierre de Ángulo I y la retirada como resultado válido siguen bajo pruebas; Quest Log organiza, pero no manda sobre él ni sobre el grupo.
+- Registró evidencias y separó resultados de rumores, una práctica que también protege la contabilidad de recompensas individuales.
+- Siguió el estreno como parte del círculo de Max y conserva su dinero propio.
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]] y [[04_SISTEMAS/ADVENTURER_SYSTEM]].

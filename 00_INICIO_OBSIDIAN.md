@@ -1,13 +1,13 @@
 # 🌌 PORTAL CENTRAL — NÚCLEO SAWARDO
 
 > [!INFO] **ESTADO OPERATIVO VIGENTE**
-> - **Fecha Canónica:** **15 de Solalto, Año 3 (Día continuo 821)**.
-> - **Escena Activa:** 21:10 en los jardines de Gutiérrez Estate; terminó la cena posterior al cierre financiero y Max sigue bajo control exclusivo del usuario.
-> - **Operación en curso:** Revisión de la garantía contra Ravenwood; responsabilidades de Corven y Verrick todavía no resueltas.
-> - **Comunicaciones:** Seis terminales físicos **G1.03** en pruebas controladas; siguen pendientes seguridad, temperatura, movilidad, consumo e interferencias. No existe G2.
-> - **Alerta de Cumpleaños:** 🎂 Próxima: **Natalia, 14 de Solalto**. Después Aria (22) y Sayaka/Evelyn (30).
-> - **Documento de Continuidad Principal:** [[05_CONTINUIDAD/CURRENT_STATE_15_SOLALTO_AÑO3|CURRENT_STATE_15_SOLALTO_AÑO3]]
-> - **Frentes de apertura del 16 de Solalto:** Serath, G1.03, ensayo teatral, cumpleaños de Aria o salto controlado; ninguna opción está elegida.
+> - **Fecha Canónica:** **18 de Doravia, Año 3 (Día continuo 885), 23:04**.
+> - **Escena Activa:** Teatro Estrella Verde, saludos posteriores al estreno; Max sigue bajo control exclusivo del usuario y Sawardo está desactivado.
+> - **Operación en curso:** recepción posterior al estreno; Ravenwood, Corven, V. Sable y Verrick siguen sin resolución definitiva.
+> - **Comunicaciones:** **G1.04** es la iteración operativa de G1.03; siguen pendientes validación térmica, seguridad, duración, permisos, consumo, interferencias y mantenimiento reproducible. No existe G2.
+> - **Alerta fija:** 🎭 estreno concluido; taquilla, crítica, gastos y recepción política pendientes.
+> - **Documento de Continuidad Principal:** [[05_CONTINUIDAD/CURRENT_STATE_18_DORAVIA_AÑO3|CURRENT_STATE_18_DORAVIA_AÑO3]]
+> - **Fuente vigente:** [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3|Doravia hasta el estreno — 43 turnos]].
 > - **Frentes de Max:** Casa Ardel entra en cierre ordenado; Ravenwood, Cecilia/Mizuki, G1/cámara histórica, Gremio/Kira y economía siguen disponibles según decisión del usuario.
 
 ---

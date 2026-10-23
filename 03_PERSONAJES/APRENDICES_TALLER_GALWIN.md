@@ -52,6 +52,20 @@ Participar en la demostración de G1-0.3 explicando su módulo, el fallo inicial
 - Ya demuestran trabajo defendible, pero no son maestros, no autorizan destinos, no tocan un supuesto G2 y no terminan el barco por montaje narrativo.
 - **Fuente:** [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md).
 
+## ADDENDUM — 16–30 DE SOLALTO, AÑO 3
+
+- Los cuatro aprendices empiezan a estudiar la Instalación/Taller Occidental como biblioteca de mantenimiento y clasifican herramientas, piezas, procedimientos y límites de uso.
+- Aplican lo aprendido a módulos no críticos de G1.04 y a necesidades cotidianas del taller, siempre con revisión de Galwin.
+- **Tilda** prioriza disipación y materiales; **Jorik**, secuencias y manuales; **Sivra**, calibración; **Uldan**, mantenimiento y sustitución.
+- La curiosidad se registra como preguntas y pruebas pequeñas, no como activación de relés o de la red antigua.
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3|transcripción del chat, 16–30 de Solalto]].
+
 ## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
 
 - Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.
+
+## ADDENDUM DE ESTADO — 1–18 DE DORAVIA, AÑO 3
+
+- Tilda, Jorik, Sivra y Uldan corrigieron fallos de conectores y humedad en módulos no críticos del G1.04. Cada uno conserva una pregunta técnica pendiente y un área de aprendizaje, bajo revisión de Galwin.
+- Ninguno tiene acceso al núcleo de seguridad, a la red de Nodos, a la Aguja Muerta ni a destinos fuera de Aldoria.
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].

@@ -10,9 +10,9 @@
 
 Memoria canónica y sistema modular para el roleplay de **Los Ventura**.
 
-> **Presente narrativo real:** **15 de Solalto, Año 3, Día continuo 821, cierre nocturno**. Los cortes anteriores se conservan como fotografías históricas; los antiguos 4–5 de «Floris» eran rótulos erróneos de Verdalia.
+> **Presente narrativo real:** **18 de Doravia, Año 3, Día continuo 885, 23:04, después del estreno**. Los cortes anteriores se conservan como fotografías históricas; los antiguos 4–5 de «Floris» eran rótulos erróneos de Verdalia.
 
-> **REGLA DE ARRANQUE OBLIGATORIA:** toda sesión nueva comienza en [[CURRENT_STATE_1_FLORIS_AÑO3]] o en el resumen [[CURRENT_STATE]].
+> **REGLA DE ARRANQUE OBLIGATORIA:** toda sesión nueva comienza en [[CURRENT_STATE_18_DORAVIA_AÑO3]] o en el resumen [[CURRENT_STATE]].
 
 ## Referencias prioritarias nuevas
 
@@ -21,9 +21,9 @@ Memoria canónica y sistema modular para el roleplay de **Los Ventura**.
 - Evolución individual e influencia entre personajes: [[ENRIQUECIMIENTO_CAUSAL_DEL_ELENCO]].
 - Cultura y adopciones: [[LEGADO_CULTURAL_DE_MAX]].
 - Expedientes por obra, Cerveza Esmeralda y Festival: [[CULTURA_DE_ALDORIA_INDICE]].
-- Fuente corriente más reciente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.
-- Liquidez personal confirmada al 15 de Solalto: **925.185 oro**. La cadena incluye −1.190 de G1.03 y −1.800 del viaje a la playa.
-- Cumpleaños y alertas de salto temporal: [[CALENDARIO_CUMPLEANOS_CIRCULO_DE_MAX]]. Próxima: **Natalia, 14 de Solalto**.
+- Fuente más reciente: `00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3.md`; estado derivado: `05_CONTINUIDAD/CURRENT_STATE_18_DORAVIA_AÑO3.md`.
+- Liquidez posterior a las misiones de Doravia: `PENDIENTE_DE_CONCILIAR`. Fondos separados firmes: Terreno A **9.445**, Festival Infantil **15.000** y Festival de la Cerveza **24.000 oro**.
+- Cumpleaños y alertas de salto temporal: [[CALENDARIO_CUMPLEANOS_CIRCULO_DE_MAX]]. Próxima: **Kira, 6 de Estival**.
 - Misiones, autoridad de Kira y aportes: [[MISIONES_PROPUESTAS_POR_NPC_AÑO3]] y [[AUDITORIA_GREMIO_FONDO_VETERANOS_AÑO3]].
 
 ## Archivo histórico actualizado — corte del 1 de Verdalia, Año 3 (no vigente)
@@ -39,7 +39,7 @@ Memoria canónica y sistema modular para el roleplay de **Los Ventura**.
 ## Consulta histórica — Día 634 (no iniciar sesiones desde aquí)
 
 1. Consultar [[TIMELINE]] o los estados históricos específicos si se necesitan antecedentes del Día 634.
-2. [[CURRENT_STATE]] es el resumen operativo vigente del 15 de Solalto; sí puede utilizarse para reanudar la historia.
+2. [[CURRENT_STATE]] es el resumen operativo vigente del 18 de Doravia; sí puede utilizarse para reanudar la historia.
 3. Seguir las directrices históricas conservadas en [[DIRECTRICES_MAESTRAS_ROLEPLAY]].
 4. Consultar fuentes primarias directas en `00_FUENTES/historia_original/`.
 
@@ -47,18 +47,18 @@ Este proyecto creativo permanece estrictamente separado de cualquier núcleo hid
 
 ---
 
-## Inicio rápido vigente — 15 de Solalto, Año 3
+## Inicio rápido vigente — 18 de Doravia, Año 3
 
 La sección anterior se conserva como corte histórico. Para una sesión nueva usar, en este orden:
 
-1. [[CURRENT_STATE_15_SOLALTO_AÑO3]].
+1. [[CURRENT_STATE_18_DORAVIA_AÑO3]].
 2. [[CURRENT_STATE]].
 3. [[FINANZAS_CANON_VIGENTE]].
 4. [[PLOT_THREADS]] y sus hilos añadidos al Año 3.
 5. [[CULTURA_DE_ALDORIA_INDICE]] cuando la escena involucre teatro, relatos, cerveza o festivales.
 6. [[REGISTRO_DE_VIDA_AUTONOMA_Y_METAS_AÑO3]] para saber qué hace cada personaje cuando Max no está presente.
 
-**Punto vigente:** 15 de Solalto, Año 3, cierre nocturno; Max está con Serath y Aria en Gutiérrez Estate. Sawardo está desactivado. Véase [[CURRENT_STATE_15_SOLALTO_AÑO3]].
+**Punto vigente:** 18 de Doravia, Año 3, 23:04; G1.04 sigue confinado a Aldoria, la consulta de la Torre permanece clasificada, Sawardo está desactivado y el estreno acaba de concluir. Véase [[CURRENT_STATE_18_DORAVIA_AÑO3]].
 
 ## Entrada modular de bajo consumo
 

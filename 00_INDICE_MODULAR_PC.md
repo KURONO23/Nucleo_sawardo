@@ -4,17 +4,16 @@
 
 ## Cierre mensual
 
-- [[06_AGENTES/AUDITOR_CIERRE_MENSUAL|Auditor de Cierre Mensual]] — auditoría obligatoria al completar cada mes; coordina fuentes, vida autónoma, propagación, economía, relaciones y validación.
+- [[06_AGENTES/AUDITOR_CIERRE_MENSUAL|Auditor de Cierre Mensual]] — auditoría obligatoria al completar cada mes; coordina fuentes, vida autónoma, propagación, economía, relaciones, archivo íntegro de todos los chats y validación.
+- [[05_CONTINUIDAD/PROTOCOLO_ARCHIVO_CHAT_MENSUAL|Protocolo de archivo íntegro de chats mensuales]] — conserva cada mes completo para relectura; ningún resumen sustituye las transcripciones.
 
 ## Estado rector
 
-- [[05_CONTINUIDAD/CURRENT_STATE_15_SOLALTO_AÑO3|Estado actual — 15 de Solalto, Año 3]]
-- [[05_CONTINUIDAD/DELTA-RP-031_01_A_15_SOLALTO_AÑO3|Integración 1–15 de Solalto]]
-- [[05_CONTINUIDAD/INFORME_PROPAGACION_15_SOLALTO_AÑO3|Informe de propagación de Solalto — trece agentes]]
+- [[05_CONTINUIDAD/CURRENT_STATE_18_DORAVIA_AÑO3|Estado actual — 18 de Doravia, Año 3, 23:04]]
+- [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3|Transcripción íntegra parcial de Doravia — 43 turnos]]
+- [[05_CONTINUIDAD/INFORME_PROPAGACION_18_DORAVIA_AÑO3|Propagación del corte del 18 de Doravia — trece agentes]]
+- [[05_CONTINUIDAD/INFORME_CIERRE_ESTIVAL_AÑO3|Cierre mensual de Estival — trece agentes]]
 - [[05_CONTINUIDAD/ARCO_LA_CORONA_DEL_GRAN_SABIO|Semilla de arco real — La Corona del Gran Sabio]]
-- [[05_CONTINUIDAD/CURRENT_STATE_15_SOLALTO_AÑO3|Estado actual — 15 de Solalto, Año 3]]
-- [[05_CONTINUIDAD/DELTA-RP-031_01_A_15_SOLALTO_AÑO3|Integración 1–15 de Solalto]]
-- [[05_CONTINUIDAD/INFORME_PROPAGACION_15_SOLALTO_AÑO3|Informe de propagación de Solalto]]
 - [[05_CONTINUIDAD/CICLO_AUTONOMO_01_A_31_FLORIS_AÑO3|Ciclo autónomo de Floris]]
 - [[05_CONTINUIDAD/INFORME_PROPAGACION_31_FLORIS_AÑO3|Informe de propagación de Floris]]
 - [[05_CONTINUIDAD/CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3|Ciclo autónomo global — personajes, ciudades y proyectos]]

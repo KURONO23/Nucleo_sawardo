@@ -980,3 +980,27 @@ Cada entrada debe contener: identificador, afirmaciones en conflicto, jerarquía
 - Una reconstrucción derivada registra una prenda de descanso y una diadema mágica con sensor.
 - La escena reciente registra un estuche con cuaderno y unas orejas artesanales.
 - **Resolución autoral:** Max confirma que la versión canónica es **un estuche con cuaderno y unas orejas artesanales**. La prenda de descanso y la diadema mágica con sensor quedan como versión derivada superada (`NO_CANON` para el presente). El hecho sigue siendo un regalo espontáneo de Verdalia; el cumpleaños de Liora permanece el 17 de Floris.
+
+## CONTR-150 — Tres tasaciones del lote de Doravia
+
+- La fuente de Doravia registra ventas netas incompatibles de **27.450**, **21.240** y **42.120 oro** para materiales atribuidos a Max.
+- Las ramas producen saldos posteriores incompatibles y ninguna fue descartada por una corrección autoral inequívoca.
+- **Estado:** `PENDIENTE_DE_CONCILIAR`. No fijar liquidez al 18 de Doravia ni sumar una tasación hasta una auditoría con Natalia, Elise y Vivienne o corrección directa del autor.
+
+## CONTR-151 — Recompensa divergente de la misión botánica
+
+- Una versión registra +26 oro y −5,6 oro de gastos.
+- Otra registra cero oro y recompensa en especie.
+- La versión final del contrato habla de 20 platas brutas, 15 platas netas y 50 cobres de gasto.
+- **Estado:** conservar el hecho estable —misión C completada con Aria y materiales botánicos destinados al Terreno A—; el asiento monetario queda `PENDIENTE_DE_CONCILIAR`.
+
+## CONTR-152 — Duplicación de días 2–3 de Doravia
+
+- La transcripción conserva respuestas repetidas y corregidas para las mismas instrucciones.
+- **Estado:** las repeticiones no crean misiones, gastos ni ascensos adicionales. Haruto queda en 48, Ren en 35 y Leo en 32 una sola vez.
+
+## CONTR-153 — Conocimiento impropio de Gran Sabio y alcance del G1
+
+- Una versión hizo que Max mencionara a Gran Sabio; otra permitió interpretar que Kazuki observaba G1 desde Minas Quebradas.
+- La corrección autoral posterior anula ambas.
+- **Estado:** Max desconoce a Efraín y Gran Sabio dentro de Rowan. G1.04 opera solo en Aldoria y no conecta con Minas Quebradas, Torre, Red de Nodos ni Aguja Muerta.

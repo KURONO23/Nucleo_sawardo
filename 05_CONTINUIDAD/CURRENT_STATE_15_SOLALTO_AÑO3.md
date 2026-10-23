@@ -1,7 +1,7 @@
 # CURRENT STATE — 15 DE SOLALTO, AÑO 3
 
 > **PRESENTE RECTOR:** día continuo 821 · cierre nocturno del 15 de Solalto · Gutiérrez Estate, Aldoria.
-> **Fuente:** `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.
+> **Fuente:** `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3.md`.
 > **Delta integrado:** [[DELTA-RP-031_01_A_15_SOLALTO_AÑO3]].
 > La fuente original permanece en solo lectura.
 

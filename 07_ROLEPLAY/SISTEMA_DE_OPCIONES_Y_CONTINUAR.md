@@ -6,7 +6,7 @@
 
 Al final de cada turno narrativo donde Max deba tomar una decisión o actuar, se separa la escena con una línea horizontal y se presentan **exactamente 5 opciones numeradas**:
 
-Max debe participar activamente en la escena cuando está presente: recibe preguntas, reacciones, información y consecuencias dirigidas a él. Las opciones preservan esa participación sin convertir una propuesta en una decisión ya tomada.
+Max debe participar activa y verbalmente cuando está presente: además de recibir preguntas, reacciones, información y consecuencias, habla mediante respuestas cotidianas, bromas, preguntas y comentarios coherentes con su voz. Nunca permanece callado durante una escena en curso. Las opciones reservan para el usuario la siguiente decisión importante sin borrar las intervenciones normales de Max.
 
 ```markdown
 ---
@@ -40,3 +40,9 @@ Max debe participar activamente en la escena cuando está presente: recibe pregu
 
 - Cuando el usuario escribe simplemente `/continuar`, significa:  
   **Reanudar la narración fluidamente desde el punto exacto registrado en `CURRENT_STATE.md`**, haciendo avanzar la escena con naturalidad y ritmo cinematográfico, sin inventar decisiones forzadas ni saltar eventos clave.
+
+### Cierre diario
+
+- Las cinco alternativas pueden cerrar una escena abierta sin cerrar el día.
+- POVs y exactamente diez rumores solo se añaden cuando Max duerme, el día termina o el usuario ordena un cierre formal.
+- Una escena social todavía activa —como los saludos del estreno del 18 de Doravia— no recibe todavía el panel nocturno.

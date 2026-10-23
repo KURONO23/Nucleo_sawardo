@@ -87,3 +87,17 @@ Después del Festival de la Cerveza, Efraín despierta dentro de Rowan y comienz
 - La prueba de obediencia del Gran Sabio a Rowan queda aplazada. Efraín todavía conserva iniciativa interna, pero Rowan gana influencia sobre el marco de sus decisiones.
 - El encuentro con la obra de Max debe ocurrir antes de cualquier movimiento político mayor. No se fija fecha de estreno ni se revela públicamente el proyecto teatral confidencial.
 
+## ADDENDUM DE ESTADO — 16–30 DE SOLALTO, AÑO 3
+
+- Efraín recibe, a través del Gran Sabio, informes fragmentarios sobre la delegación técnica de Max, el avance de la obra y la separación entre dinero personal, cuentas empresariales y pagos individuales de los aventureros.
+- Interpreta la delegación como una posible infraestructura social, no como control absoluto; Rowan le obliga a distinguir rumor, informe y evidencia.
+- No inicia sabotaje ni intervención pública. Su siguiente hito es observar la auditoría y el teatro antes de formular una propuesta política.
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3|transcripción del chat, 16–30 de Solalto]].
+
+## ADDENDUM DE ESTADO — 1–18 DE DORAVIA, AÑO 3
+
+- Efraín analiza los informes filtrados por Rowan y el Gran Sabio desde una lectura política de izquierda: distingue infraestructura social, propiedad y trabajo delegado sin atribuirle a Max control total.
+- Puede inferir patrones a partir de informes públicos, pero no conoce el Gran Sabio como entidad separada y no ha visto la interfaz privada de Max. No inicia sabotaje ni intervención sin evidencia.
+- La obra y el G1.04 le muestran una sociedad con capacidades distribuidas, no una red mundial: el G1 sigue limitado a Aldoria.
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]] y [[00_FUENTES/historias_paralelas/GUIA_DE_CONVERGENCIA_ROWAN_EFRAIN_GRAN_SABIO]].
+

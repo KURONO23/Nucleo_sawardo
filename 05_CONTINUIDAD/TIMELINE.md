@@ -212,3 +212,44 @@
 - **10 de Solalto (Día 816):** se realiza *Harry Potter y la cámara secreta*. El evento tiene 1.220 asistentes; el efecto neto personal es cero después de gastos y bonificaciones.
 - **11–15 de Solalto (Días 817–821):** los equipos trabajan con autonomía. G1.03 alcanza seis terminales físicos, pero continúa experimental; Serath-Maru conserva una vibración bajo carga reducida; Aria inicia flauta; Leo–Greta y Ren–Elena profundizan su cercanía sin formalizarse.
 - **15 de Solalto:** cierre de seguimiento con **925.185 oro** líquidos. Solalto sigue pendiente de cierre mensual empresarial. Las cinco opciones del 16–21 quedan sin elegir.
+
+## ERA XVI — CONTINUACIÓN DERIVADA DE SOLALTO (16–30 DE SOLALTO, AÑO 3; DÍAS 822–836)
+
+- **16–23 de Solalto:** tercera semana subjetiva de Sawardo; Ren, Leo y Haruto convierten sus recompensas de Quest Log en protocolos de entrenamiento y completan dos subyugaciones de rango B. Ren termina en nivel 33, Leo en nivel 30 y Haruto conserva el 46.
+- **24–26 de Solalto:** las recompensas suman **3.450 oro**, pagados directamente: 1.150 para Haruto, 1.150 para Ren y 1.150 para Leo. Max recibe 0 y no existe fondo colectivo. La reunión de los Cinco del Barril mantiene esos pagos fuera del teatro.
+- **27–29 de Solalto:** *Mi fin de semana con el muerto* consolida **cuatro actos y quince escenas**, integra el gag de la sonrisa pagada y conserva el final inamovible. La selección preliminar de actores queda autorizada; no hay contratos ni estreno aprobado.
+- **30 de Solalto (Día continuo 836):** cumpleaños de Sayaka/Evelyn, una sola persona. Max entrega un estuche de cata y celebra en Pequeño Zhong-Kyo. Gasto personal: **290 oro**; saldo: **924.895 oro**.
+
+## ERA XVII — ESTIVAL, AÑO 3 (15–16 DE ESTIVAL; DÍAS 851–852)
+
+- **14 de Estival (Día 850):** Max, Aria, Ryu y Kenji revisan el Terreno A de abejas. Se encargan estudio de agua y consulta apícola por **255 oro** del fondo del proyecto; saldo del fondo: **9.445 oro**. No se compran colonias.
+- **15 de Estival (Día 851):** Galwin confirma la entrega de terminales o perfiles G1.04 de campo al círculo de Max. Yuki y Sayaka comienzan a usar el sistema para mantenerse conectadas. La carta a Kazuki sigue sin lectura confirmada.
+- **16 de Estival (Día 852):** Max y Aria consultan de forma clasificada la Torre de los Nombres con el fragmento carmesí. El fragmento permanece con Max; la caja de siete sellos continúa cerrada. En paralelo, Ryu y Kenji toman muestras de agua; Galwin recibe la primera telemetría colectiva; el contenido de la obra de Los Cinco del Barril se mantiene como sorpresa para Yuki, Sayaka y Mizuki.
+- **30 de Solalto, cierre nocturno:** G1.03 queda archivado como línea base histórica y la revisión operativa pasa a denominarse **G1.04**. Galwin dirige; Daichi, Mika, Ren y Leo mantienen funciones de auditoría, compatibilidad, lectura y evidencia. No existe G2 ni conexión directa con Aguja Muerta.
+- **Siguiente punto:** 1 de Estival, auditoría mensual de Natalia, Elise y Vivienne antes de aprobar nuevas inversiones.
+
+## ERA XVIII — ESTIVAL COMPLETO Y APERTURA DE DORAVIA (DÍAS 837–868)
+
+- **1 de Estival:** Natalia, Elise y Vivienne realizan el recuento mensual; el pago fijo de Esmeralda queda reconocido y los fondos restringidos permanecen separados.
+- **6 de Estival:** cumpleaños de Kira; gasto personal de Max: **82 oro**.
+- **8 de Estival:** investigación de la caja de siete sellos y del fragmento carmesí con Aria, Haruto, Amane y Misa; la caja pasa a Eleanor y Max conserva el fragmento. Compras, transporte y almuerzo: **21,5 oro**.
+- **13 de Estival:** cumpleaños de Elise; gasto personal: **8,2 oro**.
+- **14–16 de Estival:** Terreno A entra en estudio hídrico y apícola; G1.04 inicia piloto colectivo; la Torre analiza el fragmento bajo secreto de Estado.
+- **17–31 de Estival:** el teatro completa reparto, lectura, seguridad y ensayo general; Haruto, Leo y Ren completan otra misión B y pasan a niveles 47, 31 y 34; G1.04 y Serath-Maru continúan pruebas sin despliegue ni travesía larga.
+- **21 de Estival:** cumpleaños de Biro; gasto personal: **40 oro**.
+- **27 de Estival:** almuerzo familiar; contribución de Max: **60 oro**.
+- **1 de Doravia (Día continuo 868):** cierre mensual. Tras 914.953,3 de subtotal y +10.270 de ingresos operativos de Estival, la liquidez personal queda en **925.223,3 oro**. Después Max separa 15.000 para el Festival Infantil y aporta 11.900 para completar a 24.000 el fondo cervecero; liquidez personal libre: **898.323,3 oro**. Ambos eventos deben reponer su propia reserva y Natalia, Elise y Vivienne pueden frenar excesos. Goran fija el estreno de *Mi fin de semana con el muerto* para el **18 de Doravia, 20:00**, Teatro Estrella Verde.
+- **25 de Doravia:** queda reservado el siguiente almuerzo familiar con **Aldric** y **Thalion**; la reunión se jugará en escena y no se resolverá automáticamente.
+
+Fuente íntegra: [[00_FUENTES/historia_original/AÑO_3/16_01_de_Estival_a_01_de_Doravia_Año_3]].
+
+## ERA XIX — 1 A 18 DE DORAVIA, AÑO 3 (DÍAS 868–885)
+
+- **1 de Doravia:** se constituyen los fondos restringidos: 15.000 oro para el Festival Infantil y 24.000 para el Festival de la Cerveza; el almuerzo privado cuesta 180 oro.
+- **2–3 de Doravia:** Max completa misiones con Ren, Leo y Aria; las respuestas duplicadas conservan ramas financieras incompatibles que no se suman entre sí. Max compra un barril ceremonial por 2.000 oro y 240 de cerveza.
+- **4–16 de Doravia:** avanzan G1.04, Serath-Maru, Terreno A, Eleanor, teatro y relaciones. Haruto llega a 48, Ren a 35 y Leo a 32.
+- **8 de Doravia:** cumpleaños discreto de Jasmine; regalo práctico de 18 oro.
+- **17 de Doravia:** Kazuki envía una carta personal; Max la lee y decide no responder todavía.
+- **18 de Doravia, 20:00–23:04:** estreno completo de *Mi fin de semana con el muerto*. Cuatro actos, quince escenas, final intacto y recepción inmediata favorable. La noche social continúa abierta.
+
+Fuente íntegra: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].

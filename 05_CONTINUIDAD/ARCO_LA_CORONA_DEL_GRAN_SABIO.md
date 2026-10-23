@@ -3,6 +3,7 @@
 > **Estado:** `PUNTO DE PARTIDA CANÓNICO / DESARROLLO FUERA DE CÁMARA`  
 > **Ventana temporal:** después del Festival de la Cerveza de Año 3 —22–24 de Bruma— y antes del 15 de Solalto, Año 3.  
 > El cambio de Rowan ocurrió fuera de cámara; su ausencia en las escenas del festival y posteriores permite desarrollar ahora el arco sin reescribir la línea de Max.
+> **Convergencia futura:** consultar [Guía de convergencia Rowan–Efraín–Gran Sabio](../00_FUENTES/historias_paralelas/GUIA_DE_CONVERGENCIA_ROWAN_EFRAIN_GRAN_SABIO.md) antes de reunir este frente con la historia principal.
 
 ## Premisa
 
@@ -140,4 +141,11 @@ Rowan no desaparece ni muere. Durante la primera integración, el Gran Sabio enc
 - Rowan, Aldric y Caelan desean asistir a la nueva comedia de Max cuando se estrene, pero el título, el argumento y la fecha siguen siendo confidenciales o no fijados para ellos. No se adelanta el estreno.
 - La prueba de obediencia del Gran Sabio a Rowan queda aplazada hasta después de que Efraín vea la obra y presencie el trabajo acumulado detrás de los resultados de Max. Esa observación será el siguiente mecanismo de desgaste de su certeza revolucionaria.
 - Este corte devuelve el foco a Max en el 15 de Solalto sin alterar sus decisiones, su agenda ni la línea familiar de Aria y Serath.
+
+## ADDENDUM DE CONVERGENCIA — 18 DE DORAVIA, AÑO 3
+
+- Rowan y Efraín observan la repercusión del estreno por informes públicos y cortesanos. El Gran Sabio sigue siendo una habilidad interna que procesa información disponible; no es una entidad pública independiente.
+- Max no conoce la existencia del Gran Sabio ni la convivencia interna Rowan–Efraín. Ningún informe puede convertir una inferencia de Efraín en conocimiento de Max.
+- La presencia cultural de la obra abre un frente social, no una guerra ni una alianza automática. El siguiente avance requiere escena, evidencia y coste.
+- Fuente de corte: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]] y [[00_FUENTES/historias_paralelas/GUIA_DE_CONVERGENCIA_ROWAN_EFRAIN_GRAN_SABIO]].
 

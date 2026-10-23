@@ -84,5 +84,37 @@ Su información no se perdió: las cifras rectoras, la reparación contable, los
 - La fuente no registra nuevos débitos personales hasta el 15 de Solalto; por eso la liquidez final del corte es **925.185 oro**.
 - Solalto no tiene cierre mensual completo todavía y los costes empresariales pendientes no se restan sin asiento.
 
-Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.
+Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3.md`.
+
+## CORTE DERIVADO — 30 DE SOLALTO, AÑO 3
+
+- Cumpleaños de Sayaka/Evelyn: **−290 oro** de la tesorería personal de Max.
+- Saldo personal confirmado al cierre: **924.895 oro**.
+- Recompensas de dos subyugaciones B: **3.450 oro pagados directamente**, **1.150 para Haruto, 1.150 para Ren y 1.150 para Leo**. No existe fondo colectivo; no afecta el saldo de Max.
+- Teatro: gasto de producción **0 oro**; la selección preliminar no autoriza contratos ni compras.
+- No se vuelve a descontar el histórico de G1.03 (−1.190) ni el viaje a la playa (−1.800).
+
+Fuente derivada: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3.md`.
+
+## CIERRE MENSUAL — ESTIVAL, AÑO 3 / 1 DE DORAVIA
+
+- Saldo de apertura: **924.895 oro**.
+- Flujo ordinario: **+7.270 oro**.
+- Pago fijo de Cervecería Esmeralda: **+3.000 oro**.
+- Gastos personales del mes: Kira −82; capital Terreno A −20.000; compras/almuerzo −21,5; Elise −8,2; Biro −40; almuerzo familiar −60.
+- Subtotal después de gastos y transferencia al Terreno A: **914.953,3 oro**.
+- Cierre operativo de Estival: **+7.270 oro** de flujo ordinario neto y **+3.000 oro** del pago fijo mensual de Esmeralda.
+- **Liquidez final conciliada: 925.223,3 oro**.
+- Terreno A: capital separado de 20.000, gastos internos acumulados 10.555, saldo **9.445 oro**.
+- Festival: **12.100 oro restringidos**.
+
+### Asignaciones posteriores al cierre — 1 de Doravia, Año 3
+
+- Festival Infantil: **15.000 oro** trasladados a una cuenta restringida propia.
+- Festival de la Cerveza: los **12.100 oro** remanentes reciben un complemento de **11.900 oro**, hasta restituir el techo anual de **24.000 oro**.
+- Liquidez personal libre posterior: **898.323,3 oro**.
+- Son reservas y techos, no gasto ejecutado. Cada evento repone primero su propio fondo; Natalia, Elise y Vivienne pueden detener partidas desproporcionadas.
+- Las recompensas de Haruto, Ren y Leo no pertenecen a Max.
+
+Fuente mensual íntegra: `00_FUENTES/historia_original/AÑO_3/16_01_de_Estival_a_01_de_Doravia_Año_3.md`.
 

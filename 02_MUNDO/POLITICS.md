@@ -42,3 +42,9 @@ A partir del Festival Internacional de la Cerveza de Aldoria y la apertura de la
 6. **Eje Transoceánico con Zhong-Kyo:** Vínculo mercantil y cultural que cruza el Mar del Este y el Mar de Jade. Intercambio de seda, arroz dorado, té de nubes e ilustraciones que unieron a la juventud oriental con el mito de Egg/Aegon.
 7. **Tornhaven como Neutralidad Estratégica:** Ciudad libre donde todas las facciones operan sin aranceles de guerra ni aduanas coercitivas, amparada por las leyes del Consejo de Comercio.
 
+## ADDENDUM POLÍTICO — 18 DE DORAVIA, AÑO 3
+
+- El estreno genera interés cultural y cortesano, pero no prueba una alianza, reforma ni oposición organizada. Las casas antagonistas pueden reaccionar después de recibir informes o asistir a nuevas funciones.
+- Rowan y Efraín aparecen en los informes como observadores indirectos; Max no conoce su dinámica interna. El Gran Sabio no es una institución pública ni una red de vigilancia.
+- G1.04 permanece dentro de Aldoria. No se declara conexión con Minas Quebradas, Tornhaven, la Torre de los Nombres, Nodos o Aguja Muerta.
+

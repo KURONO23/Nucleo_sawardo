@@ -4498,6 +4498,14 @@ Fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Añ
 
 - Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.
 
+## ADDENDUM DE DESARROLLO — LECTURA PATERNAL Y POLÍTICA DE ROWAN HASTA EL 15 DE SOLALTO, AÑO 3
+
+- Ante la consulta privada de Caelan sobre el cambio de Rowan, Aldric evita convertir una sospecha en acusación. Reconoce que pensar en reformas o continuidad institucional no equivale por sí solo a traicionar a la Corona.
+- Recuerda que los resultados de Max ocultan trabajo, riesgo, financiación, errores, relaciones y delegación. Considera importante que Rowan y Efraín vean ese proceso antes de juzgar o imitar sus estructuras.
+- Decide no abrir una investigación oficial sobre Rowan. Prefiere observación familiar y límites claros: si aparece una acción ilegítima, la Corona responderá; mientras tanto, Rowan conserva espacio para pensar.
+- Acepta asistir con Caelan y Rowan a la futura representación de la nueva comedia de Max cuando exista una fecha. No autoriza todavía ningún acceso especial ni presión sobre el proyecto confidencial.
+- **Crecimiento:** refuerza su capacidad de distinguir entre una amenaza, una duda familiar y una reforma potencial. Protege la Corona sin convertir toda diferencia de criterio en sedición.
+
 ---
 
 # MÓDULO: 03_PERSONAJES/Amane.md
@@ -5732,6 +5740,15 @@ En Dravenn combina coordinación con procedimiento: trabaja con Astrid y formali
 - **Límite familiar:** respeta a Serath como Comandante Suprema; conoce en secreto que es su hermana biológica y no ha revelado todavía que lo sabe.
 - Integración: [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]].
 
+## ADDENDUM DE DESARROLLO — OBSERVACIÓN DISCRETA DE ROWAN HASTA EL 15 DE SOLALTO, AÑO 3
+
+- Caelan detecta un cambio en el lenguaje y el criterio de Rowan: mayor interés por continuidad, límites de financiación, autonomía institucional y responsabilidad posterior a una donación.
+- No interpreta ese cambio como traición sin pruebas. Consulta discretamente a Aldric y decide observar las decisiones públicas de Rowan en lugar de confrontarlo o abrir una investigación formal.
+- Comprende que Rowan no está actuando como autoridad militar: su frente es cultural y social. Mantiene separadas la función administrativa de la Corona, la cadena militar de Serath y el patronazgo cultural de Rowan.
+- No conoce la fusión con Efraín ni al Gran Sabio. Solo percibe que Rowan responde con una precisión inusual y que su entusiasmo por el nuevo proyecto teatral de Max tiene una profundidad distinta.
+- Acepta asistir con Rowan y Aldric a la futura obra si se fija una fecha, pero no usará el rango real para obtener el libreto ni presionar a la Editorial Estrella Verde.
+- **Ruta vigente:** continuar la observación discreta, proteger a Rowan de una exposición prematura y exigir que cualquier proyecto independiente tenga límites, cuentas y revisión.
+
 ---
 
 # MÓDULO: 03_PERSONAJES/Cassian_Vyre.md
@@ -6455,6 +6472,51 @@ Su crecimiento está en aceptar que el método también debe enseñar y no solo 
 
 ---
 
+# MÓDULO: 03_PERSONAJES/Darian_Holt.md
+
+# Darian Holt — alias de ficha canónica
+
+## Identidad estable
+Alias canónico de [[Darian]]: Darian, Capitán Darian Holt y Barón Darian Holt son una sola persona. Esta nota no contiene una segunda personalidad, cronología ni voz.
+
+## Estado y voz
+
+Consultar exclusivamente [[Darian]] para estado vigente, voz, cronología, relaciones, ruta y fuentes.
+
+**Darian**, **Capitán Darian Holt** y **Barón Darian Holt** son la misma persona.
+
+La ficha única y vigente es [[Darian]]. Este archivo se conserva como alias estable para no romper enlaces históricos; no debe recibir actualizaciones independientes.
+
+## CONTROL DE MICROINTERACCIONES
+
+- Estado: `ALIAS_CANONICO_REVISADO`.
+- Todas las interacciones de Capitán/Barón Darian Holt fueron trasladadas a [[Darian]] y [[MICROINTERACCIONES_PERSONAJES_A_I]].
+- No crear una segunda trayectoria: sus correcciones de seguridad, costes, causalidad y reglamentos pertenecen a la misma persona.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** Esta nota continúa siendo un alias de [[Darian]]. El estado del 1 de Lluvia, su crecimiento y su ruta se actualizan únicamente en la ficha canónica, para no duplicar a la misma persona.
+- **Ruta autónoma vigente:** La ruta se conserva en la ficha canónica indicada; esta nota no genera hechos independientes.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
+
+- **Acción propia:** mantuvo responsabilidades militares, registró observaciones teatrales y defendió la última palabra de Biro.
+- **Crecimiento:** usa disciplina como apoyo creativo sin confundir experiencia con autoría.
+- **Coste y límite:** dividir tiempo reduce presencia en ambos espacios.
+- **Relaciones vivas:** aconseja a Biro y Goran sin reemplazarlos.
+- **Siguiente hito:** ayudar al ensayo general desde seguridad y ritmo, no desde control del texto.
+- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.
+
+---
+
 # MÓDULO: 03_PERSONAJES/Darian.md
 
 # Darian (Capitán Darian Holt)
@@ -6589,51 +6651,6 @@ Darian no es un colaborador ocasional ni un actor: es el **quinto miembro origin
 - **Ruta autónoma vigente:** `Meta:` mantener mando militar y responsabilidad creativa en Los Cinco. `Ambición:` ser puente entre disciplina, cultura y camaradería. `Vínculo:` Serath, Goran, Biro y Haruto. `Obstáculo / hito:` elegir qué batalla no librar y qué obra sí defender.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
-
-## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
-
-- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.
-
----
-
-# MÓDULO: 03_PERSONAJES/Darian_Holt.md
-
-# Darian Holt — alias de ficha canónica
-
-## Identidad estable
-Alias canónico de [[Darian]]: Darian, Capitán Darian Holt y Barón Darian Holt son una sola persona. Esta nota no contiene una segunda personalidad, cronología ni voz.
-
-## Estado y voz
-
-Consultar exclusivamente [[Darian]] para estado vigente, voz, cronología, relaciones, ruta y fuentes.
-
-**Darian**, **Capitán Darian Holt** y **Barón Darian Holt** son la misma persona.
-
-La ficha única y vigente es [[Darian]]. Este archivo se conserva como alias estable para no romper enlaces históricos; no debe recibir actualizaciones independientes.
-
-## CONTROL DE MICROINTERACCIONES
-
-- Estado: `ALIAS_CANONICO_REVISADO`.
-- Todas las interacciones de Capitán/Barón Darian Holt fueron trasladadas a [[Darian]] y [[MICROINTERACCIONES_PERSONAJES_A_I]].
-- No crear una segunda trayectoria: sus correcciones de seguridad, costes, causalidad y reglamentos pertenecen a la misma persona.
-
----
-
-## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
-
-- **Crecimiento y estado:** Esta nota continúa siendo un alias de [[Darian]]. El estado del 1 de Lluvia, su crecimiento y su ruta se actualizan únicamente en la ficha canónica, para no duplicar a la misma persona.
-- **Ruta autónoma vigente:** La ruta se conserva en la ficha canónica indicada; esta nota no genera hechos independientes.
-- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
-- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
-
-## ADDENDUM DE CRECIMIENTO AUTÓNOMO — 1 DE FLORIS, AÑO 3
-
-- **Acción propia:** mantuvo responsabilidades militares, registró observaciones teatrales y defendió la última palabra de Biro.
-- **Crecimiento:** usa disciplina como apoyo creativo sin confundir experiencia con autoría.
-- **Coste y límite:** dividir tiempo reduce presencia en ambos espacios.
-- **Relaciones vivas:** aconseja a Biro y Goran sin reemplazarlos.
-- **Siguiente hito:** ayudar al ensayo general desde seguridad y ritmo, no desde control del texto.
-- **Continuidad:** [[RECUPERACION_FRENTES_FUERA_DE_CAMARA_AÑOS_2_3]] y [[CICLO_AUTONOMO_21_LLUVIA_A_1_FLORIS_AÑO3]].
 
 ## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
 
@@ -7386,6 +7403,15 @@ Después del Festival de la Cerveza, Efraín despierta dentro de Rowan y comienz
 - No hay fuente original de la historia para Efraín; la fuente original permanece intacta.
 - Corrección autoral vigente: boliviano acomodado, nombre Efraín Quispe Aramayo, izquierda antioligárquica, resentimiento dirigido a los privilegios de la gente con poder; la contradicción entre sus denuncias y sus beneficios de clase es parte esencial del antagonismo. No caricaturizar su origen ni su ideología.
 
+## ADDENDUM DE DESARROLLO — MERMA DE CONTROL Y APLAZAMIENTO DE LA OFENSIVA
+
+- Hasta el 15 de Solalto, Efraín no consigue convertir su propuesta en una organización política pública. Rowan lo obliga a estudiar el Palacio, la Corona, los gremios, la Guardia, la administración y los límites reales de una iniciativa independiente.
+- Su espíritu revolucionario empieza a perder seguridad, no porque abandone sus críticas, sino porque descubre que no puede tratar el trabajo ajeno como una estructura ya disponible para usar sin coste. La observación futura del trabajo de Max queda establecida como prueba central.
+- Acepta provisionalmente reformular su primera idea como un proyecto cultural piloto con cuentas públicas, dirección separada y límites a cualquier donante. Esta concesión no equivale a conversión ni a derrota.
+- Caelan y Aldric son identificados por Efraín como figuras que no puede manipular sin consecuencias: Caelan representa procedimiento y legitimidad; Aldric, autoridad soberana y lectura política.
+- La prueba de obediencia del Gran Sabio a Rowan queda aplazada. Efraín todavía conserva iniciativa interna, pero Rowan gana influencia sobre el marco de sus decisiones.
+- El encuentro con la obra de Max debe ocurrir antes de cualquier movimiento político mayor. No se fija fecha de estreno ni se revela públicamente el proyecto teatral confidencial.
+
 ---
 
 # MÓDULO: 03_PERSONAJES/Elara_Venn.md
@@ -7554,76 +7580,6 @@ En las celebraciones de otoño y el festival de invierno, Elara aseguró que las
 
 ---
 
-# MÓDULO: 03_PERSONAJES/Elena.md
-
-# Elena y Suri — Ficha Canónica
-
-## Identidad estable
-Esta ficha distingue a Elena, vendedora y madre del mercado, de Suri, su hija artista de ocho años. Son memoria familiar del mercado, no símbolos sin vida ni una sola voz fusionada.
-
-## VOZ Y COMPORTAMIENTO EN ESCENA
-
-Elena habla con gratitud directa y preocupación cotidiana por mercado e hija. Suri es tímida, sensible y se expresa mejor a través de dibujo; no ponerle discursos adultos ni tratar su arte como profecía.
-
-## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
-Permanecen ligadas a los puestos populares. No hay acción individual posterior confirmada al 5 de Verdalia.
-
-## CRONOLOGÍA CANÓNICA
-- En los primeros días de Aldoria, Elena agradece apoyo a pequeños tenderos y Suri entrega dibujo de carbón de Max entre la niebla.
-
-## EVOLUCIÓN CAUSAL
-La ayuda de mercado se vuelve recuerdo familiar y artístico: importa porque la gente común la conserva, no porque convierta a Max en mito sin contradicción.
-
-## RELACIONES VIVAS
-- Elena y Suri: madre e hija.
-- Mercado y pequeños tenderos: comunidad de trabajo.
-- Max: agradecimiento histórico, no dependencia ni acceso a su vida privada.
-
-## RUTA AUTÓNOMA — `PENDIENTE`
-No hay ruta autónoma individual localizada todavía; no crear negocio, peligro o talento nuevo para llenar la ausencia.
-
-## FUENTES Y CORRECCIONES
-Fuente primaria y [[MICROINTERACCIONES_PERSONAJES_A_I]] prevalecen.
-
-## ADDENDUM — MICROINTERACCIÓN POPULAR
-
-El agradecimiento de Elena y el dibujo de Suri convierten una ayuda de mercado en memoria familiar y artística. Véase [[MICROINTERACCIONES_PERSONAJES_A_I]].
-
-> **«Suri dibujó al señor Max con carbón... lo dibujó saliendo de la niebla. Porque para nosotros, él fue quien trajo la luz al mercado.»**  
-> — Elena agradeciendo a Max en los puestos de Aldoria
-
----
-
-## 1. IDENTIDAD Y PERFIL
-
-- **Elena:** Mujer adulta del distrito del mercado de Aldoria, vendedora humilde y madre soltera.
-- **Suri:** Niña de unos ocho años, de ojos brillantes, tímida pero de gran sensibilidad artística.
-- **Ubicación:** Puestos populares del mercado central de Aldoria.
-
----
-
-## 2. EL DIBUJO DE CARBÓN Y SU SIGNIFICADO
-
-- Durante los primeros días de Max en Aldoria, cuando la niebla y las tensiones gremiales afectaban el comercio, Max intervino para proteger a los pequeños tenderos del mercado frente a los abusos y extorsiones.
-- Elena se acercó a Max conmovida para darle las gracias como gente común.
-- Su pequeña hija, **Suri**, le entregó a Max un regalo que el espadachín atesora: un dibujo hecho con carbón sobre papel rústico donde representó a Max caminando envuelto en la niebla, pero con una postura heroica y protectora.
-- Este dibujo simboliza para Max el verdadero motivo por el cual vale la pena defender a la gente de este mundo más allá de los títulos nobles o los rangos del gremio.
-
----
-
-## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
-
-- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
-- **Ruta autónoma vigente:** `Meta:` sostener su vínculo familiar y responsabilidades cotidianas. `Ambición:` ganar una voz propia en su comunidad. `Vínculo:` Suri y contactos locales. `Obstáculo / hito:` una decisión doméstica que revele qué desea, no solo qué ayuda.
-- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
-- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
-
-## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
-
-- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.
-
----
-
 # MÓDULO: 03_PERSONAJES/Elena_Weissmann.md
 
 # Elena Weissmann
@@ -7735,6 +7691,76 @@ El agradecimiento de Elena y el dibujo de Suri convierten una ayuda de mercado e
 - Elena y Ren comparten afecto y un beso confirmado, sin formalización de pareja en el estado vigente.
 - No se fuerza una definición posterior: el vínculo conserva una ruta abierta para la próxima escena.
 - Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.
+
+---
+
+# MÓDULO: 03_PERSONAJES/Elena.md
+
+# Elena y Suri — Ficha Canónica
+
+## Identidad estable
+Esta ficha distingue a Elena, vendedora y madre del mercado, de Suri, su hija artista de ocho años. Son memoria familiar del mercado, no símbolos sin vida ni una sola voz fusionada.
+
+## VOZ Y COMPORTAMIENTO EN ESCENA
+
+Elena habla con gratitud directa y preocupación cotidiana por mercado e hija. Suri es tímida, sensible y se expresa mejor a través de dibujo; no ponerle discursos adultos ni tratar su arte como profecía.
+
+## ÚLTIMO ESTADO INDIVIDUAL CONFIRMADO — 5 DE VERDALIA, AÑO 3
+Permanecen ligadas a los puestos populares. No hay acción individual posterior confirmada al 5 de Verdalia.
+
+## CRONOLOGÍA CANÓNICA
+- En los primeros días de Aldoria, Elena agradece apoyo a pequeños tenderos y Suri entrega dibujo de carbón de Max entre la niebla.
+
+## EVOLUCIÓN CAUSAL
+La ayuda de mercado se vuelve recuerdo familiar y artístico: importa porque la gente común la conserva, no porque convierta a Max en mito sin contradicción.
+
+## RELACIONES VIVAS
+- Elena y Suri: madre e hija.
+- Mercado y pequeños tenderos: comunidad de trabajo.
+- Max: agradecimiento histórico, no dependencia ni acceso a su vida privada.
+
+## RUTA AUTÓNOMA — `PENDIENTE`
+No hay ruta autónoma individual localizada todavía; no crear negocio, peligro o talento nuevo para llenar la ausencia.
+
+## FUENTES Y CORRECCIONES
+Fuente primaria y [[MICROINTERACCIONES_PERSONAJES_A_I]] prevalecen.
+
+## ADDENDUM — MICROINTERACCIÓN POPULAR
+
+El agradecimiento de Elena y el dibujo de Suri convierten una ayuda de mercado en memoria familiar y artística. Véase [[MICROINTERACCIONES_PERSONAJES_A_I]].
+
+> **«Suri dibujó al señor Max con carbón... lo dibujó saliendo de la niebla. Porque para nosotros, él fue quien trajo la luz al mercado.»**  
+> — Elena agradeciendo a Max en los puestos de Aldoria
+
+---
+
+## 1. IDENTIDAD Y PERFIL
+
+- **Elena:** Mujer adulta del distrito del mercado de Aldoria, vendedora humilde y madre soltera.
+- **Suri:** Niña de unos ocho años, de ojos brillantes, tímida pero de gran sensibilidad artística.
+- **Ubicación:** Puestos populares del mercado central de Aldoria.
+
+---
+
+## 2. EL DIBUJO DE CARBÓN Y SU SIGNIFICADO
+
+- Durante los primeros días de Max en Aldoria, cuando la niebla y las tensiones gremiales afectaban el comercio, Max intervino para proteger a los pequeños tenderos del mercado frente a los abusos y extorsiones.
+- Elena se acercó a Max conmovida para darle las gracias como gente común.
+- Su pequeña hija, **Suri**, le entregó a Max un regalo que el espadachín atesora: un dibujo hecho con carbón sobre papel rústico donde representó a Max caminando envuelto en la niebla, pero con una postura heroica y protectora.
+- Este dibujo simboliza para Max el verdadero motivo por el cual vale la pena defender a la gente de este mundo más allá de los títulos nobles o los rangos del gremio.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` sostener su vínculo familiar y responsabilidades cotidianas. `Ambición:` ganar una voz propia en su comunidad. `Vínculo:` Suri y contactos locales. `Obstáculo / hito:` una decisión doméstica que revele qué desea, no solo qué ayuda.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.
 
 ---
 
@@ -9846,121 +9872,6 @@ El coste es personal: seguir una pista sin Max implica exposición, paciencia y 
 
 ---
 
-# MÓDULO: 03_PERSONAJES/Kael.md
-
-# Kael — Ficha de Desambiguación Histórica
-
-## 1. Identidad estable
-
-- **Resolución Canónica:** Las menciones históricas antiguas al nombre escueto «Kael» en los textos originales se desambiguan en dos personajes canónicos estrictamente diferenciados:
-  1. **[[Kael_Ironheart]]:** Espadachín de dos armas, guardián de Gutiérrez Estate, aventurero Rango A, compañero de Los Ventura, amigo de Biro y Torin, con interés afectivo mutuo en desarrollo hacia [[Natalia_Thornwell]].
-  2. **[[Romina_Exploradora_Blackpeak|Romina]]:** Exploradora veterana Rango A de Blackpeak, mujer de cuarenta años con cicatriz de quemadura en el cuello que compartió inteligencia sobre wyverns en The Cracked Shield (anteriormente rotulada como «Kael exploradora»).
-- **Regla inviolable:** No fusionar ambas identidades. Si un texto antiguo carece de contexto suficiente para determinar cuál de los dos es, se preserva la ambigüedad y no se inventan hechos.
-
-## 1.1 Voz y comportamiento en escena — obligatorio
-
-- Para el espadachín dual, ver [[Kael_Ironheart]] (directo, informal, sociable, llama «Boss» a Max).
-- Para la exploradora veterana, ver [[Romina_Exploradora_Blackpeak]] (áspera, técnica, cauta y sombría).
-
-## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
-
-- Remitirse a [[Kael_Ironheart]] y [[Romina_Exploradora_Blackpeak]].
-
-## 3. Cronología canónica
-
-- Consultar las cronologías independientes de cada personaje.
-
-## 4. Evolución causal
-
-- Ver evolución causal en sus fichas definitivas respectivas.
-
-## 5. Relaciones vivas
-
-- Consultar [[Kael_Ironheart]] y [[Romina_Exploradora_Blackpeak]].
-
-## 6. Ruta autónoma — `PENDIENTE`
-
-- Canalizada en sus respectivos expedientes canónicos.
-
-## 7. Fuentes y correcciones
-
-- `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`.
-- `isekai Día 588...`, líneas 37442–38187.
-- **Corrección autoral:** Desambiguación terminante entre Kael Ironheart y Romina.
-
----
-
-## CANON FUNDACIONAL — NO MODIFICAR
-
-No aplica.
-
-## APARIENCIA
-
-Mujer de comienzos de sus cuarenta, ojos cansados y cicatriz de quemadura en el cuello; insignia A parcialmente oculta (fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
-
-## PERSONALIDAD
-
-Cauta, endurecida y dispuesta a ayudar a quienes preguntan con criterio.
-
-## FORMA DE HABLAR
-
-Áspera, directa y basada en experiencia; enumera patrones concretos, combina advertencias con humor sombrío y evita prometer seguridad.
-
-## MOTIVACIONES
-
-Evitar que otros repitan la pérdida de su expedición.
-
-## HABILIDADES
-
-Superviviente de Blackpeak; capacidades de combate exactas `DESCONOCIDO`.
-
-## RANGO
-
-A.
-
-## RELACIONES
-
-Comparte inteligencia con Max y Jasmine tras recibir una ronda; no hay vínculo posterior demostrado.
-
-## CONOCIMIENTO
-
-Patrones de comunicación, caza y mando de wyverns, obtenidos en una expedición de la que volvieron tres de cuatro.
-
-## SECRETOS
-
-`DESCONOCIDO`.
-
-## EVOLUCIÓN
-
-Sin datos.
-
-## ÚLTIMO ESTADO CONOCIDO
-
-En The Cracked Shield, Thornhaven.
-
-## FUENTES
-
-Fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`.
-
-## ADDENDUM — CIERRE DE IDENTIDAD
-
-- Las menciones antiguas a “Kael” no siempre aportan apellido suficiente para decidir si corresponden a Kael Ironheart o a Romina, antigua “Kael exploradora”; se conserva la ambigüedad y no se fusionan fichas (`isekai Día 588...`, 37442–38187).
-
----
-
-## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
-
-- **Crecimiento y estado:** La desambiguación sigue vigente. El crecimiento del 1 de Lluvia pertenece por separado a [[Kael_Ironheart]] y [[Romina_Exploradora_Blackpeak]]; no existe un tercer Kael.
-- **Ruta autónoma vigente:** La ruta se conserva en la ficha canónica indicada; esta nota no genera hechos independientes.
-- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
-- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
-
-## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
-
-- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.
-
----
-
 # MÓDULO: 03_PERSONAJES/Kael_Exploradora_Blackpeak.md
 
 # REGISTRO HISTÓRICO — ANTIGUA ETIQUETA “KAEL EXPLORADORA”
@@ -10233,6 +10144,121 @@ Fuente: `00_FUENTES/historia_original/AÑO_1/02_01_Bruma_a_18_Bruma_y_05_Solalto
 - Kael y Natalia mantienen su relación formal y su dinámica de apoyo; no se canoniza una nueva crisis ni una ruptura.
 - Su siguiente avance queda ligado a la vida autónoma del círculo y a decisiones en escena, no a un resultado impuesto por el núcleo.
 - Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.
+
+---
+
+# MÓDULO: 03_PERSONAJES/Kael.md
+
+# Kael — Ficha de Desambiguación Histórica
+
+## 1. Identidad estable
+
+- **Resolución Canónica:** Las menciones históricas antiguas al nombre escueto «Kael» en los textos originales se desambiguan en dos personajes canónicos estrictamente diferenciados:
+  1. **[[Kael_Ironheart]]:** Espadachín de dos armas, guardián de Gutiérrez Estate, aventurero Rango A, compañero de Los Ventura, amigo de Biro y Torin, con interés afectivo mutuo en desarrollo hacia [[Natalia_Thornwell]].
+  2. **[[Romina_Exploradora_Blackpeak|Romina]]:** Exploradora veterana Rango A de Blackpeak, mujer de cuarenta años con cicatriz de quemadura en el cuello que compartió inteligencia sobre wyverns en The Cracked Shield (anteriormente rotulada como «Kael exploradora»).
+- **Regla inviolable:** No fusionar ambas identidades. Si un texto antiguo carece de contexto suficiente para determinar cuál de los dos es, se preserva la ambigüedad y no se inventan hechos.
+
+## 1.1 Voz y comportamiento en escena — obligatorio
+
+- Para el espadachín dual, ver [[Kael_Ironheart]] (directo, informal, sociable, llama «Boss» a Max).
+- Para la exploradora veterana, ver [[Romina_Exploradora_Blackpeak]] (áspera, técnica, cauta y sombría).
+
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
+
+- Remitirse a [[Kael_Ironheart]] y [[Romina_Exploradora_Blackpeak]].
+
+## 3. Cronología canónica
+
+- Consultar las cronologías independientes de cada personaje.
+
+## 4. Evolución causal
+
+- Ver evolución causal en sus fichas definitivas respectivas.
+
+## 5. Relaciones vivas
+
+- Consultar [[Kael_Ironheart]] y [[Romina_Exploradora_Blackpeak]].
+
+## 6. Ruta autónoma — `PENDIENTE`
+
+- Canalizada en sus respectivos expedientes canónicos.
+
+## 7. Fuentes y correcciones
+
+- `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`.
+- `isekai Día 588...`, líneas 37442–38187.
+- **Corrección autoral:** Desambiguación terminante entre Kael Ironheart y Romina.
+
+---
+
+## CANON FUNDACIONAL — NO MODIFICAR
+
+No aplica.
+
+## APARIENCIA
+
+Mujer de comienzos de sus cuarenta, ojos cansados y cicatriz de quemadura en el cuello; insignia A parcialmente oculta (fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`).
+
+## PERSONALIDAD
+
+Cauta, endurecida y dispuesta a ayudar a quienes preguntan con criterio.
+
+## FORMA DE HABLAR
+
+Áspera, directa y basada en experiencia; enumera patrones concretos, combina advertencias con humor sombrío y evita prometer seguridad.
+
+## MOTIVACIONES
+
+Evitar que otros repitan la pérdida de su expedición.
+
+## HABILIDADES
+
+Superviviente de Blackpeak; capacidades de combate exactas `DESCONOCIDO`.
+
+## RANGO
+
+A.
+
+## RELACIONES
+
+Comparte inteligencia con Max y Jasmine tras recibir una ronda; no hay vínculo posterior demostrado.
+
+## CONOCIMIENTO
+
+Patrones de comunicación, caza y mando de wyverns, obtenidos en una expedición de la que volvieron tres de cuatro.
+
+## SECRETOS
+
+`DESCONOCIDO`.
+
+## EVOLUCIÓN
+
+Sin datos.
+
+## ÚLTIMO ESTADO CONOCIDO
+
+En The Cracked Shield, Thornhaven.
+
+## FUENTES
+
+Fuente primaria: `00_FUENTES/historia_original/AÑO_1/01_01_Albor_a_01_Bruma_Año_1.md`.
+
+## ADDENDUM — CIERRE DE IDENTIDAD
+
+- Las menciones antiguas a “Kael” no siempre aportan apellido suficiente para decidir si corresponden a Kael Ironheart o a Romina, antigua “Kael exploradora”; se conserva la ambigüedad y no se fusionan fichas (`isekai Día 588...`, 37442–38187).
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La desambiguación sigue vigente. El crecimiento del 1 de Lluvia pertenece por separado a [[Kael_Ironheart]] y [[Romina_Exploradora_Blackpeak]]; no existe un tercer Kael.
+- **Ruta autónoma vigente:** La ruta se conserva en la ficha canónica indicada; esta nota no genera hechos independientes.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.
 
 ---
 
@@ -15775,6 +15801,16 @@ Ficha anterior `03_PERSONAJES/Kael_Exploradora_Blackpeak.md`; fuente primaria: `
 - **Guardarraíl:** Rowan ya conoce que Serath es su media hermana biológica; Efraín descubre este conocimiento dentro de la fusión, pero la asimetría permanece oculta para Aldric y Serath. La primera escena interna queda registrada en [[ROWAN_EFRAIN_DESPERTAR_POST_FESTIVAL_AÑO3]].
 - Desarrollo completo: [[ARCO_LA_CORONA_DEL_GRAN_SABIO]].
 
+## ADDENDUM DE DESARROLLO — FUSIÓN Y RESISTENCIA HASTA EL 15 DE SOLALTO, AÑO 3
+
+- Rowan permanece consciente y confinado dentro de la fusión con Efraín y el Gran Sabio. Todavía no recupera el control físico pleno; su resistencia opera mediante memoria, humor, afecto, criterio político y bloqueo emocional de impulsos.
+- Empieza a mermar el control decisorio de Efraín sin destruir su identidad: lo obliga a distinguir entre resentimiento y estrategia, entre pensar y poder actuar, y entre una institución reformable y un enemigo personal.
+- Reafirma su posición correcta dentro de la Corona: no es militar; su frente propio es cultural y social. Reconoce a Caelan como heredero administrativo y procedimental, y a Serath como autoridad militar suprema.
+- Impide que Efraín use a Caelan, Aldric o Max como recursos políticos inmediatos. La organización independiente queda en fase de propuesta cultural piloto; no existe movimiento público ni facción real.
+- Comprende que Max es libre no solo por su dinero, sino porque delega, permite autoría ajena y construye sistemas capaces de sobrevivir sin su presencia. Rowan decide que Efraín debe observar primero el trabajo que sostiene los resultados de Max.
+- Desea asistir, junto con Aldric y Caelan, a la futura representación de *Mi fin de semana con el muerto* cuando exista fecha. La obra sigue confidencial y no se fija estreno.
+- **Límite vigente:** la prueba de si el Gran Sabio responde a Rowan queda aplazada hasta después de que Efraín presencie la obra y, posteriormente, el trabajo acumulado detrás de las estructuras de Max.
+
 ---
 
 # MÓDULO: 03_PERSONAJES/Rul_Daren.md
@@ -17226,82 +17262,6 @@ No fijar su lealtad final, el objetivo contra Ravenwood ni su conocimiento sobre
 
 ---
 
-# MÓDULO: 03_PERSONAJES/Take.md
-
-# El Take («Take») — Ficha Canónica y Guía de Voz
-
-## 1. Identidad estable
-
-- **Nombre completo:** Take (nombre de cariño y trato habitual entre sus amigos de Lima).
-- **Origen:** Lima, Perú (Tierra).
-- **Oficio:** Trabajador y supervisor de mesas de casino en cruceros turísticos internacionales; antiguo compañero de estudios y juergas nocturnas de Max Josemar Gutiérrez en Lima.
-- **Personalidad:** Pragmático, leal hasta los huesos, callejero, observador agudo de la naturaleza humana, burlón, afectuoso y de risa fácil. Tiene un corazón noble escondido tras una coraza de jerga criolla y sentido común implacable.
-- **Ontología en la narrativa:** Existe en el núcleo como **memoria viva, ancla de identidad terrenal y brújula humana** de Max. **NO existe comunicación mágica ni tecnológica** interdimensional.
-- **Regla canónica fundamental:** **NO está casado ni es pareja sentimental de Aysha**. Son dos amigos completamente independientes de Max.
-
-## 1.1 Voz y comportamiento en escena — obligatorio
-
-- **Ritmo y vocabulario:** Jerga criolla limeña pura y distendida: *«¡Habla, causa!»*, *«papi»*, *«ptm»*, *«qué chucha»*, *«vamos por unas chelas»*, ráfagas cortas, carcajadas francas y burlas cariñosas que desarman cualquier solemnidad pretenciosa.
-- **En los recuerdos de Max:** Es la voz que le recuerda a Max de dónde viene, cómo no dejarse marear por el poder ni por títulos pomposos y cómo mantener los pies en la tierra.
-- **Voz en escena confirmada:**
-  > «¡Habla, causa! Así es la vida, papi... que no quede huella. Algún día volveremos a tomarnos unas chelas y a reírnos de la vida.»  
-  — Memoria entrañable y dinámica viva entre Max y Take.
-
-## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
-
-- **Ubicación:** Tierra (Lima / Alta mar en cruceros internacionales).
-- **Estado ontológico:** Vive su vida terrenal en el recuerdo agradecido de Max; su sabiduría práctica inspira la camaradería de Los Cinco del Barril.
-
-## 3. Cronología canónica
-
-### En la Tierra
-- Décadas de amistad con Max en Lima: salidas a Wilson, partidas de cartas, guardias de trabajo y confidencias de juventud.
-
-### En Altea (Año 1 a Año 3)
-- Max recurre a su memoria para diseñar dinámicas de entretenimiento, lealtades de taberna y mantener la humildad.
-
-## 4. Evolución causal
-
-### Punto de inflexión: La asimilación del legado de amistad
-- **Antes:** Nostalgia dolorosa por la separación súbita.
-- **Hecho:** Max construyó una nueva familia en Altea honrando la lealtad que aprendió con Take.
-- **Cambio:** Take pasó de ser un duelo a ser un faro moral de compañerismo.
-- **Conducta vigente:** Max trata a Biro y a Darian con la misma fraternidad leal aprendida con Take.
-- **Fuente:** [[TIMELINE]] y reflexiones canónicas de Max.
-
-## 5. Relaciones vivas
-
-| Persona o grupo | Estado vigente | Base canónica | Límite |
-|---|---|---|---|
-| Max Josemar Gutiérrez | Mejor amigo de juventud y hermano de vida | Décadas de amistad en Lima | Separados por la brecha dimensional |
-| Aysha | Amiga independiente en Lima | Círculo de amigos de Max | NO son pareja ni esposos |
-
-## 6. Ruta autónoma — `PENDIENTE`
-
-- **Estado:** Custodiado como ancla permanente en la memoria de Max.
-
-## 7. Fuentes y correcciones
-
-- [[Take_y_Aysha]]
-- [[MICROINTERACCIONES_PERSONAJES_A_I]]
-- [[TIMELINE]]
-- **Corrección autoral inviolable:** No es pareja de Aysha. Sin comunicación mágica.
-
----
-
-## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
-
-- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
-- **Ruta autónoma vigente:** `Meta:` sostener su trabajo de casino y sus regresos a Lima. `Ambición:` conservar libertad y amistad sin quedar reducido al pasado de Max. `Vínculo:` Aysha, Docta y Graceskoll. `Obstáculo / hito:` cumplir una promesa o proyecto propio antes de la próxima visita.
-- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
-- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
-
-## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
-
-- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.
-
----
-
 # MÓDULO: 03_PERSONAJES/Take_y_Aysha.md
 
 # Amistades de la Tierra: Take y Aysha — Ficha Canónica
@@ -17385,6 +17345,82 @@ Para consultar sus fichas individuales y canónicas detalladas:
 
 - **Crecimiento y estado:** Take y Aysha continúan siendo dos personas independientes en la Tierra y no una pareja. Sus trayectorias se actualizan en [[Take]] y [[Aysha]]; no existe comunicación dimensional con Max.
 - **Ruta autónoma vigente:** La ruta se conserva en la ficha canónica indicada; esta nota no genera hechos independientes.
+- **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
+- **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
+
+## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
+
+- Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.
+
+---
+
+# MÓDULO: 03_PERSONAJES/Take.md
+
+# El Take («Take») — Ficha Canónica y Guía de Voz
+
+## 1. Identidad estable
+
+- **Nombre completo:** Take (nombre de cariño y trato habitual entre sus amigos de Lima).
+- **Origen:** Lima, Perú (Tierra).
+- **Oficio:** Trabajador y supervisor de mesas de casino en cruceros turísticos internacionales; antiguo compañero de estudios y juergas nocturnas de Max Josemar Gutiérrez en Lima.
+- **Personalidad:** Pragmático, leal hasta los huesos, callejero, observador agudo de la naturaleza humana, burlón, afectuoso y de risa fácil. Tiene un corazón noble escondido tras una coraza de jerga criolla y sentido común implacable.
+- **Ontología en la narrativa:** Existe en el núcleo como **memoria viva, ancla de identidad terrenal y brújula humana** de Max. **NO existe comunicación mágica ni tecnológica** interdimensional.
+- **Regla canónica fundamental:** **NO está casado ni es pareja sentimental de Aysha**. Son dos amigos completamente independientes de Max.
+
+## 1.1 Voz y comportamiento en escena — obligatorio
+
+- **Ritmo y vocabulario:** Jerga criolla limeña pura y distendida: *«¡Habla, causa!»*, *«papi»*, *«ptm»*, *«qué chucha»*, *«vamos por unas chelas»*, ráfagas cortas, carcajadas francas y burlas cariñosas que desarman cualquier solemnidad pretenciosa.
+- **En los recuerdos de Max:** Es la voz que le recuerda a Max de dónde viene, cómo no dejarse marear por el poder ni por títulos pomposos y cómo mantener los pies en la tierra.
+- **Voz en escena confirmada:**
+  > «¡Habla, causa! Así es la vida, papi... que no quede huella. Algún día volveremos a tomarnos unas chelas y a reírnos de la vida.»  
+  — Memoria entrañable y dinámica viva entre Max y Take.
+
+## 2. Último estado individual confirmado — 5 de Verdalia, Año 3
+
+- **Ubicación:** Tierra (Lima / Alta mar en cruceros internacionales).
+- **Estado ontológico:** Vive su vida terrenal en el recuerdo agradecido de Max; su sabiduría práctica inspira la camaradería de Los Cinco del Barril.
+
+## 3. Cronología canónica
+
+### En la Tierra
+- Décadas de amistad con Max en Lima: salidas a Wilson, partidas de cartas, guardias de trabajo y confidencias de juventud.
+
+### En Altea (Año 1 a Año 3)
+- Max recurre a su memoria para diseñar dinámicas de entretenimiento, lealtades de taberna y mantener la humildad.
+
+## 4. Evolución causal
+
+### Punto de inflexión: La asimilación del legado de amistad
+- **Antes:** Nostalgia dolorosa por la separación súbita.
+- **Hecho:** Max construyó una nueva familia en Altea honrando la lealtad que aprendió con Take.
+- **Cambio:** Take pasó de ser un duelo a ser un faro moral de compañerismo.
+- **Conducta vigente:** Max trata a Biro y a Darian con la misma fraternidad leal aprendida con Take.
+- **Fuente:** [[TIMELINE]] y reflexiones canónicas de Max.
+
+## 5. Relaciones vivas
+
+| Persona o grupo | Estado vigente | Base canónica | Límite |
+|---|---|---|---|
+| Max Josemar Gutiérrez | Mejor amigo de juventud y hermano de vida | Décadas de amistad en Lima | Separados por la brecha dimensional |
+| Aysha | Amiga independiente en Lima | Círculo de amigos de Max | NO son pareja ni esposos |
+
+## 6. Ruta autónoma — `PENDIENTE`
+
+- **Estado:** Custodiado como ancla permanente en la memoria de Max.
+
+## 7. Fuentes y correcciones
+
+- [[Take_y_Aysha]]
+- [[MICROINTERACCIONES_PERSONAJES_A_I]]
+- [[TIMELINE]]
+- **Corrección autoral inviolable:** No es pareja de Aysha. Sin comunicación mágica.
+
+---
+
+## ESTADO VIGENTE — 1 DE LLUVIA, AÑO 3
+
+- **Crecimiento y estado:** La ficha queda sincronizada con el presente global. No existe una escena individual nueva que permita declarar un resultado adicional; la persona mantiene su oficio, relaciones y responsabilidades ya confirmadas sin quedar congelada ni recibir logros inventados.
+- **Ruta autónoma vigente:** `Meta:` sostener su trabajo de casino y sus regresos a Lima. `Ambición:` conservar libertad y amistad sin quedar reducido al pasado de Max. `Vínculo:` Aysha, Docta y Graceskoll. `Obstáculo / hito:` cumplir una promesa o proyecto propio antes de la próxima visita.
 - **Rumores y límites:** los rumores pueden provocar decisiones, investigación o escenas futuras, pero no prueban culpabilidad, romance, ascenso, victoria, viaje ni resultado material. El crecimiento requiere actividad, evidencia y coste o límite.
 - **Fuente del corte:** [[ACTUALIZACION_CANONICA_1_LLUVIA_AÑO3]], [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]] y 00_FUENTES/historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md.
 
@@ -19652,6 +19688,79 @@ En el marco del pacto familiar quincenal con el rey Aldric Theron y Thalion:
 
 ---
 
+# MÓDULO: 04_SISTEMAS/DUNGEONS_Y_TRAMPAS_ANALISIS.md
+
+# Dungeons, Trampas y Mecanismos — Fichas de Reconocimiento
+
+Guía técnica de detección, desactivación y análisis de trampas y salas de mazmorras de D&D y Pathfinder integradas para **《QUEST LOG》 de Leo** y el **escaneo sensorial de Haruto y Max**.
+
+---
+
+## 1. PROTOCOLOS DE DETECCIÓN Y ANÁLISIS DE TRAMPAS
+
+Cuando Leo abre 《QUEST LOG》 o Haruto enfoca su análisis sobre un corredor antiguo, el sistema evalúa tres factores:
+1. **DC de Percepción (Detección):** Umbral para notar placas de presión sueltas, orificios diminutos en las paredes, rasguños en el suelo o fluctuaciones de maná.
+2. **DC de Desactivación (Herramientas / Reversi):** Destreza técnica o manipulación temporal necesaria para bloquear el mecanismo sin activarlo.
+3. **Mecánica de Gatillo y Letalidad:** Si es física, química, mágica o dimensional.
+
+---
+
+## 2. FICHAS TÉCNICAS DE TRAMPAS CLÁSICAS
+
+### 《ANÁLISIS DE MECANISMO: FOSO CON ESTACAS ENVENENADAS》
+- **Tipo:** Trampa Mecánica de Caída y Perforación.
+- **Ubicación Típica:** Pasillos de entrada de la Aguja Esmeralda y túneles de ladrones en Tornhaven.
+- **DC de Detección:** **Percepción DC 15** (se identifican costuras falsas en las losas de piedra y ausencia de polvo en el eje de bisagra).
+- **DC de Desactivación:** **Destreza/Herramientas DC 15** (introducir cuñas de hierro en los bordes para inmovilizar la losa pivotante).
+- **Efecto de Disparo:** Caída libre de 6 metros (2d6 de daño de impacto) sobre estacas de hierro embadurnadas en veneno de sierpe (4d10 de daño por veneno adicional; parálisis en fallo de constitución).
+- **Contramedida Rápida de Max:** Salto con levitación o *Sawardo* para colocar una pasarela de vigas de madera.
+
+---
+
+### 《ANÁLISIS DE MECANISMO: LA BOCA DEL DEMONIO (ESFERA DE ANIQUILACIÓN)》
+- **Tipo:** Trampa Mágica y Dimensional de Muerte Instantánea (Módulo *Tomb of Horrors*).
+- **Ubicación:** Sala terminal de la Tumba de Acererak en el Desierto Carmesí.
+- **Apariencia:** Cara de demonio gigante de mosaico verde con boca abierta en una oquedad de 90 cm de diámetro sumida en una oscuridad total impenetrable que no refleja antorchas.
+- **DC de Detección:** **Arcana/Percepción DC 20** (se percibe un silencio gravitacional absoluto y ausencia de flujo de aire).
+- **Mecánica Letal:** Dentro de la boca hay una *Esfera de la Aniquilación* fija. Cualquier objeto, mano o ser vivo que se introduzca en la boca es **desintegrado a nivel atómico en el acto sin tirada de salvación**.
+- **Desactivación:** Imposible de forzar físicamente; solo puede cerrarse o desplazarse mediante control mental supremo con un *Talismán de la Esfera*.
+
+---
+
+### 《ANÁLISIS DE MECANISMO: GLIFO DE CUSTODIA (GLYPH OF WARDING)》
+- **Tipo:** Trampa Rúnica de Maná Evocador / Abjurador.
+- **Ubicación:** Cerraduras de cofres de la nobleza en Elaris y puertas de archivos en Aldoria.
+- **DC de Detección:** **Investigación/Arcana DC 16** (se detecta un grabado casi invisible de maná fluorescente grabado sobre la madera o cerradura).
+- **Efecto de Disparo:** Al abrir el cerrojo sin pronunciar la contraseña, el glifo detona una esfera de 6 metros de fuego, relámpago o gas somnífero (5d8 de daño elemental).
+- **Desactivación:** Conjuro de *Disipar Magia* o inversión de flujo rúnico mediante *Reversi* de Max.
+
+---
+
+### 《ANÁLISIS DE MECANISMO: CUCHILLAS GIRATORIAS DE MURO》
+- **Tipo:** Trampa Mecánica Cinética de Doble Resorte.
+- **Ubicación:** Corredores del Templo del Mal Elemental y catacumbas de Ravenloft.
+- **DC de Detección:** **Percepción DC 17** (ranuras horizontales finas pulidas a lo largo de los muros a la altura del pecho).
+- **Efecto de Disparo:** Hilos de alambre casi invisibles activan péndulos de hojas semicirculares de acero dentado que barren el corredor de lado a lado (4d10 daño cortante).
+
+---
+
+## 3. MEGADUNGEONS INTEGRADOS — NIVELES Y JEFES
+
+### 1. La Aguja Esmeralda (*The Emerald Spire*) — `NO_CANON / PROPUESTA DERIVADA`
+- **Estado:** No aparece en la historia original y no existe en el canon vigente. Las referencias de este análisis son material de adaptación descartado, no geografía confirmada.
+- **Estatus:** 16 niveles mapeados en la meseta central conectada a la Aguja Muerta.
+- **Monstruos de Guardia:** Goblins y arañas (pisos 1-4), autómatas de bronce (pisos 5-8), miconidos y quimeras (pisos 9-12), Ojo Tirano dormido y guardianes de maná (pisos 13-16).
+- **Objetivo Principal:** El núcleo de transmisión rúnica que enlaza la meseta central con el haz celeste de Aldoria y Tornhaven.
+
+### 2. La Cripta de la Llama Eterna (*Crypt of the Everflame*)
+- **Estatus:** Mazmorra de prueba bajo las colinas entre Aldoria y Valdoria.
+- **Desafío:** Esqueletos guardianes, trampas de foso falso y el acertijo de los cuatro braseros elementales para encender la llama sagrada que no consume leña.
+
+### 3. Las Fosas de la Infraoscuridad (*The Underdark / Darklands*)
+- **Estatus:** Vasto sistema geológico subterráneo con su propia biosfera de hongos gigantes, ríos sulfurosos y ciudades de Azotamentes y Elfos Oscuros.
+
+---
+
 # MÓDULO: 04_SISTEMAS/DUNGEONS.md
 
 # Dungeons y aventuras
@@ -19748,79 +19857,6 @@ Este anexo clasifica los grandes complejos de mazmorras legendarias, ruinas labe
 - Ren utilizó Pulso Sísmico y Adherencia Telúrica; Mika contrastó agua y pendientes; Daichi separó hipótesis de conclusión.
 - No se confirmó ciudad subterránea, nodo operativo, G2 ni relación causal con G1.03.
 - Fuente: [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md).
-
----
-
-# MÓDULO: 04_SISTEMAS/DUNGEONS_Y_TRAMPAS_ANALISIS.md
-
-# Dungeons, Trampas y Mecanismos — Fichas de Reconocimiento
-
-Guía técnica de detección, desactivación y análisis de trampas y salas de mazmorras de D&D y Pathfinder integradas para **《QUEST LOG》 de Leo** y el **escaneo sensorial de Haruto y Max**.
-
----
-
-## 1. PROTOCOLOS DE DETECCIÓN Y ANÁLISIS DE TRAMPAS
-
-Cuando Leo abre 《QUEST LOG》 o Haruto enfoca su análisis sobre un corredor antiguo, el sistema evalúa tres factores:
-1. **DC de Percepción (Detección):** Umbral para notar placas de presión sueltas, orificios diminutos en las paredes, rasguños en el suelo o fluctuaciones de maná.
-2. **DC de Desactivación (Herramientas / Reversi):** Destreza técnica o manipulación temporal necesaria para bloquear el mecanismo sin activarlo.
-3. **Mecánica de Gatillo y Letalidad:** Si es física, química, mágica o dimensional.
-
----
-
-## 2. FICHAS TÉCNICAS DE TRAMPAS CLÁSICAS
-
-### 《ANÁLISIS DE MECANISMO: FOSO CON ESTACAS ENVENENADAS》
-- **Tipo:** Trampa Mecánica de Caída y Perforación.
-- **Ubicación Típica:** Pasillos de entrada de la Aguja Esmeralda y túneles de ladrones en Tornhaven.
-- **DC de Detección:** **Percepción DC 15** (se identifican costuras falsas en las losas de piedra y ausencia de polvo en el eje de bisagra).
-- **DC de Desactivación:** **Destreza/Herramientas DC 15** (introducir cuñas de hierro en los bordes para inmovilizar la losa pivotante).
-- **Efecto de Disparo:** Caída libre de 6 metros (2d6 de daño de impacto) sobre estacas de hierro embadurnadas en veneno de sierpe (4d10 de daño por veneno adicional; parálisis en fallo de constitución).
-- **Contramedida Rápida de Max:** Salto con levitación o *Sawardo* para colocar una pasarela de vigas de madera.
-
----
-
-### 《ANÁLISIS DE MECANISMO: LA BOCA DEL DEMONIO (ESFERA DE ANIQUILACIÓN)》
-- **Tipo:** Trampa Mágica y Dimensional de Muerte Instantánea (Módulo *Tomb of Horrors*).
-- **Ubicación:** Sala terminal de la Tumba de Acererak en el Desierto Carmesí.
-- **Apariencia:** Cara de demonio gigante de mosaico verde con boca abierta en una oquedad de 90 cm de diámetro sumida en una oscuridad total impenetrable que no refleja antorchas.
-- **DC de Detección:** **Arcana/Percepción DC 20** (se percibe un silencio gravitacional absoluto y ausencia de flujo de aire).
-- **Mecánica Letal:** Dentro de la boca hay una *Esfera de la Aniquilación* fija. Cualquier objeto, mano o ser vivo que se introduzca en la boca es **desintegrado a nivel atómico en el acto sin tirada de salvación**.
-- **Desactivación:** Imposible de forzar físicamente; solo puede cerrarse o desplazarse mediante control mental supremo con un *Talismán de la Esfera*.
-
----
-
-### 《ANÁLISIS DE MECANISMO: GLIFO DE CUSTODIA (GLYPH OF WARDING)》
-- **Tipo:** Trampa Rúnica de Maná Evocador / Abjurador.
-- **Ubicación:** Cerraduras de cofres de la nobleza en Elaris y puertas de archivos en Aldoria.
-- **DC de Detección:** **Investigación/Arcana DC 16** (se detecta un grabado casi invisible de maná fluorescente grabado sobre la madera o cerradura).
-- **Efecto de Disparo:** Al abrir el cerrojo sin pronunciar la contraseña, el glifo detona una esfera de 6 metros de fuego, relámpago o gas somnífero (5d8 de daño elemental).
-- **Desactivación:** Conjuro de *Disipar Magia* o inversión de flujo rúnico mediante *Reversi* de Max.
-
----
-
-### 《ANÁLISIS DE MECANISMO: CUCHILLAS GIRATORIAS DE MURO》
-- **Tipo:** Trampa Mecánica Cinética de Doble Resorte.
-- **Ubicación:** Corredores del Templo del Mal Elemental y catacumbas de Ravenloft.
-- **DC de Detección:** **Percepción DC 17** (ranuras horizontales finas pulidas a lo largo de los muros a la altura del pecho).
-- **Efecto de Disparo:** Hilos de alambre casi invisibles activan péndulos de hojas semicirculares de acero dentado que barren el corredor de lado a lado (4d10 daño cortante).
-
----
-
-## 3. MEGADUNGEONS INTEGRADOS — NIVELES Y JEFES
-
-### 1. La Aguja Esmeralda (*The Emerald Spire*) — `NO_CANON / PROPUESTA DERIVADA`
-- **Estado:** No aparece en la historia original y no existe en el canon vigente. Las referencias de este análisis son material de adaptación descartado, no geografía confirmada.
-- **Estatus:** 16 niveles mapeados en la meseta central conectada a la Aguja Muerta.
-- **Monstruos de Guardia:** Goblins y arañas (pisos 1-4), autómatas de bronce (pisos 5-8), miconidos y quimeras (pisos 9-12), Ojo Tirano dormido y guardianes de maná (pisos 13-16).
-- **Objetivo Principal:** El núcleo de transmisión rúnica que enlaza la meseta central con el haz celeste de Aldoria y Tornhaven.
-
-### 2. La Cripta de la Llama Eterna (*Crypt of the Everflame*)
-- **Estatus:** Mazmorra de prueba bajo las colinas entre Aldoria y Valdoria.
-- **Desafío:** Esqueletos guardianes, trampas de foso falso y el acertijo de los cuatro braseros elementales para encender la llama sagrada que no consume leña.
-
-### 3. Las Fosas de la Infraoscuridad (*The Underdark / Darklands*)
-- **Estatus:** Vasto sistema geológico subterráneo con su propia biosfera de hongos gigantes, ríos sulfurosos y ciudades de Azotamentes y Elfos Oscuros.
 
 ---
 
@@ -27970,150 +28006,6 @@ La lancha *Serath-Max* utiliza como guía oficial el **Lote 06** ganado en la Gr
 
 ---
 
-# MÓDULO: 04_SISTEMAS/OBJETOS_MAGICOS.md
-
-# Objetos Mágicos y Artefactos — Sistema D&D / Pathfinder
-
-Este documento recopila e integra el catálogo de objetos mágicos, maravillas arcanas, armas, armaduras y artefactos legendarios inspirados en las mecánicas y el lore de **Dungeons & Dragons (5e/3.5)** y **Pathfinder (1e/2e)**, adaptados formalmente a la economía del oro, los gremios de aventureros y las casas de subastas del mundo de Los Ventura.
-
----
-
-## 1. CLASIFICACIÓN DE RAREZA Y MERCADO
-
-En el mundo conocido, los objetos mágicos circulan en tiendas gremiales, talleres de artífices (como *Gearwright Innovations* en Tornhaven), subastas exclusivas de *Valdris Exotic Acquisitions* o como botines de dungeons antiguos:
-
-| Rareza | Disponibilidad en el Mercado | Rango de Precio Estándar | Rango Aventurero Asociado |
-|---|---|---|---|
-| **Común** | Tiendas generales de mercado, boticarios y forjas de gremio. | 50 – 200 oro | Rangos E y D |
-| **Poco Común** | Armerías de prestigio, alquimistas de renombre, sedes gremiales. | 300 – 1.500 oro | Rango C |
-| **Raro** | Subastas nobles, encargos de grandes artífices, botines de dungeon nivel medio. | 2.500 – 10.000 oro | Rango B |
-| **Muy Raro** | Tesoros de dragones, cámaras reales, subastas restringidas de Tornhaven. | 12.000 – 45.000 oro | Rango A |
-| **Legendario / Artefacto** | Reliquias de la era anterior al Aislamiento, monumentos antiguos. | Invaluable (+50.000 oro) | Rango S / Leyenda Viva |
-
----
-
-## 2. OBJETOS MARAVILLOSOS (WONDROUS ITEMS)
-
-### Objetos de Almacenamiento Dimensional y Viaje
-- **Bolsa de Contención (*Bag of Holding* - D&D/Pathfinder):**
-  - *Propiedades:* Espacio extradimensional de 500 libras (225 kg) de capacidad y 64 pies cúbicos, manteniendo siempre un peso exterior fijo de 15 libras.
-  - *Precaución canónica:* Si se perfora o se introduce dentro de otro espacio dimensional (como un *Handy Haversack*), colapsa arrastrando todo a un vórtice astral.
-  - *Precio de mercado:* 800 – 1.200 oro.
-- **Mochila Práctica de Heward (*Handy Haversack*):**
-  - *Propiedades:* Mochila de cuero encantado con dos bolsillos laterales y uno central; el objeto deseado siempre se ubica en la parte superior mediante simple intención mental.
-  - *Precio de mercado:* 2.000 oro.
-- **Botas de Elfo (*Boots of Elvenkind*):**
-  - *Propiedades:* Los pasos del portador no producen ningún sonido físico, sin importar la superficie (madera crujiente, grava o nieve).
-  - *Precio de mercado:* 600 oro.
-- **Botas de Velocidad (*Boots of Speed*):**
-  - *Propiedades:* Al chocar los talones, duplican la velocidad de movimiento y otorgan ventaja en esquivas durante hasta 10 minutos al día.
-  - *Precio de mercado:* 4.500 oro.
-- **Manto de Protección (*Cloak of Protection*):**
-  - *Propiedades:* Tejido con hebras de seda de Elaris impregnadas de abjuración; otorga +1 a la defensa física y resistencia contra venenos y magia.
-  - *Precio de mercado:* 1.500 oro.
-- **Manto de Invisibilidad (*Cloak of Invisibility*):**
-  - *Propiedades:* Capa tejida con hilo de quimera astral que vuelve al portador completamente invisible a la vista ordinaria mientras se mantenga la capucha puesta.
-  - *Precio de mercado:* 25.000 oro (Muy Raro).
-
-### Accesorios de Resonancia de Maná
-- **Piedras Ioun (*Ioun Stones* - D&D / Pathfinder):**
-  - *Propiedades:* Gemas prismáticas cristalinas de origen antiguo que flotan y orbitan lentamente en círculo alrededor de la cabeza del portador.
-  - *Variedades:*
-    - *Rombo Rosa pálido:* Absorbe hechizos de impacto directo dirigidos al usuario.
-    - *Esfera Escarlata:* Incrementa la fuerza física y resistencia al impacto.
-    - *Huso Transparente:* Sustenta al usuario sin necesidad de comer ni beber agua.
-  - *Precio de mercado:* 5.000 a 30.000 oro según color y pureza.
-- **Anillo de Protección (*Ring of Protection*):**
-  - *Propiedades:* Sortija de platino con runas defensivas que desvía filos y proyectiles en el último instante.
-  - *Precio de mercado:* 3.500 oro.
-- **Anillo de Acción Libre (*Ring of Free Action*):**
-  - *Propiedades:* Inmunidad completa a efectos de parálisis mágica, enredos vegetales, telarañas de araña gigante o ralentización.
-  - *Precio de mercado:* 10.000 oro.
-- **Brazales de Defensa (*Bracers of Defense*):**
-  - *Propiedades:* Protectores de antebrazo de acero y cuero que proyectan una cúpula cinética (+2 a la armadura) solo si el portador no viste armadura pesada. Favorito de monjes marciales de Zhong-Kyo.
-  - *Precio de mercado:* 6.000 oro.
-
----
-
-## 3. ARMAS MÁGICAS Y DE COMBATE
-
-- **Lengua de Fuego (*Flame Tongue* - D&D):**
-  - *Tipo:* Espada larga, cimitarra o mandoble.
-  - *Propiedad:* Al pronunciar la palabra de activación, la hoja se envuelve en llamas vivas que iluminan 40 pies y causan 2d6 de daño de fuego extra por impacto. Muy demandada en las frías cumbres de Dravenn.
-  - *Precio:* 5.000 – 7.500 oro.
-- **Marca de Escarcha (*Frost Brand* - D&D):**
-  - *Tipo:* Espada pesada o estoque.
-  - *Propiedad:* Hoja de acero azulado que exhala escarcha; otorga al portador resistencia natural al fuego extremo y causa daño de hielo penetrante. Capaz de extinguir hogueras no mágicas con un toque.
-  - *Precio:* 8.000 – 12.000 oro.
-- **Maza de Disrupción (*Mace of Disruption*):**
-  - *Propiedad:* Diseñada contra no-muertos y aberraciones; al impactar contra zombis, vampiros o espíritus malignos, emite un fogonazo de luz sagrada con posibilidad de desintegrarlos al instante.
-  - *Precio:* 9.000 oro.
-- **Martillo de los Truenos (*Hammer of Thunderbolts* - D&D):**
-  - *Propiedad:* Martillo de guerra enano forjado en Rocahalda; al golpear provoca un trueno ensordecedor que aturde enemigos en 30 pies y puede lanzarse a distancia, regresando mágicamente a la mano del guerrero.
-  - *Precio:* 25.000 oro (Rango A).
-- **Espada Vorpal (*Vorpal Sword* - D&D):**
-  - *Tipo:* Mandoble o espada bastarda legendaria.
-  - *Propiedad:* Filo geométrico perfecto capaz de cortar a nivel atómico. Ante un golpe crítico perfecto (un 20 natural), decapita limpiamente al adversario si la criatura tiene cabeza y cuello accesibles.
-  - *Precio:* Invaluable (+60.000 oro / Rango Leyenda).
-
----
-
-## 4. CONSUMIBLES Y POCIONES DE LABORATORIO
-
-- **Poción de Curación Estándar (*Potion of Healing*):** Cierra tajos y fisuras óseas menores en segundos (50 oro).
-- **Poción de Curación Mayor / Suprema:** Regenera órganos internos y hemorragias masivas (250 – 1.250 oro).
-- **Elixir de Vigor de Gigante (*Potion of Giant Strength*):** Otorga fuerza sobrehumana durante 1 hora (Fuerza de Gigante de las Colinas: 1.500 oro; de Hielo: 3.000 oro; de Tormenta: 10.000 oro).
-- **Poción de Respiración Acuática (*Potion of Water Breathing*):** Permite respirar bajo el agua dulce o salada durante 24 horas (300 oro).
-
----
-
-## 5. ARTEFACTOS SUPREMOS Y RELIQUIAS PELIGROSAS
-
-- **Baraja de Muchas Cosas (*Deck of Many Things* - D&D):**
-  - *Naturaleza:* Mazo de naipes arcanos de marfil grabado. Quien roba una carta puede obtener castillos, riquezas incalculables o gemas de experiencia... o ver su alma desterrada a una esfera del abismo o su mente destruida en el acto. Ningún gremio serio permite su uso público.
-- **Esfera de la Aniquilación (*Sphere of Annihilation* - D&D):**
-  - *Naturaleza:* Orbe negro azabache de 60 cm suspendido en el aire que no emite ni refleja luz; es una fisura en el multiverso que desintegra absolutamente toda materia o energía física que la toque. Requiere control mental extremo para desplazarla.
-- **Artefacto Cifrado del Abismo Causal (Fosas del Mar de Jade):**
-  - *Naturaleza:* Reliquia rúnica ancestral recuperada de las profundidades marinas entre Elaris y Zhong-Kyo, con grabados idénticos a los paneles de autenticación de las Atalayas.
-
-
----
-
-## 6. ARTILUGIOS PERSONALES Y ARTEFACTOS ÚNICOS
-
-### La Bolsa Dimensional de Max (Rango S / Artefacto Espacial Sin Fondo)
-- **Portador:** Max (House Gutiérrez).
-- **Adquisición:** Día 1 (despojada de un líder orco en Eryndal Valley).
-- **Propiedades Únicas:**
-  1. *Capacidad Infinita de Volumen:* Acepta objetos masivos (cajas de libros, barriles de cerveza, múltiples cadáveres enteros de Wyverns adultos de Blackpeak).
-  2. *Peso Cero Constante:* No transmite la masa almacenada al exterior; cuelga del cinturón de Max sin esfuerzo físico.
-  3. *Compatibilidad con la Caja Temporal de Sawardo:* Mediante la estabilización rúnica y líquida de Aria, permite almacenar seres vivos en suspensión temporal absoluta al 100%, transportando incluso criaturas de Rango S como el Devorador.
-  4. *Inventario Rápido:* Extracción instantánea de comida fresca, agua, herramientas y botín mediante simple intención de Max.
-
----
-
-## RELIQUIAS Y OBJETOS DEL AÑO 3 (SUBASTA DE LA LLAVE DE BRONCE Y DESARROLLOS)
-
-### 1. Cofre de los Siete Sellos (Adjudicado a Max por 607 oro)
-- **Origen y naturaleza:** Reliquia antigua de mecanismos rúnicos concéntricos no forzados. Dispone de siete discos metálicos que requieren una secuencia exacta de giro para su apertura sin dañar el contenido interior.
-- **Estado:** En custodia documental en la residencia de Max; en fase de análisis pacífico con la Dra. Eleanor Whitmore y la Sociedad de Estudios Históricos.
-
-### 2. Fragmento de Núcleo Carmesí (Adjudicado a Max por 1.000 oro)
-- **Origen y naturaleza:** Fragmento mineral de alta concentración de maná puro y resonancia térmica latente. Capaz de alimentar matrices energéticas o prototipos arcanos avanzados.
-- **Estado:** En depósito seguro bajo custodia gremial en el Palacio de los Gremios de Aldoria; objeto de interés del maestro artificiero Hugo von Altenberg.
-
-### 3. Lente del Cartógrafo (Inspeccionada en la Llave de Bronce)
-- **Origen y propiedades:** Dispositivo monocular con aro regulable que permite visualizar discontinuidades estructurales, oquedades y cámaras ocultas en muros de mampostería. Demostrada en laboratorio por la Maestra Elwen del Círculo Arcano.
-
-### 4. Terminal Regional Portátil G1 (Proyecto G1)
-- **Diseño:** Prototipo de telecomunicación rúnica y resonancia de nodos desarrollado por Galwin, Aria, Daichi y Mika.
-- **Estado en Lluvia:** Dos terminales autorizados en operación: Terminal G1-A (en posesión de Yuki Moriyama) y Terminal de enlace en Gutiérrez Estate (conducido por Aria).
-
-### 5. Diadema Nekomimi
-- **Detalle afectivo:** Diadema con orejas de gato obsequiada por Max a Liora en Gutiérrez Estate durante los días 16–17 de Verdalia; símbolo de cariño y alegría compartida en el círculo íntimo.
-
----
-
 # MÓDULO: 04_SISTEMAS/OBJETOS_MAGICOS_DND_PATHFINDER_ANALISIS.md
 
 # Catálogo Analítico de Objetos Mágicos D&D y Pathfinder
@@ -28281,6 +28173,150 @@ Fichas técnicas y de tasación rúnica diseñadas para la interacción con **�
   - *Memoria del Mundo:* Cartografía topográfica y geológica completa del mundo anterior al Gran Aislamiento.
   - *Estabilizador Dimensional:* Fija y estabiliza portales de teletransporte rúnico sin degradación de coordenadas.
   - *Afinidad de Alma:* Solo responde a individuos con afinidad causal libre de las ataduras de las leyes convencionales del plano (sintonizada exclusivamente con Max).
+
+---
+
+# MÓDULO: 04_SISTEMAS/OBJETOS_MAGICOS.md
+
+# Objetos Mágicos y Artefactos — Sistema D&D / Pathfinder
+
+Este documento recopila e integra el catálogo de objetos mágicos, maravillas arcanas, armas, armaduras y artefactos legendarios inspirados en las mecánicas y el lore de **Dungeons & Dragons (5e/3.5)** y **Pathfinder (1e/2e)**, adaptados formalmente a la economía del oro, los gremios de aventureros y las casas de subastas del mundo de Los Ventura.
+
+---
+
+## 1. CLASIFICACIÓN DE RAREZA Y MERCADO
+
+En el mundo conocido, los objetos mágicos circulan en tiendas gremiales, talleres de artífices (como *Gearwright Innovations* en Tornhaven), subastas exclusivas de *Valdris Exotic Acquisitions* o como botines de dungeons antiguos:
+
+| Rareza | Disponibilidad en el Mercado | Rango de Precio Estándar | Rango Aventurero Asociado |
+|---|---|---|---|
+| **Común** | Tiendas generales de mercado, boticarios y forjas de gremio. | 50 – 200 oro | Rangos E y D |
+| **Poco Común** | Armerías de prestigio, alquimistas de renombre, sedes gremiales. | 300 – 1.500 oro | Rango C |
+| **Raro** | Subastas nobles, encargos de grandes artífices, botines de dungeon nivel medio. | 2.500 – 10.000 oro | Rango B |
+| **Muy Raro** | Tesoros de dragones, cámaras reales, subastas restringidas de Tornhaven. | 12.000 – 45.000 oro | Rango A |
+| **Legendario / Artefacto** | Reliquias de la era anterior al Aislamiento, monumentos antiguos. | Invaluable (+50.000 oro) | Rango S / Leyenda Viva |
+
+---
+
+## 2. OBJETOS MARAVILLOSOS (WONDROUS ITEMS)
+
+### Objetos de Almacenamiento Dimensional y Viaje
+- **Bolsa de Contención (*Bag of Holding* - D&D/Pathfinder):**
+  - *Propiedades:* Espacio extradimensional de 500 libras (225 kg) de capacidad y 64 pies cúbicos, manteniendo siempre un peso exterior fijo de 15 libras.
+  - *Precaución canónica:* Si se perfora o se introduce dentro de otro espacio dimensional (como un *Handy Haversack*), colapsa arrastrando todo a un vórtice astral.
+  - *Precio de mercado:* 800 – 1.200 oro.
+- **Mochila Práctica de Heward (*Handy Haversack*):**
+  - *Propiedades:* Mochila de cuero encantado con dos bolsillos laterales y uno central; el objeto deseado siempre se ubica en la parte superior mediante simple intención mental.
+  - *Precio de mercado:* 2.000 oro.
+- **Botas de Elfo (*Boots of Elvenkind*):**
+  - *Propiedades:* Los pasos del portador no producen ningún sonido físico, sin importar la superficie (madera crujiente, grava o nieve).
+  - *Precio de mercado:* 600 oro.
+- **Botas de Velocidad (*Boots of Speed*):**
+  - *Propiedades:* Al chocar los talones, duplican la velocidad de movimiento y otorgan ventaja en esquivas durante hasta 10 minutos al día.
+  - *Precio de mercado:* 4.500 oro.
+- **Manto de Protección (*Cloak of Protection*):**
+  - *Propiedades:* Tejido con hebras de seda de Elaris impregnadas de abjuración; otorga +1 a la defensa física y resistencia contra venenos y magia.
+  - *Precio de mercado:* 1.500 oro.
+- **Manto de Invisibilidad (*Cloak of Invisibility*):**
+  - *Propiedades:* Capa tejida con hilo de quimera astral que vuelve al portador completamente invisible a la vista ordinaria mientras se mantenga la capucha puesta.
+  - *Precio de mercado:* 25.000 oro (Muy Raro).
+
+### Accesorios de Resonancia de Maná
+- **Piedras Ioun (*Ioun Stones* - D&D / Pathfinder):**
+  - *Propiedades:* Gemas prismáticas cristalinas de origen antiguo que flotan y orbitan lentamente en círculo alrededor de la cabeza del portador.
+  - *Variedades:*
+    - *Rombo Rosa pálido:* Absorbe hechizos de impacto directo dirigidos al usuario.
+    - *Esfera Escarlata:* Incrementa la fuerza física y resistencia al impacto.
+    - *Huso Transparente:* Sustenta al usuario sin necesidad de comer ni beber agua.
+  - *Precio de mercado:* 5.000 a 30.000 oro según color y pureza.
+- **Anillo de Protección (*Ring of Protection*):**
+  - *Propiedades:* Sortija de platino con runas defensivas que desvía filos y proyectiles en el último instante.
+  - *Precio de mercado:* 3.500 oro.
+- **Anillo de Acción Libre (*Ring of Free Action*):**
+  - *Propiedades:* Inmunidad completa a efectos de parálisis mágica, enredos vegetales, telarañas de araña gigante o ralentización.
+  - *Precio de mercado:* 10.000 oro.
+- **Brazales de Defensa (*Bracers of Defense*):**
+  - *Propiedades:* Protectores de antebrazo de acero y cuero que proyectan una cúpula cinética (+2 a la armadura) solo si el portador no viste armadura pesada. Favorito de monjes marciales de Zhong-Kyo.
+  - *Precio de mercado:* 6.000 oro.
+
+---
+
+## 3. ARMAS MÁGICAS Y DE COMBATE
+
+- **Lengua de Fuego (*Flame Tongue* - D&D):**
+  - *Tipo:* Espada larga, cimitarra o mandoble.
+  - *Propiedad:* Al pronunciar la palabra de activación, la hoja se envuelve en llamas vivas que iluminan 40 pies y causan 2d6 de daño de fuego extra por impacto. Muy demandada en las frías cumbres de Dravenn.
+  - *Precio:* 5.000 – 7.500 oro.
+- **Marca de Escarcha (*Frost Brand* - D&D):**
+  - *Tipo:* Espada pesada o estoque.
+  - *Propiedad:* Hoja de acero azulado que exhala escarcha; otorga al portador resistencia natural al fuego extremo y causa daño de hielo penetrante. Capaz de extinguir hogueras no mágicas con un toque.
+  - *Precio:* 8.000 – 12.000 oro.
+- **Maza de Disrupción (*Mace of Disruption*):**
+  - *Propiedad:* Diseñada contra no-muertos y aberraciones; al impactar contra zombis, vampiros o espíritus malignos, emite un fogonazo de luz sagrada con posibilidad de desintegrarlos al instante.
+  - *Precio:* 9.000 oro.
+- **Martillo de los Truenos (*Hammer of Thunderbolts* - D&D):**
+  - *Propiedad:* Martillo de guerra enano forjado en Rocahalda; al golpear provoca un trueno ensordecedor que aturde enemigos en 30 pies y puede lanzarse a distancia, regresando mágicamente a la mano del guerrero.
+  - *Precio:* 25.000 oro (Rango A).
+- **Espada Vorpal (*Vorpal Sword* - D&D):**
+  - *Tipo:* Mandoble o espada bastarda legendaria.
+  - *Propiedad:* Filo geométrico perfecto capaz de cortar a nivel atómico. Ante un golpe crítico perfecto (un 20 natural), decapita limpiamente al adversario si la criatura tiene cabeza y cuello accesibles.
+  - *Precio:* Invaluable (+60.000 oro / Rango Leyenda).
+
+---
+
+## 4. CONSUMIBLES Y POCIONES DE LABORATORIO
+
+- **Poción de Curación Estándar (*Potion of Healing*):** Cierra tajos y fisuras óseas menores en segundos (50 oro).
+- **Poción de Curación Mayor / Suprema:** Regenera órganos internos y hemorragias masivas (250 – 1.250 oro).
+- **Elixir de Vigor de Gigante (*Potion of Giant Strength*):** Otorga fuerza sobrehumana durante 1 hora (Fuerza de Gigante de las Colinas: 1.500 oro; de Hielo: 3.000 oro; de Tormenta: 10.000 oro).
+- **Poción de Respiración Acuática (*Potion of Water Breathing*):** Permite respirar bajo el agua dulce o salada durante 24 horas (300 oro).
+
+---
+
+## 5. ARTEFACTOS SUPREMOS Y RELIQUIAS PELIGROSAS
+
+- **Baraja de Muchas Cosas (*Deck of Many Things* - D&D):**
+  - *Naturaleza:* Mazo de naipes arcanos de marfil grabado. Quien roba una carta puede obtener castillos, riquezas incalculables o gemas de experiencia... o ver su alma desterrada a una esfera del abismo o su mente destruida en el acto. Ningún gremio serio permite su uso público.
+- **Esfera de la Aniquilación (*Sphere of Annihilation* - D&D):**
+  - *Naturaleza:* Orbe negro azabache de 60 cm suspendido en el aire que no emite ni refleja luz; es una fisura en el multiverso que desintegra absolutamente toda materia o energía física que la toque. Requiere control mental extremo para desplazarla.
+- **Artefacto Cifrado del Abismo Causal (Fosas del Mar de Jade):**
+  - *Naturaleza:* Reliquia rúnica ancestral recuperada de las profundidades marinas entre Elaris y Zhong-Kyo, con grabados idénticos a los paneles de autenticación de las Atalayas.
+
+
+---
+
+## 6. ARTILUGIOS PERSONALES Y ARTEFACTOS ÚNICOS
+
+### La Bolsa Dimensional de Max (Rango S / Artefacto Espacial Sin Fondo)
+- **Portador:** Max (House Gutiérrez).
+- **Adquisición:** Día 1 (despojada de un líder orco en Eryndal Valley).
+- **Propiedades Únicas:**
+  1. *Capacidad Infinita de Volumen:* Acepta objetos masivos (cajas de libros, barriles de cerveza, múltiples cadáveres enteros de Wyverns adultos de Blackpeak).
+  2. *Peso Cero Constante:* No transmite la masa almacenada al exterior; cuelga del cinturón de Max sin esfuerzo físico.
+  3. *Compatibilidad con la Caja Temporal de Sawardo:* Mediante la estabilización rúnica y líquida de Aria, permite almacenar seres vivos en suspensión temporal absoluta al 100%, transportando incluso criaturas de Rango S como el Devorador.
+  4. *Inventario Rápido:* Extracción instantánea de comida fresca, agua, herramientas y botín mediante simple intención de Max.
+
+---
+
+## RELIQUIAS Y OBJETOS DEL AÑO 3 (SUBASTA DE LA LLAVE DE BRONCE Y DESARROLLOS)
+
+### 1. Cofre de los Siete Sellos (Adjudicado a Max por 607 oro)
+- **Origen y naturaleza:** Reliquia antigua de mecanismos rúnicos concéntricos no forzados. Dispone de siete discos metálicos que requieren una secuencia exacta de giro para su apertura sin dañar el contenido interior.
+- **Estado:** En custodia documental en la residencia de Max; en fase de análisis pacífico con la Dra. Eleanor Whitmore y la Sociedad de Estudios Históricos.
+
+### 2. Fragmento de Núcleo Carmesí (Adjudicado a Max por 1.000 oro)
+- **Origen y naturaleza:** Fragmento mineral de alta concentración de maná puro y resonancia térmica latente. Capaz de alimentar matrices energéticas o prototipos arcanos avanzados.
+- **Estado:** En depósito seguro bajo custodia gremial en el Palacio de los Gremios de Aldoria; objeto de interés del maestro artificiero Hugo von Altenberg.
+
+### 3. Lente del Cartógrafo (Inspeccionada en la Llave de Bronce)
+- **Origen y propiedades:** Dispositivo monocular con aro regulable que permite visualizar discontinuidades estructurales, oquedades y cámaras ocultas en muros de mampostería. Demostrada en laboratorio por la Maestra Elwen del Círculo Arcano.
+
+### 4. Terminal Regional Portátil G1 (Proyecto G1)
+- **Diseño:** Prototipo de telecomunicación rúnica y resonancia de nodos desarrollado por Galwin, Aria, Daichi y Mika.
+- **Estado en Lluvia:** Dos terminales autorizados en operación: Terminal G1-A (en posesión de Yuki Moriyama) y Terminal de enlace en Gutiérrez Estate (conducido por Aria).
+
+### 5. Diadema Nekomimi
+- **Detalle afectivo:** Diadema con orejas de gato obsequiada por Max a Liora en Gutiérrez Estate durante los días 16–17 de Verdalia; símbolo de cariño y alegría compartida en el círculo íntimo.
 
 ---
 
@@ -28772,6 +28808,99 @@ Toda respuesta debe registrarse con observación independiente. Una resonancia p
 
 ---
 
+# MÓDULO: 04_SISTEMAS/SAWARDO_ADDENDUM_REFERENCIA_TEMPORAL.md
+
+# SAWARDO — ADDENDUM DE REFERENCIA TEMPORAL Y ANCLA KAZUKI
+
+> Corte de referencia original: 26 de Bruma, Año 3. Este documento incorporó la evolución demostrada al 4 de Verdalia; el presente rector global está en [[CURRENT_STATE]].
+
+## Hipótesis unificadora
+
+Sawardo, Reversi, ACCI y Diavolo pueden ser interfaces de una misma autoridad temporal:
+
+- Sawardo: detener y administrar participación.
+- Reversi: retroceder localmente estado temporal.
+- ACCI: avanzar procesos; prohibido sobre seres vivos mientras no exista validación segura.
+- Diavolo: desplazar conciencia en el tiempo; experimental y de alto riesgo.
+
+La unificación es `HIPOTESIS_FUERTE_RESPALDADA`, no confirmación metafísica. “Sawardo” sigue siendo el nombre operativo de la interfaz fundamental demostrada.
+
+## Referencia Temporal
+
+Max parece conservar una referencia u origen que permite distinguir estado propio, posición temporal y retorno. Comprender esa referencia redujo imposición bruta y ayudó a interpretar antiguos dolores de cabeza como posible sobrecarga de interfaz.
+
+## Evolución demostrada en Albor, Año 3
+
+- Percepción temporal pasiva más estable.
+- Distinción más clara entre detener, avanzar, retroceder y desplazar conciencia.
+- Kazuki puede percibir parcialmente estructura, participación selectiva y firma de Max cuando trabaja dentro de condiciones controladas.
+
+## Protocolo Ancla Kazuki
+
+- Prototipo básico funcional.
+- Reconoce la referencia temporal de Max.
+- Puede ayudar a mantenerla estable durante un desplazamiento mínimo y controlado de Diavolo.
+- No controla Sawardo.
+- No detiene a Max si pierde totalmente el control.
+- No autoriza pruebas grandes, viaje temporal libre ni combate.
+
+## Lenguaje funcional antiguo
+
+ORIGEN → REFERENCIA → SINCRONIZAR → CONFIRMAR → ACCESO LIMITADO → RETORNO.
+
+Estos términos orientan protocolos, pero no garantizan que toda infraestructura antigua use exactamente el mismo sistema.
+
+---
+
+# MÓDULO: 04_SISTEMAS/SAWARDO_ADENDA_OTOÑO26_AUDIO.md
+
+# SAWARDO — ADDENDUM AUDIO / 26 OTOÑO, AÑO 2
+
+## Uso reciente legítimo
+Max recuperó el uso intensivo de Sawardo como laboratorio privado, no como infraestructura de la que sus amigos deban depender.
+Filosofía explícita de Max:
+> dejó de usar Sawardo para resolverlo todo porque no quiere que amigos/ciudad dependan completamente de su poder.
+
+## Laboratorio audio I — Max + Aria
+Diez días subjetivos; exterior congelado.
+- estudio desde S25/Torre: altavoces dinámicos, bobina, imanes, diafragma, cajas, impedancia, amplificación, distorsión, acústica y grabación temprana;
+- mapeo a materiales locales;
+- prototipo 1: ruido grave/fracaso, marcado “UNA MIERDA”;
+- prototipo 2: voz inteligible, imperfecta;
+- integración de cristal de eco como buffer/registro/intermediario;
+- pruebas de voz, percusión, música y sala.
+
+## Laboratorio audio II — Max + Aria + Galwin
+Diez días subjetivos adicionales; exterior congelado.
+- Galwin pagado por todos los días subjetivos trabajados;
+- modularización;
+- estabilidad térmica/eléctrica/mágica;
+- mejor acústica y resistencia;
+- interfaz protegida para S25;
+- documentación de fallos y sustitutos locales.
+
+## Resultado
+Sistema híbrido de segunda generación:
+1. captura;
+2. registro mediante cristal de eco;
+3. amplificación híbrida;
+4. reproducción por transductor/caja;
+5. interfaz protegida.
+
+Capaz de llenar una sala teatral con voz y música reconocible. NO Hi‑Fi moderno.
+
+## Restricciones
+- no asumir semiconductores modernos triviales;
+- cristal de eco resuelve partes difíciles, no reemplaza toda ingeniería;
+- cuernos/cajas aumentan eficiencia, no crean energía;
+- materiales con dueño requieren compra/consentimiento;
+- recolección con Sawardo solo natural/no poseída/legítima.
+
+## Ética de grabación
+Visible, consentida, uso declarado; no grabación clandestina privada.
+
+---
+
 # MÓDULO: 04_SISTEMAS/SAWARDO.md
 
 # Sawardo — canon operativo auditado
@@ -28893,99 +29022,6 @@ La historia posterior añade percepción temporal pasiva, la hipótesis de Refer
 - **Duración subjetiva:** 180 días (5 meses subjetivos) en los campos de práctica y Blackpeak.
 - **Broma de Max:** Bautizado humorísticamente como «Academia Gutiérrez» o «Escuela Tortuga», sin ningún rango ni institución oficial.
 - **Avance de Reversi (*Crazy Diamond*):** Max perfeccionó la repetibilidad de la reversión temporal sobre materiales fracturados y armas melladas.
-
----
-
-# MÓDULO: 04_SISTEMAS/SAWARDO_ADDENDUM_REFERENCIA_TEMPORAL.md
-
-# SAWARDO — ADDENDUM DE REFERENCIA TEMPORAL Y ANCLA KAZUKI
-
-> Corte de referencia original: 26 de Bruma, Año 3. Este documento incorporó la evolución demostrada al 4 de Verdalia; el presente rector global está en [[CURRENT_STATE]].
-
-## Hipótesis unificadora
-
-Sawardo, Reversi, ACCI y Diavolo pueden ser interfaces de una misma autoridad temporal:
-
-- Sawardo: detener y administrar participación.
-- Reversi: retroceder localmente estado temporal.
-- ACCI: avanzar procesos; prohibido sobre seres vivos mientras no exista validación segura.
-- Diavolo: desplazar conciencia en el tiempo; experimental y de alto riesgo.
-
-La unificación es `HIPOTESIS_FUERTE_RESPALDADA`, no confirmación metafísica. “Sawardo” sigue siendo el nombre operativo de la interfaz fundamental demostrada.
-
-## Referencia Temporal
-
-Max parece conservar una referencia u origen que permite distinguir estado propio, posición temporal y retorno. Comprender esa referencia redujo imposición bruta y ayudó a interpretar antiguos dolores de cabeza como posible sobrecarga de interfaz.
-
-## Evolución demostrada en Albor, Año 3
-
-- Percepción temporal pasiva más estable.
-- Distinción más clara entre detener, avanzar, retroceder y desplazar conciencia.
-- Kazuki puede percibir parcialmente estructura, participación selectiva y firma de Max cuando trabaja dentro de condiciones controladas.
-
-## Protocolo Ancla Kazuki
-
-- Prototipo básico funcional.
-- Reconoce la referencia temporal de Max.
-- Puede ayudar a mantenerla estable durante un desplazamiento mínimo y controlado de Diavolo.
-- No controla Sawardo.
-- No detiene a Max si pierde totalmente el control.
-- No autoriza pruebas grandes, viaje temporal libre ni combate.
-
-## Lenguaje funcional antiguo
-
-ORIGEN → REFERENCIA → SINCRONIZAR → CONFIRMAR → ACCESO LIMITADO → RETORNO.
-
-Estos términos orientan protocolos, pero no garantizan que toda infraestructura antigua use exactamente el mismo sistema.
-
----
-
-# MÓDULO: 04_SISTEMAS/SAWARDO_ADENDA_OTOÑO26_AUDIO.md
-
-# SAWARDO — ADDENDUM AUDIO / 26 OTOÑO, AÑO 2
-
-## Uso reciente legítimo
-Max recuperó el uso intensivo de Sawardo como laboratorio privado, no como infraestructura de la que sus amigos deban depender.
-Filosofía explícita de Max:
-> dejó de usar Sawardo para resolverlo todo porque no quiere que amigos/ciudad dependan completamente de su poder.
-
-## Laboratorio audio I — Max + Aria
-Diez días subjetivos; exterior congelado.
-- estudio desde S25/Torre: altavoces dinámicos, bobina, imanes, diafragma, cajas, impedancia, amplificación, distorsión, acústica y grabación temprana;
-- mapeo a materiales locales;
-- prototipo 1: ruido grave/fracaso, marcado “UNA MIERDA”;
-- prototipo 2: voz inteligible, imperfecta;
-- integración de cristal de eco como buffer/registro/intermediario;
-- pruebas de voz, percusión, música y sala.
-
-## Laboratorio audio II — Max + Aria + Galwin
-Diez días subjetivos adicionales; exterior congelado.
-- Galwin pagado por todos los días subjetivos trabajados;
-- modularización;
-- estabilidad térmica/eléctrica/mágica;
-- mejor acústica y resistencia;
-- interfaz protegida para S25;
-- documentación de fallos y sustitutos locales.
-
-## Resultado
-Sistema híbrido de segunda generación:
-1. captura;
-2. registro mediante cristal de eco;
-3. amplificación híbrida;
-4. reproducción por transductor/caja;
-5. interfaz protegida.
-
-Capaz de llenar una sala teatral con voz y música reconocible. NO Hi‑Fi moderno.
-
-## Restricciones
-- no asumir semiconductores modernos triviales;
-- cristal de eco resuelve partes difíciles, no reemplaza toda ingeniería;
-- cuernos/cajas aumentan eficiencia, no crean energía;
-- materiales con dueño requieren compra/consentimiento;
-- recolección con Sawardo solo natural/no poseída/legítima.
-
-## Ética de grabación
-Visible, consentida, uso declarado; no grabación clandestina privada.
 
 ---
 
@@ -29161,6 +29197,7 @@ Las grandes comedias populares no fueron concebidas de forma individual, sino de
 > **Estado:** `PUNTO DE PARTIDA CANÓNICO / DESARROLLO FUERA DE CÁMARA`  
 > **Ventana temporal:** después del Festival de la Cerveza de Año 3 —22–24 de Bruma— y antes del 15 de Solalto, Año 3.  
 > El cambio de Rowan ocurrió fuera de cámara; su ausencia en las escenas del festival y posteriores permite desarrollar ahora el arco sin reescribir la línea de Max.
+> **Convergencia futura:** consultar [Guía de convergencia Rowan–Efraín–Gran Sabio](../00_FUENTES/historias_paralelas/GUIA_DE_CONVERGENCIA_ROWAN_EFRAIN_GRAN_SABIO.md) antes de reunir este frente con la historia principal.
 
 ## Premisa
 
@@ -29288,6 +29325,16 @@ Rowan no desaparece ni muere. Durante la primera integración, el Gran Sabio enc
 ## Próximo uso
 
 `EN DESARROLLO`: jugar el despertar de Rowan–Efraín en el intervalo posterior al festival. La línea de Max queda pausada en el 15 de Solalto hasta que el usuario decida retomarla.
+
+## DESARROLLO JUGADO Y CORTE DE RETORNO A MAX — 15 DE SOLALTO, AÑO 3
+
+- Rowan mermó progresivamente el control decisorio de Efraín mediante resistencia interna, memoria, humor y conocimiento de la Corona; todavía no recupera el control físico pleno.
+- Efraín aprendió que está confinado en el Palacio y que no puede convertir el cuerpo, el título o las relaciones de Rowan en una plataforma política sin protocolo y sin consecuencias.
+- La primera propuesta queda reducida a un proyecto cultural piloto. No existe organización política pública, movimiento contra Max ni salida de Efraín fuera del palacio.
+- Caelan observó discretamente el cambio de Rowan y consultó a Aldric. Ambos eligieron no confrontar ni investigar oficialmente sin evidencia; Caelan mantiene vigilancia administrativa y Aldric protege el espacio familiar sin renunciar a los límites de la Corona.
+- Rowan, Aldric y Caelan desean asistir a la nueva comedia de Max cuando se estrene, pero el título, el argumento y la fecha siguen siendo confidenciales o no fijados para ellos. No se adelanta el estreno.
+- La prueba de obediencia del Gran Sabio a Rowan queda aplazada hasta después de que Efraín vea la obra y presencie el trabajo acumulado detrás de los resultados de Max. Esa observación será el siguiente mecanismo de desgaste de su certeza revolucionaria.
+- Este corte devuelve el foco a Max en el 15 de Solalto sin alterar sus decisiones, su agenda ni la línea familiar de Aria y Serath.
 
 ---
 
@@ -36225,14 +36272,25 @@ Corrección explícita del usuario > historia original > estado rector > este de
 ## 2. FORMATO DE DIÁLOGOS Y NARRACIÓN
 
 - **Formato Obligatorio:** En una sola línea limpia:  
-  `Nombre: diálogo.`  
-  *(Sin negritas en el texto del diálogo y sin raya de guion largo)*.
+  `**Nombre:** diálogo.`  
+  *(El nombre va en negrita; el texto del diálogo no lleva negrita y no se usa raya de guion largo.)*
 - **Etiquetas de Nombre:**
   - Para Max: Usar únicamente `Max:`; jamás añadir *"Lord Gutiérrez"* ni títulos nobiliarios pomposos en su etiqueta.
   - Para los demás personajes: Usar solo el nombre de pila (`Serath:`, `Aria:`, `Biro:`, `Natalia:`).
   - Títulos institucionales: Añadir cargo únicamente cuando sea solemne y formal para la escena, por ejemplo: `Aldric - Rey:`, `Serath - Comandante:`, `Thalion - Archmage:`.
 - **Acción Observable Primero:** Describir la acción física, el entorno, el gesto o el silencio antes del diálogo del personaje. Evitar que la narración parezca un intercambio estático de teatro de marionetas.
 - **Cierre interactivo:** Cuando llegue el momento de que Max responda, decida o actúe, detener el avance antes de resolver su elección y presentar exactamente las cinco categorías de [[SISTEMA_DE_OPCIONES_Y_CONTINUAR]]: **Buena, Neutral, Caótica, Especial y Automática**. No reducirlas a tres ni reemplazarlas por una pregunta genérica.
+
+### 2.1. FORMATO VISUAL PERMANENTE DEL RP
+
+- Todo turno sustantivo debe abrir con un encabezado visual que indique **día continuo, fecha del calendario y título de capítulo o escena**. Ejemplo: `☀️ DÍA 823 — 23 DE SOLALTO, AÑO 3` y `## CAPÍTULO — ...`.
+- Antes de la narración principal, incluir una ficha breve de contexto cuando aporte claridad: `📍 Lugar`, `🕒 Hora` y `👥 Presentes`.
+- Organizar las escenas con subtítulos y horas (`08:30 — ...`) cuando haya cambio de lugar, fase, frente o tramo del día. No usar saltos temporales bruscos sin señalarlos.
+- Usar tablas Markdown para frentes, tareas, resultados, gastos, inventarios o control de personajes cuando haya tres o más elementos comparables. La tabla resume; la prosa conserva la experiencia narrativa.
+- Usar tarjetas visuales o bloques de estado para hitos y pendientes. Los indicadores tienen significado fijo: `✅` confirmado/completado, `🟢` avance demostrado, `◌` pendiente o abierto, `⚠️` riesgo/límite, `🔒` secreto o acceso restringido, `❌` bloqueado o rechazado.
+- Los indicadores nunca sustituyen la evidencia narrativa ni convierten una hipótesis en hecho. Una tarjeta debe distinguir siempre **resultado**, **limitación** y **siguiente paso**.
+- Mantener títulos llamativos, iconos y separadores con moderación: el formato debe hacer legible el estado del mundo, no convertir la escena en un informe sin personajes.
+- En cada escena con Max presente, conservar su participación activa, sus chistes y sus oportunidades de intervención. El formato visual no autoriza a decidir por él.
 
 ---
 
@@ -36385,48 +36443,18 @@ Cada persona, incluidas figuras de apoyo, antagonistas y trabajadores, conserva 
 3. Si la fuente aún no fija una voz, usar acción y pregunta prudente; no fabricar un arquetipo.
 4. Si un personaje tiene dos registros —identidad pública/privada, trabajo/intimidad o combate/descanso— conservar ambos y señalar el contexto.
 
----
+## 6. FORMATO VISUAL PERMANENTE — EL RP COMO HISTORIA Y PANEL VIVO
 
-# MÓDULO: 07_ROLEPLAY/HISTORICO_DELTAS_DIAS_30_A_40/DELTA.md
+El RP debe conservar la presentación visual que permite leer la historia y su estado sin volverla plana ni convertirla en una hoja de cálculo.
 
-# Protocolo DELTA
-
-## Cuándo crear uno
-
-Después de una escena significativa: decisión, revelación, cambio de lugar/tiempo, uso nuevo de poder, transacción, cambio relacional, consecuencia política, alta de NPC importante o apertura/cierre de hilo.
-
-## Plantilla
-
-```markdown
-# DELTA — <id/escena>
-- Escena y localizador:
-- Hechos confirmados:
-- Decisiones expresas de Max:
-- TIEMPO_EXTERNO:
-- TIEMPO_SUBJETIVO_MAX acumulado conocido:
-- DELTA_SUBJETIVO_SAWARDO de esta escena:
-- Tiempo subjetivo de otros participantes activos:
-- Personajes afectados:
-- Conocimiento ganado/perdido y por quién:
-- Relaciones cambiadas y evidencia:
-- Sistemas/poderes demostrados:
-- Economía/objetos:
-- Hilos abiertos/cerrados:
-- Contradicciones:
-- Archivos que SÍ cambian:
-- Archivos que NO cambian:
-- Veredicto del Guardián del Canon:
-```
-
-## Aplicación selectiva
-
-1. Cronista propone el delta.
-2. Canon valida etiquetas y precedencia.
-3. Compresor actualiza solo los archivos listados.
-4. CURRENT_STATE siempre reemplaza el estado inmediato, no la historia completa.
-5. Verificar recuperación y enlaces.
-
-Ejemplo: conversación Max–Natalia puede cambiar Natalia, RELATIONSHIPS, KNOWLEDGE, TIMELINE, PLOT_THREADS y CURRENT_STATE. No cambia Sawardo, MONSTERS, DUNGEONS o Biro si no participaron.
+- Abrir cada turno sustantivo con **día continuo, fecha y título de capítulo**; añadir iconos de ambiente o fase cuando ayuden a distinguir la jornada.
+- Mostrar debajo del título una ficha breve con **lugar, hora y presentes**. Si la hora no está confirmada, marcarla como aproximada en vez de inventarla.
+- Separar la jornada mediante subtítulos y marcas horarias. La acción, los gestos y los diálogos siguen siendo el centro; las marcas sirven para dar ritmo y continuidad.
+- Recuperar el formato de paneles de Año 3: tablas de frentes, control de avances, resultados de pruebas, inventarios, gastos y pendientes; tarjetas de habilidades o desarrollos; bloques de “resultado de la consolidación” y “próxima decisión”.
+- Usar estos estados de forma consistente: `✅` confirmado, `🟢` avance, `◌` pendiente, `⚠️` limitación o riesgo, `🔒` secreto/restringido y `❌` bloqueado/rechazado.
+- En una tarjeta de personaje, técnica o frente, separar siempre **capacidad o resultado**, **limitaciones** y **desarrollo pendiente**. No usar un check verde para una hipótesis.
+- Los nombres de personajes se escriben en **negrita** en las etiquetas de diálogo y cuando funcionen como encabezado de una ficha. El diálogo permanece limpio y sin raya de guion largo.
+- El formato no debe eliminar la atmósfera: cada panel debe ir acompañado, cuando corresponda, por prosa sensorial, acciones observables y voces diferenciadas.
 
 ---
 
@@ -37057,6 +37085,49 @@ Importante:
 ## Directriz operativa
 
 Al cerrar cada día deben mostrarse jornadas fuera de cámara con acciones, diálogos y pensamientos privados de NPC relevantes. Las decisiones de Max no deben ser inventadas. Las opciones deben ser cinco: buena, neutral, caótica, especial y automática.
+
+---
+
+# MÓDULO: 07_ROLEPLAY/HISTORICO_DELTAS_DIAS_30_A_40/DELTA.md
+
+# Protocolo DELTA
+
+## Cuándo crear uno
+
+Después de una escena significativa: decisión, revelación, cambio de lugar/tiempo, uso nuevo de poder, transacción, cambio relacional, consecuencia política, alta de NPC importante o apertura/cierre de hilo.
+
+## Plantilla
+
+```markdown
+# DELTA — <id/escena>
+- Escena y localizador:
+- Hechos confirmados:
+- Decisiones expresas de Max:
+- TIEMPO_EXTERNO:
+- TIEMPO_SUBJETIVO_MAX acumulado conocido:
+- DELTA_SUBJETIVO_SAWARDO de esta escena:
+- Tiempo subjetivo de otros participantes activos:
+- Personajes afectados:
+- Conocimiento ganado/perdido y por quién:
+- Relaciones cambiadas y evidencia:
+- Sistemas/poderes demostrados:
+- Economía/objetos:
+- Hilos abiertos/cerrados:
+- Contradicciones:
+- Archivos que SÍ cambian:
+- Archivos que NO cambian:
+- Veredicto del Guardián del Canon:
+```
+
+## Aplicación selectiva
+
+1. Cronista propone el delta.
+2. Canon valida etiquetas y precedencia.
+3. Compresor actualiza solo los archivos listados.
+4. CURRENT_STATE siempre reemplaza el estado inmediato, no la historia completa.
+5. Verificar recuperación y enlaces.
+
+Ejemplo: conversación Max–Natalia puede cambiar Natalia, RELATIONSHIPS, KNOWLEDGE, TIMELINE, PLOT_THREADS y CURRENT_STATE. No cambia Sawardo, MONSTERS, DUNGEONS o Biro si no participaron.
 
 ---
 

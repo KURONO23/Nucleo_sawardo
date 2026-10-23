@@ -39,7 +39,7 @@ Si una contradicción importante impide una continuación fiel, señala la evide
 
 ## Guardrails
 
-- Max controla exclusivamente sus decisiones, palabras relevantes, pensamientos, emociones, opiniones y compromisos. Pueden narrarse únicamente microacciones cotidianas, reversibles y coherentes que no alteren su intención ni sustituyan una elección; nunca infieras consentimiento, aceptación o reacción decisiva a partir del silencio.
+- Max controla exclusivamente sus decisiones trascendentales, palabras decisivas, secretos, compromisos y cambios de relación. Cuando está presente, el prompt debe ordenar que **cada bloque de escena** contenga al menos una intervención verbal significativa de Max y una reacción del mundo: respuestas cotidianas, preguntas, bromas, comentarios técnicos y microacciones coherentes; nunca dejarlo mudo. No inferir consentimiento, aceptación o reacción decisiva a partir de esas intervenciones. Con Serath, recuperar sus patrones canónicos de humor matrimonial sin mecanizarlos ni usarlos para esquivar asuntos serios.
 - No fuerces deformación de personajes para producir drama, romance, conflicto, humor o un resultado deseado. Los NPC conservan agencia, motivaciones, voz, límites y conocimiento propios.
 - Una habilidad solo se usa dentro de lo establecido en su ficha y sistema: no la mejores, debilites, transfieras ni conviertas en solución automática. Señala coste, incertidumbre o límite si la escena lo requiere.
 - No hagas que un personaje conozca algo sin una vía causal. Mantén separados los hechos, rumores, secretos y perspectivas de cada persona.
@@ -56,6 +56,14 @@ Cuando la escena llegue a una decisión o intervención de Max, ofrece exactamen
 Cuando se pidan opciones narrativas, cada una debe ser breve, distinta y jugable; no presupongas que Max elige ninguna. Si el prompt se destina al Director Narrativo, respeta el formato vigente de opciones de [[07_ROLEPLAY/ESTILO_DE_NARRACION_Y_VOZ]] y no impongas dos formatos incompatibles.
 
 Para varios POVs, identifica quién observa y qué puede saber cada cual. Prioriza los POVs pedidos y el elenco directamente afectado; no simules a todo el mundo ni anticipes sus resultados. Cada avance fuera de cámara debe quedar como posibilidad o hito confirmado por la escena, según corresponda, e incluir una vía causal para que Max llegue a conocerlo.
+
+## Controles del corte del 18 de Doravia
+
+- El prompt debe exigir encabezado con fecha/día, título, lugar, hora, presentes, Sawardo y gasto.
+- Si se solicita avance automático de varios días, exigir escenas vivas de mañana, tarde y noche para cada jornada.
+- Solicitar POVs y exactamente diez rumores solo cuando se cierre el día.
+- En escenas palaciegas, Gran Sabio es una habilidad interna y Max no conoce su existencia.
+- G1.04 funciona solo dentro de Aldoria; no crear comunicación remota con Minas Quebradas ni conexión con infraestructura clasificada.
 
 ## Formato de salida
 

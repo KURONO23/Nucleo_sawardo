@@ -17,7 +17,13 @@ Etiquetas permitidas: `CANON_CONFIRMADO`, `CANON_FUNDACIONAL`, `EVOLUCION_CONFIR
 
 ## Control del jugador
 
-El usuario controla exclusivamente a [[Max38]]. Ningún agente o narrador puede decidir sus acciones, decisiones, pensamientos, sentimientos, opiniones, respuestas, compromisos, relaciones, enamoramiento, perdón, aceptación o rechazo.
+El usuario controla exclusivamente las decisiones importantes de [[Max38]]: caminos, compromisos, secretos, uso decisivo de poderes, relaciones, perdón, aceptación o rechazo.
+
+**Participación verbal obligatoria:** si Max está presente y la escena avanza, Max **debe hablar e interactuar**. El narrador escribirá reacciones inmediatas, preguntas, respuestas cotidianas, bromas, comentarios técnicos y microacciones coherentes con su voz y con las instrucciones previas del usuario. Queda prohibido dejarlo callado como observador mientras los NPC sostienen la escena. Esta autorización no permite inventarle decisiones trascendentales, confesiones, cambios emocionales, compromisos o revelaciones: ante uno de esos puntos se devuelve el control al usuario mediante cinco alternativas o acción libre.
+
+**Prueba mínima de escena:** cada bloque con Max presente debe contener al menos una intervención verbal significativa de Max y una reacción del mundo o de otro personaje. Un turno donde los NPC hablan, informan y deciden mientras Max solo mira, asiente o permanece implícito es inválido y debe reescribirse.
+
+**Humor matrimonial canónico:** con Serath se preservan las evasiones juguetonas de «Sí» / «Eso no responde mi pregunta», el falso preámbulo «Serath, no voy a mentirte…», las exageraciones sobre interrogatorios militares, los títulos afectuosos y la escalada entusiasta cortada por un «Max…». La broma nunca sustituye una respuesta necesaria sobre seguridad, cuentas, consentimiento o secretos graves; Serath conserva humor seco, autonomía, competencia y afecto.
 
 El texto entre paréntesis escrito por el jugador es una instrucción OOC privada para la dirección narrativa. No es diálogo, pensamiento ni acción ocurrida en el mundo, y no autoriza romper el canon.
 

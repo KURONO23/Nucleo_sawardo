@@ -50,3 +50,12 @@ Un cristal evalúa “poder mágico y potencial de combate”. Max agrieta el cr
 ## Regla de uso
 
 No conceder clase, especialización, hechizos o ascensos por analogía. Los rangos oficiales de Los Ventura al cierre son Jasmine S, Misa S, Amane S y Biro A; sus rangos iniciales permanecen A/C/B/B.
+
+## EXPERIENCIA DE CAMPO — DORAVIA, AÑO 3
+
+- Haruto queda en nivel 48 y rango A; Ren en 35/C y Leo en 32/C. Las escenas repetidas no duplican ascensos.
+- Leo registra una retirada preventiva como decisión válida; Quest Log ofrece tareas y organización, pero no manda sobre el equipo.
+- Ren consolida Lectura de Fractura I sin volver sus lecturas infalibles.
+- Haruto usa Paso Relámpago II para desviar un jabalí acorazado sin matarlo.
+- Los materiales y recompensas de Haruto, Ren y Leo siguen siendo propiedad individual.
+- Las variantes monetarias de la misión botánica están bajo `CONTR-151`; no reutilizar ninguna como tarifa general de las misiones C.

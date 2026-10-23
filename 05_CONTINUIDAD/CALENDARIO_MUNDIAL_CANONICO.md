@@ -1,7 +1,7 @@
-# CALENDARIO MUNDIAL CANÓNICO — PRESENTE: 15 DE SOLALTO, AÑO 3
+# CALENDARIO MUNDIAL CANÓNICO — PRESENTE: 1 DE DORAVIA, AÑO 3
 
 > FUENTE MAESTRA ÚNICA del calendario narrativo de Aldoria / NÚCLEO_SAWARDO.
-> Autoridad temporal vigente al 15 de Solalto, Año 3. Los registros del Año 2, Floris y los cortes anteriores se preservan como historial.
+> Autoridad temporal vigente al 1 de Doravia, Año 3. Los registros del Año 2, Floris, Solalto, Estival y los cortes anteriores se preservan como historial.
 
 ---
 
@@ -99,14 +99,20 @@
 
 - **27 de Albor — Galwin:** fecha transcurrida; celebración no documentada. No reconstruir detalles retrospectivamente.
 
-## 7.2 Presente canónico — 15 de Solalto, Año 3
+## 7.2 Presente canónico histórico — 15 de Solalto, Año 3
 
-- **Fecha actual:** 15 de Solalto, Año 3 · Día continuo 821 · cierre nocturno.
-- **Punto rector:** [[CURRENT_STATE_15_SOLALTO_AÑO3]].
+- **Fecha del corte:** 15 de Solalto, Año 3 · Día continuo 821 · cierre nocturno.
+- **Punto histórico:** [[CURRENT_STATE_15_SOLALTO_AÑO3]].
+
+## 7.3 Presente canónico operativo — 30 de Solalto, Año 3
+
+- **Fecha actual:** 30 de Solalto, Año 3 · Día continuo 836 · cierre nocturno.
+- **Punto rector:** [[CURRENT_STATE_30_SOLALTO_AÑO3]].
+- **Siguiente escena obligatoria:** auditoría mensual del 1 de Estival con Natalia, Elise y Vivienne.
 - **Corte previo:** 31 de Floris, Año 3, histórico; su cierre de liquidez fue 928.175 oro.
-- **Próxima decisión:** 16 de Solalto; ninguna de las cinco opciones de la fuente está elegida.
-- **Próxima alerta prioritaria:** Aria, 22 de Solalto. La preparación o celebración requiere decisión expresa de Max.
-- **Siguiente alerta:** Sayaka/Evelyn, 30 de Solalto.
+- **Próxima decisión:** auditoría mensual del 1 de Estival; ninguna inversión nueva está aprobada.
+- **Próxima alerta prioritaria:** Kira, 6 de Estival. La celebración requiere decisión de Max y no se regala otro cuaderno por defecto.
+- **Estado de Sayaka/Evelyn:** cumpleaños del 30 de Solalto completado; gasto personal de 290 oro ya registrado.
 
 ## 7.0 Corte histórico — 1 de Floris, Año 3
 
@@ -130,3 +136,31 @@
 - Max comenzó con 38 años y, tras el cumpleaños del 25 de Ventisca del Año 2, tiene **39 años** al 1 de Lluvia del Año 3.
 - El antiguo esquema Día 34/Día 399 queda conservado como incidencia histórica desplazada por la retcon posterior; no se cuenta dos veces.
 - Registro completo: [[REGISTRO_DE_EDADES_Y_CUMPLEANOS]].
+
+## 9. Eventos fijos del mundo — regla consolidada al 16 de Estival, Año 3
+
+Estos eventos tienen recurrencia propia y no dependen de que Max los recuerde en escena. La fecha de reserva no significa que el presupuesto, los contratos o el programa estén cerrados.
+
+| Evento | Última edición confirmada | Próxima fecha de calendario | Estado al 16 de Estival, Año 3 |
+|---|---|---|---|
+| **Festival Infantil de Aldoria** | **4 de Otoño, Año 2** | **4 de Otoño, Año 3** | Fondo anual de 15.000 oro aprobado; Natalia, Elise y Vivienne controlan partidas, seguridad y recuperación del fondo |
+| **Festival Internacional de la Cerveza de Aldoria** | **22–24 de Bruma, Año 3** (19–20 fueron jornadas asociadas de reposición y montaje) | **22–24 de Bruma, Año 4** | Fondo anual de 24.000 oro restituido; 12.100 remanentes + 11.900 de complemento, con control de partidas y recuperación propia |
+
+La zona infantil integrada en el Festival de la Cerveza del Año 3 queda registrada como **edición satélite/piloto**: aporta aprendizaje y no sustituye al Festival Infantil anual del 4 de Otoño.
+
+## 10. Corte operativo — 1 de Doravia, Año 3
+
+- **Fecha:** 1 de Doravia, Año 3; cierre de la auditoría mensual de Natalia, Elise y Vivienne.
+- **Estreno fijado:** 18 de Doravia, 20:00, Teatro Estrella Verde.
+- **Almuerzo familiar reservado:** 25 de Doravia, con Aldric y Thalion; la fecha queda fijada dentro del pacto familiar quincenal y no se resolverá fuera de escena.
+- **Regla de pausa:** la secuencia automática de Estival se detiene aquí hasta nueva decisión del usuario.
+
+## 11. Corte operativo — 18 de Doravia, Año 3
+
+- **Fecha:** 18 de Doravia, Año 3; día continuo 885, 23:04.
+- **Estreno:** completado; la recepción posterior sigue abierta.
+- **21 de Doravia:** cumpleaños de Vivienne.
+- **25 de Doravia:** almuerzo familiar con Aldric y Thalion.
+- **30 de Doravia:** cumpleaños de Amane.
+- **31 de Doravia:** cierre mensual y archivo íntegro de todos los chats de Doravia.
+- No saltar ninguna de estas fechas sin aviso y decisión compatible con las preferencias vigentes de Max.

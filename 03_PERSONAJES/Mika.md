@@ -122,4 +122,11 @@ Su primera mejora tendrá un coste: un falso positivo obligará al equipo a repe
 
 - Mika continúa en la auditoría independiente de G1.03 junto con Daichi, con foco en límites, temperatura, pérdida de señal y mantenimiento reproducible.
 - La evidencia disponible no autoriza todavía un cambio de alcance ni vincula G1.03 con Elaris.
-- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.
+- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3.md`.
+
+## ADDENDUM DE ESTADO — 16–30 DE SOLALTO, AÑO 3
+
+- Revisa G1.04 separando compatibilidad real, hipótesis y falsos positivos procedentes de la Instalación/Taller Occidental.
+- Mantiene la prohibición de conectar directamente G1.04 con Aguja Muerta, relés antiguos o la red superior.
+- Su siguiente hito es una matriz de compatibilidad y mantenimiento que otro técnico pueda repetir.
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3|transcripción del chat, 16–30 de Solalto]].

@@ -1,6 +1,6 @@
 # INFORME DE PROPAGACIÓN — 15 DE SOLALTO, AÑO 3
 
-> Fuente auditada: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.
+> Fuente auditada: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3.md`.
 > Los trece informes fueron reunidos antes de declarar la integración. Ningún agente modificó la fuente original.
 
 | Agente | Resultado | Frente revisado |

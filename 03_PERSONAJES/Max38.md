@@ -371,3 +371,11 @@ Durante la operación Marcos, Max mantiene la cobertura sin llevar G1 encima. `D
 - **Voz vigente:** conversador, bromista y expresivo; mayúsculas solo para gritos reales. Futuras acciones y respuestas siguen bajo control exclusivo del usuario.
 - **Punto actual:** 31 de Floris, 23:45, descansando con Serath.
 - **Fuente:** [Floris Año 3](../00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md).
+
+## ADDENDUM DE ESTADO — 18 DE DORAVIA, AÑO 3
+
+- Max llegó al estreno de *Mi fin de semana con el muerto* como integrante activo de Los Cinco del Barril. La obra cerró sus cuatro actos y quince escenas con el final aprobado; el telón quedó abierto mientras el público aplaudía.
+- Conserva su voz bromista y participativa: habla en cada bloque en el que está presente, sostiene la relación con Serath y no delega al narrador sus decisiones trascendentales. La carta de Kazuki fue leída y la respuesta permanece deliberadamente aplazada.
+- La liquidez posterior a la misión y a la venta de materiales queda **PENDIENTE_DE_CONCILIAR** por tres tasaciones incompatibles; no se incorpora taquilla ni se escoge una cifra en su nombre.
+- **Punto actual:** 18 de Doravia, 23:04, Teatro Estrella Verde, sobre el escenario con Goran, Haruto, Biro y Darian.
+- **Fuente:** [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]] y [[CURRENT_STATE_18_DORAVIA_AÑO3]].

@@ -34,6 +34,21 @@
 
 Estas son semillas de continuidad, no escenas ya jugadas. Sus resultados, errores y relaciones concretas deben descubrirse cuando la historia avance.
 
+## 15–16 DE ESTIVAL, AÑO 3 — AVANCES CONFIRMADOS EN EL RP
+
+- **Galwin y aprendices:** entregaron terminales o perfiles de prueba G1.04 al círculo de Max. La prueba colectiva confirmó mensajería breve, registros y telemetría; Galwin mantiene límites automáticos y no detiene el Serath-Maru.
+- **Daichi y Mika:** separan terminales de campo de canales certificados y mantienen la prohibición de conectar G1.04 directamente a la Red de Nodos.
+- **Ryu y Kenji:** tomaron tres muestras de agua del Terreno A, sin comprar colonias. El análisis químico y estacional queda pendiente.
+- **Yuki y Sayaka:** usan los terminales para comunicación social y generan una prueba de carga realista; ambas saben que existe una nueva obra, pero no conocen su contenido.
+- **Mizuki:** mantiene un canal humano/autorizado y su investigación independiente de Veylan; no recibe un tercer G1 certificado.
+- **Goran, Elise, Vivienne, Biro y Darian:** continúan la preparación de *Mi fin de semana con el muerto*. Perrin Doss queda como candidato principal al noble; el final, la marioneta y la bofetada segura siguen en prueba.
+- **Kazuki:** no confirma todavía la lectura de la carta de Max; su frente de mecanismos en Minas Quebradas continúa sin resultado inventado.
+- **Torre de los Nombres:** Max y Aria realizan un análisis clasificado del fragmento carmesí. No hay filtración pública ni transferencia de custodia.
+- **Eleanor Whitmore:** recibe documentación permitida sobre el análisis; no recibe el fragmento ni la caja abierta.
+- **Rowan/Efraín/Gran Sabio:** observan únicamente la expansión pública del G1 de campo y la obra; no conocen la consulta clasificada de la Torre.
+
+Estos avances son hechos del RP, no resultados atribuidos a una fuente original que no los contenga. Cada siguiente cierre debe añadir responsable, evidencia, coste, dependencia y siguiente paso.
+
 ## Agenda de cumpleaños del Año 3
 
 - **Galwin, 27 de Albor:** mantuvo el taller abierto para sus aprendices, reparó una herramienta antigua y dejó una plantilla de mantenimiento reutilizable.
@@ -69,4 +84,38 @@ Estos avances sí son consecuencias integradas. Las peticiones del 15 de Lluvia,
 ## Regla de uso
 
 Cada nuevo cierre diario debe registrar al menos: avance, responsable, evidencia, coste, dependencia y siguiente paso. No convertir una propuesta del asistente en hecho ejecutado.
+
+## 16 DE ESTIVAL, AÑO 3 — CONSOLIDACIÓN DE EVENTOS ANUALES
+
+- **Natalia:** asume de forma explícita la preparación administrativa del Festival Infantil del 4 de Otoño, Año 3 y la revisión de consecuencias del Festival de la Cerveza; debe separar presupuesto, fondo restringido, impacto laboral y contratos. Esto consolida una responsabilidad, no un presupuesto aprobado.
+- **Festival Infantil:** la última edición principal jugada y cerrada sigue siendo la del 4 de Otoño, Año 2. La zona infantil de Bruma, Año 3, queda como piloto satélite.
+- **Festival de la Cerveza:** la edición del Año 3 está cerrada; la siguiente ventana anual se reserva para el 22–24 de Bruma, Año 4, sin adelantar contratos ni resultados.
+- **Dependencias:** el estreno de *Mi fin de semana con el muerto* continúa siendo el motor narrativo inmediato de Estival; los festivales se preparan en paralelo y no congelan G1.04, Serath-Maru, Terreno A, Eleanor, Kazuki ni los frentes relacionales.
+
+## 17 DE ESTIVAL A 1 DE DORAVIA, AÑO 3 — SECUENCIA AUTOMÁTICA CERRADA
+
+- **Goran y Los Cinco del Barril:** completaron lectura integral, casting funcional, prueba actor–marioneta, opiniones del elenco, seguridad y ensayo general. Goran fijó el estreno para el **18 de Doravia, 20:00**, en el Teatro Estrella Verde.
+- **Biro:** recibió de Max un barril de 10 litros y un kit de utilería/sellos de revisión; gasto personal total: **40 oro**. La relación con Vivienne avanzó mediante trabajo y humor, sin formalización automática.
+- **Haruto, Leo y Ren:** completaron una misión B de subyugación y evaluación de campo. El tablero gremial mostraba una lectura atrasada de 43/25/28; Leo la contrastó con las fichas vigentes y dejó asentada la progresión real: **Haruto 46→47, Leo 30→31 y Ren 33→34**. La recompensa de **1.200 oro** quedó en sus manos, a razón de 400 cada uno.
+- **Galwin:** confirmó telemetría estable del G1.04 y mantuvo la separación entre terminales de campo, canales certificados y Red de Nodos. Serath-Maru mejoró vibración en carga media, pero no obtuvo permiso para travesía larga.
+- **Natalia, Elise y Vivienne:** abrieron la preparación administrativa del Festival Infantil del 4 de Otoño, Año 3 y revisaron la siguiente edición cervecera. El fondo restringido de 12.100 oro no se utilizó.
+- **Familia real:** el almuerzo Aldric–Thalion del 27 de Estival ocurrió; Max defendió que sus futuros hijos con Serath sean libres y no sucesores impuestos.
+- **Eleanor y Kazuki:** Eleanor avanzó en la clasificación de sellos; Minas Quebradas confirmó recepción de la carta sin respuesta personal todavía.
+- **Cierre financiero:** el 1 de Doravia Natalia concilió las salidas de Estival en un subtotal de 914.953,3 y después acreditó el cierre operativo del mes: +7.270 ordinarios y +3.000 fijos de Esmeralda. Liquidez rectora: **925.223,3 oro**.
+- **Fondos culturales:** después del cierre, Max aprobó 15.000 oro para el Festival Infantil y completó con 11.900 el remanente cervecero de 12.100 hasta 24.000. Liquidez libre resultante: **898.323,3 oro**. Ambos fondos son independientes, deben autofinanciarse tras recuperar su capital y quedan sujetos al control de Natalia, Elise y Vivienne.
+
+## 1–18 DE DORAVIA, AÑO 3 — AVANCES CONFIRMADOS
+
+- **Goran, Biro, Darian, Haruto y Max:** completan el estreno de *Mi fin de semana con el muerto* sin cambiar el final ni sufrir incidentes de seguridad. Recepción favorable; cierre económico y político pendiente.
+- **Galwin y aprendices:** mantenimiento G1.04 más reproducible; fallos de humedad, conectores y mensajes incompletos documentados. Tercera prueba pendiente.
+- **Serath-Maru:** prueba de 30 minutos a carga media; temperatura, desgaste y travesía siguen abiertos.
+- **Ryu y Kenji:** flores de miel lunar sobreviven; abejas de rocío se aproximan. Rediseñan bancales por drenaje sin comprar colonias.
+- **Eleanor:** ordena patrones y secuencias; caja cerrada y fragmento separado.
+- **Haruto, Ren y Leo:** quedan en niveles 48, 35 y 32. Practican retirada, coordinación y resolución no letal; evaluación S de Haruto pendiente.
+- **Kazuki y Hessa:** Minas Quebradas delega reparaciones locales; una galería queda restringida. Carta personal leída por Max; respuesta aplazada.
+- **Relaciones:** Haruto–Liora y Natalia–Kael estables; Leo–Greta, Ren–Elena y Biro–Vivienne avanzan sin formalización.
+- **Jasmine y Kira:** preservan la discrepancia de V. Sable como pista y no como culpabilidad.
+- **Corven–Severin–Veylan:** sin cambio concluyente; permanecen separados y abiertos.
+
+Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].
 

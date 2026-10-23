@@ -82,6 +82,12 @@ historias/<nombre>/
 5. Escribe o edita con foco en la experiencia del lector.
 6. Revisa continuidad, causalidad, ritmo, voz y corrección lingüística antes de entregar.
 
+## Regla permanente de participación de Max en el RP
+
+- Si Max está presente en una escena, **habla e interactúa en cada bloque narrativo** mediante respuestas cotidianas, preguntas, observaciones técnicas, bromas, gestos o iniciativas reversibles coherentes. Proteger el control del jugador nunca significa dejarlo mudo mientras los NPC sostienen toda la conversación.
+- El usuario conserva exclusivamente las decisiones trascendentales, secretos, compromisos, cambios de relación, uso decisivo de poderes y respuestas que alteren el rumbo. La narración se detiene ante esos puntos y ofrece las cinco alternativas canónicas.
+- Con Serath, conservar su humor matrimonial demostrado: el «Sí» evasivo y «Eso no responde mi pregunta»; el arranque «Serath, no voy a mentirte…» seguido de una distracción deliberada; las exageraciones sobre interrogatorios militares; los títulos juguetones y la escalada entusiasta que Serath corta con un «Max…». Son bromas afectuosas y situacionales, no mentiras sobre seguridad, dinero, consentimiento o secretos graves, ni una excusa para volver a Serath una caricatura regañona.
+
 ## Actualización obligatoria cuando se agregan fuentes
 
 Cuando el usuario indique que agregó, reemplazó o amplió contenido dentro de `00_FUENTES/historia_original/` y pida actualizar el núcleo, el agente principal debe **desplegar subagentes especializados**. Queda prohibido resolver esa actualización mediante una sola lectura o una única pasada individual.

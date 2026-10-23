@@ -34,3 +34,9 @@ Con el oro y jade acumulados por sus hazañas y banquetes, Max adquirió en los 
 - El retorno a Aldoria ya pertenece a la historia; el estado operativo presente es de reparación y prueba parcial.
 - El nombre rector es **Serath-Maru**. No debe confundirse con el rótulo legado `Serath-Max` de fichas técnicas anteriores.
 - La vibración sigue abierta y no existe autorización canónica para una travesía larga. Las rutas y capacidades futuras permanecen pendientes de comprobación en escena.
+
+## ADDENDUM DE PRUEBAS — 18 DE DORAVIA, AÑO 3
+
+- Galwin y sus ayudantes redujeron la vibración y completaron una prueba de **30 minutos a carga media**.
+- El soporte nuevo funcionó durante la prueba, pero temperatura y desgaste siguen sin cierre.
+- La travesía larga continúa bloqueada. El siguiente paso es repetir carga y revisar desgaste antes de cualquier ruta a Zhong-Kyo.

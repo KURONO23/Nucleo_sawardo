@@ -144,4 +144,4 @@ Participa plenamente como parte de la familia extendida en las celebraciones de 
 
 - Liora conserva con Haruto una relación estable y un espacio propio dentro de la dinámica familiar y cultural.
 - No se registra cambio mayor de relación ni una decisión futura inventada durante este corte.
-- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.
+- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3.md`.

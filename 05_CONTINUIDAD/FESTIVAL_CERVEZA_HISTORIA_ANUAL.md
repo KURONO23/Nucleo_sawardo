@@ -107,6 +107,14 @@ Tras la primera edición se habló de imitar el festival, ampliar alojamientos y
 
 El festival es anual; la obra originaria se repone como memoria fundacional. No asumir que todas las pruebas se repiten idénticas: Afrodita demuestra evolución y algunas pruebas teatrales fueron descartadas.
 
+### Regla anual consolidada
+
+- El **Festival Internacional de la Cerveza de Aldoria** es un evento fijo anual.
+- La ventana canónica de la edición del Año 3 quedó establecida en **22–24 de Bruma**; la reposición y el montaje cultural del 19–20 de Bruma son jornadas preparatorias asociadas.
+- La siguiente edición queda reservada para **22–24 de Bruma, Año 4**. El 1 de Doravia Max fija nuevamente el techo anual en **24.000 oro**: los 12.100 remanentes se conservan y reciben un complemento único de 11.900 desde su liquidez personal.
+- La cuenta debe reponerse con ingresos propios hasta 24.000 oro. Recuperada esa reserva, las ediciones posteriores se autofinancian; no existe aporte personal automático de Max ante excesos o déficits no justificados.
+- En Estival, el frente correcto es revisar consecuencias, fondo restringido, empleo y mejoras de la edición siguiente; no volver a contar como pendiente la edición del Año 3.
+
 ## 9. Adopciones culturales
 
 - Juegos del Barril como disciplina internacional.

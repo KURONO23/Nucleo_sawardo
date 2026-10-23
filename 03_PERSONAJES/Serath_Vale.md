@@ -187,4 +187,11 @@
 - La embarcación vinculada a Serath se registra operativamente como **Serath-Maru**; `Serath-Max` queda como rótulo histórico corregido.
 - Serath-Maru continúa en reparación y pruebas parciales, con vibraciones y sin autorización para un viaje largo. No se validan como actuales las velocidades heredadas de fichas técnicas antiguas.
 - En la voz de Serath, cualquier apelativo afectivo debe conservar su relación y canon vigentes; no se reutiliza la forma errónea `mi amor` cuando el contexto exige dirigirse a Max.
-- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_15 de Solalto_Año_3.md`.
+- Fuente: `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3.md`.
+
+## ADDENDUM DE ESTADO — 1–18 DE DORAVIA, AÑO 3
+
+- Serath sostuvo a Max antes del estreno, respetó sus nervios y mantuvo la intimidad matrimonial fuera de la mirada pública. El humor de pareja sigue siendo afectuoso: Max bromea y ella corta la escalada con un «Max…» cuando corresponde.
+- El estreno terminó sin incidentes; su presencia pertenece al círculo de apoyo y no la convierte en portavoz de una obra que conserva autoría colectiva.
+- No hay embarazo confirmado ni salto temporal que lo suponga. El almuerzo familiar con Aldric y Thalion sigue reservado para el 25 de Doravia.
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]] y [[CALENDARIO_MUNDIAL_CANONICO]].

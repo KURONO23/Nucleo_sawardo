@@ -11,19 +11,20 @@ Este paquete contiene el núcleo completo, no una selección mínima. Conserva p
 1. `01_CANON/REGLAS_INMUTABLES.md`
 2. `01_CANON/CONTRADICCIONES.md`
 3. `05_CONTINUIDAD/CURRENT_STATE.md`
-4. `05_CONTINUIDAD/CURRENT_STATE_15_SOLALTO_AÑO3.md`
-5. `05_CONTINUIDAD/DELTA-RP-031_01_A_15_SOLALTO_AÑO3.md`
+4. `05_CONTINUIDAD/CURRENT_STATE_18_DORAVIA_AÑO3.md`
+5. `00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3.md`
+5. `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3.md` (transcripción completa 16–30)
 6. Calendarios, fichas de personajes, relaciones, hilos y sistemas pertinentes.
 7. Fuentes de `00_FUENTES/historia_original/`, siempre en solo lectura.
 
 ## Presente rector
 
-- Fecha: **15 de Solalto, Año 3 · Día continuo 821 · cierre nocturno**.
+- Fecha: **18 de Doravia, Año 3 · Día continuo 885 · 23:04, después del estreno**.
 - Lugar: Gutiérrez Estate, Aldoria.
-- Control: el usuario controla exclusivamente a Max.
-- Pendientes inmediatos: Max elige una de las cinco opciones abiertas para el 16 de Solalto; G1.03, Serath-Maru, teatro e investigaciones permanecen con sus límites vigentes.
+- Control: el usuario decide las elecciones trascendentales de Max; durante la escena Max siempre habla e interactúa con diálogo cotidiano coherente.
+- Pendientes inmediatos: auditoría mensual del 1 de Estival; G1.04, Serath-Maru, teatro e investigaciones permanecen con sus límites vigentes.
 - Ravenwood: revisión avanzada, sin victoria definitiva ni patrocinador final identificado.
-- Integración del tramo reciente: [[DELTA-RP-031_01_A_15_SOLALTO_AÑO3]].
+- Integración del tramo reciente: [[00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3|transcripción completa 16–30 de Solalto]].
 - Sorpresa de Liora (16–17 de Verdalia): regalo canónico compuesto por un estuche con cuaderno y unas orejas artesanales (CONTR-149, resolución autoral).
 
 ## Consulta modular
@@ -43,4 +44,4 @@ La ausencia de Max no congela al elenco. Al cerrar una escena o avanzar el tiemp
 
 Consultar `CALENDARIO_CUMPLEANOS_CIRCULO_DE_MAX.md` antes de cada salto. La celebración automática solo se activa si Max la desea o existe una preferencia vigente. Serath y Aria son prioritarias y requieren aviso y decisión expresa. Sus fechas no se desplazan.
 
-El registro histórico del Año 2 no es una lista de próximos eventos. Natalia ya celebró su cumpleaños el 14 de Solalto; las siguientes alertas son Aria, 22 de Solalto, y Sayaka/Evelyn, 30 de Solalto.
+El registro histórico del Año 2 no es una lista de próximos eventos. Natalia y Sayaka/Evelyn ya tienen sus celebraciones documentadas; la siguiente alerta es Kira, 6 de Estival. Aria permanece pendiente de una escena concreta y no recibe gasto inventado.
