@@ -48,6 +48,7 @@ La frase “no se detectaron otras fuentes” describe únicamente el inventario
 | `historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3.md` | 1–30 de Solalto, Año 3 | Copia derivada con la transcripción completa del chat del 16 al 30: entrenamiento Sawardo, teatro, G1.04, cumpleaños Sayaka/Evelyn, Rowan/Efraín y punto de auditoría del 1 de Estival; conserva la matriz del 15 |
 | `historia_original/AÑO_3/16_01_de_Estival_a_01_de_Doravia_Año_3.md` | 1–31 de Estival y auditoría/correcciones del 1 de Doravia, Año 3 | Fuente mensual íntegra: 46 turnos canónicos completos de usuario y asistente, en orden cronológico |
 | `historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3.md` | 1–18 de Doravia, Año 3 | Fuente íntegra parcial: 43 turnos, estreno completo y correcciones de continuidad; Doravia todavía no está cerrado |
+| `historia_original/AÑO_3/18_20_de_Doravia_Año_3.md` | Continuación posterior al corte del 18 hasta el 20 de Doravia, Año 3 | Fuente íntegra derivada: 71 turnos del hilo, simulaciones Rowan–Efraín, revelación ante Max, Gran Sabio/Raphael como hipótesis y propuesta abierta de ruta Egg; el corte real queda en 17:17 y Doravia sigue abierto |
 | `historia_original/AÑO_3/12_01_de_Verdalia_a_31_de_Verdalia_Año_3.md` | 1 de Verdalia–1 de Lluvia, Año 3 | Fuente narrativa del arco de Verdalia, la infiltración de Marcos, el arco autónomo de Haruto y el retorno del control de Max |
 | `04_SISTEMAS/FESTIVAL DE LA CERVEZA TEATRO.md` | Origen teatral y desarrollo cultural del festival | Transcripción temática conservada fuera de `00_FUENTES`; debe tratarse como fuente histórica separada hasta resolver su ubicación matriz |
 
@@ -55,7 +56,7 @@ Los tres nombres anteriores que mezclaban Albor, Bruma y Floris fueron retirados
 
 ### Regla de uso
 
-- Para el punto de reanudación prevalece [[CURRENT_STATE_18_DORAVIA_AÑO3]]: 18 de Doravia, Año 3 (Día continuo 885), 23:04.
+- Para el punto de reanudación prevalece [[CURRENT_STATE_20_DORAVIA_AÑO3]]: 20 de Doravia, Año 3, día continuo 887, 17:17. El corte del 18 permanece como antecedente histórico.
 - El tramo 18–31 de Verdalia y la transición al 1 de Lluvia se integran mediante [[INTEGRACION_VERDALIA_19_A_1_LLUVIA_AÑO3]]. El archivo de fuente contiene material conversacional y duplicados históricos: no tratar cada opción, rumor o repetición como un hecho adicional.
 - Los documentos de `05_CONTINUIDAD/` son índices y síntesis navegables; no sustituyen el diálogo y las reacciones de las fuentes originales.
 - No modificar ni reemplazar las fuentes originales. Toda corrección o enriquecimiento debe añadirse a canon, sistemas, personajes o continuidad con trazabilidad.

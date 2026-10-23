@@ -16,4 +16,4 @@
 
 ## Estado
 
-Punto narrativo vigente en [[CURRENT_STATE_18_DORAVIA_AÑO3]]. [[CURRENT_STATE]] es su resumen operativo. Doravia hasta el estreno se conserva en [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]]; [[CURRENT_STATE_1_DORAVIA_AÑO3]] queda como corte histórico. Los archivos con 4–5 de Verdalia en el nombre conservan el error histórico de rotulado y deben leerse como 4–5 de Verdalia cuando describen ese tramo. Contradicciones y memoria de errores en [[CONTRADICCIONES]].
+Punto narrativo vigente en [[CURRENT_STATE_20_DORAVIA_AÑO3]]. [[CURRENT_STATE]] es su resumen operativo. Doravia hasta el estreno se conserva en [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]] y la continuación íntegra en [[00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3]]; [[CURRENT_STATE_18_DORAVIA_AÑO3]] queda como corte histórico. Los archivos con 4–5 de Verdalia en el nombre conservan el error histórico de rotulado y deben leerse como 4–5 de Verdalia cuando describen ese tramo. Contradicciones y memoria de errores en [[CONTRADICCIONES]].

@@ -253,3 +253,11 @@ Fuente íntegra: [[00_FUENTES/historia_original/AÑO_3/16_01_de_Estival_a_01_de_
 - **18 de Doravia, 20:00–23:04:** estreno completo de *Mi fin de semana con el muerto*. Cuatro actos, quince escenas, final intacto y recepción inmediata favorable. La noche social continúa abierta.
 
 Fuente íntegra: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].
+
+## ERA XX — 19 A 20 DE DORAVIA, AÑO 3 (DÍAS 886–887)
+
+- **19 de Doravia:** la recepción popular posterior al estreno continúa favorable; las propuestas de alquiler teatral, marioneta y Hora Loca quedan como semillas, sin contrato ni ingreso confirmado.
+- **20 de Doravia:** Rowan y Efraín llegan al conflicto directo con Max. Haruto, Siri, Mizuki, Yuki, Leo, Ren y Aria participan en el análisis de Gran Sabio.
+- **20 de Doravia, 17:17:** Max conoce la convivencia Rowan–Efraín–Gran Sabio. Great Sage/Raphael queda como hipótesis; no se elige separación ni evolución. Las cinco alternativas quedan abiertas.
+
+Fuente íntegra: [[00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3]].

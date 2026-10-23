@@ -16,18 +16,18 @@ if (-not (Test-Path -LiteralPath $destination)) {
 }
 
 $instructionsPath = Join-Path $destination '00_INSTRUCCIONES_Y_ESTADO.md'
-$corePath = Join-Path $destination '01_NUCLEO_SAWARDO_COMPLETO_18_DORAVIA_AÑO3.md'
+$corePath = Join-Path $destination '01_NUCLEO_SAWARDO_COMPLETO_20_DORAVIA_AÑO3.md'
 $manifestPath = Join-Path $destination '02_MANIFIESTO_DEL_PAQUETE.md'
 
 $instructions = @"
 # NÚCLEO SAWARDO — INSTRUCCIONES Y PUNTO DE REANUDACIÓN
 
 **Versión:** 23 de octubre de 2026
-**Presente rector único:** 18 de Doravia, Año 3, día continuo 885, 23:04.
-**Lugar previsto:** Teatro Estrella Verde, saludos posteriores al estreno.
+**Presente rector único:** 20 de Doravia, Año 3, día continuo 887, 17:17.
+**Lugar previsto:** Residencia Gutiérrez, sala privada, cinco alternativas abiertas sobre Gran Sabio.
 **Control de Max:** pertenece exclusivamente al usuario.
 
-Este paquete consta de dos documentos operativos y un manifiesto. Lee primero este archivo y después consulta el núcleo completo por el encabezado `MÓDULO` pertinente. Los cortes anteriores de Solalto, Estival y los meses previos son historia; no desplazan el presente rector de Doravia.
+Este paquete consta de dos documentos operativos y un manifiesto. Lee primero este archivo y después consulta el núcleo completo por el encabezado `MÓDULO` pertinente. Los cortes anteriores de Solalto, Estival y los meses previos son historia; no desplazan el presente rector del 20 de Doravia.
 
 ## Reglas obligatorias
 
@@ -61,7 +61,7 @@ En cada cierre mensual guardar en Markdown la transcripción íntegra y releíbl
 
 ## Reanudación inmediata
 
-El punto de reanudación es el Teatro Estrella Verde a las 23:04 del 18 de Doravia. La obra completó cuatro actos y quince escenas; el público sigue aplaudiendo y Max está sobre el escenario con Los Cinco del Barril. Taquilla, gastos, crítica y repercusiones políticas permanecen pendientes. G1.04 funciona solo dentro de Aldoria; no conecta con Minas Quebradas, Torre, Nodos ni Aguja Muerta. Kazuki envió una carta personal, Max la leyó y decidió no responder todavía. Haruto está en nivel 48, Ren en 35 y Leo en 32. La liquidez posterior a las misiones queda PENDIENTE_DE_CONCILIAR por tres tasaciones incompatibles; no escoger una rama ni sumar taquilla. Cargar **CURRENT_STATE.md**, **CURRENT_STATE_18_DORAVIA_AÑO3.md**, el sistema G1, hilos, relaciones, finanzas y avances autónomos.
+El punto de reanudación es la Residencia Gutiérrez a las 17:17 del 20 de Doravia. Max conoce a Rowan, Efraín y Gran Sabio; la correspondencia con Great Sage/Raphael sigue siendo una hipótesis y las cinco alternativas finales están sin elegir. La ruta Egg es una propuesta abierta, no una misión ni una evaluación concluida. G1.04 funciona solo dentro de Aldoria; no conecta con Minas Quebradas, Torre, Nodos ni Aguja Muerta. Kazuki envió una carta personal, Max la leyó y decidió no responder todavía. Haruto está en nivel 48, Ren en 35 y Leo en 32. La liquidez posterior a las misiones queda PENDIENTE_DE_CONCILIAR; no escoger una rama ni sumar taquilla. Cargar **CURRENT_STATE.md**, **CURRENT_STATE_20_DORAVIA_AÑO3.md**, el sistema G1, hilos, relaciones, finanzas y avances autónomos.
 "@
 [System.IO.File]::WriteAllText($instructionsPath, $instructions.TrimEnd() + "`r`n", $utf8)
 
@@ -72,8 +72,11 @@ $rootFiles = @(
   'README.md',
   '00_FUENTES/INVENTARIO.md',
   '00_FUENTES/historia_original/00_INDICE_DE_FUENTES.md',
-  '05_CONTINUIDAD/CURRENT_STATE_18_DORAVIA_AÑO3.md',
+  '05_CONTINUIDAD/CURRENT_STATE_20_DORAVIA_AÑO3.md',
+  '00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3.md',
   '00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3.md',
+  '05_CONTINUIDAD/INFORME_PROPAGACION_20_DORAVIA_AÑO3.md',
+  '05_CONTINUIDAD/DELTA-RP-034_18_A_20_DORAVIA_AÑO3.md',
   '05_CONTINUIDAD/INFORME_PROPAGACION_18_DORAVIA_AÑO3.md',
   '05_CONTINUIDAD/DELTA-RP-033_01_A_18_DORAVIA_AÑO3.md',
   '05_CONTINUIDAD/INFORME_CIERRE_ESTIVAL_AÑO3.md',
@@ -107,8 +110,11 @@ $excludePatterns = @(
 )
 $priority = @(
   '05_CONTINUIDAD/CURRENT_STATE.md',
-  '05_CONTINUIDAD/CURRENT_STATE_18_DORAVIA_AÑO3.md',
+  '05_CONTINUIDAD/CURRENT_STATE_20_DORAVIA_AÑO3.md',
+  '00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3.md',
   '00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3.md',
+  '05_CONTINUIDAD/INFORME_PROPAGACION_20_DORAVIA_AÑO3.md',
+  '05_CONTINUIDAD/DELTA-RP-034_18_A_20_DORAVIA_AÑO3.md',
   '05_CONTINUIDAD/INFORME_PROPAGACION_18_DORAVIA_AÑO3.md',
   '05_CONTINUIDAD/DELTA-RP-033_01_A_18_DORAVIA_AÑO3.md',
   '05_CONTINUIDAD/INFORME_CIERRE_ESTIVAL_AÑO3.md',
@@ -147,10 +153,10 @@ $builder = [System.Text.StringBuilder]::new()
 [void]$builder.AppendLine('# NÚCLEO SAWARDO — COMPILACIÓN COMPLETA PARA CHATGPT')
 [void]$builder.AppendLine()
 [void]$builder.AppendLine('**Edición:** 23 de octubre de 2026')
-[void]$builder.AppendLine('**Presente rector:** 18 de Doravia, Año 3, día continuo 885, 23:04')
+[void]$builder.AppendLine('**Presente rector:** 20 de Doravia, Año 3, día continuo 887, 17:17')
 [void]$builder.AppendLine('**Alcance:** canon derivado vigente, mundo, todas las fichas de personajes, sistemas, continuidad operativa, agentes narrativos, roleplay, novela, amistades y finanzas.')
 [void]$builder.AppendLine()
-[void]$builder.AppendLine('Las fuentes narrativas originales y sus respaldos no se duplican aquí, salvo los módulos operativos seleccionados. Los estados anteriores permanecen como historia; nunca desplazan el estado rector del 18 de Doravia.')
+[void]$builder.AppendLine('Las fuentes narrativas originales y sus respaldos no se duplican aquí, salvo los módulos operativos seleccionados. Los estados anteriores permanecen como historia; nunca desplazan el estado rector del 20 de Doravia.')
 
 foreach ($relative in $ordered) {
   $sourcePath = Join-Path $root $relative
@@ -171,21 +177,21 @@ $manifest = @"
 ## Archivos para subir
 
 1. **00_INSTRUCCIONES_Y_ESTADO.md**
-2. **01_NUCLEO_SAWARDO_COMPLETO_18_DORAVIA_AÑO3.md**
+2. **01_NUCLEO_SAWARDO_COMPLETO_20_DORAVIA_AÑO3.md**
 
 ## Composición
 
 - Módulos compilados: $($ordered.Count)
-- Presente rector: 18 de Doravia, Año 3, día continuo 885, 23:04.
+- Presente rector: 20 de Doravia, Año 3, día continuo 887, 17:17.
 - Personajes incluidos: todas las fichas Markdown vigentes de **03_PERSONAJES/**, incluidas Elena Weissmann, Nadia Falkenberg y Greta Hoffmann.
 - Incluye los agentes narrativos de **06_AGENTES/**, en especial el auditor de cierre mensual que propaga avances fuera de cámara sin deformar personajes ni convertir semillas en hechos.
-- Fuera del paquete: fuentes originales completas, **_RESPALDOS**, **tmp**, **.git**, **.obsidian**, auditorías históricas, deltas y fotografías históricas redundantes, exportaciones antiguas y archivos binarios.
+- Fuera del paquete: las fuentes originales completas no seleccionadas, **_RESPALDOS**, **tmp**, **.git**, **.obsidian**, auditorías históricas, deltas y fotografías históricas redundantes, exportaciones antiguas y archivos binarios. La transcripción seleccionada de Doravia 18–20 sí se incluye como módulo operativo para conservar el tramo jugado.
 - Formato: Markdown UTF-8, sin ZIP ni RAR.
 
 ## Integridad
 
 - **00_INSTRUCCIONES_Y_ESTADO.md** — SHA-256: $instructionHash
-- **01_NUCLEO_SAWARDO_COMPLETO_18_DORAVIA_AÑO3.md** — SHA-256: $coreHash
+- **01_NUCLEO_SAWARDO_COMPLETO_20_DORAVIA_AÑO3.md** — SHA-256: $coreHash
 
 El manifiesto sirve para verificar la generación; no es necesario cargarlo en ChatGPT.
 "@

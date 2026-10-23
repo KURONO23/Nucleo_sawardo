@@ -302,3 +302,9 @@ Aria puede iniciar una vigilancia exterior discreta alrededor de Gutiérrez Esta
 - Aria acompañó una misión botánica de clase C y mantuvo su humor sarcástico y alegre, incluyendo la discusión del flautín y su autonomía musical. No es una interfaz ni una caricatura: sus decisiones y curiosidad tienen voz propia.
 - Durante el estreno observó el resultado de los Cinco del Barril y conservó una posición de apoyo crítico. La red G1 no se trató como acceso fuera de Aldoria.
 - Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].
+
+## ADDENDUM DE ESTADO — 20 DE DORAVIA, AÑO 3
+
+- Aria conserva forma humana estable, autonomía, humor y criterio durante el análisis de Rowan, Efraín y Gran Sabio.
+- Su advertencia vigente es no llamar “evolución” a una posibilidad antes de conocer su precio. No vuelve a forma undine ni se reduce a interfaz.
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].

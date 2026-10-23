@@ -6,7 +6,7 @@
 
 - **Día 1 desde la llegada de Max:** 1 de Albor, Año 1.
 - **Día 472:** 17 de Lluvia, Año 2; esta equivalencia aparece expresamente en la fuente y encaja con el calendario de 365 días.
-- **18 de Doravia, Año 3:** Día continuo 885; es el presente rector de la continuidad derivada.
+- **20 de Doravia, Año 3:** Día continuo 887; es el presente rector de la continuidad derivada.
 - Los números posteriores como `Día 588`, `Día 634` o `Día 656` pertenecen a un contador antiguo que quedó desplazado. No se usarán para nombrar ni ordenar fuentes nuevas.
 
 ## Orden de lectura
@@ -41,9 +41,10 @@ La repetición del 25 de Ámbar es un solapamiento de continuidad entre conversa
 6. `AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md`
 7. `AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3.md` (1–30 de Solalto; incluye la transcripción completa del chat del 16 al 30)
 8. `AÑO_3/16_01_de_Estival_a_01_de_Doravia_Año_3.md` (transcripción íntegra canónica de Estival y correcciones del cierre del 1 de Doravia)
-9. `AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3.md` (transcripción íntegra del chat de Doravia hasta el estreno; 43 turnos y 4 interrupciones marcadas)
+9. `AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3.md` (transcripción íntegra del tramo hasta el estreno; 43 turnos y 4 interrupciones marcadas)
+10. `AÑO_3/18_20_de_Doravia_Año_3.md` (transcripción íntegra de la continuación: 71 turnos posteriores al corte, hasta la escena del 20 a las 17:17; la ruta Egg queda como propuesta abierta)
 
-Los archivos mensuales sustituyen los fragmentos anteriores. El cuarto conserva el arco completo de Verdalia (1 al 31 de Verdalia), el quinto cubre del 1 de Lluvia al 1 de Floris, el séptimo consolida Solalto, el octavo conserva los **46 turnos canónicos completos** de Estival y el noveno conserva Doravia hasta las 23:04 del día 18. Doravia sigue abierto y recibirá su cierre mensual definitivo al concluir el día 31.
+Los archivos mensuales sustituyen los fragmentos anteriores. El cuarto conserva el arco completo de Verdalia (1 al 31 de Verdalia), el quinto cubre del 1 de Lluvia al 1 de Floris, el séptimo consolida Solalto, el octavo conserva los **46 turnos canónicos completos** de Estival y los dos archivos de Doravia conservan la recepción, el estreno y la continuación hasta el 20. Doravia sigue abierto y recibirá su cierre mensual definitivo al concluir el día 31.
 
 ## Respaldo
 

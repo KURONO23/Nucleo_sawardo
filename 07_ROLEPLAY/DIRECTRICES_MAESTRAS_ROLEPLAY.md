@@ -150,3 +150,12 @@ Cuando Max introduce una idea, la narración debe comprobar después si alguien 
 - En POV interno de Rowan, **Gran Sabio [habilidad]** analiza información disponible; no es una persona independiente ni omnisciente. Max desconoce a Efraín y Gran Sabio dentro de Rowan.
 - G1.04 opera únicamente dentro de Aldoria. No comunica con Minas Quebradas ni se conecta directamente a Torre, Red de Nodos o Aguja Muerta.
 - Presente rector: [[CURRENT_STATE_18_DORAVIA_AÑO3]], 18 de Doravia, 23:04, después del estreno.
+
+## 10. DELTA OPERATIVO — 20 DE DORAVIA, AÑO 3
+
+- El presente rector supersede el anterior: día continuo 887, 20 de Doravia, 17:17, Residencia Gutiérrez, sala privada.
+- Max ya conoce a Rowan, Efraín y Gran Sabio. El texto histórico que decía lo contrario se conserva como corte anterior y queda supersedido por [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].
+- Gran Sabio continúa como habilidad/estructura analítica; Great Sage/Raphael es hipótesis, no identidad ni evolución confirmada. No conceder acceso, energía o evolución gratuita.
+- Las simulaciones de Efraín son contrafactuales. La ruta Egg es una propuesta abierta: no hay solicitud a Aldric, misión, permiso ni evaluación concluida.
+- Aria permanece en forma humana estable. Haruto y Mizuki cooperan sin que su reparación quede cerrada. Sawardo mantiene detención absoluta y ausencia de radio durante su activación.
+- La escena termina con cinco alternativas sin elegir; detenerse ante decisiones trascendentales del usuario.

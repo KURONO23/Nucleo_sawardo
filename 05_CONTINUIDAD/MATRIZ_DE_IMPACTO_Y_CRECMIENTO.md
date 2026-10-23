@@ -52,3 +52,13 @@ La historia original contiene muchos impactos todavía no volcados a esta matriz
 ## Regla operativa
 
 Una fila no se considera cerrada hasta localizar al menos una consecuencia posterior o marcar explícitamente `PERSISTENCIA_NO_COMPROBADA`. El [[CUSTODIO_HISTORIA_ORIGINAL_E_IMPACTO]] mantiene trazabilidad; el [[CRONISTA_DESARROLLO_DE_PERSONAJES]] actualiza personas; el [[MOTOR_DE_VIDA_AUTONOMA]] continúa proyectos vivos.
+
+## Addendum — 20 de Doravia, Año 3
+
+| Fuente/actor | Cambio demostrado | Consecuencia | Estado |
+|---|---|---|---|
+| Max → Rowan/Efraín | Max conoce la convivencia interna y ofrece investigar una solución sin borrado ni transferencia. | Se abre un frente de ayuda y negociación; no nace mentoría ni alianza política. | ACTIVO |
+| Rowan → Max | Rowan recupera autonomía suficiente para salir de la simulación y pedir ayuda. | Max pasa a ser interlocutor directo; la separación sigue abierta. | CONFIRMADO |
+| Efraín → Gran Sabio | Aporta memoria, lenguaje, política y simulaciones; reconoce envidia de la legitimidad de Max. | Gran Sabio tiene más contexto, pero no evolución automática; el resentimiento queda como tensión. | CONFIRMADO |
+| Grupo → Gran Sabio | Haruto, Siri, Mizuki, Yuki, Leo, Ren y Aria contrastan la estructura. | Great Sage/Raphael queda como hipótesis compartida, no identidad. | CONFIRMADO |
+| Ruta Egg | Rowan propone experiencias sociales y prácticas por Aldoria. | Posible hilo futuro; no hay solicitud a Aldric, permiso ni misión. | SEMILLA |

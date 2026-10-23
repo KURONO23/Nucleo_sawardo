@@ -79,3 +79,14 @@ Fuente: [[00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Añ
 - **Jasmine y Kira:** conocen una discrepancia documental de V. Sable, sin identidad ni patrocinador confirmado.
 
 Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].
+
+## Actualización de conocimiento — 20 de Doravia, Año 3
+
+- **Max:** conoce directamente a Rowan, Efraín y Gran Sabio dentro del mismo cuerpo. Sabe que no hay separación ni evolución tipo Raphael confirmada.
+- **Rowan/Efraín/Gran Sabio:** conocen la revelación y el análisis del grupo. Las simulaciones siguen siendo contrafactuales; no crean conocimiento externo.
+- **Aria, Haruto, Siri, Mizuki, Yuki, Leo y Ren:** conocen el caso y cooperan en el análisis. Haruto y Mizuki no quedan reconciliados automáticamente.
+- **Aldric, Caelan, Serath y público:** aún no conocen la fusión.
+- **Ruta Egg:** solo propuesta abierta; no existe solicitud a Aldric, permiso, misión ni evaluación concluida.
+- **Gran Sabio:** Great Sage/Raphael es correspondencia hipotética. No tiene acceso automático a G1, Sawardo, Torre, Nodos o Aguja.
+
+Fuente: [[00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].

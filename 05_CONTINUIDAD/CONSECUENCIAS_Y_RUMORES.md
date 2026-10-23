@@ -55,3 +55,11 @@
 ## Regla de actualización
 
 En cada guardado, mover los efectos entre `RIESGO FUTURO`, `SOSPECHA`, `RUMOR` y `CONFIRMADO` únicamente cuando exista evidencia narrativa. Registrar también acontecimientos urbanos y regionales no causados por Max.
+
+## Addendum — 20 de Doravia, Año 3
+
+- **CONFIRMADO:** Max conoce a Rowan, Efraín y Gran Sabio; el grupo presente participa en el análisis.
+- **CONFIRMADO:** la recepción del teatro fue favorable, pero no demuestra acuerdo político uniforme, contratos ni ingresos.
+- **RUMOR/PROPUESTA:** la ruta Egg podría llevar a Rowan por Aldoria de incógnito; no existe misión ni autorización.
+- **HIPÓTESIS:** Gran Sabio puede corresponder al modelo Great Sage/Raphael; no es identidad comprobada ni evolución realizada.
+- **NO PROPAGAR:** revolución, caída de la Corona, afiliación política de Efraín, separación o transferencia de alma.

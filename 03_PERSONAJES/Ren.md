@@ -163,3 +163,9 @@ El primer reconocimiento con Haruto y Leo sigue pendiente de escena. Ren contin�
 - Continúa usando la Tabla de Contraste Telúrico I y las técnicas de tierra desarrolladas con Leo y Haruto; el equipo conserva la propiedad individual de sus recompensas.
 - No participó como actor principal del estreno, pero siguió el proyecto y sus consecuencias desde el círculo cercano.
 - Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]] y [[04_SISTEMAS/ADVENTURER_SYSTEM]].
+
+## ADDENDUM DE ESTADO — 20 DE DORAVIA, AÑO 3
+
+- Ren percibió que Gran Sabio no es una habilidad convencional ni una construcción simple de Efraín. Su lectura sensorial sigue siendo limitada y no prueba una identidad metafísica.
+- Permanece informado del caso sin recibir control sobre Rowan, Efraín ni Max.
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].

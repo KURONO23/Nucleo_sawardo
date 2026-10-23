@@ -101,3 +101,11 @@ Después del Festival de la Cerveza, Efraín despierta dentro de Rowan y comienz
 - La obra y el G1.04 le muestran una sociedad con capacidades distribuidas, no una red mundial: el G1 sigue limitado a Aldoria.
 - Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]] y [[00_FUENTES/historias_paralelas/GUIA_DE_CONVERGENCIA_ROWAN_EFRAIN_GRAN_SABIO]].
 
+## ADDENDUM DE ESTADO — 20 DE DORAVIA, AÑO 3
+
+- Efraín habló directamente con Max y reconoció resentimiento y envidia hacia su legitimidad social, improvisación y capacidad de ser querido pese a sus privilegios. No queda redimido ni convertido en enemigo irreversible.
+- La simulación de su trayectoria y la extrapolación de diez años son contrafactuales; no sustituyen su vida real ni prueban una revolución.
+- Gran Sabio acumuló modelos y datos, pero no alcanzó una evolución tipo Raphael. La correspondencia con Great Sage sigue siendo hipótesis.
+- No se ha elegido eliminación, transferencia, recipiente, contrato corporal ni separación. La ruta Egg queda como propuesta abierta, no como misión.
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].
+

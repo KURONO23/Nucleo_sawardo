@@ -117,3 +117,10 @@ La historia posterior añade percepción temporal pasiva, la hipótesis de Refer
 - **Duración subjetiva:** 180 días (5 meses subjetivos) en los campos de práctica y Blackpeak.
 - **Broma de Max:** Bautizado humorísticamente como «Academia Gutiérrez» o «Escuela Tortuga», sin ningún rango ni institución oficial.
 - **Avance de Reversi (*Crazy Diamond*):** Max perfeccionó la repetibilidad de la reversión temporal sobre materiales fracturados y armas melladas.
+
+## ADDENDUM DE CONTINUIDAD — 20 DE DORAVIA, AÑO 3
+
+- Sawardo se utilizó para inmovilizar temporalmente a Rowan mientras Max reunía al grupo analista. La detención fue absoluta; solo se movieron las personas autorizadas por Max.
+- No hubo radio, transmisión ni actividad de G1 durante la detención. Las lecturas relevantes ocurrieron antes o después, fuera de Sawardo.
+- Este tramo no concede a Gran Sabio acceso a Sawardo ni añade una capacidad nueva al sistema.
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].

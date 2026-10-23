@@ -16,6 +16,7 @@ $required = @(
   '00_LEER_PRIMERO.md',
   '00_INICIO_OBSIDIAN.md',
   '05_CONTINUIDAD/CURRENT_STATE.md',
+  '05_CONTINUIDAD/CURRENT_STATE_20_DORAVIA_AÑO3.md',
   '05_CONTINUIDAD/CURRENT_STATE_18_DORAVIA_AÑO3.md',
   '05_CONTINUIDAD/CURRENT_STATE_16_ESTIVAL_AÑO3.md',
   '05_CONTINUIDAD/CURRENT_STATE_30_SOLALTO_AÑO3.md',
@@ -45,6 +46,9 @@ $required = @(
   '00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3.md',
   '00_FUENTES/historia_original/AÑO_3/16_01_de_Estival_a_01_de_Doravia_Año_3.md',
   '00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3.md',
+  '00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3.md',
+  '05_CONTINUIDAD/DELTA-RP-034_18_A_20_DORAVIA_AÑO3.md',
+  '05_CONTINUIDAD/INFORME_PROPAGACION_20_DORAVIA_AÑO3.md',
   '03_PERSONAJES/REGISTRO_NOMBRES_CANON.md',
   '03_PERSONAJES/REGISTRO_APELLIDOS_CANON.md',
   '03_PERSONAJES/PLANTILLA_FICHA_CANONICA.md',
@@ -85,10 +89,14 @@ $stale = foreach ($file in $launchers) {
 $current = Join-Path $root '05_CONTINUIDAD/CURRENT_STATE.md'
 if (Test-Path -LiteralPath $current) {
   $currentText = Get-Content -LiteralPath $current -Raw
-  $currentDetail = Join-Path $root '05_CONTINUIDAD/CURRENT_STATE_18_DORAVIA_AÑO3.md'
+  $currentDetail = Join-Path $root '05_CONTINUIDAD/CURRENT_STATE_20_DORAVIA_AÑO3.md'
   $stateForChecks = $currentText
   if (Test-Path -LiteralPath $currentDetail) {
-    $stateForChecks += "`n" + (Get-Content -LiteralPath $currentDetail -Raw)
+    $stateForChecks += [Environment]::NewLine + (Get-Content -LiteralPath $currentDetail -Raw)
+  }
+  $historicalDetail = Join-Path $root '05_CONTINUIDAD/CURRENT_STATE_18_DORAVIA_AÑO3.md'
+  if (Test-Path -LiteralPath $historicalDetail) {
+    $stateForChecks += [Environment]::NewLine + (Get-Content -LiteralPath $historicalDetail -Raw)
   }
   foreach ($forbidden in @('Amanecer del Día 654','Gran Noche de Luminarias','Día 807','Día 854')) {
     if ($currentText -match [regex]::Escape($forbidden)) {
@@ -252,7 +260,7 @@ if ($stalePresent) {
   Write-Output 'ERROR: EL CORTE DE 18 DE VERDALIA SIGUE USADO COMO PRESENTE:'
   $stalePresent | ForEach-Object { Write-Output (' - ' + $_) }
 } else {
-  Write-Output 'Presente operativo: 18 de Doravia; Estival, Solalto y los meses anteriores quedan históricos'
+  Write-Output 'Presente operativo: 20 de Doravia, 17:17; los cortes anteriores quedan históricos'
 }
 
 $staleSourceNames = @(
@@ -340,7 +348,7 @@ if (Test-Path -LiteralPath $galwinRegistry) {
 
 if (Test-Path -LiteralPath $current) {
   $currentText = Get-Content -LiteralPath $current -Raw
-  foreach ($requiredFact in @('18 de Doravia','PENDIENTE_DE_CONCILIAR')) {
+  foreach ($requiredFact in @('20 de Doravia','17:17','PENDIENTE_DE_CONCILIAR')) {
     if ($stateForChecks -notmatch [regex]::Escape($requiredFact)) {
       $errorCount++
       Write-Output ('ERROR EN ESTADO RECTOR: falta el hecho vigente: ' + $requiredFact)
@@ -383,6 +391,20 @@ if (Test-Path -LiteralPath $doraviaSource) {
     Write-Output ("ERROR EN FUENTE DE DORAVIA: turnos=$turnCount usuarios=$userCount asistentes=$assistantCount; esperado 43/43/43")
   } else {
     Write-Output 'Fuente de Doravia: 43 turnos / 43 usuarios / 43 asistentes'
+  }
+}
+
+$doraviaContinuationSource = Join-Path $root '00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3.md'
+if (Test-Path -LiteralPath $doraviaContinuationSource) {
+  $doraviaContinuationText = Get-Content -LiteralPath $doraviaContinuationSource -Raw
+  $turnCount = ([regex]::Matches($doraviaContinuationText, '(?m)^## Turno ')).Count
+  $userCount = ([regex]::Matches($doraviaContinuationText, '(?m)^\*\*Usuario:\*\*')).Count
+  $assistantCount = ([regex]::Matches($doraviaContinuationText, '(?m)^\*\*Asistente:\*\*')).Count
+  if ($turnCount -ne 71 -or $userCount -ne 71 -or $assistantCount -ne 71) {
+    $errorCount++
+    Write-Output ("ERROR EN CONTINUACIÓN DE DORAVIA: turnos=$turnCount usuarios=$userCount asistentes=$assistantCount; esperado 71/71/71")
+  } else {
+    Write-Output 'Continuación de Doravia: 71 turnos / 71 usuarios / 71 asistentes'
   }
 }
 

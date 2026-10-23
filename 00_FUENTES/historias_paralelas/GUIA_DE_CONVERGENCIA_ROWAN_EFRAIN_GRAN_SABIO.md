@@ -171,3 +171,13 @@ Caelan mantiene observación discreta. Rowan ha recuperado influencia sobre las 
 
 Las últimas alternativas del archivo no fueron elegidas. La continuación debe partir de este estado y no asumir que Caelan detectó anticipación sobrenatural, que Rowan se sinceró con él, que Aldric recibió una nueva consulta o que Efraín aceleró públicamente el proyecto.
 
+## 12. Estado de convergencia — 20 de Doravia, Año 3
+
+- Max conoce a Rowan, Efraín y Gran Sabio dentro del cuerpo compartido. El grupo presente cooperó en el análisis; Aldric, Caelan, Serath y el público aún no conocen la fusión.
+- Rowan recuperó autonomía suficiente para acudir a Max. Efraín reconoció envidia de la legitimidad social de Max; esto no resuelve ni redime el conflicto.
+- Las simulaciones son contrafactuales. No deben propagarse como biografía real, revolución, caída de la Corona ni hechos de una ruta alternativa.
+- Gran Sabio conserva correspondencia hipotética con Great Sage/Raphael, sin identidad confirmada ni evolución realizada. No tiene acceso automático a sistemas externos.
+- La ruta Egg queda como semilla abierta: no hay solicitud a Aldric, misión, cobertura, acompañantes ni evaluación concluida.
+- Último corte: 20 de Doravia, día continuo 887, 17:17, Residencia Gutiérrez. Las cinco alternativas permanecen sin elección.
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].
+

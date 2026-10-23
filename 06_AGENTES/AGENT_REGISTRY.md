@@ -1,6 +1,6 @@
 # Agent Registry
 
-> **Estado operativo global:** 18 de Doravia, Año 3, día continuo 885, 23:04. Usar [[CURRENT_STATE]] y [[CURRENT_STATE_18_DORAVIA_AÑO3]]; el 1 de Doravia y los estados anteriores son cortes históricos.
+> **Estado operativo global:** 20 de Doravia, Año 3, día continuo 887, 17:17. Usar [[CURRENT_STATE]] y [[CURRENT_STATE_20_DORAVIA_AÑO3]]; el 18 de Doravia y los estados anteriores son cortes históricos.
 
 > **Regla de fuentes nuevas:** cuando Max anuncie una adición, reemplazo o ampliación en `00_FUENTES/historia_original/` y solicite actualizar, el orquestador debe desplegar **los trece agentes de este registro**, en oleadas si lo exige la concurrencia. Cada agente entrega hallazgos o `SIN_CAMBIO_DEMOSTRADO`. Ninguna fuente se considera integrada mientras falte uno de los trece informes, la propagación real, la validación o la regeneración de ChatGPT.
 

@@ -379,3 +379,10 @@ Durante la operación Marcos, Max mantiene la cobertura sin llevar G1 encima. `D
 - La liquidez posterior a la misión y a la venta de materiales queda **PENDIENTE_DE_CONCILIAR** por tres tasaciones incompatibles; no se incorpora taquilla ni se escoge una cifra en su nombre.
 - **Punto actual:** 18 de Doravia, 23:04, Teatro Estrella Verde, sobre el escenario con Goran, Haruto, Biro y Darian.
 - **Fuente:** [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]] y [[CURRENT_STATE_18_DORAVIA_AÑO3]].
+
+## ADDENDUM DE ESTADO — 20 DE DORAVIA, AÑO 3
+
+- Max conoce directamente la convivencia Rowan–Efraín–Gran Sabio y mantiene el control de sus propias decisiones. Rechaza eliminar, transferir o evolucionar a nadie sin comprender el coste.
+- Participó activamente en el análisis con Haruto, Siri, Mizuki, Yuki, Leo, Ren y Aria. Las cinco alternativas finales permanecen abiertas.
+- La ruta Egg es una propuesta posible, no una decisión de Max ni una solicitud enviada a Aldric.
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].

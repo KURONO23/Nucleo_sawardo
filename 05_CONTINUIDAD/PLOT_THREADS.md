@@ -213,3 +213,16 @@ Ambos frentes pueden avanzar en paralelo: tecnología mantenible e institución 
 | **Corven–Severin–Veylan** | `SEPARADOS / ABIERTOS` | Seguir vías formales y evidencia primaria. |
 | **Finanzas de Doravia** | `PENDIENTE_DE_CONCILIAR` | Resolver CONTR-150 y CONTR-151 con Natalia, Elise y Vivienne; no fijar saldo final ni taquilla. |
 | **Calendario** | `ACTIVO` | Vivienne 21; almuerzo Aldric–Thalion 25; Amane 30; cierre mensual 31. |
+| **Rowan–Efraín–Gran Sabio / separación** | `ACTIVO / ALTERNATIVAS ABIERTAS` | Max conoce la fusión. No elegir separación, transferencia, contrato corporal o evolución sin nueva decisión. |
+| **Ruta Egg de Aldoria** | `SEMILLA / PENDIENTE DE MAX Y ALDRIC` | Propuesta de misiones sociales y prácticas, posiblemente de incógnito. No hay solicitud, permiso, misión ni evaluación concluida. |
+
+## Hilos vigentes — 20 de Doravia, Año 3, 17:17
+
+| Hilo | Estado | Próximo paso exacto |
+|---|---|---|
+| **Rowan–Efraín–Gran Sabio / separación** | `ACTIVO / ALTERNATIVAS ABIERTAS` | Max conoce la fusión. Esperar una elección; no resolver separación, transferencia, contrato o evolución fuera de escena. |
+| **Ruta Egg de Aldoria** | `SEMILLA / PENDIENTE` | Definir si Max quiere que Rowan la presente a Aldric; no iniciar viaje, misión, cobertura o acompañantes antes. |
+| **Great Sage / Raphael** | `HIPÓTESIS / SIN CONFIRMACIÓN` | Comparar funciones sin conceder identidad, voluntad humana o evolución automática. |
+| **Recepción del estreno y teatro** | `FAVORABLE / RECEPCIÓN ABIERTA` | Medir demanda, crítica, reposiciones y contratos sin sumar taquilla ni fundar una productora. |
+| **Finanzas de Doravia** | `PENDIENTE_DE_CONCILIAR` | Mantener cifras anteriores y no registrar ingresos teatrales no demostrados. |
+| **Cierre mensual** | `MES ABIERTO` | Continuar hasta el 31 de Doravia; no declarar `CERRADO_Y_PROPAGADO`. |

@@ -164,3 +164,14 @@ La zona infantil integrada en el Festival de la Cerveza del Año 3 queda registr
 - **30 de Doravia:** cumpleaños de Amane.
 - **31 de Doravia:** cierre mensual y archivo íntegro de todos los chats de Doravia.
 - No saltar ninguna de estas fechas sin aviso y decisión compatible con las preferencias vigentes de Max.
+
+## 12. Corte operativo — 20 de Doravia, Año 3
+
+- **Fecha:** 20 de Doravia, Año 3; día continuo 887, 17:17.
+- **Lugar:** Residencia Gutiérrez, sala privada.
+- **Estado:** Max conoce a Rowan, Efraín y Gran Sabio; las cinco alternativas permanecen abiertas.
+- **21 de Doravia:** cumpleaños de Vivienne.
+- **25 de Doravia:** almuerzo familiar con Aldric y Thalion.
+- **30 de Doravia:** cumpleaños de Amane.
+- **31 de Doravia:** cierre mensual y archivo íntegro de todos los chats de Doravia.
+- No iniciar ruta Egg, separación, evolución ni negociación con Aldric sin una nueva decisión de Max.

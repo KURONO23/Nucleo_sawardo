@@ -1004,3 +1004,15 @@ Cada entrada debe contener: identificador, afirmaciones en conflicto, jerarquía
 - Una versión hizo que Max mencionara a Gran Sabio; otra permitió interpretar que Kazuki observaba G1 desde Minas Quebradas.
 - La corrección autoral posterior anula ambas.
 - **Estado:** Max desconoce a Efraín y Gran Sabio dentro de Rowan. G1.04 opera solo en Aldoria y no conecta con Minas Quebradas, Torre, Red de Nodos ni Aguja Muerta.
+
+## CONTR-154 — Supersesión del conocimiento de Max, 20 de Doravia
+
+- El estado anterior de CONTR-153 era válido hasta el corte del 18 de Doravia.
+- La fuente 18–20 confirma que Max ya conoce a Rowan, Efraín y Gran Sabio. La conversación válida termina el 20 de Doravia, día continuo 887, a las 17:17.
+- **Estado:** CONTR-153 se conserva como histórico; operativamente queda supersedido por [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]]. La identidad Great Sage/Raphael, la evolución y la separación siguen sin confirmarse.
+
+## CONTR-155 — Adelanto no demostrado de 17:24 y ruta Egg
+
+- Un estado derivado intermedio situó la escena a las 17:24 y describió una evaluación concluida de la ruta Egg.
+- La fuente archivada termina a las 17:17 con cinco alternativas sin elegir.
+- **Estado:** 17:24 y la evaluación concluida se marcan como no demostradas. La ruta Egg queda como propuesta abierta; no hay solicitud a Aldric, permiso ni misión.

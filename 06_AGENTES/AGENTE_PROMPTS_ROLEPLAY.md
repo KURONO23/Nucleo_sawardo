@@ -65,6 +65,14 @@ Para varios POVs, identifica quién observa y qué puede saber cada cual. Priori
 - En escenas palaciegas, Gran Sabio es una habilidad interna y Max no conoce su existencia.
 - G1.04 funciona solo dentro de Aldoria; no crear comunicación remota con Minas Quebradas ni conexión con infraestructura clasificada.
 
+## Control supersedente — 20 de Doravia, Año 3
+
+- Reanudar en 20 de Doravia, día continuo 887, 17:17, Residencia Gutiérrez.
+- Max ya conoce a Rowan, Efraín y Gran Sabio; no decidir por él qué alternativa elige.
+- No convertir simulaciones, correspondencia Great Sage/Raphael ni ruta Egg en hechos reales.
+- Mantener a Aria humana, Sawardo absoluto y la participación verbal de Max en cada bloque.
+- Fuente operativa: [[CURRENT_STATE_20_DORAVIA_AÑO3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].
+
 ## Formato de salida
 
 Por defecto entrega solo:

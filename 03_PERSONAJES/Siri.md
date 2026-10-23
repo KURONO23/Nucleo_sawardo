@@ -108,3 +108,9 @@
 ## CONTROL DE VIDA AUTÓNOMA — FLORIS, AÑO 3
 
 - Esta ficha participa en [[CICLO_AUTONOMO_DERIVADO_TODO_ELENCO_FLORIS_AÑO3]]. Su avance, coste y siguiente hito deben consultarse allí y propagarse de forma acumulativa en la próxima revisión individual. La ausencia de cámara no congela su trayectoria.
+
+## ADDENDUM DE ESTADO — 20 DE DORAVIA, AÑO 3
+
+- Siri ayudó a Haruto a distinguir entre correspondencia arquitectónica, plantilla, instancia e identidad. No confirmó que Gran Sabio sea la habilidad original ni que Raphael haya aparecido.
+- Mantiene un análisis técnico, limitado y no omnisciente del vínculo.
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].

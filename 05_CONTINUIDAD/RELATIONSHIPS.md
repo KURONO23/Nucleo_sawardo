@@ -139,3 +139,13 @@ Fuente íntegra: [[00_FUENTES/historia_original/AÑO_3/16_01_de_Estival_a_01_de_
 - **Casas antagonistas–Max:** el aplauso reservado no crea alianza ni reconciliación.
 
 Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].
+
+## Actualización de relaciones — 20 de Doravia, Año 3
+
+- **Max–Rowan:** ayuda provisional y condicionada; Max intenta encontrar una solución sin destruir a Efraín.
+- **Max–Efraín:** confrontación directa; Efraín reconoce envidia de la legitimidad social de Max. No hay amistad ni mentoría pactada.
+- **Rowan–Efraín:** convivencia conflictiva con negociación creciente; ninguno ha sido separado ni borrado.
+- **Rowan–Gran Sabio:** vínculo funcional y disputa sobre autonomía; Gran Sabio sigue como estructura/habilidad, no persona independiente confirmada.
+- **Grupo analista:** Aria, Haruto, Siri, Mizuki, Yuki, Leo y Ren conocen el caso; Haruto–Mizuki conserva reparación pendiente.
+
+Fuente: [[00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].
