@@ -252,7 +252,7 @@ Fuente íntegra: [[00_FUENTES/historia_original/AÑO_3/16_01_de_Estival_a_01_de_
 - **17 de Doravia:** Kazuki envía una carta personal; Max la lee y decide no responder todavía.
 - **18 de Doravia, 20:00–23:04:** estreno completo de *Mi fin de semana con el muerto*. Cuatro actos, quince escenas, final intacto y recepción inmediata favorable. La noche social continúa abierta.
 
-Fuente íntegra: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].
+Fuente íntegra: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]].
 
 ## ERA XX — 19 A 20 DE DORAVIA, AÑO 3 (DÍAS 886–887)
 
@@ -260,4 +260,32 @@ Fuente íntegra: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_
 - **20 de Doravia:** Rowan y Efraín llegan al conflicto directo con Max. Haruto, Siri, Mizuki, Yuki, Leo, Ren y Aria participan en el análisis de Gran Sabio.
 - **20 de Doravia, 17:17:** Max conoce la convivencia Rowan–Efraín–Gran Sabio. Great Sage/Raphael queda como hipótesis; no se elige separación ni evolución. Las cinco alternativas quedan abiertas.
 
-Fuente íntegra: [[00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3]].
+Fuente íntegra: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]].
+
+## ERA XXI — 21 DE DORAVIA A 31 DE DORAVIA, AÑO 3 (DÍAS 888–898)
+
+- **20–22 de Doravia:** Confinamiento consciente de Efraín Quispe en Rowan mediante el ancla ACTC-ROWAN-01 bajo Sawardo. Rowan conserva el control corporal en la Torre de los Nombres.
+- **22–31 de Doravia:** Max parte en peregrinación a Vespera. Llega a Puerto Nácar, combate en el circuito del Anillo de Marfil, vence a Astel Korr el 30 de Doravia y embarca en el *Lumbre de Levante* rumbo a Vardessa el 31 de Doravia.
+- **Fuente:** [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]].
+
+## ERA XXII — 1 A 30 DE COSECHA, AÑO 3 (DÍAS 899–928)
+
+- **1–30 de Cosecha:** Peregrinación continental en Vespera. Max adopta la identidad de combate **Dragon Mask** en el circuito del Faro Mayor en Vardessa y Keralis.
+- **Tripulación del Serath-Maru:** Max realiza indagaciones marítimas discretas en las costas de Vespera.
+- **30 de Cosecha:** Cierre del mes; paseo por Keralis y preparación del cambio a Ámbar.
+- **Fuente:** [[00_FUENTES/historia_original/AÑO_3/18_Cosecha_01_a_30_Año_3]].
+
+## ERA XXIII — 1 A 30 DE ÁMBAR, AÑO 3 (DÍAS 929–958)
+
+- **1–10 de Ámbar:** Conferencia de Mara Veylen; combate final por el cinturón del Faro Mayor; abandono de la máscara.
+- **13 de Ámbar:** Reencuentro de Max con Serath en San Jerónimo de los Cárdenas; la piedra fundacional reacciona con la Esfera Matriz de Chronos transportando a Max a la época fundacional.
+- **Época fundacional y Convalecencia:** Max colabora con los fundadores ancestrales sin violar el libre albedrío; regresa herido y exhausto fuera del taller Gutiérrez; permanece en coma atendido por Serath, Aria y sus amigas.
+- **30 de Ámbar (00:31):** La Esfera Matriz de Chronos canaliza Reversi y restaura la edad biológica de Max a 39 años con el mensaje * NECESITABAS SANAR*.
+- **Fuente:** [[00_FUENTES/historia_original/AÑO_3/19_Ambar_01_a_30_Año_3]].
+
+## ERA XXIV — 1 A 10 DE VENTISCA, AÑO 3 (DÍAS 959–969)
+
+- **1–8 de Ventisca:** Max se recupera; Amane, Haruto, Ren, Leo, Ryu y Kenji enseñan el moldeo de maná elemental en San Jerónimo; la comunidad asimila el aprendizaje con rapidez y creatividad.
+- **9–10 de Ventisca:** Revisión de la caja fundacional y de los videos de los ancestros. Se descubre la historia de Max de 23 años (casado con Adela Salazar y viajero incansable) y la naturaleza del selector de rutas KURONO.
+- **10 de Ventisca, 10:07:** Punto rector vigente. Max y su círculo deliberan sobre los pasos a seguir con el selector y la bolsa MAX_NO_TOCAR.
+- **Fuente:** [[00_FUENTES/historia_original/AÑO_3/20_Ventisca_01_a_10_Año_3]].

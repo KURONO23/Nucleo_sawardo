@@ -140,4 +140,4 @@ El Día 500, Kazuki viajó personalmente a la capital de Aldoria bajo una identi
 
 - Kazuki envió una carta personal desde Minas Quebradas; Max la recibió, la leyó y decidió no responder todavía. La correspondencia no incluye un G1 ni abre la red de Aldoria.
 - Kazuki continúa delegando mantenimiento y midiendo cargas de la instalación. Hessa mantiene su esfera comunitaria separada y no funciona como subordinada administrativa.
-- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]].

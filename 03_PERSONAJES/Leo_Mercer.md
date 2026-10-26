@@ -162,10 +162,10 @@ Leo mantiene Quest Log en fase de diseño verificable. La primera misión con Re
 - Leo cerró el tramo de entrenamiento y misión en **nivel 32, Rango C**. Su defensa móvil, el Cierre de Ángulo I y la retirada como resultado válido siguen bajo pruebas; Quest Log organiza, pero no manda sobre él ni sobre el grupo.
 - Registró evidencias y separó resultados de rumores, una práctica que también protege la contabilidad de recompensas individuales.
 - Siguió el estreno como parte del círculo de Max y conserva su dinero propio.
-- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]] y [[04_SISTEMAS/ADVENTURER_SYSTEM]].
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]] y [[04_SISTEMAS/ADVENTURER_SYSTEM]].
 
 ## ADDENDUM DE ESTADO — 20 DE DORAVIA, AÑO 3
 
 - Leo registró una coincidencia conceptual elevada entre Quest Log y Gran Sabio, pero no la convirtió en identidad confirmada ni cerró la interpretación.
 - Conoce el caso y las alternativas abiertas; no tiene autoridad para ordenar una separación o evolución.
-- Fuente: [[00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].

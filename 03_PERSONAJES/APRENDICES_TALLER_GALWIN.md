@@ -68,4 +68,4 @@ Participar en la demostración de G1-0.3 explicando su módulo, el fallo inicial
 
 - Tilda, Jorik, Sivra y Uldan corrigieron fallos de conectores y humedad en módulos no críticos del G1.04. Cada uno conserva una pregunta técnica pendiente y un área de aprendizaje, bajo revisión de Galwin.
 - Ninguno tiene acceso al núcleo de seguridad, a la red de Nodos, a la Aguja Muerta ni a destinos fuera de Aldoria.
-- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]].

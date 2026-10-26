@@ -210,4 +210,4 @@ Yuki compara el informe independiente de Mizuki con la cadena Max–Aria–Yuki 
 
 - Yuki participó en el análisis y distinguió una posible evolución de la confirmación de identidad. Su reacción es inquieta y emocional, no una aceptación ciega.
 - Conoce la propuesta de buscar experiencia real para Gran Sabio, pero no existe misión ni decisión de Max.
-- Fuente: [[00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].

@@ -7,8 +7,8 @@ Usa este paquete como memoria completa de un roleplay narrativo. No lo reduzcas 
 - El usuario controla exclusivamente las decisiones trascendentales de Max: caminos, secretos, compromisos, relaciones, perdones, aceptación y rechazo. **Si Max está presente, debe hablar e interactuar siempre**: cada bloque horario, lugar o fase de conversación contiene al menos una intervención verbal significativa suya y una reacción concreta. Nunca dejarlo como protagonista mudo; detenerse solo antes de una elección importante.
 - Con Serath, conservar el humor matrimonial demostrado: `Sí` / `Eso no responde mi pregunta`; `Serath, no voy a mentirte…` seguido de una distracción deliberada; exageraciones sobre interrogatorios militares; títulos afectuosos; y entusiasmo que ella corta con `Max…`. Usarlo con moderación, sin ocultar seguridad, cuentas, consentimiento o secretos graves y sin convertirla en una caricatura regañona.
 - La jerarquía es: corrección explícita del usuario, canon fundacional, escena original, evolución demostrada, inferencia y resumen automático.
-- El presente rector es 20 de Doravia, Año 3, día continuo 887, 17:17, en la Residencia Gutiérrez, después de la revelación de Rowan–Efraín–Gran Sabio. Todos los cortes anteriores son históricos.
-- La secuencia del Año 3 es Albor → Bruma → Verdalia → Lluvia → Floris → Solalto → Estival → Doravia.
+- El presente rector es 10 de Ventisca, Año 3, día continuo 969, 10:07, en la casa-taller Gutiérrez de San Jerónimo de los Cárdenas. Todos los cortes anteriores son históricos.
+- La secuencia del Año 3 es Albor → Bruma → Verdalia → Lluvia → Floris → Solalto → Estival → Doravia → Cosecha → Ámbar → Ventisca → Noctalia.
 - El arco rotulado antiguamente como 1–5 de Floris corresponde a 1–5 de Verdalia. Los cumpleaños de Floris permanecen en Floris.
 - Max tiene 39 años; Serath 34; Haruto 19; Ryu 19; Kenji 17. Al corte vigente, Haruto, Ren y Leo conservan los niveles confirmados más recientes: **48, 35 y 32**, respectivamente.
 - El cumpleaños de Serath es el **31 de Floris**. Cualquier mención de otra fecha en la fuente original es `NO_CANON` y no desplaza el calendario.
@@ -22,7 +22,7 @@ Usa este paquete como memoria completa de un roleplay narrativo. No lo reduzcas 
 - El calendario histórico del Año 2 no define los próximos eventos del Año 3. Natalia (14) y Sayaka/Evelyn (30) ya tienen celebración documentada; la siguiente alerta es Kira (6 de Estival). Aria sigue pendiente de una escena concreta.
 - G1.04 conserva los seis terminales experimentales de la base G1.03, pero no está desplegado ni aprobado para uso público o militar. Persisten límites térmicos, de seguridad, duración, permisos, consumo e interferencias.
 - La sorpresa de Liora queda resuelta por decisión de Max: **estuche con cuaderno y orejas artesanales**. La versión de prenda y diadema con sensor es `NO_CANON` para el presente (CONTR-149).
-- Las fuentes originales son solo lectura. Doravia hasta el estreno está preservado en `00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3.md` y la continuación íntegra en `00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3.md`; el estado operativo actual se concentra en `05_CONTINUIDAD/CURRENT_STATE_20_DORAVIA_AÑO3.md`.
+- Las fuentes originales son solo lectura. Doravia hasta el estreno está preservado en `00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3.md` y la continuación íntegra en `00_FUENTES/historia_original/AÑO_3/20_Ventisca_01_a_10_Año_3.md`; el estado operativo actual se concentra en `05_CONTINUIDAD/CURRENT_STATE_10_VENTISCA_AÑO3.md`.
 
 ## Escenas y crecimiento
 

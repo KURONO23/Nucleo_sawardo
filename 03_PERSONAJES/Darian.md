@@ -139,4 +139,4 @@ Darian no es un colaborador ocasional ni un actor: es el **quinto miembro origin
 
 - Darian actuó como el soldado y sostuvo la disciplina del montaje. La revancha cómica con la marioneta del noble se mantuvo como recurso escénico, con seguridad revisada.
 - Participó en los saludos finales junto a Los Cinco del Barril. No se fija todavía un contrato, una gira ni una alianza política.
-- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]].

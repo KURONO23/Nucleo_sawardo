@@ -1,8 +1,8 @@
 # NÚCLEO SAWARDO — INSTRUCCIONES Y PUNTO DE REANUDACIÓN
 
 **Versión:** 23 de octubre de 2026
-**Presente rector único:** 20 de Doravia, Año 3, día continuo 887, 17:17.
-**Lugar previsto:** Residencia Gutiérrez, sala privada, cinco alternativas abiertas sobre Gran Sabio.
+**Presente rector único:** 10 de Ventisca, Año 3, día continuo 969, 10:07.
+**Lugar previsto:** San Jerónimo de los Cárdenas, casa-taller Gutiérrez, deliberación sobre selector KURONO y videos fundacionales.
 **Control de Max:** pertenece exclusivamente al usuario.
 
 Este paquete consta de dos documentos operativos y un manifiesto. Lee primero este archivo y después consulta el núcleo completo por el encabezado MÓDULO pertinente. Los cortes anteriores de Solalto, Estival y los meses previos son historia; no desplazan el presente rector del 20 de Doravia.

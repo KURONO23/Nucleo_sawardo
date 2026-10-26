@@ -147,7 +147,7 @@ Rowan no desaparece ni muere. Durante la primera integración, el Gran Sabio enc
 - Rowan y Efraín observan la repercusión del estreno por informes públicos y cortesanos. El Gran Sabio sigue siendo una habilidad interna que procesa información disponible; no es una entidad pública independiente.
 - Max no conoce la existencia del Gran Sabio ni la convivencia interna Rowan–Efraín. Ningún informe puede convertir una inferencia de Efraín en conocimiento de Max.
 - La presencia cultural de la obra abre un frente social, no una guerra ni una alianza automática. El siguiente avance requiere escena, evidencia y coste.
-- Fuente de corte: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]] y [[00_FUENTES/historias_paralelas/GUIA_DE_CONVERGENCIA_ROWAN_EFRAIN_GRAN_SABIO]].
+- Fuente de corte: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]] y [[00_FUENTES/historias_paralelas/GUIA_DE_CONVERGENCIA_ROWAN_EFRAIN_GRAN_SABIO]].
 
 ## ADDENDUM DE CONVERGENCIA — 20 DE DORAVIA, AÑO 3
 
@@ -156,5 +156,5 @@ Rowan no desaparece ni muere. Durante la primera integración, el Gran Sabio enc
 - La correspondencia Great Sage/Raphael continúa como hipótesis. No hay evolución, acceso nuevo ni separación automática.
 - La ruta Egg de misiones sociales y prácticas por Aldoria es una propuesta abierta; no fue presentada a Aldric ni autorizada.
 - El corte real es 20 de Doravia, día 887, 17:17, Residencia Gutiérrez. Las cinco alternativas finales siguen sin elección.
-- Fuente: [[00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].
 

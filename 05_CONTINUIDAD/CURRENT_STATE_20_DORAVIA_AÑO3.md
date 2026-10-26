@@ -1,7 +1,7 @@
 # CURRENT STATE — 20 DE DORAVIA, AÑO 3
 
 > **PRESENTE RECTOR OPERATIVO:** día continuo 887, 17:17, Residencia Gutiérrez, sala privada.
-> **Fuente íntegra del tramo:** [[00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3]].
+> **Fuente íntegra del tramo:** [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]].
 > **Corte anterior:** [[CURRENT_STATE_18_DORAVIA_AÑO3]].
 
 ## Punto exacto de reanudación
@@ -73,8 +73,8 @@ Las cinco alternativas finales siguen sin elección. La ruta Egg puede retomarse
 
 ## Fuentes
 
-- [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]]
-- [[00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3]]
+- [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]]
+- [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]]
 - [[ARCO_LA_CORONA_DEL_GRAN_SABIO]]
 - [[GUIA_DE_CONVERGENCIA_ROWAN_EFRAIN_GRAN_SABIO]]
 

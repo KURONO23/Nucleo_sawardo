@@ -157,11 +157,11 @@
 - Rowan recibió informes públicos y cortesanos sobre el estreno, la delegación de Max y el movimiento cultural de Aldoria. No abandona su naturaleza contenida ni se vuelve antagonista automático.
 - Continúa confinado; Efraín y el Gran Sabio coexisten dentro de su cuerpo conforme a la historia paralela. Rowan conserva la capacidad de cuestionar el informe y de poner límites a interpretaciones precipitadas.
 - No tiene acceso directo al G1.04 ni a la Torre de los Nombres. Su siguiente hito es observar las consecuencias públicas del estreno.
-- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]] y [[00_FUENTES/historias_paralelas/GUIA_DE_CONVERGENCIA_ROWAN_EFRAIN_GRAN_SABIO]].
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]] y [[00_FUENTES/historias_paralelas/GUIA_DE_CONVERGENCIA_ROWAN_EFRAIN_GRAN_SABIO]].
 
 ## ADDENDUM DE ESTADO — 20 DE DORAVIA, AÑO 3
 
 - Rowan recuperó autonomía suficiente para salir de la simulación, alcanzar a Max y pedir ayuda. No está separado de Efraín ni controla el cuerpo de forma permanente.
 - Max conoce ahora la existencia de Rowan, Efraín y Gran Sabio. Rowan acepta buscar una solución sin destruir ni transferir a Efraín.
 - La ruta Egg de misiones sociales y prácticas por Aldoria queda como propuesta abierta; no fue presentada a Aldric ni autorizada.
-- Fuente: [[00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].

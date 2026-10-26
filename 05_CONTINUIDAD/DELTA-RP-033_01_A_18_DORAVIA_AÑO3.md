@@ -1,6 +1,6 @@
 # DELTA-RP-033 — 1 A 18 DE DORAVIA, AÑO 3
 
-> Integración derivada de la transcripción íntegra [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]]. No reescribe la fuente y conserva sus correcciones e interrupciones.
+> Integración derivada de la transcripción íntegra [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]]. No reescribe la fuente y conserva sus correcciones e interrupciones.
 
 ## Hechos añadidos al canon operativo
 

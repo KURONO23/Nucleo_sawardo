@@ -16,15 +16,15 @@ if (-not (Test-Path -LiteralPath $destination)) {
 }
 
 $instructionsPath = Join-Path $destination '00_INSTRUCCIONES_Y_ESTADO.md'
-$corePath = Join-Path $destination '01_NUCLEO_SAWARDO_COMPLETO_20_DORAVIA_AÑO3.md'
+$corePath = Join-Path $destination '01_NUCLEO_SAWARDO_COMPLETO_10_VENTISCA_AÑO3.md'
 $manifestPath = Join-Path $destination '02_MANIFIESTO_DEL_PAQUETE.md'
 
 $instructions = @"
 # NÚCLEO SAWARDO — INSTRUCCIONES Y PUNTO DE REANUDACIÓN
 
 **Versión:** 23 de octubre de 2026
-**Presente rector único:** 20 de Doravia, Año 3, día continuo 887, 17:17.
-**Lugar previsto:** Residencia Gutiérrez, sala privada, cinco alternativas abiertas sobre Gran Sabio.
+**Presente rector único:** 10 de Ventisca, Año 3, día continuo 969, 10:07.
+**Lugar previsto:** San Jerónimo de los Cárdenas, casa-taller Gutiérrez, deliberación sobre selector KURONO y videos fundacionales.
 **Control de Max:** pertenece exclusivamente al usuario.
 
 Este paquete consta de dos documentos operativos y un manifiesto. Lee primero este archivo y después consulta el núcleo completo por el encabezado `MÓDULO` pertinente. Los cortes anteriores de Solalto, Estival y los meses previos son historia; no desplazan el presente rector del 20 de Doravia.
@@ -153,7 +153,7 @@ $builder = [System.Text.StringBuilder]::new()
 [void]$builder.AppendLine('# NÚCLEO SAWARDO — COMPILACIÓN COMPLETA PARA CHATGPT')
 [void]$builder.AppendLine()
 [void]$builder.AppendLine('**Edición:** 23 de octubre de 2026')
-[void]$builder.AppendLine('**Presente rector:** 20 de Doravia, Año 3, día continuo 887, 17:17')
+[void]$builder.AppendLine('**Presente rector:** 10 de Ventisca, Año 3, día continuo 969, 10:07')
 [void]$builder.AppendLine('**Alcance:** canon derivado vigente, mundo, todas las fichas de personajes, sistemas, continuidad operativa, agentes narrativos, roleplay, novela, amistades y finanzas.')
 [void]$builder.AppendLine()
 [void]$builder.AppendLine('Las fuentes narrativas originales y sus respaldos no se duplican aquí, salvo los módulos operativos seleccionados. Los estados anteriores permanecen como historia; nunca desplazan el estado rector del 20 de Doravia.')
@@ -177,12 +177,12 @@ $manifest = @"
 ## Archivos para subir
 
 1. **00_INSTRUCCIONES_Y_ESTADO.md**
-2. **01_NUCLEO_SAWARDO_COMPLETO_20_DORAVIA_AÑO3.md**
+2. **01_NUCLEO_SAWARDO_COMPLETO_10_VENTISCA_AÑO3.md**
 
 ## Composición
 
 - Módulos compilados: $($ordered.Count)
-- Presente rector: 20 de Doravia, Año 3, día continuo 887, 17:17.
+- Presente rector: 10 de Ventisca, Año 3, día continuo 969, 10:07.
 - Personajes incluidos: todas las fichas Markdown vigentes de **03_PERSONAJES/**, incluidas Elena Weissmann, Nadia Falkenberg y Greta Hoffmann.
 - Incluye los agentes narrativos de **06_AGENTES/**, en especial el auditor de cierre mensual que propaga avances fuera de cámara sin deformar personajes ni convertir semillas en hechos.
 - Fuera del paquete: las fuentes originales completas no seleccionadas, **_RESPALDOS**, **tmp**, **.git**, **.obsidian**, auditorías históricas, deltas y fotografías históricas redundantes, exportaciones antiguas y archivos binarios. La transcripción seleccionada de Doravia 18–20 sí se incluye como módulo operativo para conservar el tramo jugado.
@@ -191,7 +191,7 @@ $manifest = @"
 ## Integridad
 
 - **00_INSTRUCCIONES_Y_ESTADO.md** — SHA-256: $instructionHash
-- **01_NUCLEO_SAWARDO_COMPLETO_20_DORAVIA_AÑO3.md** — SHA-256: $coreHash
+- **01_NUCLEO_SAWARDO_COMPLETO_10_VENTISCA_AÑO3.md** — SHA-256: $coreHash
 
 El manifiesto sirve para verificar la generación; no es necesario cargarlo en ChatGPT.
 "@

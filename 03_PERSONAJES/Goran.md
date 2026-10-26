@@ -120,4 +120,4 @@ En el proyecto de *La tragedia del último barril*, Goran conserva el papel de a
 
 - Goran dirigió la edición y la coordinación del estreno de *Mi fin de semana con el muerto*. Los cuatro actos y quince escenas llegaron al público sin cambiar el final aprobado.
 - Recibió críticas y aplausos preliminares junto a Max, Haruto, Biro y Darian. Taquilla, gastos y repercusión política aún no tienen asiento definitivo.
-- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]].

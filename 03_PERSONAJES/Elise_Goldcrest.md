@@ -170,4 +170,4 @@ Elise revisa calidad y costes del circuito de Cerveza Esmeralda junto a Natalia 
 
 - Elise revisó producción, vestuario y seguridad del montaje. Su relación con Goran continúa siendo profesional; el estreno no crea romance ni contrato automático.
 - Trabajará con Natalia y Vivienne sobre los gastos y la recepción de la obra cuando existan cifras conciliadas.
-- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]].

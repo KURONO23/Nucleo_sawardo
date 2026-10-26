@@ -1,5 +1,5 @@
 # DELTA-RP-034 — 18 A 20 DE DORAVIA, AÑO 3
-> Delta aditivo derivado de [[00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3]]. No reescribe la fuente histórica; supersede operativamente solo estados anteriores que decían que Max desconocía a Efraín o Gran Sabio.
+> Delta aditivo derivado de [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]]. No reescribe la fuente histórica; supersede operativamente solo estados anteriores que decían que Max desconocía a Efraín o Gran Sabio.
 ## Corte rector
 - Último corte verificable: 20 de Doravia, Año 3, día continuo 887, 17:17.
 - Lugar: Residencia Gutiérrez, sala privada.

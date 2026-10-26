@@ -78,7 +78,7 @@ Fuente: [[00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Añ
 - **Yuki, Sayaka y Mizuki:** ya conocen el argumento y final; antes del estreno solo conocían la existencia del proyecto.
 - **Jasmine y Kira:** conocen una discrepancia documental de V. Sable, sin identidad ni patrocinador confirmado.
 
-Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].
+Fuente: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]].
 
 ## Actualización de conocimiento — 20 de Doravia, Año 3
 
@@ -89,4 +89,15 @@ Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_A
 - **Ruta Egg:** solo propuesta abierta; no existe solicitud a Aldric, permiso, misión ni evaluación concluida.
 - **Gran Sabio:** Great Sage/Raphael es correspondencia hipotética. No tiene acceso automático a G1, Sawardo, Torre, Nodos o Aguja.
 
-Fuente: [[00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].
+Fuente: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].
+
+## Actualización de conocimiento — 10 de Ventisca, Año 3
+
+- **Max:** Conoce el desenlace de la peregrinación en Vespera, su salto temporal a la fundación, la restauración por Chronos, y los hechos demostrados de Max de 23 años con Adela Salazar y el selector KURONO.
+- **Serath:** Conoce la convalecencia completa de Max, su reconciliación afectiva, su restauración física y los testimonios fundacionales de San Jerónimo; comprende con naturalidad la diferencia temporal entre Max39 y Max23.
+- **Pobladores de San Jerónimo (Nicanor, Elian y familias):** Conocen los rostros y palabras de sus fundadores originales a través de los videos; comprenden el moldeo básico de maná elemental; conocen que el disco de seis marcas de KURONO es un selector de pruebas y no una llave mágica.
+- **Efraín Quispe:** Permanece consciente y suspendido en el ancla mental ACTC-ROWAN-01 en Sawardo, sin control corporal ni acceso a la red externa.
+- **Rowan:** Mantiene el control corporal en la Torre de los Nombres bajo custodia estable.
+- **Diavolo:** Prohibido formalmente en el canon por riesgo existencial demostrado.
+
+Fuente: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]], [[00_FUENTES/historia_original/AÑO_3/18_Cosecha_01_a_30_Año_3]], [[00_FUENTES/historia_original/AÑO_3/19_Ambar_01_a_30_Año_3]] y [[00_FUENTES/historia_original/AÑO_3/20_Ventisca_01_a_10_Año_3]].

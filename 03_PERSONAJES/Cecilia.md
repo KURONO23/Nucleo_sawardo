@@ -139,4 +139,4 @@ Cecilia/Mizuki fue presentada formalmente a Yuki/Lady Marianne y eligió el alia
 
 - Mizuki/Ecclesia colaboró en la lectura del vínculo Rowan–Efraín–Gran Sabio. La cooperación con Haruto es funcional; la reparación personal permanece pendiente.
 - Ecclesia no confirmó identidad metafísica ni evolución tipo Raphael.
-- Fuente: [[00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].

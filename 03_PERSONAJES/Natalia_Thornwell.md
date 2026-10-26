@@ -213,4 +213,4 @@ Natalia participa en la inspección de calidad y costes de Esmeralda junto a Eli
 - Natalia conserva la administración de los festivales y las cuentas de Max. La liquidez posterior al estreno y la misión no se cierra mientras subsistan las tres tasaciones incompatibles.
 - Supervisa que el dinero de Haruto, Ren y Leo permanezca en sus cuentas; no existe un fondo de graduados ni una transferencia automática a Max.
 - Su relación con Kael sigue estable y su siguiente revisión se integra al cierre mensual, no a una escena inventada fuera de cámara.
-- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]].

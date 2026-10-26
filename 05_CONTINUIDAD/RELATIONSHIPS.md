@@ -138,7 +138,7 @@ Fuente íntegra: [[00_FUENTES/historia_original/AÑO_3/16_01_de_Estival_a_01_de_
 - **Elise–Goran:** colaboración profesional fortalecida; no romance confirmado.
 - **Casas antagonistas–Max:** el aplauso reservado no crea alianza ni reconciliación.
 
-Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].
+Fuente: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]].
 
 ## Actualización de relaciones — 20 de Doravia, Año 3
 
@@ -148,4 +148,14 @@ Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_A
 - **Rowan–Gran Sabio:** vínculo funcional y disputa sobre autonomía; Gran Sabio sigue como estructura/habilidad, no persona independiente confirmada.
 - **Grupo analista:** Aria, Haruto, Siri, Mizuki, Yuki, Leo y Ren conocen el caso; Haruto–Mizuki conserva reparación pendiente.
 
-Fuente: [[00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].
+Fuente: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].
+
+## Actualización de relaciones — 10 de Ventisca, Año 3
+
+- **Max–Serath:** Amor conyugal profundizado tras la separación y la vigilia de dos semanas en San Jerónimo. Preservan su humor característico ( Serath no voy a mentirte...), complicidad en el desayuno y toma conjunta de decisiones.
+- **Max–Elian / Nicanor:** Relación de respeto mutuo, diálogo intergeneracional y aprendizaje compartido. Elian y Nicanor no idolatran a Max, sino que conviven con él como un vecino y pariente lejano.
+- **Max–Aria:** Lealtad inquebrantable; Aria sostuvo la guardia y la contención mágica durante la convalecencia de Max.
+- **Grupo Joven (Haruto, Ren, Leo, Ryu, Kenji, Amane, Misa, Jasmine):** Cohesión comunitaria activa; comparten la enseñanza de maná en la plaza de San Jerónimo y asisten con madurez la apertura de los registros históricos.
+- **Max–Rowan / Efraín:** Rowan permanece en custodia pacífica con control de su cuerpo; el ancla ACTC-ROWAN-01 mantiene a Efraín contenido sin destrucción ni odio.
+
+Fuente: [[00_FUENTES/historia_original/AÑO_3/19_Ambar_01_a_30_Año_3]] y [[00_FUENTES/historia_original/AÑO_3/20_Ventisca_01_a_10_Año_3]].

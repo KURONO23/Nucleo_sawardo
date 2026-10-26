@@ -66,4 +66,4 @@
 
 - Eleanor mantiene la caja de siete sellos cerrada y documentó patrones y secuencias sin forzar una apertura ni conectar el fragmento carmesí a una red.
 - El expediente puede adelantarse, pero no se declara descifrado. La Torre de los Nombres y los circuitos restringidos siguen fuera del conocimiento público.
-- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]].

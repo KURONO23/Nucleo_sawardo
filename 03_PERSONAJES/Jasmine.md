@@ -171,4 +171,4 @@ El coste es personal: seguir una pista sin Max implica exposición, paciencia y 
 
 - Jasmine conserva el regalo práctico de cumpleaños y el expediente V. Sable: hay una coincidencia de rutas, no una identidad ni un culpable confirmado.
 - Observó el proyecto teatral como parte del círculo social de Serath y puede comentar su recepción sin convertir rumores en hechos.
-- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]].

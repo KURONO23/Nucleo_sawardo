@@ -194,10 +194,10 @@ Haruto acepta la disculpa de Mizuki sin conceder perdón completo. Mantiene su p
 - Haruto cerró el tramo de entrenamiento y misión en **nivel 48, Rango A**. La evaluación S sigue pendiente; las lecturas atrasadas del gremio no crean niveles duplicados.
 - Su interfaz y Siri documentaron el uso de Paso Relámpago II y el combate no letal; conserva las técnicas de trueno como trabajo propio, no como copia automática de referencias externas.
 - Participó en el estreno como actor y colaborador de Los Cinco del Barril. Recibió y conserva su parte de recompensas; ese dinero no pertenece a Max.
-- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]] y [[04_SISTEMAS/ADVENTURER_SYSTEM]].
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]] y [[04_SISTEMAS/ADVENTURER_SYSTEM]].
 
 ## ADDENDUM DE ESTADO — 20 DE DORAVIA, AÑO 3
 
 - Haruto participó con Siri en el análisis sin convertir la correspondencia Great Sage/Raphael en identidad confirmada. Su lectura es de alarma analítica, no de certeza metafísica.
 - Coopera funcionalmente con Mizuki; la reparación entre ambos continúa incompleta y no implica perdón automático.
-- Fuente: [[00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].

@@ -113,4 +113,4 @@
 
 - Siri ayudó a Haruto a distinguir entre correspondencia arquitectónica, plantilla, instancia e identidad. No confirmó que Gran Sabio sea la habilidad original ni que Raphael haya aparecido.
 - Mantiene un análisis técnico, limitado y no omnisciente del vínculo.
-- Fuente: [[00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].

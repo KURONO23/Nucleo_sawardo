@@ -378,11 +378,19 @@ Durante la operación Marcos, Max mantiene la cobertura sin llevar G1 encima. `D
 - Conserva su voz bromista y participativa: habla en cada bloque en el que está presente, sostiene la relación con Serath y no delega al narrador sus decisiones trascendentales. La carta de Kazuki fue leída y la respuesta permanece deliberadamente aplazada.
 - La liquidez posterior a la misión y a la venta de materiales queda **PENDIENTE_DE_CONCILIAR** por tres tasaciones incompatibles; no se incorpora taquilla ni se escoge una cifra en su nombre.
 - **Punto actual:** 18 de Doravia, 23:04, Teatro Estrella Verde, sobre el escenario con Goran, Haruto, Biro y Darian.
-- **Fuente:** [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]] y [[CURRENT_STATE_18_DORAVIA_AÑO3]].
+- **Fuente:** [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]] y [[CURRENT_STATE_18_DORAVIA_AÑO3]].
 
 ## ADDENDUM DE ESTADO — 20 DE DORAVIA, AÑO 3
 
 - Max conoce directamente la convivencia Rowan–Efraín–Gran Sabio y mantiene el control de sus propias decisiones. Rechaza eliminar, transferir o evolucionar a nadie sin comprender el coste.
 - Participó activamente en el análisis con Haruto, Siri, Mizuki, Yuki, Leo, Ren y Aria. Las cinco alternativas finales permanecen abiertas.
 - La ruta Egg es una propuesta posible, no una decisión de Max ni una solicitud enviada a Aldric.
-- Fuente: [[00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].
+
+## ADDENDUM DE ESTADO — 10 DE VENTISCA, AÑO 3
+
+- **Peregrinación y Confinamiento de Efraín:** Tras resolver la crisis de Rowan y confinar temporalmente a Efraín bajo el ancla ACTC-ROWAN-01 en Sawardo, Max realizó una peregrinación en solitario por Vespera (Puerto Nácar, Vardessa, Keralis) combatiendo bajo la máscara *Dragon Mask* en el circuito del Faro Mayor.
+- **Salto Temporal Fundacional y Convalecencia:** En Ámbar, tras reencontrarse con Serath en San Jerónimo, la piedra fundacional y la Esfera de Chronos lo transportaron a la época fundacional. Tras regresar exhausto y herido, permaneció dos semanas en coma; la Esfera Matriz de Chronos canalizó Reversi el 30 de Ámbar restaurando su edad biológica a **39 años**.
+- **Memoria de Max23 y KURONO:** Al 10 de Ventisca, Max se encuentra restablecido en San Jerónimo. Ha presenciado los videos de los fundadores y de Max de 23 años (quien vivió allí y se casó con Adela Salazar), comprendiendo que el selector de rutas KURONO fue creado para abrir caminos autónomos, no para crear dependencias.
+- **Punto actual:** 10 de Ventisca, Año 3, 10:07, casa-taller Gutiérrez en San Jerónimo, junto a Serath, Aria, Nicanor, Elian y el grupo completo. Cinco alternativas de decisión abiertas.
+- **Fuente:** [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]], [[00_FUENTES/historia_original/AÑO_3/18_Cosecha_01_a_30_Año_3]], [[00_FUENTES/historia_original/AÑO_3/19_Ambar_01_a_30_Año_3]] y [[00_FUENTES/historia_original/AÑO_3/20_Ventisca_01_a_10_Año_3]].

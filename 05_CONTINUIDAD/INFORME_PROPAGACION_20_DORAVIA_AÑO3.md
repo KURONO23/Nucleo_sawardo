@@ -1,6 +1,6 @@
 # INFORME DE PROPAGACIÓN — 20 DE DORAVIA, AÑO 3
 ## Resultado
-La fuente [[00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3]] fue incorporada mediante [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]]. El presente rector queda fijado en 20 de Doravia, día continuo 887, 17:17.
+La fuente [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]] fue incorporada mediante [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]]. El presente rector queda fijado en 20 de Doravia, día continuo 887, 17:17.
 La fuente se conserva íntegra y separada de los estados derivados. Simulaciones, hipótesis Great Sage/Raphael y propuestas de ruta Egg no se propagaron como hechos consumados.
 ## Agentes obligatorios
 La ronda fue solicitada conforme a [[AGENTS]] y sus resultados se cruzaron con la transcripción. El registro distingue informes entregados de frentes pendientes o sin cambio demostrado.

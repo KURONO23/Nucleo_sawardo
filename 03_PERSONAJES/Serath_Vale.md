@@ -194,4 +194,12 @@
 - Serath sostuvo a Max antes del estreno, respetó sus nervios y mantuvo la intimidad matrimonial fuera de la mirada pública. El humor de pareja sigue siendo afectuoso: Max bromea y ella corta la escalada con un «Max…» cuando corresponde.
 - El estreno terminó sin incidentes; su presencia pertenece al círculo de apoyo y no la convierte en portavoz de una obra que conserva autoría colectiva.
 - No hay embarazo confirmado ni salto temporal que lo suponga. El almuerzo familiar con Aldric y Thalion sigue reservado para el 25 de Doravia.
-- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]] y [[CALENDARIO_MUNDIAL_CANONICO]].
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]] y [[CALENDARIO_MUNDIAL_CANONICO]].
+
+## ADDENDUM DE ESTADO — 10 DE VENTISCA, AÑO 3
+
+- **Búsqueda y Reencuentro:** Durante la peregrinación solitaria de Max, Serath encabezó su búsqueda sin descuidar el equilibrio de la Guardia ni exponer secretos. El reencuentro en San Jerónimo el 13 de Ámbar reafirmó su amor conyugal antes del salto temporal de Max.
+- **Vigilia y Cuidados:** Sostuvo una vigilia constante junto al lecho de Max durante las dos semanas de coma, acompañada por Aria, Misa, Amane y Jasmine. Presenció la restauración de Max por Chronos a la medianoche del 30 de Ámbar.
+- **Presente en San Jerónimo:** Al 10 de Ventisca, comparte con Max la convivencia cotidiana matutina, el humor conyugal cómplice y la revelación de la vida de Max de 23 años con Adela Salazar, comprendiendo con serenidad la diferencia temporal entre ambos.
+- **Punto actual:** 10 de Ventisca, 10:07, casa-taller Gutiérrez en San Jerónimo.
+- **Fuente:** [[00_FUENTES/historia_original/AÑO_3/19_Ambar_01_a_30_Año_3]] y [[00_FUENTES/historia_original/AÑO_3/20_Ventisca_01_a_10_Año_3]].

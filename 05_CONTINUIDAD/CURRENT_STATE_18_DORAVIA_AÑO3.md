@@ -1,7 +1,7 @@
 # CURRENT STATE — 18 DE DORAVIA, AÑO 3
 
 > **PRESENTE RECTOR OPERATIVO:** día continuo 885, 23:04, inmediatamente después del estreno de *Mi fin de semana con el muerto*.
-> Fuente íntegra: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].
+> Fuente íntegra: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]].
 
 ## Punto exacto de reanudación
 

@@ -189,4 +189,4 @@ Galwin tiene preparada una presentación de G1-0.3 para Max, Aria, Daichi, Mika,
 - Galwin mantiene el G1.04 bajo mantenimiento reproducible y delega pruebas a sus discípulos; no convierte la Instalación Occidental ni los relés antiguos en una red abierta.
 - Coordinó una prueba del Serath-Maru con carga media de treinta minutos. Temperatura, desgaste y autorización para viajes largos continúan pendientes.
 - El siguiente hito es una tercera validación del G1.04 con Daichi y Mika, con documentación completa y sin detener el resto del taller.
-- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]].

@@ -133,3 +133,6 @@ Cada ficha debe mantener meta corta, mediana y larga; indicador; riesgo; coste o
 | [Yuki Moriyama / Lady Marianne — Ficha Canónica Completa](../03_PERSONAJES/Yuki_Moriyama_Lady_Marianne.md) | `INCLUIDA` | corto · mediano · largo | cada cierre mensual |
 
 **Total de fichas/personas o grupos cubiertos:** 122.
+| [Elian Gutiérrez](../03_PERSONAJES/Elian_Gutierrez.md) | INCLUIDA | corto · mediano · largo | cada cierre mensual |
+| [Nicanor Cárdenas](../03_PERSONAJES/Nicanor_Cardenas.md) | INCLUIDA | corto · mediano · largo | cada cierre mensual |
+| [Adela Salazar](../03_PERSONAJES/Adela_Salazar.md) | INCLUIDA | memoria fundacional | memoria histórica |

@@ -177,4 +177,4 @@ Vivienne concibió por iniciativa propia una gala noble-cultural benéfica auté
 
 - Vivienne mantiene sus responsabilidades administrativas y revisará los asientos del estreno junto a Natalia y Elise. No se fija un dividendo nuevo sin soporte documental.
 - Su cumpleaños del 21 de Doravia permanece reservado en el calendario; la continuidad no lo resuelve antes de que Max pueda intervenir.
-- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]] y [[CALENDARIO_MUNDIAL_CANONICO]].
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]] y [[CALENDARIO_MUNDIAL_CANONICO]].

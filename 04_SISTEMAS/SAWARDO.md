@@ -123,4 +123,12 @@ La historia posterior añade percepción temporal pasiva, la hipótesis de Refer
 - Sawardo se utilizó para inmovilizar temporalmente a Rowan mientras Max reunía al grupo analista. La detención fue absoluta; solo se movieron las personas autorizadas por Max.
 - No hubo radio, transmisión ni actividad de G1 durante la detención. Las lecturas relevantes ocurrieron antes o después, fuera de Sawardo.
 - Este tramo no concede a Gran Sabio acceso a Sawardo ni añade una capacidad nueva al sistema.
-- Fuente: [[00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].
+
+## ADDENDUM DE CONTINUIDAD — 10 DE VENTISCA, AÑO 3
+
+- **Ancla Temporal ACTC-ROWAN-01:** Utilizada en Doravia (días 20–31) para suspender temporalmente a Efraín Quispe dentro del espacio mental de Rowan mediante Sawardo, preservando la continuidad mental y física de Rowan sin destruir ni dañar el alma de Efraín.
+- **Modos Peregrinación y Reposo Restaurativo:** Durante la travesía en Vespera y los entrenamientos en solitario, Sawardo se activó bajo modos específicos de bajo perfil y recuperación corporal pasiva sin generar anomalías dimensionales ni radio exterior.
+- **Restauración por Reversi / Chronos:** En Ámbar 30, la Esfera Matriz de Chronos canalizó la propiedad de Reversi restaurando la edad biológica de Max a 39 años tras su fatiga extrema en la fundación.
+- **Prohibición estricta de Diavolo:** Diavolo permanece bajo prohibición absoluta; Max no la utilizó en la fundación ni en San Jerónimo.
+- **Fuente:** [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]], [[00_FUENTES/historia_original/AÑO_3/19_Ambar_01_a_30_Año_3]] y [[00_FUENTES/historia_original/AÑO_3/20_Ventisca_01_a_10_Año_3]].

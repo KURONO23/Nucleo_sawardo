@@ -226,3 +226,14 @@ Ambos frentes pueden avanzar en paralelo: tecnología mantenible e institución 
 | **Recepción del estreno y teatro** | `FAVORABLE / RECEPCIÓN ABIERTA` | Medir demanda, crítica, reposiciones y contratos sin sumar taquilla ni fundar una productora. |
 | **Finanzas de Doravia** | `PENDIENTE_DE_CONCILIAR` | Mantener cifras anteriores y no registrar ingresos teatrales no demostrados. |
 | **Cierre mensual** | `MES ABIERTO` | Continuar hasta el 31 de Doravia; no declarar `CERRADO_Y_PROPAGADO`. |
+
+## Hilos vigentes — 10 de Ventisca, Año 3, 10:07
+
+| Hilo | Estado | Próximo paso exacto |
+|---|---|---|
+| **Selector KURONO y Caja Fundacional** | ACTIVO / CINCO OPCIONES ABIERTAS | Decidir el siguiente paso sobre las fotos del colaborador, el disco selector o la grabación NO_BORRAR. Bolsa MAX_NO_TOCAR permanece cerrada. |
+| **Moldeo de maná en San Jerónimo** | EN PROGRESO / ASIMILACIÓN RÁPIDA | Continuar las lecciones prácticas en la plaza con Amane, Haruto, Ren, Leo, Ryu y Kenji. |
+| **Ancla ACTC-ROWAN-01 y Rowan** | ESTABLE / BAJO SAWADO | Efraín suspendido conscientemente en espacio reversible; Rowan en control corporal en la Torre de los Nombres. |
+| **Matrimonio Max–Serath** | VIGENTE / DIÁLOGO COTIDIANO | Comparten la mañana y la deliberación en San Jerónimo. |
+| **Cumpleaños 40 de Max** | PRÓXIMO EN EL CALENDARIO | 25 de Ventisca del Año 3; día continuo canónico 984. |
+| **Fondos y finanzas consolidadas** | FIRMES Y RESTRINGIDOS | Terreno A: 9.445 oro; Festival Infantil: 15.000 oro; Festival de la Cerveza: 24.000 oro. Gasto de Ventisca: 0 oro. |

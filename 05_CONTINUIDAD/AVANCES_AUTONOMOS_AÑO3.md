@@ -117,7 +117,7 @@ Cada nuevo cierre diario debe registrar al menos: avance, responsable, evidencia
 - **Jasmine y Kira:** preservan la discrepancia de V. Sable como pista y no como culpabilidad.
 - **Corven–Severin–Veylan:** sin cambio concluyente; permanecen separados y abiertos.
 
-Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].
+Fuente: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]].
 
 ## Addendum — 20 de Doravia, Año 3
 
@@ -125,5 +125,5 @@ Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_A
 - **Efraín:** reconoce resentimiento y envidia; la simulación no se convierte en vida real. Próximo hito: responder a una decisión de Max sin ser reducido a la simulación.
 - **Gran Sabio:** recibe un marco comparativo y una hipótesis de correspondencia; no evoluciona. Próximo hito: solo si una escena futura le proporciona experiencia real con coste y límites.
 - **Ruta Egg:** semilla pendiente, sin viaje ni solicitud a Aldric.
-- Fuente: [[00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]] y [[DELTA-RP-034_18_A_20_DORAVIA_AÑO3]].
 

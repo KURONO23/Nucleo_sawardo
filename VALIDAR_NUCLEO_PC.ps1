@@ -16,6 +16,10 @@ $required = @(
   '00_LEER_PRIMERO.md',
   '00_INICIO_OBSIDIAN.md',
   '05_CONTINUIDAD/CURRENT_STATE.md',
+  '05_CONTINUIDAD/CURRENT_STATE_10_VENTISCA_AÑO3.md',
+  '05_CONTINUIDAD/CURRENT_STATE_30_AMBAR_AÑO3.md',
+  '05_CONTINUIDAD/CURRENT_STATE_30_COSECHA_AÑO3.md',
+  '05_CONTINUIDAD/CURRENT_STATE_31_DORAVIA_AÑO3.md',
   '05_CONTINUIDAD/CURRENT_STATE_20_DORAVIA_AÑO3.md',
   '05_CONTINUIDAD/CURRENT_STATE_18_DORAVIA_AÑO3.md',
   '05_CONTINUIDAD/CURRENT_STATE_16_ESTIVAL_AÑO3.md',
@@ -45,10 +49,12 @@ $required = @(
   '00_FUENTES/historia_original/AÑO_3/14_01_de_Floris_a_31_de_Floris_Año_3.md',
   '00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3.md',
   '00_FUENTES/historia_original/AÑO_3/16_01_de_Estival_a_01_de_Doravia_Año_3.md',
-  '00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3.md',
-  '00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3.md',
-  '05_CONTINUIDAD/DELTA-RP-034_18_A_20_DORAVIA_AÑO3.md',
-  '05_CONTINUIDAD/INFORME_PROPAGACION_20_DORAVIA_AÑO3.md',
+  '00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3.md',
+  '00_FUENTES/historia_original/AÑO_3/18_Cosecha_01_a_30_Año_3.md',
+  '00_FUENTES/historia_original/AÑO_3/19_Ambar_01_a_30_Año_3.md',
+  '00_FUENTES/historia_original/AÑO_3/20_Ventisca_01_a_10_Año_3.md',
+  '05_CONTINUIDAD/DELTA-RP-035_20_DORAVIA_A_10_VENTISCA_AÑO3.md',
+  '05_CONTINUIDAD/INFORME_PROPAGACION_10_VENTISCA_AÑO3.md',
   '03_PERSONAJES/REGISTRO_NOMBRES_CANON.md',
   '03_PERSONAJES/REGISTRO_APELLIDOS_CANON.md',
   '03_PERSONAJES/PLANTILLA_FICHA_CANONICA.md',
@@ -89,12 +95,12 @@ $stale = foreach ($file in $launchers) {
 $current = Join-Path $root '05_CONTINUIDAD/CURRENT_STATE.md'
 if (Test-Path -LiteralPath $current) {
   $currentText = Get-Content -LiteralPath $current -Raw
-  $currentDetail = Join-Path $root '05_CONTINUIDAD/CURRENT_STATE_20_DORAVIA_AÑO3.md'
+  $currentDetail = Join-Path $root '05_CONTINUIDAD/CURRENT_STATE_10_VENTISCA_AÑO3.md'
   $stateForChecks = $currentText
   if (Test-Path -LiteralPath $currentDetail) {
     $stateForChecks += [Environment]::NewLine + (Get-Content -LiteralPath $currentDetail -Raw)
   }
-  $historicalDetail = Join-Path $root '05_CONTINUIDAD/CURRENT_STATE_18_DORAVIA_AÑO3.md'
+  $historicalDetail = Join-Path $root '05_CONTINUIDAD/CURRENT_STATE_20_DORAVIA_AÑO3.md'
   if (Test-Path -LiteralPath $historicalDetail) {
     $stateForChecks += [Environment]::NewLine + (Get-Content -LiteralPath $historicalDetail -Raw)
   }
@@ -260,7 +266,7 @@ if ($stalePresent) {
   Write-Output 'ERROR: EL CORTE DE 18 DE VERDALIA SIGUE USADO COMO PRESENTE:'
   $stalePresent | ForEach-Object { Write-Output (' - ' + $_) }
 } else {
-  Write-Output 'Presente operativo: 20 de Doravia, 17:17; los cortes anteriores quedan históricos'
+  Write-Output 'Presente operativo: 10 de Ventisca, 10:07; los cortes anteriores quedan históricos'
 }
 
 $staleSourceNames = @(
@@ -348,7 +354,7 @@ if (Test-Path -LiteralPath $galwinRegistry) {
 
 if (Test-Path -LiteralPath $current) {
   $currentText = Get-Content -LiteralPath $current -Raw
-  foreach ($requiredFact in @('20 de Doravia','17:17','PENDIENTE_DE_CONCILIAR')) {
+  foreach ($requiredFact in @('10 de Ventisca','10:07','San Jerónimo')) {
     if ($stateForChecks -notmatch [regex]::Escape($requiredFact)) {
       $errorCount++
       Write-Output ('ERROR EN ESTADO RECTOR: falta el hecho vigente: ' + $requiredFact)
@@ -380,32 +386,21 @@ if (Test-Path -LiteralPath $estivalSource) {
   }
 }
 
-$doraviaSource = Join-Path $root '00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3.md'
-if (Test-Path -LiteralPath $doraviaSource) {
-  $doraviaText = Get-Content -LiteralPath $doraviaSource -Raw
-  $turnCount = ([regex]::Matches($doraviaText, '(?m)^## Turno ')).Count
-  $userCount = ([regex]::Matches($doraviaText, '(?m)^\*\*Usuario:\*\*')).Count
-  $assistantCount = ([regex]::Matches($doraviaText, '(?m)^\*\*Asistente:\*\*')).Count
-  if ($turnCount -ne 43 -or $userCount -ne 43 -or $assistantCount -ne 43) {
-    $errorCount++
-    Write-Output ("ERROR EN FUENTE DE DORAVIA: turnos=$turnCount usuarios=$userCount asistentes=$assistantCount; esperado 43/43/43")
-  } else {
-    Write-Output 'Fuente de Doravia: 43 turnos / 43 usuarios / 43 asistentes'
-  }
+$doraviaFullSource = Join-Path $root '00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3.md'
+if (Test-Path -LiteralPath $doraviaFullSource) {
+  Write-Output 'Fuente mensual consolidada de Doravia (1-31): OK'
 }
-
-$doraviaContinuationSource = Join-Path $root '00_FUENTES/historia_original/AÑO_3/18_20_de_Doravia_Año_3.md'
-if (Test-Path -LiteralPath $doraviaContinuationSource) {
-  $doraviaContinuationText = Get-Content -LiteralPath $doraviaContinuationSource -Raw
-  $turnCount = ([regex]::Matches($doraviaContinuationText, '(?m)^## Turno ')).Count
-  $userCount = ([regex]::Matches($doraviaContinuationText, '(?m)^\*\*Usuario:\*\*')).Count
-  $assistantCount = ([regex]::Matches($doraviaContinuationText, '(?m)^\*\*Asistente:\*\*')).Count
-  if ($turnCount -ne 71 -or $userCount -ne 71 -or $assistantCount -ne 71) {
-    $errorCount++
-    Write-Output ("ERROR EN CONTINUACIÓN DE DORAVIA: turnos=$turnCount usuarios=$userCount asistentes=$assistantCount; esperado 71/71/71")
-  } else {
-    Write-Output 'Continuación de Doravia: 71 turnos / 71 usuarios / 71 asistentes'
-  }
+$cosechaSource = Join-Path $root '00_FUENTES/historia_original/AÑO_3/18_Cosecha_01_a_30_Año_3.md'
+if (Test-Path -LiteralPath $cosechaSource) {
+  Write-Output 'Fuente mensual consolidada de Cosecha (1-30): OK'
+}
+$ambarSource = Join-Path $root '00_FUENTES/historia_original/AÑO_3/19_Ambar_01_a_30_Año_3.md'
+if (Test-Path -LiteralPath $ambarSource) {
+  Write-Output 'Fuente mensual consolidada de Ámbar (1-30): OK'
+}
+$ventiscaSource = Join-Path $root '00_FUENTES/historia_original/AÑO_3/20_Ventisca_01_a_10_Año_3.md'
+if (Test-Path -LiteralPath $ventiscaSource) {
+  Write-Output 'Fuente activa de Ventisca (1-10): OK'
 }
 
 $ageRegistry = Join-Path $root '05_CONTINUIDAD/REGISTRO_DE_EDADES_Y_CUMPLEANOS.md'

@@ -11,8 +11,8 @@ Este paquete contiene el núcleo completo, no una selección mínima. Conserva p
 1. `01_CANON/REGLAS_INMUTABLES.md`
 2. `01_CANON/CONTRADICCIONES.md`
 3. `05_CONTINUIDAD/CURRENT_STATE.md`
-4. `05_CONTINUIDAD/CURRENT_STATE_18_DORAVIA_AÑO3.md`
-5. `00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3.md`
+4. `05_CONTINUIDAD/CURRENT_STATE_10_VENTISCA_AÑO3.md`
+5. `00_FUENTES/historia_original/AÑO_3/20_Ventisca_01_a_10_Año_3.md`
 5. `00_FUENTES/historia_original/AÑO_3/15_01_de_Solalto_30 de Solalto_Año_3.md` (transcripción completa 16–30)
 6. Calendarios, fichas de personajes, relaciones, hilos y sistemas pertinentes.
 7. Fuentes de `00_FUENTES/historia_original/`, siempre en solo lectura.

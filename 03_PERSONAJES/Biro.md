@@ -225,4 +225,4 @@ Biro continúa puliendo un final sobrio para *La tragedia del último barril*. L
 - Biro conserva la autoría de *La tragedia del último barril* y actuó como el noble de *Mi fin de semana con el muerto*. El gag de las bofetadas quedó en la ficción de la marioneta y no produjo agresiones reales.
 - El estreno terminó con aplausos y sin daños; la recepción económica y crítica sigue abierta.
 - Su cumpleaños y el barril de diez litros pertenecen a la continuidad social, no a una cuenta de Max sin asiento.
-- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]].

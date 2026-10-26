@@ -2,7 +2,7 @@
 
 ## Fuente y alcance
 
-- Fuente nueva: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].
+- Fuente nueva: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]].
 - Hilo: `01a1614e-7450-7d10-83f8-6785bb0b5e7a`.
 - Archivo íntegro: 43 turnos, 4 interrupciones marcadas, 514.784 bytes.
 - Corte: 18 de Doravia, 23:04, después de los saludos del estreno.

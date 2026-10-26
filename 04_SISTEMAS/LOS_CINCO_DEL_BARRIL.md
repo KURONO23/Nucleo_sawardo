@@ -93,4 +93,4 @@ Tras la consolidación de sus producciones, Max y Goran fueron invitados a la Ac
 - *Mi fin de semana con el muerto* completó cuatro actos y quince escenas. El final aprobado permaneció inamovible y el público recibió la obra con aplausos iniciales.
 - Max, Goran, Biro, Darian y Haruto quedaron visibles en los saludos. La recepción crítica, taquilla, gastos y posibles reposiciones siguen abiertos hasta la conciliación.
 - La bofetada del noble y las pequeñas venganzas del soldado fueron gags de marioneta y actuación; no hubo violencia real ni lesión.
-- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_01_de_Doravia_a_18_de_Doravia_Año_3]].
+- Fuente: [[00_FUENTES/historia_original/AÑO_3/17_Doravia_01_a_31_Año_3]].
